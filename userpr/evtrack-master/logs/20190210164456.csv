@@ -1,0 +1,34 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1549817066729 0 0 load / {} {}
+0 1549817164133 403 2 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817164186 402 18 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817164248 402 24 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817164348 402 29 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817164449 402 30 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817164507 430 13 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817166897 305 2 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817166956 288 5 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817167017 284 6 mousemove /html/body/div[1] {"DIV":{"class":"desktop-allarm"}} {}
+0 1549817205268 1097 155 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817205343 1097 150 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817205415 1097 149 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817205569 1097 147 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817205977 1098 144 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206038 1096 144 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206097 1094 144 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206193 1092 146 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206259 1087 146 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206339 1085 147 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206489 1079 148 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206689 1078 148 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206741 1072 146 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206801 1070 144 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206861 1067 142 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206922 1064 140 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817206982 1053 138 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817207041 994 119 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817207103 864 89 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549817207163 696 45 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}
+0 1549817207221 590 19 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}
+0 1549817207283 528 6 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}
+0 1549817250281 0 0 unload / {} {}

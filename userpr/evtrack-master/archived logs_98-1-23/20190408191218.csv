@@ -1,0 +1,73 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554734526875 0 0 load / {} {}
+0 1554734526937 0 1 scroll / {} {}
+0 1554734527015 917 28 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1554734527074 816 91 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734527174 811 96 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734527224 808 102 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734527290 806 105 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734527407 805 107 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734527457 776 130 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734527507 739 147 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554734527557 717 154 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554734527625 618 177 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554734527690 558 195 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554734527774 546 195 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554734527824 513 205 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734527891 511 205 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734527941 496 217 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734528609 496 221 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734528659 493 220 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734528726 494 220 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734528776 496 222 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734528994 500 222 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734529060 653 244 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734529115 814 267 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734529178 872 286 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734529243 885 300 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734529294 899 316 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -9.85457px; left: 5.47118e-14px;"}} {}
+0 1554734529397 916 327 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -44.5046px; left: 5.47118e-14px;"}} {}
+0 1554734529461 888 327 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -44.5046px; left: 5.47118e-14px;"}} {}
+0 1554734529512 856 314 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -32.9546px; left: 5.47118e-14px;"}} {}
+0 1554734529562 808 253 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734529612 743 141 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734529779 584 11 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1554734529829 561 60 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1554734529896 680 153 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554734529946 818 201 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734529996 829 231 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734530047 839 281 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1554734530112 840 290 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1554734530167 767 311 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734530231 694 325 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554734530298 692 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554734530364 692 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554734530414 694 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554734530464 710 337 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554734530514 722 336 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554734530564 728 337 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734530665 732 339 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734530764 744 340 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734530815 759 338 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734531252 759 338 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734531349 758 338 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734531565 757 336 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734531633 757 335 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734531699 754 335 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734532384 752 336 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734533954 752 337 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734534005 752 338 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734535724 751 338 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734535774 753 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554734535824 790 248 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734535890 803 232 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734535957 804 231 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734536007 808 229 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734536061 907 155 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554734536124 984 101 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734536224 988 98 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734536276 1010 75 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1554734536341 1050 30 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1554734536391 1064 13 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1554734536442 1066 12 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1554734537214 0 0 unload / {} {}

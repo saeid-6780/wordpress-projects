@@ -1,0 +1,60 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548440633125 0 0 load / {} {}
+0 1548440633141 0 0 scroll / {} {}
+0 1548440633932 223 5 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440633994 246 50 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440634047 271 94 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440634100 298 138 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440634154 315 177 mousemove //*[@id='main-banner']/div/h1 {"H1":{}} {}
+0 1548440634208 329 224 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1548440634261 342 248 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548440634314 356 267 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548440634368 366 284 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548440634420 367 288 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548440635503 370 291 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548440635554 416 331 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440635606 466 533 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548440635663 411 749 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548440635715 412 799 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548440635768 422 805 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548440635821 433 756 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548440635876 453 703 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1548440635929 465 663 mousemove //*[@id='myTab'] {"UL":{"id":"myTab","class":"nav nav-tabs left-tab","role":"tablist"}} {}
+0 1548440635982 474 632 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548440636034 475 627 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548440636087 480 610 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548440636140 480 600 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548440636198 480 598 mousemove //*[@id='select-item-header'] {"SPAN":{"id":"select-item-header","class":"active total","style":"display:block;"}} {}
+0 1548440636278 480 592 mousemove //*[@id='select-item-header'] {"SPAN":{"id":"select-item-header","class":"active total","style":"display:block;"}} {}
+0 1548440636553 480 592 click //*[@id='select-item-header'] {"SPAN":{"id":"select-item-header","class":"active total","style":"display:block;"}} {}
+0 1548440637311 480 590 mousemove //*[@id='select-item-header'] {"SPAN":{"id":"select-item-header","class":"active total","style":"display:block;"}} {}
+0 1548440637367 489 526 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548440637421 492 396 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440637473 492 261 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548440637527 491 187 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548440637580 482 157 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548440637633 456 126 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440637687 428 105 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440637741 406 86 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440637793 378 56 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440637846 370 46 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440637899 369 42 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440637953 365 30 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440638007 359 20 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440638059 347 13 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440638114 305 9 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440638167 286 9 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440638287 284 8 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440638352 283 7 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440638406 282 4 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548440639423 729 28 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440640886 729 28 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440640991 729 29 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440641045 720 45 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440641098 719 56 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440641152 719 60 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440641215 719 66 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440641272 719 69 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440641326 719 74 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548440641378 719 79 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548440641426 0 0 unload / {} {}

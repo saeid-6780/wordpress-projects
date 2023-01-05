@@ -1,0 +1,72 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548321042272 538 306 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548321042378 543 305 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548321042385 0 0 load / {} {}
+0 1548321042387 0 0 scroll / {} {}
+0 1548321042438 543 311 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321042454 543 311 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321042470 543 316 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321042470 0 0 scroll / {} {}
+0 1548321042487 0 0 scroll / {} {}
+0 1548321042504 543 348 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321042504 0 0 scroll / {} {}
+0 1548321042520 543 378 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321042520 0 0 scroll / {} {}
+0 1548321042547 0 0 scroll / {} {}
+0 1548321042554 0 0 scroll / {} {}
+0 1548321042571 0 0 scroll / {} {}
+0 1548321042587 0 0 scroll / {} {}
+0 1548321042604 0 0 scroll / {} {}
+0 1548321042622 0 0 scroll / {} {}
+0 1548321042639 0 0 scroll / {} {}
+0 1548321042654 0 0 scroll / {} {}
+0 1548321042723 543 713 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321042724 0 0 scroll / {} {}
+0 1548321042739 0 0 scroll / {} {}
+0 1548321042754 0 0 scroll / {} {}
+0 1548321042771 0 0 scroll / {} {}
+0 1548321042788 543 749 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321042788 0 0 scroll / {} {}
+0 1548321042807 0 0 scroll / {} {}
+0 1548321042823 0 0 scroll / {} {}
+0 1548321042839 0 0 scroll / {} {}
+0 1548321042854 0 0 scroll / {} {}
+0 1548321042871 0 0 scroll / {} {}
+0 1548321042887 0 0 scroll / {} {}
+0 1548321042904 0 0 scroll / {} {}
+0 1548321042921 0 0 scroll / {} {}
+0 1548321042938 0 0 scroll / {} {}
+0 1548321042955 0 0 scroll / {} {}
+0 1548321042972 0 0 scroll / {} {}
+0 1548321043525 543 913 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321043595 557 913 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321043657 585 921 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044048 586 920 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044108 581 922 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044191 577 925 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044242 569 936 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044309 557 955 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044359 546 980 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044409 543 997 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044460 541 1023 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321044561 540 1032 mousemove //*[@id='product-113']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548321044626 538 1079 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321044678 544 1090 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321044895 544 1083 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321044946 545 1062 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321045820 545 1062 click //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321046154 543 1062 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321046205 543 1059 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321046263 549 1051 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548321046315 781 880 mousemove //*[@id='product-109-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548321046365 1028 747 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321046430 1141 695 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321046480 1137 693 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321046530 1080 698 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321046580 1040 704 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321046768 1040 705 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321046875 1036 708 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321046931 1033 710 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548321046981 1028 713 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548321047040 1006 721 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548321047046 0 0 unload / {} {}

@@ -1,0 +1,43 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1549436678864 0 0 load / {} {}
+0 1549436678896 0 0 scroll / {} {}
+0 1549436680872 142 28 mousemove /html/body/div[2]/div[1]/div/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549436680926 143 61 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549436680985 147 92 mousemove /html/body/div[2]/pre[1]/i[1] {"I":{}} {}
+0 1549436681042 153 120 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549436681104 165 183 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549436681164 182 218 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436681223 188 233 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436681284 190 236 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436681508 191 240 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436681564 191 241 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436686684 191 242 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436688916 192 242 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436688986 284 284 mousemove /html/body/div[2]/font/table/tbody/tr[4]/td[4] {"TD":{"bgcolor":"#eeeeec"}} {}
+0 1549436689044 445 365 mousemove /html/body/div[2]/font/table/tbody/tr[9]/td[4] {"TD":{"bgcolor":"#eeeeec"}} {}
+0 1549436689104 614 450 mousemove /html/body/div[2]/pre[2] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549436689165 731 509 mousemove /html/body/div[2]/div[2] {"DIV":{"class":"copy-section"}} {}
+0 1549436689224 775 532 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436689284 783 541 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436689344 784 549 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436689405 782 563 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436689464 768 577 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436689524 731 610 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436689585 722 620 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436689644 719 626 mousemove /html/body/div[2]/div[2] {"DIV":{"class":"copy-section"}} {}
+0 1549436689703 717 630 mousemove /html/body/div[2]/div[2] {"DIV":{"class":"copy-section"}} {}
+0 1549436689772 716 633 mousemove /html/body/div[2]/div[2] {"DIV":{"class":"copy-section"}} {}
+0 1549436720556 592 635 mousemove /html/body/div[2]/div[2] {"DIV":{"class":"copy-section"}} {}
+0 1549436720624 584 613 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436720684 527 517 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1549436720744 470 415 mousemove /html/body/div[2]/pre[2] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549436720805 403 285 mousemove /html/body/div[2]/font/table/tbody/tr[4]/td[4] {"TD":{"bgcolor":"#eeeeec"}} {}
+0 1549436720864 333 207 mousemove /html/body/div[2]/font/table/tbody/tr[1]/th {"TH":{"align":"left","bgcolor":"#f57900","colspan":"5"}} {}
+0 1549436720926 256 150 mousemove /html/body/div[2]/pre[1]/font[6] {"FONT":{"color":"#cc0000"}} {}
+0 1549436720984 184 112 mousemove /html/body/div[2]/pre[1]/font[2] {"FONT":{"color":"#cc0000"}} {}
+0 1549436721045 129 87 mousemove /html/body/div[2]/pre[1]/small[1] {"SMALL":{}} {}
+0 1549436721105 89 69 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549436721165 71 51 mousemove /html/body/div[2]/div[1]/div/div[2]/a[2] {"A":{"href":"http://localhost:8080/mousetrc\\registration","class":"site-guide btn btn-info"}} {}
+0 1549436721245 66 37 mousemove /html/body/div[2]/div[1]/div/div[2]/a[2] {"A":{"href":"http://localhost:8080/mousetrc\\registration","class":"site-guide btn btn-info"}} {}
+0 1549436721308 69 27 mousemove /html/body/div[2]/div[1]/div/div[2]/a[2] {"A":{"href":"http://localhost:8080/mousetrc\\registration","class":"site-guide btn btn-info"}} {}
+0 1549436722821 0 0 unload / {} {}

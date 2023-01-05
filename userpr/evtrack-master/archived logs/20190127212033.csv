@@ -1,0 +1,21 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548611428162 0 0 load / {} {}
+0 1548611428165 0 0 scroll / {} {}
+0 1548611428276 777 305 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548611428657 777 305 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548611428720 747 317 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548611428782 657 355 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611428835 613 381 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611428886 596 390 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611428977 594 391 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548611429036 607 386 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611429086 618 382 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611429137 627 377 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611429368 631 375 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611429830 629 375 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611431077 619 370 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548611431133 499 268 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548611431197 407 121 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548611431556 388 97 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548611431618 215 2 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548611433192 0 0 unload / {} {}

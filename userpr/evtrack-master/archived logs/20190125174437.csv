@@ -1,0 +1,27 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548425656900 0 0 load / {} {}
+0 1548425672072 880 395 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425672099 880 395 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425673129 871 414 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425673148 871 414 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425674281 879 407 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425674300 879 407 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425677223 881 414 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425677238 881 414 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425677925 892 407 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425677941 892 407 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425681397 884 404 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425681416 884 404 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425682175 875 414 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425682188 875 414 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425683084 883 412 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425683089 883 412 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425683490 885 410 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425683496 885 410 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425683862 885 409 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425683877 885 409 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425698263 900 430 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425698281 900 430 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425699184 826 1343 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425699199 826 1343 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548425703827 0 0 unload / {} {}

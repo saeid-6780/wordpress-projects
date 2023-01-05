@@ -1,0 +1,646 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554707295982 748 492 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1554707296048 772 481 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1554707296115 815 445 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707296181 826 434 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707296299 0 0 load / {} {}
+0 1554707296395 0 0 scroll / {} {}
+0 1554707296518 829 434 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707296584 1128 353 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707296648 1221 325 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707296880 1225 324 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707296942 1227 328 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707297001 1307 249 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707297067 1334 224 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707297117 1342 214 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707297167 1348 205 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707297218 1352 194 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707297284 1355 182 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707297343 1355 184 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707297384 0 0 scroll / {} {}
+0 1554707297401 0 0 scroll / {} {}
+0 1554707297418 0 0 scroll / {} {}
+0 1554707297437 0 0 scroll / {} {}
+0 1554707297465 0 0 scroll / {} {}
+0 1554707297476 0 0 scroll / {} {}
+0 1554707297489 0 0 scroll / {} {}
+0 1554707297506 0 0 scroll / {} {}
+0 1554707297521 0 0 scroll / {} {}
+0 1554707297537 0 0 scroll / {} {}
+0 1554707297993 1364 835 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707299008 1365 835 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707299834 1365 836 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707299870 0 0 scroll / {} {}
+0 1554707299893 0 0 scroll / {} {}
+0 1554707299910 0 0 scroll / {} {}
+0 1554707299927 0 0 scroll / {} {}
+0 1554707299946 0 0 scroll / {} {}
+0 1554707299963 0 0 scroll / {} {}
+0 1554707299977 0 0 scroll / {} {}
+0 1554707299995 0 0 scroll / {} {}
+0 1554707300011 0 0 scroll / {} {}
+0 1554707300028 0 0 scroll / {} {}
+0 1554707300046 0 0 scroll / {} {}
+0 1554707300061 0 0 scroll / {} {}
+0 1554707300079 0 0 scroll / {} {}
+0 1554707300097 0 0 scroll / {} {}
+0 1554707300114 0 0 scroll / {} {}
+0 1554707300131 0 0 scroll / {} {}
+0 1554707300149 0 0 scroll / {} {}
+0 1554707300164 0 0 scroll / {} {}
+0 1554707300180 0 0 scroll / {} {}
+0 1554707300197 0 0 scroll / {} {}
+0 1554707300215 0 0 scroll / {} {}
+0 1554707300232 0 0 scroll / {} {}
+0 1554707300249 0 0 scroll / {} {}
+0 1554707300265 0 0 scroll / {} {}
+0 1554707300282 0 0 scroll / {} {}
+0 1554707300299 0 0 scroll / {} {}
+0 1554707300315 0 0 scroll / {} {}
+0 1554707300332 0 0 scroll / {} {}
+0 1554707300349 0 0 scroll / {} {}
+0 1554707300365 0 0 scroll / {} {}
+0 1554707300382 0 0 scroll / {} {}
+0 1554707300398 0 0 scroll / {} {}
+0 1554707300415 0 0 scroll / {} {}
+0 1554707300833 0 0 scroll / {} {}
+0 1554707300870 0 0 scroll / {} {}
+0 1554707300931 0 0 scroll / {} {}
+0 1554707300965 0 0 scroll / {} {}
+0 1554707300998 0 0 scroll / {} {}
+0 1554707301014 0 0 scroll / {} {}
+0 1554707301031 0 0 scroll / {} {}
+0 1554707301048 0 0 scroll / {} {}
+0 1554707301115 0 0 scroll / {} {}
+0 1554707301323 1365 1406 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707305476 1365 1405 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707305650 0 0 scroll / {} {}
+0 1554707305666 0 0 scroll / {} {}
+0 1554707305683 0 0 scroll / {} {}
+0 1554707305699 0 0 scroll / {} {}
+0 1554707305718 0 0 scroll / {} {}
+0 1554707305733 0 0 scroll / {} {}
+0 1554707305751 0 0 scroll / {} {}
+0 1554707305768 0 0 scroll / {} {}
+0 1554707305785 0 0 scroll / {} {}
+0 1554707305801 0 0 scroll / {} {}
+0 1554707305818 0 0 scroll / {} {}
+0 1554707305835 0 0 scroll / {} {}
+0 1554707305854 0 0 scroll / {} {}
+0 1554707305869 0 0 scroll / {} {}
+0 1554707305885 0 0 scroll / {} {}
+0 1554707305902 0 0 scroll / {} {}
+0 1554707305918 0 0 scroll / {} {}
+0 1554707305935 0 0 scroll / {} {}
+0 1554707305952 0 0 scroll / {} {}
+0 1554707305969 0 0 scroll / {} {}
+0 1554707305986 0 0 scroll / {} {}
+0 1554707306002 0 0 scroll / {} {}
+0 1554707306019 0 0 scroll / {} {}
+0 1554707306036 0 0 scroll / {} {}
+0 1554707306052 0 0 scroll / {} {}
+0 1554707306069 0 0 scroll / {} {}
+0 1554707306103 0 0 scroll / {} {}
+0 1554707306138 0 0 scroll / {} {}
+0 1554707306152 0 0 scroll / {} {}
+0 1554707306169 0 0 scroll / {} {}
+0 1554707306186 0 0 scroll / {} {}
+0 1554707306818 0 0 scroll / {} {}
+0 1554707306837 0 0 scroll / {} {}
+0 1554707306852 0 0 scroll / {} {}
+0 1554707306869 0 0 scroll / {} {}
+0 1554707306886 0 0 scroll / {} {}
+0 1554707306904 0 0 scroll / {} {}
+0 1554707306920 0 0 scroll / {} {}
+0 1554707306938 0 0 scroll / {} {}
+0 1554707306955 0 0 scroll / {} {}
+0 1554707306971 0 0 scroll / {} {}
+0 1554707306989 0 0 scroll / {} {}
+0 1554707307006 0 0 scroll / {} {}
+0 1554707307022 0 0 scroll / {} {}
+0 1554707307039 0 0 scroll / {} {}
+0 1554707307056 0 0 scroll / {} {}
+0 1554707307072 0 0 scroll / {} {}
+0 1554707307091 0 0 scroll / {} {}
+0 1554707307107 0 0 scroll / {} {}
+0 1554707307123 0 0 scroll / {} {}
+0 1554707307140 0 0 scroll / {} {}
+0 1554707307156 0 0 scroll / {} {}
+0 1554707307173 0 0 scroll / {} {}
+0 1554707307190 0 0 scroll / {} {}
+0 1554707307207 0 0 scroll / {} {}
+0 1554707307224 0 0 scroll / {} {}
+0 1554707307240 0 0 scroll / {} {}
+0 1554707307272 0 0 scroll / {} {}
+0 1554707307562 0 0 scroll / {} {}
+0 1554707307591 0 0 scroll / {} {}
+0 1554707307605 0 0 scroll / {} {}
+0 1554707307623 0 0 scroll / {} {}
+0 1554707307639 0 0 scroll / {} {}
+0 1554707307657 0 0 scroll / {} {}
+0 1554707307673 0 0 scroll / {} {}
+0 1554707307690 0 0 scroll / {} {}
+0 1554707307707 0 0 scroll / {} {}
+0 1554707307727 0 0 scroll / {} {}
+0 1554707307740 0 0 scroll / {} {}
+0 1554707307757 0 0 scroll / {} {}
+0 1554707307774 0 0 scroll / {} {}
+0 1554707307789 0 0 scroll / {} {}
+0 1554707307806 0 0 scroll / {} {}
+0 1554707307823 0 0 scroll / {} {}
+0 1554707307842 0 0 scroll / {} {}
+0 1554707308191 0 0 scroll / {} {}
+0 1554707308210 0 0 scroll / {} {}
+0 1554707308226 0 0 scroll / {} {}
+0 1554707308242 0 0 scroll / {} {}
+0 1554707308259 0 0 scroll / {} {}
+0 1554707308276 0 0 scroll / {} {}
+0 1554707308292 0 0 scroll / {} {}
+0 1554707308309 0 0 scroll / {} {}
+0 1554707308326 0 0 scroll / {} {}
+0 1554707308359 0 0 scroll / {} {}
+0 1554707308400 0 0 scroll / {} {}
+0 1554707308438 0 0 scroll / {} {}
+0 1554707308461 0 0 scroll / {} {}
+0 1554707308476 0 0 scroll / {} {}
+0 1554707308526 0 0 scroll / {} {}
+0 1554707309106 1326 470 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554707309165 1325 471 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554707309229 1311 493 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554707309280 1230 604 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707309589 1205 638 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707309647 1202 646 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707309697 1194 674 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707309747 1187 706 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707309798 1185 717 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707309852 1183 721 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310128 1183 722 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310182 1182 727 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310233 1182 732 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310290 1186 735 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310350 1199 730 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310401 1211 713 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707310468 1209 615 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310534 1200 580 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707310617 1198 579 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707310703 1197 579 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707310768 1196 587 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707310819 1192 597 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310885 1186 619 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707310953 1185 623 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554707311112 1185 623 click //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1554707311954 1186 623 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1554707312007 1365 516 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707312072 1365 463 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707312179 1365 458 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707312240 1365 456 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707312290 1365 446 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707312340 1365 436 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707312439 0 0 scroll / {} {}
+0 1554707312459 0 0 scroll / {} {}
+0 1554707312474 0 0 scroll / {} {}
+0 1554707312493 0 0 scroll / {} {}
+0 1554707312510 0 0 scroll / {} {}
+0 1554707312544 0 0 scroll / {} {}
+0 1554707312558 0 0 scroll / {} {}
+0 1554707312578 0 0 scroll / {} {}
+0 1554707312610 0 0 scroll / {} {}
+0 1554707312625 0 0 scroll / {} {}
+0 1554707312646 0 0 scroll / {} {}
+0 1554707312662 0 0 scroll / {} {}
+0 1554707312759 0 0 scroll / {} {}
+0 1554707312792 0 0 scroll / {} {}
+0 1554707312809 0 0 scroll / {} {}
+0 1554707312825 0 0 scroll / {} {}
+0 1554707312845 0 0 scroll / {} {}
+0 1554707312859 0 0 scroll / {} {}
+0 1554707312878 0 0 scroll / {} {}
+0 1554707312894 0 0 scroll / {} {}
+0 1554707312926 0 0 scroll / {} {}
+0 1554707313780 0 0 scroll / {} {}
+0 1554707313810 0 0 scroll / {} {}
+0 1554707313829 0 0 scroll / {} {}
+0 1554707313896 0 0 scroll / {} {}
+0 1554707313930 0 0 scroll / {} {}
+0 1554707313967 0 0 scroll / {} {}
+0 1554707314030 0 0 scroll / {} {}
+0 1554707314117 0 0 scroll / {} {}
+0 1554707315094 0 0 scroll / {} {}
+0 1554707315117 0 0 scroll / {} {}
+0 1554707315133 0 0 scroll / {} {}
+0 1554707315151 0 0 scroll / {} {}
+0 1554707315170 0 0 scroll / {} {}
+0 1554707315186 0 0 scroll / {} {}
+0 1554707315203 0 0 scroll / {} {}
+0 1554707315223 0 0 scroll / {} {}
+0 1554707315242 0 0 scroll / {} {}
+0 1554707315259 0 0 scroll / {} {}
+0 1554707315276 0 0 scroll / {} {}
+0 1554707315290 0 0 scroll / {} {}
+0 1554707315319 0 0 scroll / {} {}
+0 1554707315335 0 0 scroll / {} {}
+0 1554707315352 0 0 scroll / {} {}
+0 1554707315370 0 0 scroll / {} {}
+0 1554707315932 0 0 scroll / {} {}
+0 1554707315970 0 0 scroll / {} {}
+0 1554707315987 0 0 scroll / {} {}
+0 1554707316003 0 0 scroll / {} {}
+0 1554707316021 0 0 scroll / {} {}
+0 1554707316037 0 0 scroll / {} {}
+0 1554707316054 0 0 scroll / {} {}
+0 1554707316071 0 0 scroll / {} {}
+0 1554707316095 0 0 scroll / {} {}
+0 1554707316125 0 0 scroll / {} {}
+0 1554707316142 0 0 scroll / {} {}
+0 1554707316159 0 0 scroll / {} {}
+0 1554707316177 0 0 scroll / {} {}
+0 1554707316192 0 0 scroll / {} {}
+0 1554707316210 0 0 scroll / {} {}
+0 1554707316226 0 0 scroll / {} {}
+0 1554707316240 0 0 scroll / {} {}
+0 1554707316256 0 0 scroll / {} {}
+0 1554707316273 0 0 scroll / {} {}
+0 1554707316290 0 0 scroll / {} {}
+0 1554707316307 0 0 scroll / {} {}
+0 1554707316323 0 0 scroll / {} {}
+0 1554707316340 0 0 scroll / {} {}
+0 1554707316358 0 0 scroll / {} {}
+0 1554707316373 0 0 scroll / {} {}
+0 1554707316407 0 0 scroll / {} {}
+0 1554707317046 0 0 scroll / {} {}
+0 1554707317059 0 0 scroll / {} {}
+0 1554707317076 0 0 scroll / {} {}
+0 1554707317098 0 0 scroll / {} {}
+0 1554707317115 0 0 scroll / {} {}
+0 1554707317141 0 0 scroll / {} {}
+0 1554707317159 0 0 scroll / {} {}
+0 1554707317177 0 0 scroll / {} {}
+0 1554707317194 0 0 scroll / {} {}
+0 1554707317212 0 0 scroll / {} {}
+0 1554707317229 0 0 scroll / {} {}
+0 1554707317245 0 0 scroll / {} {}
+0 1554707317260 0 0 scroll / {} {}
+0 1554707317277 0 0 scroll / {} {}
+0 1554707317294 0 0 scroll / {} {}
+0 1554707317310 0 0 scroll / {} {}
+0 1554707317327 0 0 scroll / {} {}
+0 1554707317345 0 0 scroll / {} {}
+0 1554707317363 0 0 scroll / {} {}
+0 1554707317377 0 0 scroll / {} {}
+0 1554707317420 0 0 scroll / {} {}
+0 1554707318787 0 0 scroll / {} {}
+0 1554707318826 0 0 scroll / {} {}
+0 1554707318849 0 0 scroll / {} {}
+0 1554707318864 0 0 scroll / {} {}
+0 1554707318881 0 0 scroll / {} {}
+0 1554707318900 0 0 scroll / {} {}
+0 1554707318915 0 0 scroll / {} {}
+0 1554707318933 0 0 scroll / {} {}
+0 1554707318950 0 0 scroll / {} {}
+0 1554707318969 0 0 scroll / {} {}
+0 1554707318984 0 0 scroll / {} {}
+0 1554707319001 0 0 scroll / {} {}
+0 1554707319017 0 0 scroll / {} {}
+0 1554707319034 0 0 scroll / {} {}
+0 1554707319051 0 0 scroll / {} {}
+0 1554707319067 0 0 scroll / {} {}
+0 1554707319085 0 0 scroll / {} {}
+0 1554707319101 0 0 scroll / {} {}
+0 1554707319137 0 0 scroll / {} {}
+0 1554707320138 0 0 scroll / {} {}
+0 1554707320167 0 0 scroll / {} {}
+0 1554707320236 0 0 scroll / {} {}
+0 1554707320276 0 0 scroll / {} {}
+0 1554707320304 0 0 scroll / {} {}
+0 1554707320337 0 0 scroll / {} {}
+0 1554707320353 0 0 scroll / {} {}
+0 1554707320371 0 0 scroll / {} {}
+0 1554707320403 0 0 scroll / {} {}
+0 1554707320420 0 0 scroll / {} {}
+0 1554707320439 0 0 scroll / {} {}
+0 1554707320455 0 0 scroll / {} {}
+0 1554707320472 0 0 scroll / {} {}
+0 1554707320489 0 0 scroll / {} {}
+0 1554707322575 0 0 scroll / {} {}
+0 1554707322592 0 0 scroll / {} {}
+0 1554707322607 0 0 scroll / {} {}
+0 1554707322628 0 0 scroll / {} {}
+0 1554707322662 0 0 scroll / {} {}
+0 1554707323563 0 0 scroll / {} {}
+0 1554707323596 0 0 scroll / {} {}
+0 1554707323615 0 0 scroll / {} {}
+0 1554707323633 0 0 scroll / {} {}
+0 1554707323650 0 0 scroll / {} {}
+0 1554707323666 0 0 scroll / {} {}
+0 1554707323683 0 0 scroll / {} {}
+0 1554707323700 0 0 scroll / {} {}
+0 1554707323718 0 0 scroll / {} {}
+0 1554707323734 0 0 scroll / {} {}
+0 1554707323751 0 0 scroll / {} {}
+0 1554707323782 0 0 scroll / {} {}
+0 1554707323801 0 0 scroll / {} {}
+0 1554707323862 0 0 scroll / {} {}
+0 1554707324566 0 0 scroll / {} {}
+0 1554707324701 0 0 scroll / {} {}
+0 1554707324737 0 0 scroll / {} {}
+0 1554707324754 0 0 scroll / {} {}
+0 1554707324803 0 0 scroll / {} {}
+0 1554707325851 0 0 scroll / {} {}
+0 1554707326091 0 0 scroll / {} {}
+0 1554707326843 0 0 scroll / {} {}
+0 1554707326962 0 0 scroll / {} {}
+0 1554707327078 0 0 scroll / {} {}
+0 1554707327112 0 0 scroll / {} {}
+0 1554707327129 0 0 scroll / {} {}
+0 1554707327146 0 0 scroll / {} {}
+0 1554707327162 0 0 scroll / {} {}
+0 1554707327179 0 0 scroll / {} {}
+0 1554707327196 0 0 scroll / {} {}
+0 1554707327214 0 0 scroll / {} {}
+0 1554707327229 0 0 scroll / {} {}
+0 1554707327248 0 0 scroll / {} {}
+0 1554707327264 0 0 scroll / {} {}
+0 1554707327281 0 0 scroll / {} {}
+0 1554707327298 0 0 scroll / {} {}
+0 1554707327314 0 0 scroll / {} {}
+0 1554707327332 0 0 scroll / {} {}
+0 1554707327352 0 0 scroll / {} {}
+0 1554707327380 0 0 scroll / {} {}
+0 1554707327725 0 0 scroll / {} {}
+0 1554707327747 0 0 scroll / {} {}
+0 1554707327764 0 0 scroll / {} {}
+0 1554707327781 0 0 scroll / {} {}
+0 1554707327798 0 0 scroll / {} {}
+0 1554707327815 0 0 scroll / {} {}
+0 1554707327832 0 0 scroll / {} {}
+0 1554707327849 0 0 scroll / {} {}
+0 1554707327866 0 0 scroll / {} {}
+0 1554707327899 0 0 scroll / {} {}
+0 1554707327914 0 0 scroll / {} {}
+0 1554707327949 0 0 scroll / {} {}
+0 1554707327987 0 0 scroll / {} {}
+0 1554707328225 0 0 scroll / {} {}
+0 1554707328251 0 0 scroll / {} {}
+0 1554707328287 0 0 scroll / {} {}
+0 1554707328317 0 0 scroll / {} {}
+0 1554707328334 0 0 scroll / {} {}
+0 1554707328351 0 0 scroll / {} {}
+0 1554707328384 0 0 scroll / {} {}
+0 1554707328424 0 0 scroll / {} {}
+0 1554707328474 0 0 scroll / {} {}
+0 1554707328501 0 0 scroll / {} {}
+0 1554707328517 0 0 scroll / {} {}
+0 1554707328534 0 0 scroll / {} {}
+0 1554707328552 0 0 scroll / {} {}
+0 1554707328568 0 0 scroll / {} {}
+0 1554707328586 0 0 scroll / {} {}
+0 1554707328601 0 0 scroll / {} {}
+0 1554707328634 0 0 scroll / {} {}
+0 1554707329338 0 0 scroll / {} {}
+0 1554707329353 0 0 scroll / {} {}
+0 1554707329369 0 0 scroll / {} {}
+0 1554707329387 0 0 scroll / {} {}
+0 1554707329404 0 0 scroll / {} {}
+0 1554707329421 0 0 scroll / {} {}
+0 1554707329438 0 0 scroll / {} {}
+0 1554707329471 0 0 scroll / {} {}
+0 1554707329488 0 0 scroll / {} {}
+0 1554707329504 0 0 scroll / {} {}
+0 1554707329521 0 0 scroll / {} {}
+0 1554707329538 0 0 scroll / {} {}
+0 1554707329554 0 0 scroll / {} {}
+0 1554707329571 0 0 scroll / {} {}
+0 1554707329590 0 0 scroll / {} {}
+0 1554707329624 0 0 scroll / {} {}
+0 1554707329787 0 0 scroll / {} {}
+0 1554707329887 0 0 scroll / {} {}
+0 1554707330965 0 0 scroll / {} {}
+0 1554707330993 0 0 scroll / {} {}
+0 1554707331012 0 0 scroll / {} {}
+0 1554707331026 0 0 scroll / {} {}
+0 1554707331043 0 0 scroll / {} {}
+0 1554707331060 0 0 scroll / {} {}
+0 1554707331077 0 0 scroll / {} {}
+0 1554707331110 0 0 scroll / {} {}
+0 1554707331127 0 0 scroll / {} {}
+0 1554707331160 0 0 scroll / {} {}
+0 1554707331194 0 0 scroll / {} {}
+0 1554707331238 0 0 scroll / {} {}
+0 1554707331278 0 0 scroll / {} {}
+0 1554707331527 0 0 scroll / {} {}
+0 1554707331595 0 0 scroll / {} {}
+0 1554707331629 0 0 scroll / {} {}
+0 1554707331713 0 0 scroll / {} {}
+0 1554707331751 0 0 scroll / {} {}
+0 1554707331789 0 0 scroll / {} {}
+0 1554707331830 0 0 scroll / {} {}
+0 1554707331864 0 0 scroll / {} {}
+0 1554707331880 0 0 scroll / {} {}
+0 1554707331896 0 0 scroll / {} {}
+0 1554707331914 0 0 scroll / {} {}
+0 1554707331930 0 0 scroll / {} {}
+0 1554707331948 0 0 scroll / {} {}
+0 1554707332001 0 0 scroll / {} {}
+0 1554707332064 0 0 scroll / {} {}
+0 1554707332113 0 0 scroll / {} {}
+0 1554707332738 0 0 scroll / {} {}
+0 1554707332767 0 0 scroll / {} {}
+0 1554707332784 0 0 scroll / {} {}
+0 1554707332801 0 0 scroll / {} {}
+0 1554707332817 0 0 scroll / {} {}
+0 1554707332836 0 0 scroll / {} {}
+0 1554707332883 0 0 scroll / {} {}
+0 1554707332917 0 0 scroll / {} {}
+0 1554707332951 0 0 scroll / {} {}
+0 1554707332988 0 0 scroll / {} {}
+0 1554707333020 0 0 scroll / {} {}
+0 1554707333035 0 0 scroll / {} {}
+0 1554707333053 0 0 scroll / {} {}
+0 1554707333070 0 0 scroll / {} {}
+0 1554707333089 0 0 scroll / {} {}
+0 1554707333106 0 0 scroll / {} {}
+0 1554707333125 0 0 scroll / {} {}
+0 1554707333142 0 0 scroll / {} {}
+0 1554707333158 0 0 scroll / {} {}
+0 1554707333176 0 0 scroll / {} {}
+0 1554707333192 0 0 scroll / {} {}
+0 1554707333207 0 0 scroll / {} {}
+0 1554707333222 0 0 scroll / {} {}
+0 1554707333239 0 0 scroll / {} {}
+0 1554707333268 0 0 scroll / {} {}
+0 1554707333286 0 0 scroll / {} {}
+0 1554707333303 0 0 scroll / {} {}
+0 1554707333319 0 0 scroll / {} {}
+0 1554707333336 0 0 scroll / {} {}
+0 1554707333354 0 0 scroll / {} {}
+0 1554707333371 0 0 scroll / {} {}
+0 1554707333386 0 0 scroll / {} {}
+0 1554707333407 0 0 scroll / {} {}
+0 1554707333421 0 0 scroll / {} {}
+0 1554707333440 0 0 scroll / {} {}
+0 1554707333472 0 0 scroll / {} {}
+0 1554707333486 0 0 scroll / {} {}
+0 1554707333503 0 0 scroll / {} {}
+0 1554707333520 0 0 scroll / {} {}
+0 1554707333537 0 0 scroll / {} {}
+0 1554707333552 0 0 scroll / {} {}
+0 1554707333569 0 0 scroll / {} {}
+0 1554707333589 0 0 scroll / {} {}
+0 1554707333604 0 0 scroll / {} {}
+0 1554707333621 0 0 scroll / {} {}
+0 1554707333638 0 0 scroll / {} {}
+0 1554707333655 0 0 scroll / {} {}
+0 1554707334971 0 0 scroll / {} {}
+0 1554707335005 0 0 scroll / {} {}
+0 1554707335026 0 0 scroll / {} {}
+0 1554707335092 0 0 scroll / {} {}
+0 1554707335109 0 0 scroll / {} {}
+0 1554707335229 0 0 scroll / {} {}
+0 1554707335491 0 0 scroll / {} {}
+0 1554707335654 0 0 scroll / {} {}
+0 1554707336041 0 0 scroll / {} {}
+0 1554707336129 0 0 scroll / {} {}
+0 1554707336241 0 0 scroll / {} {}
+0 1554707336279 0 0 scroll / {} {}
+0 1554707336315 0 0 scroll / {} {}
+0 1554707336403 0 0 scroll / {} {}
+0 1554707336430 0 0 scroll / {} {}
+0 1554707336447 0 0 scroll / {} {}
+0 1554707336481 0 0 scroll / {} {}
+0 1554707336497 0 0 scroll / {} {}
+0 1554707336530 0 0 scroll / {} {}
+0 1554707336565 0 0 scroll / {} {}
+0 1554707337278 0 0 scroll / {} {}
+0 1554707337316 0 0 scroll / {} {}
+0 1554707337334 0 0 scroll / {} {}
+0 1554707337378 0 0 scroll / {} {}
+0 1554707337441 0 0 scroll / {} {}
+0 1554707337541 0 0 scroll / {} {}
+0 1554707337568 0 0 scroll / {} {}
+0 1554707337635 0 0 scroll / {} {}
+0 1554707337866 0 0 scroll / {} {}
+0 1554707337915 0 0 scroll / {} {}
+0 1554707338016 0 0 scroll / {} {}
+0 1554707338278 0 0 scroll / {} {}
+0 1554707338490 0 0 scroll / {} {}
+0 1554707338505 0 0 scroll / {} {}
+0 1554707338540 0 0 scroll / {} {}
+0 1554707338607 1291 1608 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554707338608 0 0 scroll / {} {}
+0 1554707338665 1287 1609 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554707338722 1196 1640 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707338773 1115 1673 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707338823 1084 1683 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707339090 1083 1683 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707339141 1049 1683 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707339191 986 1683 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707339241 929 1694 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707339291 920 1697 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707339916 922 1697 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707339977 1053 1672 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707340027 1077 1657 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707340291 1083 1655 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707340345 1365 1640 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707340678 0 0 scroll / {} {}
+0 1554707340696 0 0 scroll / {} {}
+0 1554707340715 0 0 scroll / {} {}
+0 1554707340730 0 0 scroll / {} {}
+0 1554707340748 0 0 scroll / {} {}
+0 1554707340765 0 0 scroll / {} {}
+0 1554707340782 0 0 scroll / {} {}
+0 1554707340799 0 0 scroll / {} {}
+0 1554707340815 0 0 scroll / {} {}
+0 1554707340832 0 0 scroll / {} {}
+0 1554707340850 0 0 scroll / {} {}
+0 1554707340866 0 0 scroll / {} {}
+0 1554707340882 0 0 scroll / {} {}
+0 1554707340899 0 0 scroll / {} {}
+0 1554707340916 0 0 scroll / {} {}
+0 1554707340932 0 0 scroll / {} {}
+0 1554707340949 0 0 scroll / {} {}
+0 1554707340966 0 0 scroll / {} {}
+0 1554707340983 0 0 scroll / {} {}
+0 1554707340999 0 0 scroll / {} {}
+0 1554707341031 0 0 scroll / {} {}
+0 1554707341464 0 0 scroll / {} {}
+0 1554707341485 0 0 scroll / {} {}
+0 1554707341498 0 0 scroll / {} {}
+0 1554707341518 0 0 scroll / {} {}
+0 1554707341534 0 0 scroll / {} {}
+0 1554707341552 0 0 scroll / {} {}
+0 1554707341568 0 0 scroll / {} {}
+0 1554707341586 0 0 scroll / {} {}
+0 1554707341602 0 0 scroll / {} {}
+0 1554707341633 0 0 scroll / {} {}
+0 1554707341652 0 0 scroll / {} {}
+0 1554707341668 0 0 scroll / {} {}
+0 1554707341683 0 0 scroll / {} {}
+0 1554707341703 0 0 scroll / {} {}
+0 1554707341719 0 0 scroll / {} {}
+0 1554707341738 0 0 scroll / {} {}
+0 1554707341754 0 0 scroll / {} {}
+0 1554707341769 0 0 scroll / {} {}
+0 1554707341802 0 0 scroll / {} {}
+0 1554707341939 0 0 scroll / {} {}
+0 1554707341970 0 0 scroll / {} {}
+0 1554707342001 0 0 scroll / {} {}
+0 1554707342438 0 0 scroll / {} {}
+0 1554707342476 0 0 scroll / {} {}
+0 1554707342501 0 0 scroll / {} {}
+0 1554707342519 0 0 scroll / {} {}
+0 1554707342536 0 0 scroll / {} {}
+0 1554707342553 0 0 scroll / {} {}
+0 1554707342570 0 0 scroll / {} {}
+0 1554707342588 0 0 scroll / {} {}
+0 1554707342604 0 0 scroll / {} {}
+0 1554707342622 0 0 scroll / {} {}
+0 1554707342639 0 0 scroll / {} {}
+0 1554707342655 0 0 scroll / {} {}
+0 1554707342672 0 0 scroll / {} {}
+0 1554707342689 0 0 scroll / {} {}
+0 1554707342705 0 0 scroll / {} {}
+0 1554707342723 0 0 scroll / {} {}
+0 1554707342742 0 0 scroll / {} {}
+0 1554707342756 0 0 scroll / {} {}
+0 1554707342772 0 0 scroll / {} {}
+0 1554707342789 0 0 scroll / {} {}
+0 1554707342837 0 0 scroll / {} {}
+0 1554707343515 0 0 scroll / {} {}
+0 1554707343555 0 0 scroll / {} {}
+0 1554707343590 0 0 scroll / {} {}
+0 1554707343624 0 0 scroll / {} {}
+0 1554707343641 0 0 scroll / {} {}
+0 1554707343914 0 0 scroll / {} {}
+0 1554707343941 0 0 scroll / {} {}
+0 1554707343989 0 0 scroll / {} {}
+0 1554707344058 0 0 scroll / {} {}
+0 1554707344092 0 0 scroll / {} {}
+0 1554707344126 0 0 scroll / {} {}
+0 1554707344164 0 0 scroll / {} {}
+0 1554707344192 0 0 scroll / {} {}
+0 1554707344226 0 0 scroll / {} {}
+0 1554707344243 0 0 scroll / {} {}
+0 1554707344378 1361 1635 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707344438 1357 1636 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707344494 1261 1690 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554707344544 1017 1862 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554707344916 851 1906 mousemove //*[@id='product-85-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554707344967 806 1867 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345029 795 1860 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345079 795 1859 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345129 795 1858 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345189 795 1855 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345251 795 1852 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345313 793 1841 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345376 791 1838 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1554707345430 789 1836 mousemove //*[@id='product-97']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554707345489 786 1834 mousemove //*[@id='product-97']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554707345567 784 1832 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707345784 783 1831 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707345834 783 1830 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707345899 781 1829 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707346026 781 1827 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707346083 780 1825 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707346134 778 1819 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707346452 778 1817 click //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554707347161 0 0 unload / {} {}

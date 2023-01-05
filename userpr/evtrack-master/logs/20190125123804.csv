@@ -1,0 +1,7 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548407281550 0 0 scroll / {} {}
+0 1548407281570 0 0 scroll / {} {}
+0 1548407281606 0 0 load / {} {}
+0 1548407282610 164 35 mousemove /html/body/div[2]/div[1]/div/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info"}} {}
+0 1548407282618 164 35 click /html/body/div[2]/div[1]/div/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info"}} {}
+0 1548407283960 0 0 unload / {} {}

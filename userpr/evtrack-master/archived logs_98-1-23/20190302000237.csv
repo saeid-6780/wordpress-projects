@@ -1,0 +1,270 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551472293861 40 1065 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294250 40 1066 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294314 40 1068 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294374 35 1075 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294435 29 1089 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294494 25 1098 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294555 21 1108 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294615 13 1121 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294675 0 1139 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294735 0 1146 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294931 1 1147 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472294996 1 1152 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472295058 1 1156 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472295195 1 1156 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472295198 0 0 scroll / {} {}
+0 1551472295217 0 0 scroll / {} {}
+0 1551472295237 0 0 scroll / {} {}
+0 1551472295257 0 0 scroll / {} {}
+0 1551472295278 0 0 scroll / {} {}
+0 1551472295298 0 0 scroll / {} {}
+0 1551472295318 0 0 scroll / {} {}
+0 1551472295338 0 0 scroll / {} {}
+0 1551472295358 0 0 scroll / {} {}
+0 1551472295378 0 0 scroll / {} {}
+0 1551472295450 1 1254 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472295602 1 1253 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472295740 0 1251 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472296018 1 1250 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472296080 12 1253 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472296140 34 1264 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551472296200 56 1281 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472296261 89 1307 mousemove //*[@id='product-146'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-146","data-product-id":"146"}} {}
+0 1551472296324 113 1351 mousemove //*[@id='product-146-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296384 117 1365 mousemove //*[@id='product-146-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296443 121 1373 mousemove //*[@id='product-146-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296523 122 1373 mousemove //*[@id='product-146-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296583 133 1376 mousemove //*[@id='product-146-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296643 142 1378 mousemove //*[@id='product-146-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296705 158 1382 mousemove //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296803 160 1383 mousewheel //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472296822 0 0 scroll / {} {}
+0 1551472296883 0 0 scroll / {} {}
+0 1551472296904 0 0 scroll / {} {}
+0 1551472296925 0 0 scroll / {} {}
+0 1551472296945 0 0 scroll / {} {}
+0 1551472296965 0 0 scroll / {} {}
+0 1551472297024 160 1471 mousemove //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472297084 160 1469 mousemove //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472297226 160 1468 mousemove //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472297304 160 1465 mousemove //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472297365 160 1464 mousemove //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472297842 160 1463 mousemove //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472298218 160 1463 mousewheel //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472298228 0 0 scroll / {} {}
+0 1551472298249 0 0 scroll / {} {}
+0 1551472298268 0 0 scroll / {} {}
+0 1551472298288 0 0 scroll / {} {}
+0 1551472298308 0 0 scroll / {} {}
+0 1551472298328 0 0 scroll / {} {}
+0 1551472298349 0 0 scroll / {} {}
+0 1551472298371 0 0 scroll / {} {}
+0 1551472298388 0 0 scroll / {} {}
+0 1551472298408 0 0 scroll / {} {}
+0 1551472298549 161 1565 mousewheel //*[@id='product-146-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Silicone-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472298549 0 0 scroll / {} {}
+0 1551472298569 0 0 scroll / {} {}
+0 1551472298589 0 0 scroll / {} {}
+0 1551472298609 0 0 scroll / {} {}
+0 1551472298629 0 0 scroll / {} {}
+0 1551472298649 0 0 scroll / {} {}
+0 1551472298673 0 0 scroll / {} {}
+0 1551472298691 0 0 scroll / {} {}
+0 1551472298711 0 0 scroll / {} {}
+0 1551472298733 0 0 scroll / {} {}
+0 1551472298812 214 1735 mousemove //*[@id='home4']/div[2]/div[4] {"DIV":{"class":"clearfix"}} {}
+0 1551472298872 218 1753 mousemove //*[@id='home4'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home4","aria-labelledby":"home-tab"}} {}
+0 1551472298932 225 1778 mousemove //*[@id='home4'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home4","aria-labelledby":"home-tab"}} {}
+0 1551472298992 236 1808 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472299092 239 1813 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472299493 240 1814 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472299654 244 1815 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472299714 275 1829 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472299776 365 1854 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472299855 435 1870 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472299935 440 1870 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472300297 447 1870 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472300357 451 1870 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472300476 458 1870 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472300537 464 1873 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472301266 471 1874 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472301319 473 1876 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472301379 496 1887 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472301439 561 1905 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472301501 656 1918 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472302003 680 1922 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472302103 682 1922 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472302163 683 1921 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472302709 0 0 load / {} {}
+0 1551472302712 0 0 scroll / {} {}
+0 1551472302945 681 457 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1551472303285 678 458 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1551472303345 673 456 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1551472303405 669 455 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303485 667 452 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303544 666 447 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303605 664 443 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303682 661 440 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303778 661 440 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303784 0 0 scroll / {} {}
+0 1551472303804 0 0 scroll / {} {}
+0 1551472303825 660 461 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303826 0 0 scroll / {} {}
+0 1551472303869 660 514 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303869 0 0 scroll / {} {}
+0 1551472303888 660 554 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551472303888 0 0 scroll / {} {}
+0 1551472303908 0 0 scroll / {} {}
+0 1551472303928 0 0 scroll / {} {}
+0 1551472303948 0 0 scroll / {} {}
+0 1551472303970 0 0 scroll / {} {}
+0 1551472303990 0 0 scroll / {} {}
+0 1551472304010 0 0 scroll / {} {}
+0 1551472304031 0 0 scroll / {} {}
+0 1551472304091 664 818 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304170 664 814 mousewheel //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304191 664 832 mousewheel //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304191 0 0 scroll / {} {}
+0 1551472304211 664 847 mousewheel //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304211 0 0 scroll / {} {}
+0 1551472304229 664 878 mousewheel //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304231 0 0 scroll / {} {}
+0 1551472304249 0 0 scroll / {} {}
+0 1551472304269 0 0 scroll / {} {}
+0 1551472304289 0 0 scroll / {} {}
+0 1551472304315 0 0 scroll / {} {}
+0 1551472304331 0 0 scroll / {} {}
+0 1551472304352 0 0 scroll / {} {}
+0 1551472304411 679 1297 mousemove //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304492 682 1291 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304512 682 1304 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304512 0 0 scroll / {} {}
+0 1551472304532 681 1319 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304532 0 0 scroll / {} {}
+0 1551472304551 681 1353 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304551 0 0 scroll / {} {}
+0 1551472304571 0 0 scroll / {} {}
+0 1551472304591 0 0 scroll / {} {}
+0 1551472304611 0 0 scroll / {} {}
+0 1551472304633 0 0 scroll / {} {}
+0 1551472304652 0 0 scroll / {} {}
+0 1551472304713 679 1788 mousemove //*[@id='home4'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home4","aria-labelledby":"home-tab"}} {}
+0 1551472304772 679 1782 mousemove //*[@id='home4'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home4","aria-labelledby":"home-tab"}} {}
+0 1551472304853 678 1787 mousemove //*[@id='home4'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home4","aria-labelledby":"home-tab"}} {}
+0 1551472304853 679 1784 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304853 0 0 scroll / {} {}
+0 1551472304874 677 1797 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304874 0 0 scroll / {} {}
+0 1551472304892 677 1815 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304892 0 0 scroll / {} {}
+0 1551472304912 677 1847 mousewheel //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551472304912 0 0 scroll / {} {}
+0 1551472304932 0 0 scroll / {} {}
+0 1551472304952 0 0 scroll / {} {}
+0 1551472304972 0 0 scroll / {} {}
+0 1551472305013 0 0 scroll / {} {}
+0 1551472305034 0 0 scroll / {} {}
+0 1551472305094 674 2166 mousemove //*[@id='product-126-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1551472305153 673 2139 mousemove //*[@id='product-126-grid-info']/h6 {"H6":{}} {}
+0 1551472305213 683 2121 mousemove //*[@id='product-126-grid-info']/h6 {"H6":{}} {}
+0 1551472305273 690 2089 mousemove //*[@id='product-126-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/baseus-thin-case-cover-for-samsung-galaxy-note-8/"}} {}
+0 1551472305334 667 2029 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472305393 663 2017 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472305454 661 2010 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472308650 661 2007 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472308715 735 2024 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472308775 819 2032 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472308836 877 2023 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472308887 925 2012 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472308948 970 2002 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309008 980 2000 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309068 981 1999 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309128 986 1998 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309190 1008 1997 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309249 1045 1996 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309470 1050 1995 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309528 1040 1995 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309618 1038 1995 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309709 1038 1991 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309769 1034 1987 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309829 1016 1976 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309889 996 1960 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472309949 959 1934 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472310009 925 1901 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472310069 874 1859 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551472310128 833 1826 mousemove //*[@id='product-126'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-126","data-product-id":"126"}} {}
+0 1551472310178 799 1803 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472311563 550 1805 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472311618 597 1934 mousemove //*[@id='product-126'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-126","data-product-id":"126"}} {}
+0 1551472311678 682 2021 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551472311999 694 2031 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472312339 693 2026 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472312398 673 1993 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551472312459 602 1921 mousemove //*[@id='product-126'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-126","data-product-id":"126"}} {}
+0 1551472312520 502 1844 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474290561 415 1810 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474290625 568 1871 mousemove //*[@id='product-130-grid-img']/a {"A":{"href":"http://userpr.ir/product/baseus-wing-case-cover-for-samsung-galaxy-note-8/","class":"new-gri"}} {}
+0 1551474290684 715 1944 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474290744 773 1975 mousemove //*[@id='product-126-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474290806 815 1995 mousemove //*[@id='product-126-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551474290865 833 2006 mousemove //*[@id='product-126'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-126","data-product-id":"126"}} {}
+0 1551474290926 850 2017 mousemove //*[@id='parentVerticalTab']/form/div/div[3] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-2","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551474291026 854 2021 mousemove //*[@id='parentVerticalTab']/form/div/div[3] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-2","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551474291096 855 2023 mousemove //*[@id='parentVerticalTab']/form/div/div[3] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-2","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551474291166 859 2026 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551474291225 869 2029 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291285 873 2029 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291360 874 2029 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291405 878 2029 mousewheel //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291426 0 0 scroll / {} {}
+0 1551474291445 879 2020 mousewheel //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291446 0 0 scroll / {} {}
+0 1551474291465 0 0 scroll / {} {}
+0 1551474291506 0 0 scroll / {} {}
+0 1551474291527 880 1919 mousewheel //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291527 0 0 scroll / {} {}
+0 1551474291546 0 0 scroll / {} {}
+0 1551474291566 880 1846 mousewheel //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291567 0 0 scroll / {} {}
+0 1551474291586 0 0 scroll / {} {}
+0 1551474291607 0 0 scroll / {} {}
+0 1551474291626 0 0 scroll / {} {}
+0 1551474291647 0 0 scroll / {} {}
+0 1551474291667 0 0 scroll / {} {}
+0 1551474291687 0 0 scroll / {} {}
+0 1551474291707 0 0 scroll / {} {}
+0 1551474291727 0 0 scroll / {} {}
+0 1551474291808 877 1623 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291868 869 1623 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474291948 865 1623 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474292040 863 1623 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474292496 862 1623 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474292648 862 1621 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474292720 874 1620 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474292788 868 1615 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551474292847 843 1599 mousemove //*[@id='product-138'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-138","data-product-id":"138"}} {}
+0 1551474292848 846 1601 mousewheel //*[@id='parentVerticalTab']/form/div/div[3] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-2","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551474292867 0 0 scroll / {} {}
+0 1551474292887 0 0 scroll / {} {}
+0 1551474292912 0 0 scroll / {} {}
+0 1551474292932 0 0 scroll / {} {}
+0 1551474292952 0 0 scroll / {} {}
+0 1551474292972 0 0 scroll / {} {}
+0 1551474292992 0 0 scroll / {} {}
+0 1551474293013 0 0 scroll / {} {}
+0 1551474293033 0 0 scroll / {} {}
+0 1551474293093 755 1487 mousemove //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551474293153 652 1487 mousemove //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1551474293214 578 1474 mousemove //*[@id='product-142'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-142","data-product-id":"142"}} {}
+0 1551474293274 544 1466 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474293354 540 1466 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474293434 531 1465 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474293494 523 1463 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1551474293554 510 1460 mousemove //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551474294605 510 1460 click //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551474294696 509 1459 mousemove //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551474295048 511 1459 mousemove //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551474295152 512 1459 mousemove //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551474295232 513 1459 mousemove //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1551474302129 0 0 unload / {} {}

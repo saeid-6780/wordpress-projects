@@ -1,0 +1,10 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548429439591 0 0 load / {} {}
+0 1548429453017 891 415 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548429453039 891 415 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548429453733 880 424 mousemove /html/body/div[3]/div[2]/div[1]/svg {"svg":{"width":"150","height":"150","viewBox":"0 0 150 150","xmlns":"http://www.w3.org/2000/svg","preserveAspectRatio":"none","class":"hustle-icon hustle-i_close"}} {}
+0 1548429454333 864 456 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548429454345 864 456 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548429465285 372 883 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548429465297 372 883 click //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548429466272 0 0 unload / {} {}

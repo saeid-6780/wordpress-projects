@@ -1,0 +1,7 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551383956084 0 0 load / {} {}
+0 1551383956091 0 0 scroll / {} {}
+0 1551383956093 0 0 scroll / {} {}
+0 1551383956151 28 16 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1551383956201 23 3 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1551383956845 0 0 unload / {} {}

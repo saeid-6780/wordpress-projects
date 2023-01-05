@@ -1,0 +1,555 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551472070873 0 0 load / {} {}
+0 1551472070920 0 0 scroll / {} {}
+0 1551472073146 325 1 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472073791 324 1 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074253 323 2 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074349 322 3 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074399 322 4 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074459 321 8 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074519 322 20 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074579 324 31 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074645 326 38 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074699 328 43 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074759 330 45 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074819 330 50 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074879 331 53 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074939 335 60 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472074999 347 85 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472075041 354 97 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472075080 0 0 scroll / {} {}
+0 1551472075100 0 0 scroll / {} {}
+0 1551472075127 0 0 scroll / {} {}
+0 1551472075146 0 0 scroll / {} {}
+0 1551472075166 0 0 scroll / {} {}
+0 1551472075187 0 0 scroll / {} {}
+0 1551472075207 0 0 scroll / {} {}
+0 1551472075226 0 0 scroll / {} {}
+0 1551472075247 0 0 scroll / {} {}
+0 1551472075307 367 217 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472075367 367 217 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472075407 0 0 scroll / {} {}
+0 1551472075426 0 0 scroll / {} {}
+0 1551472075446 0 0 scroll / {} {}
+0 1551472075469 0 0 scroll / {} {}
+0 1551472075489 0 0 scroll / {} {}
+0 1551472075493 367 282 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472075508 0 0 scroll / {} {}
+0 1551472075529 0 0 scroll / {} {}
+0 1551472075548 0 0 scroll / {} {}
+0 1551472075569 0 0 scroll / {} {}
+0 1551472075588 0 0 scroll / {} {}
+0 1551472075628 0 0 scroll / {} {}
+0 1551472075648 0 0 scroll / {} {}
+0 1551472075661 367 406 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472075668 0 0 scroll / {} {}
+0 1551472075688 0 0 scroll / {} {}
+0 1551472075729 0 0 scroll / {} {}
+0 1551472075749 0 0 scroll / {} {}
+0 1551472075769 0 0 scroll / {} {}
+0 1551472075790 0 0 scroll / {} {}
+0 1551472075809 0 0 scroll / {} {}
+0 1551472075829 0 0 scroll / {} {}
+0 1551472075849 0 0 scroll / {} {}
+0 1551472075869 0 0 scroll / {} {}
+0 1551472076173 367 519 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472076229 367 516 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472076293 368 512 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472078078 369 510 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472078340 368 508 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472078540 367 506 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472078801 366 505 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472079000 366 504 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472079161 364 503 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472079281 363 503 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472079693 362 503 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472079762 362 504 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472080425 362 505 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472083629 361 506 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472084005 360 506 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085224 359 506 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085305 359 500 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085365 360 500 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085425 359 500 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085585 357 499 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085666 357 498 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085746 355 498 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085785 0 0 scroll / {} {}
+0 1551472085804 0 0 scroll / {} {}
+0 1551472085821 355 485 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472085827 0 0 scroll / {} {}
+0 1551472085846 0 0 scroll / {} {}
+0 1551472085865 0 0 scroll / {} {}
+0 1551472085885 0 0 scroll / {} {}
+0 1551472085905 0 0 scroll / {} {}
+0 1551472085925 0 0 scroll / {} {}
+0 1551472085946 0 0 scroll / {} {}
+0 1551472085965 0 0 scroll / {} {}
+0 1551472085985 0 0 scroll / {} {}
+0 1551472086005 0 0 scroll / {} {}
+0 1551472086025 0 0 scroll / {} {}
+0 1551472086077 353 296 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472086173 354 295 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472086453 354 295 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472086487 0 0 scroll / {} {}
+0 1551472086506 0 0 scroll / {} {}
+0 1551472086527 0 0 scroll / {} {}
+0 1551472086548 0 0 scroll / {} {}
+0 1551472086568 0 0 scroll / {} {}
+0 1551472086587 0 0 scroll / {} {}
+0 1551472086607 0 0 scroll / {} {}
+0 1551472086627 0 0 scroll / {} {}
+0 1551472086648 0 0 scroll / {} {}
+0 1551472086667 0 0 scroll / {} {}
+0 1551472086670 351 194 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472086708 0 0 scroll / {} {}
+0 1551472086728 0 0 scroll / {} {}
+0 1551472086748 0 0 scroll / {} {}
+0 1551472086768 0 0 scroll / {} {}
+0 1551472086788 0 0 scroll / {} {}
+0 1551472086808 0 0 scroll / {} {}
+0 1551472086829 0 0 scroll / {} {}
+0 1551472086848 0 0 scroll / {} {}
+0 1551472086868 0 0 scroll / {} {}
+0 1551472087357 351 92 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472087413 353 91 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472087470 359 92 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472087631 358 93 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472087651 358 93 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472087757 356 93 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472087763 356 93 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472087772 0 0 scroll / {} {}
+0 1551472087852 355 92 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088295 355 93 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088374 355 97 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088435 355 101 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088454 355 105 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088474 0 0 scroll / {} {}
+0 1551472088477 355 111 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088494 0 0 scroll / {} {}
+0 1551472088515 0 0 scroll / {} {}
+0 1551472088533 355 151 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088539 0 0 scroll / {} {}
+0 1551472088554 0 0 scroll / {} {}
+0 1551472088574 0 0 scroll / {} {}
+0 1551472088616 0 0 scroll / {} {}
+0 1551472088636 0 0 scroll / {} {}
+0 1551472088657 0 0 scroll / {} {}
+0 1551472088676 0 0 scroll / {} {}
+0 1551472088696 0 0 scroll / {} {}
+0 1551472088773 357 493 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472088893 357 492 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089237 355 492 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089297 351 492 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089317 351 492 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089323 350 493 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089336 0 0 scroll / {} {}
+0 1551472089356 0 0 scroll / {} {}
+0 1551472089377 0 0 scroll / {} {}
+0 1551472089418 0 0 scroll / {} {}
+0 1551472089438 0 0 scroll / {} {}
+0 1551472089458 0 0 scroll / {} {}
+0 1551472089478 0 0 scroll / {} {}
+0 1551472089498 0 0 scroll / {} {}
+0 1551472089637 349 194 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089701 343 196 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089749 343 196 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089780 0 0 scroll / {} {}
+0 1551472089797 342 193 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472089803 0 0 scroll / {} {}
+0 1551472089819 0 0 scroll / {} {}
+0 1551472089840 0 0 scroll / {} {}
+0 1551472089860 0 0 scroll / {} {}
+0 1551472089880 0 0 scroll / {} {}
+0 1551472089900 0 0 scroll / {} {}
+0 1551472089920 0 0 scroll / {} {}
+0 1551472089941 0 0 scroll / {} {}
+0 1551472089960 0 0 scroll / {} {}
+0 1551472090189 341 95 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090241 342 95 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090301 341 95 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090361 331 99 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090381 331 99 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090406 329 99 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090445 329 99 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090557 328 99 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090642 328 93 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090702 331 90 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090789 331 90 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090805 331 90 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090821 331 90 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472090845 331 90 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091341 330 91 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091405 346 103 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091465 466 162 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091525 682 265 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091586 875 360 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091646 1023 446 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091706 1106 510 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091766 1154 549 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091826 1157 558 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091888 1151 579 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472091947 1137 605 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472096021 1084 606 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472096082 981 512 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096142 815 391 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096202 751 361 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096263 727 354 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096323 710 352 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096364 700 352 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096381 696 352 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096403 0 0 scroll / {} {}
+0 1551472096423 0 0 scroll / {} {}
+0 1551472096437 691 372 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096444 0 0 scroll / {} {}
+0 1551472096463 0 0 scroll / {} {}
+0 1551472096483 0 0 scroll / {} {}
+0 1551472096504 0 0 scroll / {} {}
+0 1551472096523 0 0 scroll / {} {}
+0 1551472096544 0 0 scroll / {} {}
+0 1551472096564 0 0 scroll / {} {}
+0 1551472096583 0 0 scroll / {} {}
+0 1551472096604 0 0 scroll / {} {}
+0 1551472096665 630 602 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096724 628 599 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472096824 621 597 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472097061 620 596 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472097493 620 594 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472097573 620 591 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472097669 620 587 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472097748 620 582 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472097808 620 579 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098061 622 576 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098389 622 575 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098551 618 576 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098611 616 576 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098671 610 568 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098731 606 561 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098792 602 545 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098851 601 535 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472098930 601 530 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099274 600 528 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099294 600 528 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099334 0 0 scroll / {} {}
+0 1551472099356 0 0 scroll / {} {}
+0 1551472099382 595 541 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099394 0 0 scroll / {} {}
+0 1551472099415 592 571 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099420 0 0 scroll / {} {}
+0 1551472099436 0 0 scroll / {} {}
+0 1551472099455 589 639 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099461 0 0 scroll / {} {}
+0 1551472099474 0 0 scroll / {} {}
+0 1551472099480 587 674 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099494 0 0 scroll / {} {}
+0 1551472099515 0 0 scroll / {} {}
+0 1551472099534 0 0 scroll / {} {}
+0 1551472099555 0 0 scroll / {} {}
+0 1551472099575 0 0 scroll / {} {}
+0 1551472099595 0 0 scroll / {} {}
+0 1551472099615 0 0 scroll / {} {}
+0 1551472099635 0 0 scroll / {} {}
+0 1551472099656 0 0 scroll / {} {}
+0 1551472099886 589 1015 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099896 589 1015 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099933 584 1016 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099939 0 0 scroll / {} {}
+0 1551472099956 0 0 scroll / {} {}
+0 1551472099965 582 1031 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099976 0 0 scroll / {} {}
+0 1551472099989 580 1049 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472099995 0 0 scroll / {} {}
+0 1551472100016 0 0 scroll / {} {}
+0 1551472100036 0 0 scroll / {} {}
+0 1551472100077 0 0 scroll / {} {}
+0 1551472100097 0 0 scroll / {} {}
+0 1551472100117 0 0 scroll / {} {}
+0 1551472100137 0 0 scroll / {} {}
+0 1551472100573 585 1401 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472100598 585 1401 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472100640 585 1400 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472100647 0 0 scroll / {} {}
+0 1551472100658 0 0 scroll / {} {}
+0 1551472100678 0 0 scroll / {} {}
+0 1551472100698 0 0 scroll / {} {}
+0 1551472100718 0 0 scroll / {} {}
+0 1551472100742 585 1484 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472100759 0 0 scroll / {} {}
+0 1551472100779 0 0 scroll / {} {}
+0 1551472100799 0 0 scroll / {} {}
+0 1551472100819 0 0 scroll / {} {}
+0 1551472100839 0 0 scroll / {} {}
+0 1551472100859 0 0 scroll / {} {}
+0 1551472100879 0 0 scroll / {} {}
+0 1551472100899 0 0 scroll / {} {}
+0 1551472100919 0 0 scroll / {} {}
+0 1551472100939 0 0 scroll / {} {}
+0 1551472100999 583 1691 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472101120 583 1690 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102163 584 1689 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102284 584 1688 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102349 584 1687 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102525 584 1685 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102549 584 1685 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102565 584 1680 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102571 0 0 scroll / {} {}
+0 1551472102585 0 0 scroll / {} {}
+0 1551472102605 584 1668 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102611 0 0 scroll / {} {}
+0 1551472102625 0 0 scroll / {} {}
+0 1551472102645 0 0 scroll / {} {}
+0 1551472102665 0 0 scroll / {} {}
+0 1551472102706 0 0 scroll / {} {}
+0 1551472102726 0 0 scroll / {} {}
+0 1551472102746 0 0 scroll / {} {}
+0 1551472102767 0 0 scroll / {} {}
+0 1551472102821 582 1276 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102886 577 1276 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472102997 575 1276 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103027 0 0 scroll / {} {}
+0 1551472103029 575 1273 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103047 0 0 scroll / {} {}
+0 1551472103053 575 1267 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103067 0 0 scroll / {} {}
+0 1551472103077 575 1254 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103087 0 0 scroll / {} {}
+0 1551472103107 0 0 scroll / {} {}
+0 1551472103127 0 0 scroll / {} {}
+0 1551472103147 0 0 scroll / {} {}
+0 1551472103149 575 1056 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103167 0 0 scroll / {} {}
+0 1551472103187 0 0 scroll / {} {}
+0 1551472103208 0 0 scroll / {} {}
+0 1551472103229 0 0 scroll / {} {}
+0 1551472103247 0 0 scroll / {} {}
+0 1551472103267 0 0 scroll / {} {}
+0 1551472103288 0 0 scroll / {} {}
+0 1551472103381 576 766 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103397 576 766 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103408 0 0 scroll / {} {}
+0 1551472103413 576 764 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103428 0 0 scroll / {} {}
+0 1551472103437 576 756 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103448 0 0 scroll / {} {}
+0 1551472103468 0 0 scroll / {} {}
+0 1551472103488 0 0 scroll / {} {}
+0 1551472103494 576 630 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103509 0 0 scroll / {} {}
+0 1551472103528 0 0 scroll / {} {}
+0 1551472103549 0 0 scroll / {} {}
+0 1551472103569 0 0 scroll / {} {}
+0 1551472103589 0 0 scroll / {} {}
+0 1551472103608 0 0 scroll / {} {}
+0 1551472103629 0 0 scroll / {} {}
+0 1551472103648 0 0 scroll / {} {}
+0 1551472103709 567 262 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103729 566 262 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103749 564 263 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103765 564 263 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103771 0 0 scroll / {} {}
+0 1551472103790 563 259 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103809 0 0 scroll / {} {}
+0 1551472103821 562 238 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472103850 0 0 scroll / {} {}
+0 1551472103869 0 0 scroll / {} {}
+0 1551472103890 0 0 scroll / {} {}
+0 1551472103910 0 0 scroll / {} {}
+0 1551472103930 0 0 scroll / {} {}
+0 1551472103991 556 155 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104051 554 155 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104131 554 155 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104141 553 154 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104165 553 154 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104205 553 154 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104309 553 152 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104371 555 148 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104421 556 146 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104492 556 145 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104565 554 142 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104632 550 139 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104692 546 137 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104752 539 133 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104853 536 131 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104913 531 128 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472104974 528 126 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472105037 525 125 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472105134 521 122 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472105285 518 122 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472105355 516 120 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472105509 514 120 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472105998 513 119 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472106199 511 118 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472106260 509 117 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472106720 508 116 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472106801 505 114 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472106860 503 113 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472107005 501 113 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472107533 500 113 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472108829 499 111 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472109469 497 110 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472111537 496 110 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472111597 460 53 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472111659 443 31 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112005 441 28 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112059 439 24 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112120 438 19 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112179 437 16 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112239 437 15 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112300 437 13 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112380 437 10 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112440 437 8 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112693 437 10 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112761 443 28 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112822 466 69 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112883 505 108 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472112962 592 160 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113024 637 179 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113084 672 197 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113145 688 209 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113204 694 213 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113305 697 217 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113365 698 227 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113423 0 0 scroll / {} {}
+0 1551472113444 0 0 scroll / {} {}
+0 1551472113464 0 0 scroll / {} {}
+0 1551472113486 0 0 scroll / {} {}
+0 1551472113501 698 288 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113508 0 0 scroll / {} {}
+0 1551472113526 0 0 scroll / {} {}
+0 1551472113545 0 0 scroll / {} {}
+0 1551472113565 0 0 scroll / {} {}
+0 1551472113573 696 352 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472113585 0 0 scroll / {} {}
+0 1551472113606 0 0 scroll / {} {}
+0 1551472113626 0 0 scroll / {} {}
+0 1551472113646 0 0 scroll / {} {}
+0 1551472113667 0 0 scroll / {} {}
+0 1551472113686 0 0 scroll / {} {}
+0 1551472113706 0 0 scroll / {} {}
+0 1551472113726 0 0 scroll / {} {}
+0 1551472113746 0 0 scroll / {} {}
+0 1551472113768 0 0 scroll / {} {}
+0 1551472113786 0 0 scroll / {} {}
+0 1551472113940 1279 366 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472114006 1279 383 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472114066 1279 397 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472114126 1279 403 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472114186 1279 414 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472114367 0 0 scroll / {} {}
+0 1551472114387 0 0 scroll / {} {}
+0 1551472114407 0 0 scroll / {} {}
+0 1551472114427 0 0 scroll / {} {}
+0 1551472114447 0 0 scroll / {} {}
+0 1551472114688 0 0 scroll / {} {}
+0 1551472114709 0 0 scroll / {} {}
+0 1551472114729 0 0 scroll / {} {}
+0 1551472114749 0 0 scroll / {} {}
+0 1551472114769 0 0 scroll / {} {}
+0 1551472114789 0 0 scroll / {} {}
+0 1551472114809 0 0 scroll / {} {}
+0 1551472114829 0 0 scroll / {} {}
+0 1551472114989 0 0 scroll / {} {}
+0 1551472115009 0 0 scroll / {} {}
+0 1551472115029 0 0 scroll / {} {}
+0 1551472115049 0 0 scroll / {} {}
+0 1551472115070 0 0 scroll / {} {}
+0 1551472115090 0 0 scroll / {} {}
+0 1551472115110 0 0 scroll / {} {}
+0 1551472115270 1279 11 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472115350 1269 17 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551472115411 1172 66 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115472 906 82 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115532 584 82 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115591 458 82 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115651 438 83 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115712 390 75 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115773 348 58 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115832 326 49 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115892 305 44 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472115953 273 44 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116014 241 42 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116074 204 34 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116134 168 22 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116221 162 20 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116274 160 20 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116334 146 20 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116394 126 32 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116455 101 82 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116515 111 147 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116574 179 223 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116635 237 259 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116696 268 273 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116756 259 282 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116816 142 287 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116876 99 278 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116937 229 277 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472116998 370 355 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117057 279 421 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117117 109 386 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117177 263 274 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117237 635 283 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117298 727 327 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117358 724 334 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117418 711 341 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117479 707 341 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117539 696 344 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117599 677 346 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117701 676 346 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117759 668 348 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117840 662 348 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117899 656 349 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472117960 647 349 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118021 640 349 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118080 636 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118140 631 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118201 625 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118261 621 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118361 614 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118421 612 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118481 603 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118542 598 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118622 591 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118685 586 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118743 580 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118813 575 350 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118883 571 348 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472118985 565 348 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119044 564 347 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119104 560 346 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119164 557 346 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119386 554 345 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119453 551 345 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119507 550 344 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119701 547 344 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119765 545 344 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472119869 543 343 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472120769 543 342 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472120830 541 306 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472120892 531 277 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472120950 512 236 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121010 491 200 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121071 475 174 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121131 452 121 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121191 424 83 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121300 420 81 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121356 415 81 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121412 411 84 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121596 409 88 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121653 417 91 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121713 425 95 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121804 426 96 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472121924 426 98 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472123316 427 99 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472123379 471 121 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472123439 500 133 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472123844 500 133 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472123901 491 127 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472123961 481 121 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472124021 477 118 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472124082 462 106 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472124141 447 89 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472124202 432 69 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472124262 407 38 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472124322 388 16 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472124383 371 3 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472097","width":"2008","height":"2775","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472125502 0 0 unload / {} {}

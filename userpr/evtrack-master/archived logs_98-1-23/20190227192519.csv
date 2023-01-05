@@ -1,0 +1,123 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551282905973 0 0 load / {} {}
+0 1551282906064 0 1 scroll / {} {}
+0 1551282906732 1571 426 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551282906783 1599 421 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282906865 1599 404 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282906948 1538 416 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551282907032 1498 473 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551282907082 1496 447 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551282907147 1510 318 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551282907449 1521 293 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551282907501 1581 156 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551282907983 1599 5 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282908067 1598 14 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282908117 1596 20 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282908200 1595 25 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282908283 1595 30 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282908350 0 46 scroll / {} {}
+0 1551282908402 0 109 scroll / {} {}
+0 1551282908416 0 117 scroll / {} {}
+0 1551282908469 0 159 scroll / {} {}
+0 1551282908484 0 163 scroll / {} {}
+0 1551282908534 0 197 scroll / {} {}
+0 1551282908550 0 201 scroll / {} {}
+0 1551282908601 0 260 scroll / {} {}
+0 1551282908618 0 268 scroll / {} {}
+0 1551282908667 0 314 scroll / {} {}
+0 1551282908685 0 319 scroll / {} {}
+0 1551282908735 0 327 scroll / {} {}
+0 1551282908801 0 331 scroll / {} {}
+0 1551282909820 0 344 scroll / {} {}
+0 1551282909870 0 360 scroll / {} {}
+0 1551282909885 0 365 scroll / {} {}
+0 1551282909936 0 373 scroll / {} {}
+0 1551282909953 0 377 scroll / {} {}
+0 1551282910004 0 381 scroll / {} {}
+0 1551282910020 0 390 scroll / {} {}
+0 1551282910069 0 398 scroll / {} {}
+0 1551282910101 0 402 scroll / {} {}
+0 1551282910137 0 415 scroll / {} {}
+0 1551282910203 0 423 scroll / {} {}
+0 1551282910386 0 428 scroll / {} {}
+0 1551282910653 0 432 scroll / {} {}
+0 1551282910687 0 440 scroll / {} {}
+0 1551282910737 0 449 scroll / {} {}
+0 1551282910755 0 453 scroll / {} {}
+0 1551282910804 0 469 scroll / {} {}
+0 1551282910871 0 478 scroll / {} {}
+0 1551282910888 0 482 scroll / {} {}
+0 1551282910938 0 486 scroll / {} {}
+0 1551282911789 0 511 scroll / {} {}
+0 1551282911823 0 549 scroll / {} {}
+0 1551282911872 0 578 scroll / {} {}
+0 1551282911939 0 587 scroll / {} {}
+0 1551282912006 0 599 scroll / {} {}
+0 1551282912073 0 604 scroll / {} {}
+0 1551282912139 0 616 scroll / {} {}
+0 1551282912156 0 620 scroll / {} {}
+0 1551282912206 0 629 scroll / {} {}
+0 1551282912273 0 633 scroll / {} {}
+0 1551282915245 0 650 scroll / {} {}
+0 1551282915261 0 666 scroll / {} {}
+0 1551282915311 0 717 scroll / {} {}
+0 1551282915328 0 725 scroll / {} {}
+0 1551282915378 0 734 scroll / {} {}
+0 1551282915396 0 738 scroll / {} {}
+0 1551282915511 0 742 scroll / {} {}
+0 1551282915528 0 755 scroll / {} {}
+0 1551282915579 0 788 scroll / {} {}
+0 1551282915594 0 801 scroll / {} {}
+0 1551282915645 0 872 scroll / {} {}
+0 1551282915661 0 884 scroll / {} {}
+0 1551282915712 0 931 scroll / {} {}
+0 1551282915727 0 947 scroll / {} {}
+0 1551282915778 0 964 scroll / {} {}
+0 1551282915795 0 968 scroll / {} {}
+0 1551282917164 0 989 scroll / {} {}
+0 1551282917196 0 1040 scroll / {} {}
+0 1551282917247 0 1056 scroll / {} {}
+0 1551282917313 0 1073 scroll / {} {}
+0 1551282917330 0 1077 scroll / {} {}
+0 1551282917381 0 1102 scroll / {} {}
+0 1551282917396 0 1111 scroll / {} {}
+0 1551282917449 0 1132 scroll / {} {}
+0 1551282917463 0 1136 scroll / {} {}
+0 1551282917515 0 1153 scroll / {} {}
+0 1551282917531 0 1157 scroll / {} {}
+0 1551282917581 0 1161 scroll / {} {}
+0 1551282918299 1583 1468 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1551282918384 1321 1362 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282918449 1148 1312 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282918866 1131 1318 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282919099 1120 1326 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282919166 1122 1329 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282919233 1110 1358 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282919299 1075 1386 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282919366 1057 1404 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282919688 1050 1407 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551282919770 966 1432 mousemove //*[@id='product-97-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1551282919836 860 1489 mousemove //*[@id='product-97-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1551282921204 871 1495 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282921271 990 1513 mousemove //*[@id='product-97'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-97","data-product-id":"97"}} {}
+0 1551282921338 1066 1529 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551282921403 1092 1535 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551282921522 1086 1535 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1551282921590 990 1525 mousemove //*[@id='product-97'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-97","data-product-id":"97"}} {}
+0 1551282921654 949 1509 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282921721 939 1505 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282921788 924 1499 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282921854 920 1496 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282921921 917 1495 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282922137 916 1494 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282922188 915 1494 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282922238 914 1493 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282922413 914 1493 click //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282922983 914 1493 click //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282923184 914 1493 click //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282923391 914 1502 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551282923461 919 1669 mousemove //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551282923526 922 1771 mousemove //*[@id='product-97-grid-info'] {"DIV":{"id":"product-97-grid-info","class":"women"}} {}
+0 1551282923597 922 1816 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551282923793 920 1816 mousemove //*[@id='product-97-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551282923863 0 0 unload / {} {}

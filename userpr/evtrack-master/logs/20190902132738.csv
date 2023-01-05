@@ -1,0 +1,34 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1567430829512 0 0 load / {} {}
+0 1567430848072 915 1 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}
+0 1567430848139 898 52 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}
+0 1567430848198 874 141 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430848259 856 235 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1567430848319 848 325 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430848378 846 374 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430848443 828 480 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1567430848502 825 512 mousemove //*[@id='select-cat']/div/div[5] {"DIV":{"class":"clearfix"}} {}
+0 1567430848589 825 514 mousemove //*[@id='select-cat']/div/div[5] {"DIV":{"class":"clearfix"}} {}
+0 1567430848642 830 528 mousemove //*[@id='select-cat']/div/div[5] {"DIV":{"class":"clearfix"}} {}
+0 1567430848723 847 573 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\power-bank.jpg"}} {}
+0 1567430848774 862 614 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\power-bank.jpg"}} {}
+0 1567430851639 810 610 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\power-bank.jpg"}} {}
+0 1567430851696 734 413 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430851756 677 303 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1567430851816 613 221 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1567430851875 578 177 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1567430851935 551 146 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430851995 537 130 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430852055 508 92 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430852255 505 92 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430856685 505 93 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430856821 506 93 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430856873 518 95 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430856933 524 95 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430856994 528 87 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430857079 528 84 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430857134 516 88 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430857255 518 86 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1567430857315 536 64 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1567430857375 566 6 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1567430857582 0 0 unload / {} {}

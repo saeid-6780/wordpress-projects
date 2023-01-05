@@ -1,0 +1,66 @@
+.positioner {
+	position: relative;
+	display: inline-block;
+	line-height: 0;
+}
+
+.starbox .colorbar,
+.starbox .ghost {
+	z-index: 0;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.starbox .stars {
+	display: inline-block;
+}
+
+.starbox .stars .star_holder {
+	position: relative;
+	z-index: 1;
+}
+
+.starbox .stars .star_holder .star {
+	display: inline-block;
+	vertical-align: baseline;
+	background-repeat: no-repeat;
+}
+
+
+/* Override with your own image and size… */
+.starbox .stars .star_holder .star {
+	background-image: url('../images/star64.png') ;
+	width:64px;
+	height:64px;
+}
+.starbox{
+	
+}
+.block span{
+	color: #A5A5A5;
+	float: left;
+	margin: 0 0 0 0.5em;
+	font-size: 0.875em;
+}
+/* Override with your own colours… */
+.starbox .stars { background: #b0b0b0; }
+.starbox .rated .stars { background: #b0b0b0; }
+.starbox .rated.hover .stars { background: #b0b0b0; }
+.starbox .colorbar { background: #f3c500; }
+.starbox .hover .colorbar { background: #AF1D0D; }
+.starbox .rated .colorbar { background: #AF1D0D; }
+.starbox .rated.hover .colorbar { background: #f3c500; }
+.starbox .ghost { background: #f3c500; }
+.rate-description{margin: 0 20px 25px 0}
+.average-rate-description { color: #f19e1f; }
+.your-rate-description { color: #AF1D0D;margin-top: 8px; }
+
+@media (max-width:740px) {
+	.starbox .stars .star_holder .star {
+		background-image: url('../images/star32.png') ;
+		width:32px;
+		height:32px;
+	}
+}

@@ -1,0 +1,141 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554707899725 708 272 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707899867 553 263 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707899934 0 0 load / {} {}
+0 1554707899946 0 0 scroll / {} {}
+0 1554707900034 508 269 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707900215 510 269 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707900280 575 264 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707900331 620 268 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707900385 664 302 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707900448 683 316 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707900498 692 319 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707900549 698 322 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707900618 699 323 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707900686 701 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707900750 711 325 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707900800 728 328 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707900851 734 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707900905 739 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707900955 743 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707901018 748 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707901068 749 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707901468 748 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707901521 716 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707901586 669 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707901636 664 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707901704 662 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707901754 647 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707901804 630 325 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707901854 619 326 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707901904 613 326 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707901954 602 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707902043 598 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707902106 591 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707902171 582 328 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707902230 578 328 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707902292 573 328 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707902356 565 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707905072 566 330 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707905137 615 331 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707905200 627 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707906696 628 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707906758 626 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707906823 588 330 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707906889 570 330 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707906944 568 331 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707907011 567 332 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707907077 565 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707907177 565 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707907311 565 335 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707908195 565 335 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707909145 564 335 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707909195 564 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707909415 564 334 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707910233 565 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707910285 566 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707910335 567 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707910385 571 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707910437 618 299 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707910502 720 259 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707910585 732 255 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707910831 734 254 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707910888 1175 196 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1554707910953 1337 196 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707911156 1341 195 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707911222 1365 153 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707911288 1365 115 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707911338 1365 108 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707911422 0 0 scroll / {} {}
+0 1554707911438 0 0 scroll / {} {}
+0 1554707911456 0 0 scroll / {} {}
+0 1554707911474 0 0 scroll / {} {}
+0 1554707911490 0 0 scroll / {} {}
+0 1554707911507 0 0 scroll / {} {}
+0 1554707911522 0 0 scroll / {} {}
+0 1554707911539 0 0 scroll / {} {}
+0 1554707911556 0 0 scroll / {} {}
+0 1554707911572 0 0 scroll / {} {}
+0 1554707911589 0 0 scroll / {} {}
+0 1554707911608 0 0 scroll / {} {}
+0 1554707911624 0 0 scroll / {} {}
+0 1554707911641 0 0 scroll / {} {}
+0 1554707911658 0 0 scroll / {} {}
+0 1554707911676 0 0 scroll / {} {}
+0 1554707911692 0 0 scroll / {} {}
+0 1554707911708 0 0 scroll / {} {}
+0 1554707911968 0 0 scroll / {} {}
+0 1554707911991 0 0 scroll / {} {}
+0 1554707912007 0 0 scroll / {} {}
+0 1554707912024 0 0 scroll / {} {}
+0 1554707912040 0 0 scroll / {} {}
+0 1554707912057 0 0 scroll / {} {}
+0 1554707912074 0 0 scroll / {} {}
+0 1554707912094 0 0 scroll / {} {}
+0 1554707912107 0 0 scroll / {} {}
+0 1554707912124 0 0 scroll / {} {}
+0 1554707912141 0 0 scroll / {} {}
+0 1554707912158 0 0 scroll / {} {}
+0 1554707912174 0 0 scroll / {} {}
+0 1554707912195 0 0 scroll / {} {}
+0 1554707912208 0 0 scroll / {} {}
+0 1554707912224 0 0 scroll / {} {}
+0 1554707912244 0 0 scroll / {} {}
+0 1554707912259 0 0 scroll / {} {}
+0 1554707912276 0 0 scroll / {} {}
+0 1554707912308 0 0 scroll / {} {}
+0 1554707912343 0 0 scroll / {} {}
+0 1554707912906 0 0 scroll / {} {}
+0 1554707912927 0 0 scroll / {} {}
+0 1554707912944 0 0 scroll / {} {}
+0 1554707912960 0 0 scroll / {} {}
+0 1554707912980 0 0 scroll / {} {}
+0 1554707912994 0 0 scroll / {} {}
+0 1554707913011 0 0 scroll / {} {}
+0 1554707913027 0 0 scroll / {} {}
+0 1554707913044 0 0 scroll / {} {}
+0 1554707913078 0 0 scroll / {} {}
+0 1554707913406 0 0 scroll / {} {}
+0 1554707913429 0 0 scroll / {} {}
+0 1554707913445 0 0 scroll / {} {}
+0 1554707913462 0 0 scroll / {} {}
+0 1554707913478 0 0 scroll / {} {}
+0 1554707913820 1365 20 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707913883 1242 42 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1554707913933 1078 91 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707914017 1057 113 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707914069 1055 117 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707914121 1051 128 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707914203 1050 135 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707914253 1053 139 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554707914303 1061 142 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554707914353 1068 143 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554707914404 1075 143 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554707914455 1076 144 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/power-bank/","class":"product-nav-link"}} {}
+0 1554707914520 1077 145 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/power-bank/","class":"product-nav-link"}} {}
+0 1554707914572 1077 151 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/power-bank/","class":"product-nav-link"}} {}
+0 1554707914623 1077 157 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/power-bank/","class":"product-nav-link"}} {}
+0 1554707914720 1077 167 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/power-bank/","class":"product-nav-link"}} {}
+0 1554707914804 1077 164 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/power-bank/","class":"product-nav-link"}} {}
+0 1554707914862 1077 164 click /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/power-bank/","class":"product-nav-link"}} {}
+0 1554707915839 0 0 unload / {} {}

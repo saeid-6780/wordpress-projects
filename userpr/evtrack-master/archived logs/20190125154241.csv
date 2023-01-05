@@ -1,0 +1,238 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548418331616 879 107 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418331659 0 0 load / {} {}
+0 1548418331752 806 204 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418331752 0 0 scroll / {} {}
+0 1548418331810 741 260 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418331860 725 266 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418331935 721 263 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418331985 718 263 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418332187 715 263 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418332536 718 263 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418332610 770 285 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418332660 807 300 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418332710 841 314 mousemove //*[@id='product-slider']/div {"DIV":{"class":"flex-viewport","style":"overflow: hidden; position: relative;"}} {}
+0 1548418332761 851 323 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -31.575px; left: 5.47118e-14px;"}} {}
+0 1548418332835 870 348 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -73.925px; left: 5.47118e-14px;"}} {}
+0 1548418332885 875 361 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -98.95px; left: 5.47118e-14px;"}} {}
+0 1548418332935 876 369 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -122.05px; left: 5.47118e-14px;"}} {}
+0 1548418332985 875 375 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -131.675px; left: 5.47118e-14px;"}} {}
+0 1548418333037 867 391 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -156.7px; left: 5.47118e-14px;"}} {}
+0 1548418333087 855 408 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -189.425px; left: 5.47118e-14px;"}} {}
+0 1548418333137 841 420 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-81_2e4974.jpg","style":"position: absolute; width: 748.825px; height: 937.475px; top: -216.375px; left: 5.47118e-14px;"}} {}
+0 1548418333187 830 427 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418333262 756 434 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1548418333312 667 405 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418333388 585 361 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418333462 574 350 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418333560 573 348 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418334312 0 0 scroll / {} {}
+0 1548418334335 0 0 scroll / {} {}
+0 1548418334387 0 0 scroll / {} {}
+0 1548418334412 0 0 scroll / {} {}
+0 1548418334438 0 0 scroll / {} {}
+0 1548418334513 0 0 scroll / {} {}
+0 1548418334538 0 0 scroll / {} {}
+0 1548418334563 0 0 scroll / {} {}
+0 1548418334588 0 0 scroll / {} {}
+0 1548418334612 0 0 scroll / {} {}
+0 1548418334638 0 0 scroll / {} {}
+0 1548418334664 0 0 scroll / {} {}
+0 1548418334688 0 0 scroll / {} {}
+0 1548418334713 0 0 scroll / {} {}
+0 1548418334739 0 0 scroll / {} {}
+0 1548418334964 0 0 scroll / {} {}
+0 1548418334987 0 0 scroll / {} {}
+0 1548418335039 0 0 scroll / {} {}
+0 1548418335064 0 0 scroll / {} {}
+0 1548418335090 0 0 scroll / {} {}
+0 1548418335164 0 0 scroll / {} {}
+0 1548418335188 0 0 scroll / {} {}
+0 1548418335215 0 0 scroll / {} {}
+0 1548418335238 0 0 scroll / {} {}
+0 1548418335264 0 0 scroll / {} {}
+0 1548418335288 0 0 scroll / {} {}
+0 1548418335314 0 0 scroll / {} {}
+0 1548418335340 0 0 scroll / {} {}
+0 1548418335364 0 0 scroll / {} {}
+0 1548418335388 0 0 scroll / {} {}
+0 1548418335414 0 0 scroll / {} {}
+0 1548418335489 0 0 scroll / {} {}
+0 1548418335514 0 0 scroll / {} {}
+0 1548418335539 0 0 scroll / {} {}
+0 1548418335564 0 0 scroll / {} {}
+0 1548418335590 0 0 scroll / {} {}
+0 1548418335615 0 0 scroll / {} {}
+0 1548418335690 0 0 scroll / {} {}
+0 1548418335714 0 0 scroll / {} {}
+0 1548418335740 0 0 scroll / {} {}
+0 1548418335765 0 0 scroll / {} {}
+0 1548418335790 0 0 scroll / {} {}
+0 1548418335814 0 0 scroll / {} {}
+0 1548418335841 0 0 scroll / {} {}
+0 1548418335866 0 0 scroll / {} {}
+0 1548418335891 0 0 scroll / {} {}
+0 1548418335916 0 0 scroll / {} {}
+0 1548418335940 0 0 scroll / {} {}
+0 1548418335966 0 0 scroll / {} {}
+0 1548418335990 0 0 scroll / {} {}
+0 1548418336016 0 0 scroll / {} {}
+0 1548418336189 573 466 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418336240 640 355 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418336291 845 194 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418342803 932 121 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418342856 877 245 mousemove //*[@id='slider-id-dd342d']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82_dd342d.jpg","data-imagezoom":"true","class":"img-responsive"}} {}
+0 1548418342927 832 353 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418343004 820 379 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418343076 816 383 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418343150 812 385 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418343239 810 385 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418343300 801 396 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418343351 788 407 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418343401 782 407 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418343451 767 404 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418343525 749 392 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418343576 746 385 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418343967 743 385 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418344026 704 390 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418344076 668 389 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418344150 647 389 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418344201 640 389 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418344251 634 383 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418344327 624 372 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418344400 610 361 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418344450 601 355 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418344510 600 355 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418344566 600 353 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418344625 600 350 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418344676 599 348 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418344726 599 343 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418344790 600 339 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418344849 603 337 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418344900 619 337 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418344951 643 337 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345025 677 337 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345100 696 338 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345150 706 337 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345200 713 336 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345250 719 334 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345301 726 332 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345375 733 330 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345425 739 329 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345476 746 327 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418345551 759 311 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418345629 760 288 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418345681 758 282 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418346307 757 280 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418347128 756 280 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418349155 753 280 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418349207 735 280 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418349282 702 286 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418349333 684 288 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418349383 679 287 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418349445 677 284 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418349819 676 283 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418351043 678 283 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418351111 741 307 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418351163 781 336 mousemove //*[@id='product-rater'] {"DIV":{"id":"product-rater","class":"block"}} {}
+0 1548418351236 808 357 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418351287 807 360 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418351337 804 360 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418351401 803 359 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418351499 802 359 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418351562 795 364 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418351613 783 368 mousemove //*[@id='product-rater'] {"DIV":{"id":"product-rater","class":"block"}} {}
+0 1548418351663 755 379 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418351737 716 381 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418351787 697 375 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418351837 686 365 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548418351888 684 362 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548418352031 683 360 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548418355260 683 359 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548418355316 690 352 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548418355390 723 335 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548418355441 734 330 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548418355541 739 326 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548418355591 747 321 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548418355642 751 318 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.7","data-productid":"126","class":"starbox small  autoupdate"}} {}
+0 1548418355707 752 317 mousemove //*[@id='product-rater']/div[1]/div/div/div[3] {"DIV":{"class":"star_holder"}} {}
+0 1548418355770 752 314 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418355845 752 309 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418355921 753 307 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418356018 753 306 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418357369 0 0 scroll / {} {}
+0 1548418357393 0 0 scroll / {} {}
+0 1548418357447 0 0 scroll / {} {}
+0 1548418357473 0 0 scroll / {} {}
+0 1548418357497 0 0 scroll / {} {}
+0 1548418357572 0 0 scroll / {} {}
+0 1548418357597 0 0 scroll / {} {}
+0 1548418357622 0 0 scroll / {} {}
+0 1548418357646 0 0 scroll / {} {}
+0 1548418357672 0 0 scroll / {} {}
+0 1548418357697 0 0 scroll / {} {}
+0 1548418357721 0 0 scroll / {} {}
+0 1548418357746 0 0 scroll / {} {}
+0 1548418357772 0 0 scroll / {} {}
+0 1548418357798 0 0 scroll / {} {}
+0 1548418357822 0 0 scroll / {} {}
+0 1548418357898 0 0 scroll / {} {}
+0 1548418357922 0 0 scroll / {} {}
+0 1548418357948 0 0 scroll / {} {}
+0 1548418357972 0 0 scroll / {} {}
+0 1548418357997 0 0 scroll / {} {}
+0 1548418358022 0 0 scroll / {} {}
+0 1548418358098 0 0 scroll / {} {}
+0 1548418358122 0 0 scroll / {} {}
+0 1548418358148 0 0 scroll / {} {}
+0 1548418358173 0 0 scroll / {} {}
+0 1548418358198 0 0 scroll / {} {}
+0 1548418358223 0 0 scroll / {} {}
+0 1548418358248 0 0 scroll / {} {}
+0 1548418358272 0 0 scroll / {} {}
+0 1548418358298 0 0 scroll / {} {}
+0 1548418358323 0 0 scroll / {} {}
+0 1548418358347 0 0 scroll / {} {}
+0 1548418358373 0 0 scroll / {} {}
+0 1548418358800 0 0 scroll / {} {}
+0 1548418358824 0 0 scroll / {} {}
+0 1548418358848 0 0 scroll / {} {}
+0 1548418358874 0 0 scroll / {} {}
+0 1548418358899 0 0 scroll / {} {}
+0 1548418358924 0 0 scroll / {} {}
+0 1548418359023 0 0 scroll / {} {}
+0 1548418359049 0 0 scroll / {} {}
+0 1548418359100 0 0 scroll / {} {}
+0 1548418359125 0 0 scroll / {} {}
+0 1548418359149 0 0 scroll / {} {}
+0 1548418359175 0 0 scroll / {} {}
+0 1548418359200 0 0 scroll / {} {}
+0 1548418359224 0 0 scroll / {} {}
+0 1548418359250 0 0 scroll / {} {}
+0 1548418359275 0 0 scroll / {} {}
+0 1548418359300 0 0 scroll / {} {}
+0 1548418359324 0 0 scroll / {} {}
+0 1548418359350 0 0 scroll / {} {}
+0 1548418359376 0 0 scroll / {} {}
+0 1548418359400 0 0 scroll / {} {}
+0 1548418359425 0 0 scroll / {} {}
+0 1548418359450 0 0 scroll / {} {}
+0 1548418359474 0 0 scroll / {} {}
+0 1548418359499 0 0 scroll / {} {}
+0 1548418360026 0 0 scroll / {} {}
+0 1548418360051 0 0 scroll / {} {}
+0 1548418360076 0 0 scroll / {} {}
+0 1548418360102 0 0 scroll / {} {}
+0 1548418360127 0 0 scroll / {} {}
+0 1548418361049 753 304 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418361101 753 294 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418361185 753 289 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418361857 753 289 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418362573 753 289 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418363143 754 287 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418363207 828 254 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418363281 907 234 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82_dd342d.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418363331 918 235 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82_dd342d.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418363638 917 235 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Baseus-Thin-Case-Cover-For-Samsung-Galaxy-Note-82_dd342d.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418363706 940 156 mousemove /html/body/div[4]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548418365565 0 0 unload / {} {}

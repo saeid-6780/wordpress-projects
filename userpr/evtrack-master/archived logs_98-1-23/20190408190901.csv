@@ -1,0 +1,541 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554734311814 0 0 load / {} {}
+0 1554734314000 0 1 scroll / {} {}
+0 1554734357819 917 17 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1554734357884 611 199 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1554734357949 397 297 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734357999 372 306 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734363477 375 305 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734363527 414 292 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734363577 423 288 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734363627 466 264 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734363679 538 225 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1554734363744 604 185 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1554734363795 665 142 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734363863 769 61 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1554734363928 812 10 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1554734363995 814 6 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1554734364078 819 4 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1554734498968 712 12 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1554734499018 527 74 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499083 429 123 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499134 403 136 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499200 377 164 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499267 369 205 mousemove //*[@id='main-banner']/div/h1 {"H1":{}} {}
+0 1554734499317 369 242 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1554734499367 368 268 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734499417 389 335 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499467 394 345 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499517 401 376 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499567 420 428 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734499567 0 3 scroll / {} {}
+0 1554734499585 0 8 scroll / {} {}
+0 1554734499601 0 22 scroll / {} {}
+0 1554734499617 0 52 scroll / {} {}
+0 1554734499634 0 93 scroll / {} {}
+0 1554734499651 0 137 scroll / {} {}
+0 1554734499667 0 184 scroll / {} {}
+0 1554734499684 0 228 scroll / {} {}
+0 1554734499701 0 270 scroll / {} {}
+0 1554734499718 0 308 scroll / {} {}
+0 1554734499734 0 341 scroll / {} {}
+0 1554734499751 0 369 scroll / {} {}
+0 1554734499768 0 390 scroll / {} {}
+0 1554734499784 0 404 scroll / {} {}
+0 1554734499801 0 409 scroll / {} {}
+0 1554734500002 420 838 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734500052 435 858 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734500103 498 876 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734500153 592 868 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734500219 827 826 mousemove //*[@id='product-109-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734500270 1012 776 mousemove //*[@id='category-5'] {"LI":{"id":"category-5","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-3","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554734500335 1056 763 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554734500419 0 410 scroll / {} {}
+0 1554734500436 0 417 scroll / {} {}
+0 1554734500452 0 438 scroll / {} {}
+0 1554734500469 0 475 scroll / {} {}
+0 1554734500486 0 519 scroll / {} {}
+0 1554734500502 0 565 scroll / {} {}
+0 1554734500520 0 611 scroll / {} {}
+0 1554734500537 0 654 scroll / {} {}
+0 1554734500553 0 695 scroll / {} {}
+0 1554734500570 0 731 scroll / {} {}
+0 1554734500587 0 762 scroll / {} {}
+0 1554734500604 0 787 scroll / {} {}
+0 1554734500621 0 805 scroll / {} {}
+0 1554734500638 0 815 scroll / {} {}
+0 1554734500656 0 817 scroll / {} {}
+0 1554734500721 619 1222 mousemove //*[@id='product-113'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-113","data-product-id":"113"}} {}
+0 1554734500786 598 1228 mousemove //*[@id='product-113']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554734500836 575 1258 mousemove //*[@id='home2']/div[1]/div[4] {"DIV":{"class":"clearfix"}} {}
+0 1554734500854 0 818 scroll / {} {}
+0 1554734500870 0 823 scroll / {} {}
+0 1554734500888 0 841 scroll / {} {}
+0 1554734500906 0 876 scroll / {} {}
+0 1554734500920 0 925 scroll / {} {}
+0 1554734500938 0 980 scroll / {} {}
+0 1554734500954 0 1035 scroll / {} {}
+0 1554734500971 0 1089 scroll / {} {}
+0 1554734500990 0 1139 scroll / {} {}
+0 1554734501006 0 1185 scroll / {} {}
+0 1554734501021 0 1227 scroll / {} {}
+0 1554734501039 0 1262 scroll / {} {}
+0 1554734501054 0 1291 scroll / {} {}
+0 1554734501071 0 1312 scroll / {} {}
+0 1554734501087 0 1324 scroll / {} {}
+0 1554734501120 0 1327 scroll / {} {}
+0 1554734501171 520 1819 mousemove //*[@id='home2']/div[2]/div[4] {"DIV":{"class":"clearfix"}} {}
+0 1554734501188 0 1329 scroll / {} {}
+0 1554734501205 0 1338 scroll / {} {}
+0 1554734501220 0 1361 scroll / {} {}
+0 1554734501237 0 1403 scroll / {} {}
+0 1554734501255 0 1463 scroll / {} {}
+0 1554734501271 0 1529 scroll / {} {}
+0 1554734501287 0 1596 scroll / {} {}
+0 1554734501304 0 1662 scroll / {} {}
+0 1554734501321 0 1723 scroll / {} {}
+0 1554734501337 0 1780 scroll / {} {}
+0 1554734501354 0 1829 scroll / {} {}
+0 1554734501371 0 1871 scroll / {} {}
+0 1554734501388 0 1904 scroll / {} {}
+0 1554734501404 0 1927 scroll / {} {}
+0 1554734501421 0 1938 scroll / {} {}
+0 1554734501438 0 1939 scroll / {} {}
+0 1554734501488 513 2449 mousemove //*[@id='product-57-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734501521 0 1943 scroll / {} {}
+0 1554734501538 0 1970 scroll / {} {}
+0 1554734501555 0 2016 scroll / {} {}
+0 1554734501571 0 2075 scroll / {} {}
+0 1554734501588 0 2140 scroll / {} {}
+0 1554734501605 0 2204 scroll / {} {}
+0 1554734501621 0 2266 scroll / {} {}
+0 1554734501638 0 2324 scroll / {} {}
+0 1554734501655 0 2378 scroll / {} {}
+0 1554734501672 0 2426 scroll / {} {}
+0 1554734501689 0 2467 scroll / {} {}
+0 1554734501706 0 2502 scroll / {} {}
+0 1554734501722 0 2528 scroll / {} {}
+0 1554734501738 0 2545 scroll / {} {}
+0 1554734501755 0 2551 scroll / {} {}
+0 1554734501922 0 2552 scroll / {} {}
+0 1554734501955 0 2554 scroll / {} {}
+0 1554734501972 0 2555 scroll / {} {}
+0 1554734501989 0 2556 scroll / {} {}
+0 1554734502005 0 2557 scroll / {} {}
+0 1554734502022 0 2558 scroll / {} {}
+0 1554734502039 0 2559 scroll / {} {}
+0 1554734502056 0 2560 scroll / {} {}
+0 1554734502089 0 2561 scroll / {} {}
+0 1554734502172 512 3073 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1554734502223 479 2995 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734502273 452 2949 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734502339 450 2948 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734503742 450 2947 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734503792 448 2947 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734503825 0 2560 scroll / {} {}
+0 1554734503843 0 2557 scroll / {} {}
+0 1554734503859 0 2553 scroll / {} {}
+0 1554734503876 0 2549 scroll / {} {}
+0 1554734503892 0 2543 scroll / {} {}
+0 1554734503910 0 2538 scroll / {} {}
+0 1554734503926 0 2532 scroll / {} {}
+0 1554734503943 0 2525 scroll / {} {}
+0 1554734503959 0 2519 scroll / {} {}
+0 1554734503976 0 2513 scroll / {} {}
+0 1554734503993 0 2506 scroll / {} {}
+0 1554734504010 0 2500 scroll / {} {}
+0 1554734504027 0 2494 scroll / {} {}
+0 1554734504043 0 2489 scroll / {} {}
+0 1554734504062 0 2483 scroll / {} {}
+0 1554734504079 0 2478 scroll / {} {}
+0 1554734504094 0 2474 scroll / {} {}
+0 1554734504111 0 2470 scroll / {} {}
+0 1554734504127 0 2467 scroll / {} {}
+0 1554734504144 0 2464 scroll / {} {}
+0 1554734504163 0 2462 scroll / {} {}
+0 1554734504178 0 2460 scroll / {} {}
+0 1554734504194 0 2459 scroll / {} {}
+0 1554734504261 248 2640 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504311 243 2621 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504361 241 2601 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504428 240 2596 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504566 240 2596 click //*[@id='product-81-grid-img']/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/","class":"new-gri"}} {}
+0 1554734504679 240 2595 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504729 242 2592 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504795 246 2588 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504845 250 2587 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734504912 260 2589 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734505346 308 2591 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734521062 1022 2469 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554734521112 877 2573 mousemove //*[@id='product-9'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-9","data-product-id":"9"}} {}
+0 1554734521180 621 2715 mousemove //*[@id='product-57'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-57","data-product-id":"57"}} {}
+0 1554734521245 378 2830 mousemove //*[@id='product-57'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-57","data-product-id":"57"}} {}
+0 1554734521411 375 2833 mousemove //*[@id='product-81'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-81","data-product-id":"81"}} {}
+0 1554734521461 375 2835 mousemove //*[@id='product-81'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-81","data-product-id":"81"}} {}
+0 1554734521511 363 2848 mousemove //*[@id='product-81'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-81","data-product-id":"81"}} {}
+0 1554734521562 350 2889 mousemove //*[@id='product-81-grid-info'] {"DIV":{"id":"product-81-grid-info","class":"women"}} {}
+0 1554734521612 342 2933 mousemove //*[@id='product-81']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554734521662 337 2951 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734521712 331 2983 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734521728 0 2460 scroll / {} {}
+0 1554734521745 0 2462 scroll / {} {}
+0 1554734521762 0 2467 scroll / {} {}
+0 1554734521779 0 2476 scroll / {} {}
+0 1554734521795 0 2486 scroll / {} {}
+0 1554734521812 0 2497 scroll / {} {}
+0 1554734521828 0 2509 scroll / {} {}
+0 1554734521846 0 2519 scroll / {} {}
+0 1554734521862 0 2530 scroll / {} {}
+0 1554734521879 0 2539 scroll / {} {}
+0 1554734521895 0 2547 scroll / {} {}
+0 1554734521913 0 2553 scroll / {} {}
+0 1554734521929 0 2558 scroll / {} {}
+0 1554734521946 0 2560 scroll / {} {}
+0 1554734521962 0 2561 scroll / {} {}
+0 1554734522064 333 3085 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734522129 353 3095 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734522212 0 2560 scroll / {} {}
+0 1554734522229 0 2555 scroll / {} {}
+0 1554734522247 0 2544 scroll / {} {}
+0 1554734522266 0 2521 scroll / {} {}
+0 1554734522280 0 2491 scroll / {} {}
+0 1554734522298 0 2457 scroll / {} {}
+0 1554734522314 0 2422 scroll / {} {}
+0 1554734522331 0 2388 scroll / {} {}
+0 1554734522347 0 2355 scroll / {} {}
+0 1554734522365 0 2326 scroll / {} {}
+0 1554734522380 0 2301 scroll / {} {}
+0 1554734522398 0 2280 scroll / {} {}
+0 1554734522415 0 2265 scroll / {} {}
+0 1554734522431 0 2257 scroll / {} {}
+0 1554734522448 0 2255 scroll / {} {}
+0 1554734522513 253 2745 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1554734522563 201 2658 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734522614 176 2576 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734522681 180 2468 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734522731 187 2454 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734523783 187 2455 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734524484 187 2457 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734524534 194 2471 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734524584 194 2476 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734524780 194 2476 click //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734525019 196 2476 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734525554 238 2497 mousemove //*[@id='product-81-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734525621 269 2477 mousemove //*[@id='product-81-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1554734525672 448 2360 mousemove //*[@id='product-89-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734537377 1156 2261 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554734537427 1156 2289 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554734537477 1155 2314 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554734537945 1153 2329 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554734538011 1044 2433 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554734538063 847 2505 mousemove //*[@id='product-9-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734538129 719 2544 mousemove //*[@id='product-9-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734538196 688 2570 mousemove //*[@id='product-9-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734538212 0 2256 scroll / {} {}
+0 1554734538228 0 2258 scroll / {} {}
+0 1554734538245 0 2264 scroll / {} {}
+0 1554734538262 0 2275 scroll / {} {}
+0 1554734538279 0 2298 scroll / {} {}
+0 1554734538296 0 2328 scroll / {} {}
+0 1554734538312 0 2361 scroll / {} {}
+0 1554734538329 0 2396 scroll / {} {}
+0 1554734538346 0 2430 scroll / {} {}
+0 1554734538362 0 2462 scroll / {} {}
+0 1554734538379 0 2490 scroll / {} {}
+0 1554734538396 0 2515 scroll / {} {}
+0 1554734538413 0 2536 scroll / {} {}
+0 1554734538429 0 2550 scroll / {} {}
+0 1554734538446 0 2559 scroll / {} {}
+0 1554734538462 0 2561 scroll / {} {}
+0 1554734538663 687 2878 mousemove //*[@id='product-9-grid-info']/p {"P":{}} {}
+0 1554734538713 670 2897 mousemove //*[@id='product-9-grid-info'] {"DIV":{"id":"product-9-grid-info","class":"women"}} {}
+0 1554734538764 641 2926 mousemove //*[@id='product-9'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-9","data-product-id":"9"}} {}
+0 1554734538830 613 2954 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734538880 598 2967 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734538930 594 2971 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734539030 591 2973 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734539081 584 2979 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734539131 580 2982 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734539564 579 2982 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734539597 0 2554 scroll / {} {}
+0 1554734539614 0 2531 scroll / {} {}
+0 1554734539632 0 2492 scroll / {} {}
+0 1554734539648 0 2443 scroll / {} {}
+0 1554734539665 0 2390 scroll / {} {}
+0 1554734539682 0 2337 scroll / {} {}
+0 1554734539698 0 2285 scroll / {} {}
+0 1554734539714 0 2238 scroll / {} {}
+0 1554734539732 0 2194 scroll / {} {}
+0 1554734539748 0 2155 scroll / {} {}
+0 1554734539768 0 2121 scroll / {} {}
+0 1554734539782 0 2092 scroll / {} {}
+0 1554734539800 0 2071 scroll / {} {}
+0 1554734539816 0 2056 scroll / {} {}
+0 1554734539832 0 2051 scroll / {} {}
+0 1554734539882 588 2491 mousemove //*[@id='product-57-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1554734539982 0 2045 scroll / {} {}
+0 1554734539999 0 2024 scroll / {} {}
+0 1554734540016 0 1987 scroll / {} {}
+0 1554734540032 0 1936 scroll / {} {}
+0 1554734540049 0 1880 scroll / {} {}
+0 1554734540066 0 1825 scroll / {} {}
+0 1554734540082 0 1771 scroll / {} {}
+0 1554734540099 0 1721 scroll / {} {}
+0 1554734540119 0 1675 scroll / {} {}
+0 1554734540135 0 1635 scroll / {} {}
+0 1554734540150 0 1600 scroll / {} {}
+0 1554734540167 0 1573 scroll / {} {}
+0 1554734540184 0 1553 scroll / {} {}
+0 1554734540200 0 1542 scroll / {} {}
+0 1554734540216 0 1541 scroll / {} {}
+0 1554734540316 0 1529 scroll / {} {}
+0 1554734540333 0 1505 scroll / {} {}
+0 1554734540350 0 1473 scroll / {} {}
+0 1554734540366 0 1435 scroll / {} {}
+0 1554734540383 0 1394 scroll / {} {}
+0 1554734540399 0 1352 scroll / {} {}
+0 1554734540416 0 1314 scroll / {} {}
+0 1554734540433 0 1277 scroll / {} {}
+0 1554734540452 0 1243 scroll / {} {}
+0 1554734540467 0 1214 scroll / {} {}
+0 1554734540485 0 1187 scroll / {} {}
+0 1554734540502 0 1165 scroll / {} {}
+0 1554734540518 0 1149 scroll / {} {}
+0 1554734540535 0 1138 scroll / {} {}
+0 1554734540552 0 1133 scroll / {} {}
+0 1554734540700 0 1132 scroll / {} {}
+0 1554734540716 0 1129 scroll / {} {}
+0 1554734540733 0 1122 scroll / {} {}
+0 1554734540750 0 1110 scroll / {} {}
+0 1554734540767 0 1096 scroll / {} {}
+0 1554734540784 0 1080 scroll / {} {}
+0 1554734540800 0 1063 scroll / {} {}
+0 1554734540817 0 1046 scroll / {} {}
+0 1554734540834 0 1029 scroll / {} {}
+0 1554734540852 0 1012 scroll / {} {}
+0 1554734540867 0 996 scroll / {} {}
+0 1554734540884 0 981 scroll / {} {}
+0 1554734540901 0 968 scroll / {} {}
+0 1554734540918 0 956 scroll / {} {}
+0 1554734540934 0 947 scroll / {} {}
+0 1554734540950 0 939 scroll / {} {}
+0 1554734540967 0 933 scroll / {} {}
+0 1554734540984 0 930 scroll / {} {}
+0 1554734541001 0 929 scroll / {} {}
+0 1554734541084 0 928 scroll / {} {}
+0 1554734541101 0 924 scroll / {} {}
+0 1554734541118 0 909 scroll / {} {}
+0 1554734541134 0 882 scroll / {} {}
+0 1554734541151 0 849 scroll / {} {}
+0 1554734541168 0 810 scroll / {} {}
+0 1554734541184 0 768 scroll / {} {}
+0 1554734541202 0 728 scroll / {} {}
+0 1554734541218 0 690 scroll / {} {}
+0 1554734541235 0 655 scroll / {} {}
+0 1554734541258 0 622 scroll / {} {}
+0 1554734541268 0 593 scroll / {} {}
+0 1554734541285 0 568 scroll / {} {}
+0 1554734541306 0 548 scroll / {} {}
+0 1554734541320 0 533 scroll / {} {}
+0 1554734541336 0 524 scroll / {} {}
+0 1554734541352 0 521 scroll / {} {}
+0 1554734541452 0 515 scroll / {} {}
+0 1554734541468 0 494 scroll / {} {}
+0 1554734541485 0 463 scroll / {} {}
+0 1554734541502 0 421 scroll / {} {}
+0 1554734541518 0 377 scroll / {} {}
+0 1554734541535 0 334 scroll / {} {}
+0 1554734541552 0 292 scroll / {} {}
+0 1554734541568 0 253 scroll / {} {}
+0 1554734541586 0 217 scroll / {} {}
+0 1554734541602 0 185 scroll / {} {}
+0 1554734541619 0 158 scroll / {} {}
+0 1554734541636 0 137 scroll / {} {}
+0 1554734541653 0 122 scroll / {} {}
+0 1554734541669 0 114 scroll / {} {}
+0 1554734541689 0 113 scroll / {} {}
+0 1554734542104 600 574 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1554734542170 626 491 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1554734542220 637 468 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1554734542287 675 418 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542353 701 392 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542404 728 371 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542470 761 355 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542520 791 346 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542570 838 345 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542621 902 334 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542671 930 322 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542737 977 306 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734542787 978 306 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1554734542838 1010 320 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542888 1046 337 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542938 1063 368 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554734542971 0 115 scroll / {} {}
+0 1554734542988 0 119 scroll / {} {}
+0 1554734543005 0 132 scroll / {} {}
+0 1554734543022 0 157 scroll / {} {}
+0 1554734543038 0 189 scroll / {} {}
+0 1554734543055 0 225 scroll / {} {}
+0 1554734543072 0 261 scroll / {} {}
+0 1554734543089 0 296 scroll / {} {}
+0 1554734543105 0 328 scroll / {} {}
+0 1554734543122 0 358 scroll / {} {}
+0 1554734543139 0 382 scroll / {} {}
+0 1554734543155 0 401 scroll / {} {}
+0 1554734543172 0 413 scroll / {} {}
+0 1554734543188 0 419 scroll / {} {}
+0 1554734543255 1062 674 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554734543405 1063 673 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554734543456 1083 714 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554734543506 1092 735 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554734543572 1102 755 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554734543917 1102 755 click //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1554734544541 1100 755 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1554734544591 1081 756 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1554734544641 1044 762 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1554734544692 960 784 mousemove //*[@id='category-5'] {"LI":{"id":"category-5","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-3","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1554734544759 895 810 mousemove //*[@id='parentVerticalTab']/form/div/div[3] {"DIV":{"class":"resp-tab-content hor_1 resp-tab-content-active","aria-labelledby":"hor_1_tab_item-2","style":"display:block"}} {}
+0 1554734544775 0 420 scroll / {} {}
+0 1554734544792 0 425 scroll / {} {}
+0 1554734544809 0 443 scroll / {} {}
+0 1554734544825 0 478 scroll / {} {}
+0 1554734544842 0 521 scroll / {} {}
+0 1554734544858 0 573 scroll / {} {}
+0 1554734544875 0 625 scroll / {} {}
+0 1554734544892 0 675 scroll / {} {}
+0 1554734544908 0 723 scroll / {} {}
+0 1554734544925 0 768 scroll / {} {}
+0 1554734544942 0 808 scroll / {} {}
+0 1554734544959 0 844 scroll / {} {}
+0 1554734544975 0 875 scroll / {} {}
+0 1554734544992 0 899 scroll / {} {}
+0 1554734545010 0 917 scroll / {} {}
+0 1554734545026 0 927 scroll / {} {}
+0 1554734545043 0 929 scroll / {} {}
+0 1554734545093 871 1118 mousemove //*[@id='product-150']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554734545160 787 1015 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734545210 735 964 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734545343 734 963 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734545393 737 1002 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734545443 749 1056 mousemove //*[@id='product-150-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/nillkin-defender-2-cover-for-samsung-galaxy-note-8/"}} {}
+0 1554734545594 749 1056 mousemove //*[@id='product-150-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/nillkin-defender-2-cover-for-samsung-galaxy-note-8/"}} {}
+0 1554734545644 749 1039 mousemove //*[@id='product-150']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554734545777 747 1032 mousemove //*[@id='product-150']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554734545827 745 1012 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734545878 741 986 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734546164 740 980 click //*[@id='product-150-grid-img']/a {"A":{"href":"http://userpr.ir/product/nillkin-defender-2-cover-for-samsung-galaxy-note-8/","class":"new-gri"}} {}
+0 1554734546345 741 979 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554734546396 745 979 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554734547382 765 1000 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554734547448 754 1011 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554734547499 731 1028 mousemove //*[@id='product-150']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554734547549 665 1052 mousemove //*[@id='product-150-grid-info']/h6 {"H6":{}} {}
+0 1554734547614 583 1059 mousemove //*[@id='product-154-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-clear-view-standing-flip-cover-for-galaxy-note-8/"}} {}
+0 1554734547665 538 1062 mousemove //*[@id='product-154-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-clear-view-standing-flip-cover-for-galaxy-note-8/"}} {}
+0 1554734547748 533 1063 mousemove //*[@id='product-154-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-clear-view-standing-flip-cover-for-galaxy-note-8/"}} {}
+0 1554734547798 524 1082 mousemove //*[@id='product-154-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-clear-view-standing-flip-cover-for-galaxy-note-8/"}} {}
+0 1554734547850 490 1195 mousemove //*[@id='product-154-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1554734547900 476 1264 mousemove //*[@id='home4'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home4","aria-labelledby":"home-tab"}} {}
+0 1554734547950 476 1311 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734548016 473 1370 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734548066 472 1374 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734548116 472 1376 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734548331 472 1376 click //*[@id='product-142-grid-img']/a {"A":{"href":"http://userpr.ir/product/samsung-protective-standing-cover-for-samsung-galaxy-note-8/","class":"new-gri"}} {}
+0 1554734548583 473 1375 mousemove //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554734548785 680 940 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734548999 670 939 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554734549469 627 959 mousemove //*[@id='product-154'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-154","data-product-id":"154"}} {}
+0 1554734549519 643 948 mousemove //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1554735510774 705 947 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735510836 479 995 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735510887 463 999 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735510937 452 1001 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735511305 453 1001 mousemove //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735511372 595 1092 mousemove //*[@id='product-154-grid-info']/h6 {"H6":{}} {}
+0 1554735511440 750 1229 mousemove //*[@id='product-150']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554735511504 805 1242 mousemove //*[@id='home4']/div[1]/div[4] {"DIV":{"class":"clearfix"}} {}
+0 1554735511555 881 1253 mousemove //*[@id='home4']/div[1]/div[4] {"DIV":{"class":"clearfix"}} {}
+0 1554735511605 975 1253 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735511655 1015 1244 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735511705 1085 1228 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735511755 1141 1218 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735512072 1144 1218 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735512122 1146 1218 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735512172 1174 1227 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735512222 1217 1247 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554735512272 1255 1267 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1554735512322 1284 1282 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554735513859 1286 1283 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554735513943 1286 1282 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554735514593 1282 1281 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554735514727 0 930 scroll / {} {}
+0 1554735514760 0 932 scroll / {} {}
+0 1554735514777 0 939 scroll / {} {}
+0 1554735514795 0 963 scroll / {} {}
+0 1554735514811 0 1007 scroll / {} {}
+0 1554735514828 0 1063 scroll / {} {}
+0 1554735514845 0 1124 scroll / {} {}
+0 1554735514862 0 1186 scroll / {} {}
+0 1554735514878 0 1246 scroll / {} {}
+0 1554735514894 0 1303 scroll / {} {}
+0 1554735514911 0 1354 scroll / {} {}
+0 1554735514928 0 1401 scroll / {} {}
+0 1554735514944 0 1443 scroll / {} {}
+0 1554735514961 0 1478 scroll / {} {}
+0 1554735514978 0 1507 scroll / {} {}
+0 1554735514995 0 1528 scroll / {} {}
+0 1554735515012 0 1539 scroll / {} {}
+0 1554735515028 0 1541 scroll / {} {}
+0 1554735515428 1275 1891 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554735515478 1260 1887 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554735515530 1244 1882 mousemove /html/body/div[2]/div[3]/div/div {"DIV":{"class":"category-list"}} {}
+0 1554735515595 1211 1877 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735515645 1191 1875 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735515896 1184 1873 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735515946 1162 1877 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735515996 1126 1884 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735516047 1101 1887 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735516114 1060 1896 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735516180 1049 1897 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735516230 1041 1898 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735516280 1020 1899 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735516331 993 1902 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735521374 992 1903 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735521424 990 1911 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735521474 989 1918 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735521525 986 1930 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735522810 982 1937 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735522860 971 1948 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735523746 968 1949 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735524363 965 1940 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735524414 1017 1727 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735524480 1044 1561 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735528840 959 1545 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1554735528890 827 1687 mousemove //*[@id='product-138-grid-info'] {"DIV":{"id":"product-138-grid-info","class":"women"}} {}
+0 1554735528940 634 1803 mousemove //*[@id='home4'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home4","aria-labelledby":"home-tab"}} {}
+0 1554735528991 354 1868 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529056 159 1903 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529157 148 1912 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529223 155 1959 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529273 172 1973 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529323 190 1978 mousemove //*[@id='product-134-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529599 192 1978 click //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529691 193 1978 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529891 194 1978 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529941 198 1978 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735529991 212 1973 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530041 260 1962 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530091 340 1960 mousemove //*[@id='product-134-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530144 404 1959 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530209 458 1959 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530259 462 1959 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530309 471 1959 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530425 472 1959 mousemove //*[@id='product-130-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530703 472 1958 click //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530760 478 1954 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530810 544 1894 mousemove //*[@id='product-130-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Baseus-Wing-Case-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1554735530862 718 1756 mousemove //*[@id='product-138-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554735530926 830 1631 mousemove //*[@id='product-138-grid-info']/h6 {"H6":{}} {}
+0 1554735530977 839 1615 mousemove //*[@id='product-138-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/chakaame-cover-types/"}} {}
+0 1554735531028 843 1592 mousemove //*[@id='product-138']/div {"DIV":{"class":"grid-arr"}} {}
+0 1554735531094 851 1552 mousemove //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}

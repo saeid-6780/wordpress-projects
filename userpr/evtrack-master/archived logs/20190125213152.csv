@@ -1,0 +1,136 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548439291150 979 95 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548439291200 975 117 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548439291250 964 158 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548439291266 0 1 scroll / {} {}
+0 1548439291283 0 7 scroll / {} {}
+0 1548439291300 0 19 scroll / {} {}
+0 1548439291316 0 45 scroll / {} {}
+0 1548439291333 0 81 scroll / {} {}
+0 1548439291350 0 130 scroll / {} {}
+0 1548439291367 0 182 scroll / {} {}
+0 1548439291383 0 234 scroll / {} {}
+0 1548439291400 0 287 scroll / {} {}
+0 1548439291417 0 333 scroll / {} {}
+0 1548439291435 0 373 scroll / {} {}
+0 1548439291450 0 411 scroll / {} {}
+0 1548439291466 0 444 scroll / {} {}
+0 1548439291486 0 470 scroll / {} {}
+0 1548439291500 0 490 scroll / {} {}
+0 1548439291517 0 501 scroll / {} {}
+0 1548439291535 0 504 scroll / {} {}
+0 1548439291752 964 655 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439291901 969 655 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439291984 979 656 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439292067 992 660 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439292153 1007 674 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548439292219 1015 695 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439292286 1016 699 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439292469 1016 698 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439292520 1018 697 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439292636 1018 696 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439298013 1019 696 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439298064 0 508 scroll / {} {}
+0 1548439298096 0 512 scroll / {} {}
+0 1548439298113 0 517 scroll / {} {}
+0 1548439298129 0 523 scroll / {} {}
+0 1548439298146 0 533 scroll / {} {}
+0 1548439298163 0 547 scroll / {} {}
+0 1548439298180 0 562 scroll / {} {}
+0 1548439298197 0 579 scroll / {} {}
+0 1548439298214 0 596 scroll / {} {}
+0 1548439298230 0 614 scroll / {} {}
+0 1548439298246 0 631 scroll / {} {}
+0 1548439298263 0 649 scroll / {} {}
+0 1548439298280 0 665 scroll / {} {}
+0 1548439298297 0 681 scroll / {} {}
+0 1548439298314 0 695 scroll / {} {}
+0 1548439298330 0 709 scroll / {} {}
+0 1548439298343 0 0 load / {} {}
+0 1548439298348 0 1 scroll / {} {}
+0 1548439299314 0 2 scroll / {} {}
+0 1548439299331 0 5 scroll / {} {}
+0 1548439299349 0 13 scroll / {} {}
+0 1548439299366 0 27 scroll / {} {}
+0 1548439299381 0 56 scroll / {} {}
+0 1548439299399 0 93 scroll / {} {}
+0 1548439299415 0 136 scroll / {} {}
+0 1548439299432 0 184 scroll / {} {}
+0 1548439299448 0 232 scroll / {} {}
+0 1548439299466 0 278 scroll / {} {}
+0 1548439299482 0 322 scroll / {} {}
+0 1548439299498 0 362 scroll / {} {}
+0 1548439299517 0 399 scroll / {} {}
+0 1548439299532 0 431 scroll / {} {}
+0 1548439299548 0 458 scroll / {} {}
+0 1548439299565 0 480 scroll / {} {}
+0 1548439299582 0 496 scroll / {} {}
+0 1548439299599 0 504 scroll / {} {}
+0 1548439299616 0 505 scroll / {} {}
+0 1548439299716 1021 699 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439299916 1021 698 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439301301 1022 697 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439301753 1023 698 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1548439301753 0 506 scroll / {} {}
+0 1548439301787 0 509 scroll / {} {}
+0 1548439301803 0 514 scroll / {} {}
+0 1548439301820 0 524 scroll / {} {}
+0 1548439301836 0 538 scroll / {} {}
+0 1548439301853 0 557 scroll / {} {}
+0 1548439301870 0 588 scroll / {} {}
+0 1548439301887 0 626 scroll / {} {}
+0 1548439301903 0 666 scroll / {} {}
+0 1548439301920 0 706 scroll / {} {}
+0 1548439301937 0 745 scroll / {} {}
+0 1548439301953 0 780 scroll / {} {}
+0 1548439301970 0 812 scroll / {} {}
+0 1548439301987 0 839 scroll / {} {}
+0 1548439302004 0 860 scroll / {} {}
+0 1548439302020 0 875 scroll / {} {}
+0 1548439302037 0 882 scroll / {} {}
+0 1548439302053 0 883 scroll / {} {}
+0 1548439303390 1024 1078 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548439303390 0 884 scroll / {} {}
+0 1548439303406 0 886 scroll / {} {}
+0 1548439303423 0 890 scroll / {} {}
+0 1548439303439 0 898 scroll / {} {}
+0 1548439303456 0 911 scroll / {} {}
+0 1548439303473 0 937 scroll / {} {}
+0 1548439303490 0 972 scroll / {} {}
+0 1548439303506 0 1013 scroll / {} {}
+0 1548439303523 0 1055 scroll / {} {}
+0 1548439303540 0 1096 scroll / {} {}
+0 1548439303556 0 1136 scroll / {} {}
+0 1548439303573 0 1171 scroll / {} {}
+0 1548439303590 0 1202 scroll / {} {}
+0 1548439303606 0 1228 scroll / {} {}
+0 1548439303623 0 1246 scroll / {} {}
+0 1548439303639 0 1258 scroll / {} {}
+0 1548439303656 0 1261 scroll / {} {}
+0 1548439305994 1024 1454 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548439306061 1024 1452 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548439306111 1025 1450 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548439306261 1026 1450 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548439309333 0 1262 scroll / {} {}
+0 1548439309352 0 1263 scroll / {} {}
+0 1548439309368 0 1266 scroll / {} {}
+0 1548439309384 0 1277 scroll / {} {}
+0 1548439309401 0 1294 scroll / {} {}
+0 1548439309418 0 1328 scroll / {} {}
+0 1548439309435 0 1379 scroll / {} {}
+0 1548439309451 0 1441 scroll / {} {}
+0 1548439309468 0 1505 scroll / {} {}
+0 1548439309484 0 1567 scroll / {} {}
+0 1548439309501 0 1626 scroll / {} {}
+0 1548439309518 0 1681 scroll / {} {}
+0 1548439309535 0 1730 scroll / {} {}
+0 1548439309552 0 1773 scroll / {} {}
+0 1548439309568 0 1810 scroll / {} {}
+0 1548439309585 0 1838 scroll / {} {}
+0 1548439309601 0 1858 scroll / {} {}
+0 1548439309618 0 1867 scroll / {} {}
+0 1548439309635 0 1868 scroll / {} {}
+0 1548439309768 1028 2058 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548439309818 1023 2056 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548439309870 811 2010 mousemove //*[@id='product-15-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/promate-aidbar-power-bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1548439311607 0 0 unload / {} {}

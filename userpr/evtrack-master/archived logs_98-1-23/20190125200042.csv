@@ -1,0 +1,52 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548433839220 316 13 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548433839695 0 0 load / {} {}
+0 1548433841368 319 15 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548433841431 329 11 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548433841481 393 21 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548433841533 547 92 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548433841598 675 208 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548433841849 674 209 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548433841915 671 224 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548433841983 662 260 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548433842051 658 277 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1548433842115 655 288 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1548433842166 654 297 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1548433842232 653 316 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1548433843834 653 325 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548433843899 759 219 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548433843951 950 136 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548433844017 1066 134 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548433844166 1067 134 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548433844216 1057 134 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548433844266 1053 131 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548433844318 1053 116 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548433844383 1056 110 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548433844434 1059 107 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548433844500 1070 101 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548433844550 1077 99 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548433844600 1082 99 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548433844650 1089 96 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548433844717 1093 95 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548433844936 1093 94 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548433845000 1088 91 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548433845050 1083 88 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548433845114 1081 86 mousemove /html/body/div[3]/div[2]/div[1]/svg {"svg":{"width":"150","height":"150","viewBox":"0 0 150 150","xmlns":"http://www.w3.org/2000/svg","preserveAspectRatio":"none","class":"hustle-icon hustle-i_close"}} {}
+0 1548433845884 0 0 keypress /html/body {"BODY":{}} {}
+0 1548433845902 0 24 scroll / {} {}
+0 1548433845951 0 283 scroll / {} {}
+0 1548433845968 0 377 scroll / {} {}
+0 1548433845985 0 461 scroll / {} {}
+0 1548433846002 0 527 scroll / {} {}
+0 1548433846018 0 572 scroll / {} {}
+0 1548433846035 0 590 scroll / {} {}
+0 1548433846619 1081 677 mousemove //*[@id='select-cat']/div/div[2]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548433846669 1073 680 mousemove //*[@id='select-cat']/div/div[2]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548433846719 972 681 mousemove //*[@id='select-cat']/div/div[2]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548433846771 725 683 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1548433846821 530 673 mousemove //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548433847203 470 664 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1548433847274 451 685 mousemove //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548433847336 434 712 mousemove //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548433847766 433 716 click //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548433848696 0 0 unload / {} {}

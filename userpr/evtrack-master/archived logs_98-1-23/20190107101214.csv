@@ -1,0 +1,10 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1546843303069 706 884 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1546843303095 0 0 load / {} {}
+0 1546843311761 445 881 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1546843311827 459 924 mousemove //*[@id='select-cat']/div/div[3]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/phone-pouch-cover.png"}} {}
+0 1546843312380 467 929 mousemove //*[@id='select-cat']/div/div[3]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/phone-pouch-cover.png"}} {}
+0 1546843312444 493 765 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1546843312495 513 587 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1546843312545 553 449 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1546843713050 0 0 unload / {} {}

@@ -1,0 +1,237 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548417958367 0 0 load / {} {}
+0 1548418026363 0 0 scroll / {} {}
+0 1548418026825 961 3 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418026887 883 193 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418026938 859 232 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418027562 0 0 scroll / {} {}
+0 1548418027586 0 0 scroll / {} {}
+0 1548418027610 0 0 scroll / {} {}
+0 1548418027638 0 0 scroll / {} {}
+0 1548418027663 0 0 scroll / {} {}
+0 1548418027687 0 0 scroll / {} {}
+0 1548418027787 0 0 scroll / {} {}
+0 1548418027812 0 0 scroll / {} {}
+0 1548418027836 0 0 scroll / {} {}
+0 1548418027861 0 0 scroll / {} {}
+0 1548418027887 0 0 scroll / {} {}
+0 1548418027912 0 0 scroll / {} {}
+0 1548418027937 0 0 scroll / {} {}
+0 1548418027962 0 0 scroll / {} {}
+0 1548418027986 0 0 scroll / {} {}
+0 1548418028389 853 443 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418028464 856 537 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -387.7px; left: 5.47118e-14px;"}} {}
+0 1548418028514 856 584 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -501.275px; left: 5.47118e-14px;"}} {}
+0 1548418028564 857 630 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418028614 861 652 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418028664 865 662 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418028714 868 676 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418028765 868 684 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418028816 868 692 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418028891 870 700 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418029391 869 698 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418029464 866 690 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418029514 866 673 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418029564 868 655 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418029617 871 645 mousemove //*[@id='slider-id-000']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","data-imagezoom":"true","class":"img-responsive"}} {}
+0 1548418029689 872 640 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418029739 872 638 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418029789 874 636 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418029840 880 629 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418029891 885 626 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418029964 898 620 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418030377 899 622 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418030439 908 657 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418030489 913 680 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418030539 914 684 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418030614 914 685 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418030665 914 688 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418030716 917 717 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418030766 915 729 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418030816 909 737 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418030867 904 739 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418031231 904 739 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418031292 965 729 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418031366 1063 723 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418031419 1086 719 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418031469 1093 719 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418031543 1100 719 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":""}} {}
+0 1548418031594 1105 719 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":""}} {}
+0 1548418031644 1116 724 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":""}} {}
+0 1548418031694 1120 725 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":""}} {}
+0 1548418031769 1126 726 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":""}} {}
+0 1548418031844 1130 726 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":""}} {}
+0 1548418031966 1131 726 click //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":"flex-active"}} {}
+0 1548418032445 1131 727 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":"flex-active"}} {}
+0 1548418032495 1119 729 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone4_7e5b45.jpg","class":"flex-active"}} {}
+0 1548418032546 1093 730 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418032620 1047 738 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418032695 1039 743 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418032989 1039 743 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":"flex-active"}} {}
+0 1548418033270 1036 744 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":"flex-active"}} {}
+0 1548418033323 1021 746 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":"flex-active"}} {}
+0 1548418033397 977 749 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":"flex-active"}} {}
+0 1548418033448 965 749 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":""}} {}
+0 1548418033521 940 746 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":""}} {}
+0 1548418033595 927 743 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":""}} {}
+0 1548418033647 926 741 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":""}} {}
+0 1548418033871 926 741 click //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418034648 928 741 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418034698 954 741 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone1_000.jpg","class":"flex-active"}} {}
+0 1548418034748 980 743 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418034824 1003 748 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418034897 1016 750 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418034948 1023 750 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":""}} {}
+0 1548418035363 1023 750 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","class":"flex-active"}} {}
+0 1548418036400 0 0 scroll / {} {}
+0 1548418036424 0 0 scroll / {} {}
+0 1548418036450 0 0 scroll / {} {}
+0 1548418036474 0 0 scroll / {} {}
+0 1548418036498 0 0 scroll / {} {}
+0 1548418036524 0 0 scroll / {} {}
+0 1548418036600 0 0 scroll / {} {}
+0 1548418036624 0 0 scroll / {} {}
+0 1548418036651 0 0 scroll / {} {}
+0 1548418036676 0 0 scroll / {} {}
+0 1548418036700 0 0 scroll / {} {}
+0 1548418036726 0 0 scroll / {} {}
+0 1548418036751 0 0 scroll / {} {}
+0 1548418036775 0 0 scroll / {} {}
+0 1548418036801 0 0 scroll / {} {}
+0 1548418036826 0 0 scroll / {} {}
+0 1548418036851 0 0 scroll / {} {}
+0 1548418037201 0 0 scroll / {} {}
+0 1548418037225 0 0 scroll / {} {}
+0 1548418037249 0 0 scroll / {} {}
+0 1548418037301 0 0 scroll / {} {}
+0 1548418037326 0 0 scroll / {} {}
+0 1548418037402 0 0 scroll / {} {}
+0 1548418037427 0 0 scroll / {} {}
+0 1548418037450 0 0 scroll / {} {}
+0 1548418037476 0 0 scroll / {} {}
+0 1548418037501 0 0 scroll / {} {}
+0 1548418037527 0 0 scroll / {} {}
+0 1548418037552 0 0 scroll / {} {}
+0 1548418037576 0 0 scroll / {} {}
+0 1548418037601 0 0 scroll / {} {}
+0 1548418037627 0 0 scroll / {} {}
+0 1548418037651 0 0 scroll / {} {}
+0 1548418037676 0 0 scroll / {} {}
+0 1548418037702 0 0 scroll / {} {}
+0 1548418037851 0 0 scroll / {} {}
+0 1548418037877 0 0 scroll / {} {}
+0 1548418037901 0 0 scroll / {} {}
+0 1548418037952 0 0 scroll / {} {}
+0 1548418038054 0 0 scroll / {} {}
+0 1548418038077 0 0 scroll / {} {}
+0 1548418038103 0 0 scroll / {} {}
+0 1548418038127 0 0 scroll / {} {}
+0 1548418038153 0 0 scroll / {} {}
+0 1548418038178 0 0 scroll / {} {}
+0 1548418038202 0 0 scroll / {} {}
+0 1548418038228 0 0 scroll / {} {}
+0 1548418038252 0 0 scroll / {} {}
+0 1548418038277 0 0 scroll / {} {}
+0 1548418038303 0 0 scroll / {} {}
+0 1548418038328 0 0 scroll / {} {}
+0 1548418038353 0 0 scroll / {} {}
+0 1548418038377 0 0 scroll / {} {}
+0 1548418038402 0 0 scroll / {} {}
+0 1548418038427 0 0 scroll / {} {}
+0 1548418038452 0 0 scroll / {} {}
+0 1548418038478 0 0 scroll / {} {}
+0 1548418038502 0 0 scroll / {} {}
+0 1548418038527 0 0 scroll / {} {}
+0 1548418038579 0 0 scroll / {} {}
+0 1548418038603 0 0 scroll / {} {}
+0 1548418038628 0 0 scroll / {} {}
+0 1548418038653 0 0 scroll / {} {}
+0 1548418039129 1019 553 mousemove //*[@id='slider-id-']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","data-imagezoom":"true","class":"img-responsive"}} {}
+0 1548418039205 937 576 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 475.403px; left: 853.325px;"}} {}
+0 1548418039278 824 487 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -416.575px; left: 5.47118e-14px;"}} {}
+0 1548418039329 796 435 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418039379 797 410 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418039649 796 410 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418039704 712 386 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548418039755 660 353 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418039879 659 350 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418039931 667 350 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418040020 675 348 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418040133 675 347 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418040510 675 346 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418040582 655 308 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418040642 629 256 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418040707 625 246 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041023 622 246 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041081 579 250 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041156 453 231 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041231 443 226 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041403 442 225 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041456 435 224 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041507 421 223 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041581 408 223 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041721 404 222 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041781 403 222 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041856 404 222 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041906 418 230 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418041956 431 235 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042006 436 238 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042056 439 240 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042108 440 241 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042181 458 243 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042255 497 249 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042306 518 255 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042380 557 265 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042430 615 273 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042480 657 279 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418042533 682 284 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418042605 698 292 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418042895 701 296 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418042957 723 316 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043010 731 328 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043061 737 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043134 742 339 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043184 745 339 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043243 747 340 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043309 753 341 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043360 757 342 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043728 758 342 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043788 758 343 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043860 758 348 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418043913 760 361 mousemove //*[@id='product-rater']/div[1]/div/div/div[3] {"DIV":{"class":"star_holder"}} {}
+0 1548418043987 738 409 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418044060 685 431 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418044110 656 427 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418044161 628 395 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418044213 631 275 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418044285 810 81 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418044336 873 74 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418044387 886 77 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418044671 886 75 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418044735 924 41 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418044786 972 9 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418044837 995 8 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418044888 1004 21 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418044962 970 82 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418045012 928 126 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418045062 861 176 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418045137 827 188 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418045240 824 188 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418045543 823 188 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418045613 822 188 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418045686 813 176 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418045737 820 73 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548418142776 927 22 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418142831 923 138 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418142882 923 153 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548418143112 923 155 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548418143184 928 234 mousemove //*[@id='slider-id-']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Mate-10-ALP-L29-Dual-SIM-Mobile-Phone3.jpg","data-imagezoom":"true","class":"img-responsive"}} {}
+0 1548418143256 935 303 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548418143306 937 313 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 208.403px; left: 842.063px;"}} {}
+0 1548418143471 937 311 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 210.403px; left: 842.063px;"}} {}
+0 1548418143530 1000 248 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548418143584 1086 188 mousemove /html/body/div[3]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418143658 1128 116 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418143879 1125 114 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418143933 1085 66 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548418145627 0 0 unload / {} {}

@@ -1,0 +1,305 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551364301689 0 0 load / {} {}
+0 1551364301728 0 1 scroll / {} {}
+0 1551364302229 915 389 mousemove //*[@id='slider-id-']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1551364302279 827 365 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -127.28px; left: 5.47118e-14px;"}} {}
+0 1551364302330 709 337 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1551364302380 666 328 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1551364302430 653 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1551364302481 652 320 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1551364302953 663 335 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1551364303003 704 388 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1551364303054 728 416 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1551364303268 0 2 scroll / {} {}
+0 1551364303284 0 5 scroll / {} {}
+0 1551364303301 0 16 scroll / {} {}
+0 1551364303317 0 39 scroll / {} {}
+0 1551364303335 0 69 scroll / {} {}
+0 1551364303351 0 107 scroll / {} {}
+0 1551364303369 0 187 scroll / {} {}
+0 1551364303385 0 225 scroll / {} {}
+0 1551364303418 0 264 scroll / {} {}
+0 1551364303435 0 298 scroll / {} {}
+0 1551364303451 0 332 scroll / {} {}
+0 1551364303469 0 388 scroll / {} {}
+0 1551364303485 0 410 scroll / {} {}
+0 1551364303502 0 430 scroll / {} {}
+0 1551364303536 0 454 scroll / {} {}
+0 1551364303568 0 457 scroll / {} {}
+0 1551364303883 744 865 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364303951 797 820 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[1] {"DIV":{"class":"single-left"}} {}
+0 1551364304015 848 792 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1551364304065 872 782 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1551364304115 883 777 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1551364304182 889 772 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1551364304306 875 784 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1551364304358 802 835 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364304434 734 887 mousemove //*[@id='set-basket-quantity']/div/div[1] {"DIV":{"class":"entry value-minus1"}} {}
+0 1551364304489 708 905 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551364304539 706 906 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551364304674 705 905 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551364304725 700 900 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1551364304789 697 896 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1551364304839 696 894 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1551364304890 696 891 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1551364305023 696 892 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1551364305073 696 900 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1551364305139 693 912 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551364305189 692 918 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551364306065 712 931 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1551364306130 792 980 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364306182 827 1003 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364306247 843 1020 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364306298 844 1022 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364306349 837 1025 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364306414 784 1007 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364306486 741 991 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1551364306554 727 990 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364306664 718 992 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364306730 717 993 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364306781 717 996 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364306831 717 997 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364306881 717 997 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364306948 717 997 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364306998 717 1001 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364307049 709 1007 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #000;"}} {}
+0 1551364307115 689 1014 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307165 683 1016 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307215 680 1016 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307298 679 1016 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307381 679 1016 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307431 679 1016 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307481 679 1016 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307898 679 1015 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307948 679 1013 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364307998 684 1004 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: rgb(0, 0, 0);"}} {}
+0 1551364308282 701 1026 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"f6f6f4"}} {}
+0 1551364308341 766 1085 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1551364308590 0 460 scroll / {} {}
+0 1551364308607 0 467 scroll / {} {}
+0 1551364308623 0 485 scroll / {} {}
+0 1551364308641 0 549 scroll / {} {}
+0 1551364308674 0 592 scroll / {} {}
+0 1551364308696 0 634 scroll / {} {}
+0 1551364308724 0 754 scroll / {} {}
+0 1551364308757 0 791 scroll / {} {}
+0 1551364308773 0 826 scroll / {} {}
+0 1551364308790 0 855 scroll / {} {}
+0 1551364308809 0 907 scroll / {} {}
+0 1551364308824 0 929 scroll / {} {}
+0 1551364308858 0 960 scroll / {} {}
+0 1551364308891 0 968 scroll / {} {}
+0 1551364308907 0 970 scroll / {} {}
+0 1551364309391 0 971 scroll / {} {}
+0 1551364309423 0 976 scroll / {} {}
+0 1551364309441 0 988 scroll / {} {}
+0 1551364309457 0 1039 scroll / {} {}
+0 1551364309475 0 1075 scroll / {} {}
+0 1551364309491 0 1112 scroll / {} {}
+0 1551364309524 0 1189 scroll / {} {}
+0 1551364309541 0 1228 scroll / {} {}
+0 1551364309557 0 1261 scroll / {} {}
+0 1551364309574 0 1295 scroll / {} {}
+0 1551364309590 0 1325 scroll / {} {}
+0 1551364309608 0 1354 scroll / {} {}
+0 1551364309624 0 1379 scroll / {} {}
+0 1551364309642 0 1404 scroll / {} {}
+0 1551364309658 0 1424 scroll / {} {}
+0 1551364309674 0 1442 scroll / {} {}
+0 1551364309691 0 1458 scroll / {} {}
+0 1551364309724 0 1479 scroll / {} {}
+0 1551364309757 0 1483 scroll / {} {}
+0 1551364310141 0 1490 scroll / {} {}
+0 1551364310157 0 1507 scroll / {} {}
+0 1551364310190 0 1580 scroll / {} {}
+0 1551364310224 0 1679 scroll / {} {}
+0 1551364310257 0 1727 scroll / {} {}
+0 1551364310274 0 1770 scroll / {} {}
+0 1551364310291 0 1848 scroll / {} {}
+0 1551364310308 0 1881 scroll / {} {}
+0 1551364310341 0 1908 scroll / {} {}
+0 1551364310357 0 1947 scroll / {} {}
+0 1551364310390 0 1957 scroll / {} {}
+0 1551364310407 0 1958 scroll / {} {}
+0 1551364311170 0 1956 scroll / {} {}
+0 1551364311203 0 1908 scroll / {} {}
+0 1551364311237 0 1739 scroll / {} {}
+0 1551364311269 0 1607 scroll / {} {}
+0 1551364311287 0 1476 scroll / {} {}
+0 1551364311302 0 1330 scroll / {} {}
+0 1551364311319 0 1056 scroll / {} {}
+0 1551364311336 0 934 scroll / {} {}
+0 1551364311353 0 812 scroll / {} {}
+0 1551364311369 0 706 scroll / {} {}
+0 1551364311386 0 601 scroll / {} {}
+0 1551364311404 0 512 scroll / {} {}
+0 1551364311421 0 426 scroll / {} {}
+0 1551364311437 0 355 scroll / {} {}
+0 1551364311454 0 292 scroll / {} {}
+0 1551364311470 0 245 scroll / {} {}
+0 1551364311503 0 193 scroll / {} {}
+0 1551364311536 0 191 scroll / {} {}
+0 1551364311770 0 183 scroll / {} {}
+0 1551364311787 0 168 scroll / {} {}
+0 1551364311820 0 126 scroll / {} {}
+0 1551364311854 0 83 scroll / {} {}
+0 1551364311869 0 63 scroll / {} {}
+0 1551364311887 0 45 scroll / {} {}
+0 1551364311903 0 29 scroll / {} {}
+0 1551364311920 0 16 scroll / {} {}
+0 1551364311936 0 7 scroll / {} {}
+0 1551364311969 0 0 scroll / {} {}
+0 1551364312154 786 633 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364312210 816 597 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.089px; left: 797.567px;"}} {}
+0 1551364312270 855 554 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -504.58px; left: 5.47118e-14px;"}} {}
+0 1551364312322 892 505 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 415.403px; left: 797.567px;"}} {}
+0 1551364312387 937 462 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 371.403px; left: 797.567px;"}} {}
+0 1551364312453 968 448 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 346.403px; left: 841.325px;"}} {}
+0 1551364313428 957 450 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 345.403px; left: 843.325px;"}} {}
+0 1551364313485 925 451 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 349.403px; left: 806.325px;"}} {}
+0 1551364313563 883 441 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 342.403px; left: 797.567px;"}} {}
+0 1551364313629 865 435 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -256.255px; left: 5.47118e-14px;"}} {}
+0 1551364313679 862 433 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -250.48px; left: 5.47118e-14px;"}} {}
+0 1551364313745 859 429 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -244.705px; left: 5.47118e-14px;"}} {}
+0 1551364313795 855 418 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -231.23px; left: 5.47118e-14px;"}} {}
+0 1551364313845 856 399 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -194.655px; left: 5.47118e-14px;"}} {}
+0 1551364313895 862 381 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -158.08px; left: 5.47118e-14px;"}} {}
+0 1551364313946 874 364 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -131.13px; left: 5.47118e-14px;"}} {}
+0 1551364314007 882 357 mousemove //*[@id='slider-id-000']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1551364314061 895 348 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 246.403px; left: 797.567px;"}} {}
+0 1551364314112 901 344 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 242.403px; left: 797.567px;"}} {}
+0 1551364314178 906 338 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 237.403px; left: 797.567px;"}} {}
+0 1551364314229 909 331 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 230.403px; left: 797.567px;"}} {}
+0 1551364314279 911 322 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 222.403px; left: 797.567px;"}} {}
+0 1551364314329 911 313 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 797.567px;"}} {}
+0 1551364314395 911 302 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.403px; left: 797.567px;"}} {}
+0 1551364314445 910 297 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364314495 908 295 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364314546 903 293 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364314613 891 288 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364314679 884 284 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364314741 879 279 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1551364314795 874 270 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1551364314846 873 258 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1551364314913 875 240 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1551364314963 877 230 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1551364315013 880 224 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1551364315079 884 217 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364315129 887 215 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364315180 892 213 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364315246 909 223 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364315312 921 236 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 797.567px;"}} {}
+0 1551364315362 929 247 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 800.325px;"}} {}
+0 1551364315415 936 257 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 806.325px;"}} {}
+0 1551364315479 950 270 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 822.325px;"}} {}
+0 1551364315529 963 275 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 833.325px;"}} {}
+0 1551364315595 980 276 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 850.325px;"}} {}
+0 1551364315645 993 275 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 864.325px;"}} {}
+0 1551364315697 1006 272 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 877.325px;"}} {}
+0 1551364315762 1022 270 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 892.325px;"}} {}
+0 1551364315820 1029 270 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 899.325px;"}} {}
+0 1551364315879 1037 271 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 907.325px;"}} {}
+0 1551364315946 1052 275 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 917.325px;"}} {}
+0 1551364316011 1066 286 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 934.325px;"}} {}
+0 1551364316062 1074 299 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 935.216px;"}} {}
+0 1551364316119 1077 314 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 206.403px; left: 935.216px;"}} {}
+0 1551364316179 1077 319 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 214.403px; left: 935.216px;"}} {}
+0 1551364316246 1079 326 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 219.403px; left: 935.216px;"}} {}
+0 1551364316328 1084 333 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 228.403px; left: 935.216px;"}} {}
+0 1551364316379 1084 333 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 230.403px; left: 935.216px;"}} {}
+0 1551364316463 1084 333 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 230.403px; left: 935.216px;"}} {}
+0 1551364316597 1084 333 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 230.403px; left: 935.216px;"}} {}
+0 1551364316647 1084 333 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 230.403px; left: 935.216px;"}} {}
+0 1551364316704 1088 335 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 231.403px; left: 935.216px;"}} {}
+0 1551364316762 1094 337 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 233.403px; left: 935.216px;"}} {}
+0 1551364316846 1107 345 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 237.403px; left: 935.216px;"}} {}
+0 1551364316909 1115 360 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 253.403px; left: 935.216px;"}} {}
+0 1551364316968 1119 372 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 265.403px; left: 935.216px;"}} {}
+0 1551364317025 1121 381 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 276.403px; left: 935.216px;"}} {}
+0 1551364317078 1124 390 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 281.403px; left: 935.216px;"}} {}
+0 1551364317140 1128 402 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 292.403px; left: 935.216px;"}} {}
+0 1551364317196 1128 419 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 305.403px; left: 935.216px;"}} {}
+0 1551364317261 1124 439 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 327.403px; left: 935.216px;"}} {}
+0 1551364317325 1116 453 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 347.403px; left: 935.216px;"}} {}
+0 1551364317383 1104 461 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 355.403px; left: 935.216px;"}} {}
+0 1551364317461 1083 470 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 363.403px; left: 935.216px;"}} {}
+0 1551364317511 1075 478 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 371.403px; left: 935.216px;"}} {}
+0 1551364317567 1070 485 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 379.403px; left: 935.216px;"}} {}
+0 1551364317645 1061 504 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 392.403px; left: 935.216px;"}} {}
+0 1551364317729 1046 521 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 412.403px; left: 928.325px;"}} {}
+0 1551364317796 1031 529 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 424.403px; left: 911.325px;"}} {}
+0 1551364317860 1010 533 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 429.403px; left: 896.325px;"}} {}
+0 1551364317923 989 535 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 431.403px; left: 871.325px;"}} {}
+0 1551364317982 971 539 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 434.403px; left: 853.325px;"}} {}
+0 1551364318062 940 547 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 440.403px; left: 832.325px;"}} {}
+0 1551364318145 905 550 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 447.403px; left: 797.567px;"}} {}
+0 1551364318195 890 550 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(0, 0, 0); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 447.403px; left: 797.567px;"}} {}
+0 1551364318277 877 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318329 870 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318379 865 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318430 861 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318551 860 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318608 860 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318687 860 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318743 860 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318816 860 549 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318910 875 551 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -471.855px; left: 5.47118e-14px;"}} {}
+0 1551364318976 930 567 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 383.089px; left: 797.567px;"}} {}
+0 1551364319210 0 2 scroll / {} {}
+0 1551364319226 0 9 scroll / {} {}
+0 1551364319243 0 26 scroll / {} {}
+0 1551364319276 0 83 scroll / {} {}
+0 1551364319293 0 119 scroll / {} {}
+0 1551364319326 0 194 scroll / {} {}
+0 1551364319343 0 232 scroll / {} {}
+0 1551364319360 0 266 scroll / {} {}
+0 1551364319377 0 300 scroll / {} {}
+0 1551364319393 0 329 scroll / {} {}
+0 1551364319410 0 358 scroll / {} {}
+0 1551364319426 0 383 scroll / {} {}
+0 1551364319444 0 406 scroll / {} {}
+0 1551364319459 0 424 scroll / {} {}
+0 1551364319476 0 439 scroll / {} {}
+0 1551364319510 0 455 scroll / {} {}
+0 1551364319543 0 456 scroll / {} {}
+0 1551364319835 938 1010 mousemove /html/body/div[7]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364319902 953 862 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364319968 970 781 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1551364320035 976 759 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1551364320521 972 757 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1551364320586 816 684 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1551364320652 680 638 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1551364320885 0 440 scroll / {} {}
+0 1551364320917 0 380 scroll / {} {}
+0 1551364320935 0 336 scroll / {} {}
+0 1551364320950 0 291 scroll / {} {}
+0 1551364320984 0 244 scroll / {} {}
+0 1551364321002 0 203 scroll / {} {}
+0 1551364321018 0 161 scroll / {} {}
+0 1551364321035 0 91 scroll / {} {}
+0 1551364321051 0 63 scroll / {} {}
+0 1551364321085 0 19 scroll / {} {}
+0 1551364321118 0 7 scroll / {} {}
+0 1551364321134 0 0 scroll / {} {}
+0 1551364321318 648 175 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1551364321368 636 221 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1551364321421 644 324 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1551364321473 639 380 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1551364322786 625 365 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.825","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1551364322841 525 209 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1551364322895 493 136 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1551364323159 478 107 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1551364323224 397 72 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1551364323274 355 63 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364324798 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325124 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325229 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325285 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325335 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325418 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325502 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325557 355 62 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325772 355 61 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325823 354 51 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364325882 357 6 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364326829 0 0 unload / {} {}

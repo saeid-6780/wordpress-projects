@@ -1,0 +1,70 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548611415901 0 0 scroll / {} {}
+0 1548611415918 0 0 load / {} {}
+0 1548611415953 0 0 scroll / {} {}
+0 1548611416011 198 203 mousemove //*[@id='main-banner']/div/h1 {"H1":{}} {}
+0 1548611416062 196 196 mousemove //*[@id='main-banner']/div/h1 {"H1":{}} {}
+0 1548611416112 194 190 mousemove //*[@id='main-banner']/div/h1 {"H1":{}} {}
+0 1548611416535 203 199 mousemove //*[@id='main-banner']/div/h1 {"H1":{}} {}
+0 1548611416586 289 323 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611416636 391 511 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1548611416968 427 545 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548611417018 510 448 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611417081 602 353 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611417143 622 337 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611417206 626 329 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611417268 632 317 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611417320 635 310 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611417391 635 308 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611417834 635 306 click //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611417834 0 0 scroll / {} {}
+0 1548611417957 635 865 click //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548611418308 635 865 mousemove //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548611418477 641 871 mousemove //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548611418547 700 951 mousemove //*[@id='product-109-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611418602 750 1027 mousemove //*[@id='product-109']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548611418950 774 1048 mousemove //*[@id='product-109-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-p-smart-fig-la1-dual-sim-mobile-phone/"}} {}
+0 1548611419000 790 1057 mousemove //*[@id='product-109-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-p-smart-fig-la1-dual-sim-mobile-phone/"}} {}
+0 1548611419050 721 1090 mousemove //*[@id='product-109-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-p-smart-fig-la1-dual-sim-mobile-phone/"}} {}
+0 1548611419102 647 1107 mousemove //*[@id='product-109']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548611419161 619 1109 mousemove //*[@id='product-113'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-113","data-product-id":"113"}} {}
+0 1548611419498 604 1108 mousemove //*[@id='product-113-grid-info'] {"DIV":{"id":"product-113-grid-info","class":"women"}} {}
+0 1548611419561 467 1106 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548611419612 422 1099 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548611419674 512 1070 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1548611419725 742 1059 mousemove //*[@id='product-109-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-p-smart-fig-la1-dual-sim-mobile-phone/"}} {}
+0 1548611420089 769 1047 mousemove //*[@id='product-109-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-p-smart-fig-la1-dual-sim-mobile-phone/"}} {}
+0 1548611420139 939 929 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548611420189 1108 869 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548611420486 1129 857 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548611420548 1277 780 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611420610 1321 771 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611420673 1333 772 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611420751 1340 772 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611420829 1341 772 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611420891 1346 772 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611421585 0 0 scroll / {} {}
+0 1548611421585 0 0 scroll / {} {}
+0 1548611421617 0 0 scroll / {} {}
+0 1548611421637 0 0 scroll / {} {}
+0 1548611421657 0 0 scroll / {} {}
+0 1548611421677 0 0 scroll / {} {}
+0 1548611421697 0 0 scroll / {} {}
+0 1548611421718 0 0 scroll / {} {}
+0 1548611421737 0 0 scroll / {} {}
+0 1548611421757 0 0 scroll / {} {}
+0 1548611421777 0 0 scroll / {} {}
+0 1548611421797 0 0 scroll / {} {}
+0 1548611421818 0 0 scroll / {} {}
+0 1548611421837 0 0 scroll / {} {}
+0 1548611422026 0 0 scroll / {} {}
+0 1548611422080 0 0 scroll / {} {}
+0 1548611422408 1335 1487 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611422459 1182 1469 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611422864 1072 1462 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611422927 875 1447 mousemove //*[@id='product-97'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-97","data-product-id":"97"}} {}
+0 1548611422986 793 1451 mousemove //*[@id='product-97-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611423200 777 1458 mousemove //*[@id='product-97-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611423616 777 1458 click //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611423737 777 1458 click //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611424058 0 0 unload / {} {}

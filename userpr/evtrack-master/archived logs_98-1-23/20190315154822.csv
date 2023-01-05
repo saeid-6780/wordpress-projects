@@ -1,0 +1,87 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1552652247769 0 0 load / {} {}
+0 1552652247774 0 0 scroll / {} {}
+0 1552652373799 950 6 mousemove //*[@id='wp-admin-bar-customize']/a {"A":{"class":"ab-item","href":"http://userpr.ir/wp-admin/customize.php?url=http%3A%2F%2Fuserpr.ir%2Fproduct_category%2Fmobile%2F"}} {}
+0 1552652373855 953 8 mousemove //*[@id='wp-admin-bar-customize']/a {"A":{"class":"ab-item","href":"http://userpr.ir/wp-admin/customize.php?url=http%3A%2F%2Fuserpr.ir%2Fproduct_category%2Fmobile%2F"}} {}
+0 1552652373916 982 64 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1552652373975 1048 163 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652374035 1118 282 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552652374096 1150 359 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652374155 1151 396 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652374215 1151 425 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652374275 1147 477 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652374335 1146 510 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1552652374396 1135 538 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652374452 1127 560 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652539131 1115 551 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652539197 1279 346 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1552652539249 1279 202 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1552652539309 1279 40 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1552652539517 1223 3 mousemove //*[@id='wp-admin-bar-site-name']/a {"A":{"class":"ab-item","aria-haspopup":"true","href":"http://userpr.ir/wp-admin/"}} {}
+0 1552652539571 1121 28 mousemove //*[@id='wp-admin-bar-site-name']/a {"A":{"class":"ab-item","aria-haspopup":"true","href":"http://userpr.ir/wp-admin/"}} {}
+0 1552652546372 1079 1 mousemove //*[@id='wp-admin-bar-site-name']/a {"A":{"class":"ab-item","aria-haspopup":"true","href":"http://userpr.ir/wp-admin/"}} {}
+0 1552652546435 1105 91 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1552652546495 1107 119 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652546555 1112 129 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652546596 1114 141 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652546616 0 0 scroll / {} {}
+0 1552652546636 0 0 scroll / {} {}
+0 1552652546642 1115 149 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652546656 0 0 scroll / {} {}
+0 1552652546666 1115 159 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652546676 0 0 scroll / {} {}
+0 1552652546691 1115 179 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552652546696 0 0 scroll / {} {}
+0 1552652546716 0 0 scroll / {} {}
+0 1552652546737 0 0 scroll / {} {}
+0 1552652546756 0 0 scroll / {} {}
+0 1552652546776 0 0 scroll / {} {}
+0 1552652546825 0 0 scroll / {} {}
+0 1552652546843 0 0 scroll / {} {}
+0 1552652546946 1114 542 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547002 1114 541 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547058 1112 536 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547117 1111 532 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1552652547210 1106 532 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1552652547290 1103 531 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1552652547356 1088 531 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1552652547416 1077 533 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1552652547477 1059 539 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547536 1053 541 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547597 1043 545 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547810 1042 546 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547890 1040 547 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547946 1039 549 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1552652547996 1044 561 mousemove /html/body/div[2]/div[3]/div/div {"DIV":{"class":"category-list"}} {}
+0 1552652548056 1061 584 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1552652548116 1067 606 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1552652548176 1062 615 mousemove //*[@id='category-2'] {"LI":{"id":"category-2","class":"resp-tab-active resp-tab-item hor_1","aria-controls":"hor_1_tab_item-0","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1552652548236 576 734 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1552652548297 233 842 mousemove //*[@id='product-117-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552652548363 266 819 mousemove //*[@id='product-117-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552652548423 308 799 mousemove //*[@id='product-117-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552652548445 316 799 mousewheel //*[@id='product-117']/div {"DIV":{"class":"grid-arr"}} {}
+0 1552652548459 317 799 mousewheel //*[@id='product-117']/div {"DIV":{"class":"grid-arr"}} {}
+0 1552652548475 320 798 mousewheel //*[@id='product-117']/div {"DIV":{"class":"grid-arr"}} {}
+0 1552652548484 0 0 scroll / {} {}
+0 1552652548502 328 799 mousewheel //*[@id='product-117'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-117","data-product-id":"117"}} {}
+0 1552652548502 0 0 scroll / {} {}
+0 1552652548524 0 0 scroll / {} {}
+0 1552652548544 0 0 scroll / {} {}
+0 1552652548565 0 0 scroll / {} {}
+0 1552652548585 0 0 scroll / {} {}
+0 1552652548606 0 0 scroll / {} {}
+0 1552652548626 0 0 scroll / {} {}
+0 1552652548644 0 0 scroll / {} {}
+0 1552652548703 406 1083 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1552652548763 405 1062 mousemove //*[@id='product-113-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/"}} {}
+0 1552652548824 406 1045 mousemove //*[@id='product-113']/div {"DIV":{"class":"grid-arr"}} {}
+0 1552652548885 411 1010 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552652548945 420 989 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552652549000 430 973 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552652549066 431 970 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552652549336 433 967 click //*[@id='product-113-grid-img']/a {"A":{"href":"http://userpr.ir/product/huawei-y5-2017-4g-dual-sim-mobile-phone/","class":"new-gri"}} {}
+0 1552652549714 435 966 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552652549767 526 925 mousemove //*[@id='product-113-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552652549829 671 815 mousemove //*[@id='wp-admin-bar-edit']/a {"A":{"class":"ab-item","href":"http://userpr.ir/wp-admin/term.php?taxonomy=product_category&tag_ID=2&post_type=product"}} {}
+0 1552652550303 0 0 unload / {} {}

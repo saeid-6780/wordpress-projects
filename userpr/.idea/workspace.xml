@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a71cdf58-be01-4912-90ed-62a300111458" name="Default" comment="" />
+    <ignored path="mousetrc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mousetrc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="38" column="19" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basket.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/basket.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="120" column="22" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="themeAutoloader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/themeAutoloader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single_top.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/single_top.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1480">
+              <caret line="79" column="56" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mousetrcscripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/mousetrcscripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4980">
+              <caret line="249" column="44" selection-start-line="249" selection-start-column="32" selection-end-line="249" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/comments.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/highlight_metabox.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/taxonomy.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/category_close.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/basket.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/attributes.php" />
+        <option value="E:/IT/پایان نامه/قالب پروژه/new_shop/web/products.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/category_top.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/category_sidbar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/basket.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/banner_top.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/main_category.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/user-registration/assets/css/user-registration.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/user-registration/assets/css/user-registration-rtl.css" />
+        <option value="$PROJECT_DIR$/../test/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/general/general_lottery.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/theme/initializer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/general/lottery.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/jstarbox.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/assets/css/remodal-default-theme.css" />
+        <option value="$PROJECT_DIR$/evtrack-master/test.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/dbmodification.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/analysis_elementsPosition.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/elementsPosition.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/sessionhandler.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/cleansing.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/category_item_list.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/colors_metabox.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/thumbnails_metabox.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/gallery_metabox.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/product_content_close.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/mousetrcscripts.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/comments.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/metaboxes.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/single_top.php" />
+        <option value="$PROJECT_DIR$/smt2/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/features.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/general/smtdb.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/file.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/page-analysis.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/procedure.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/product.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidPseudoSelector</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mousetrc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../promtino" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\mousetrc\wp-content\themes\mytheme\views\admin\product" />
+      <recent name="C:\wamp64\www\mousetrc\wp-content\themes\mytheme\views\partials" />
+      <recent name="C:\wamp64\www\mousetrc\wp-content\themes\mytheme\assets\images" />
+      <recent name="C:\wamp64\www\mousetrc\wp-content\themes\mytheme\assets\css" />
+      <recent name="C:\wamp64\www\mousetrc\wp-content\themes\mytheme\assets\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a71cdf58-be01-4912-90ed-62a300111458" name="Default" comment="" />
+      <created>1521703038361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521703038361</updated>
+      <workItem from="1521703039880" duration="692000" />
+      <workItem from="1521788214536" duration="17910000" />
+      <workItem from="1521919791634" duration="10348000" />
+      <workItem from="1522051405136" duration="4928000" />
+      <workItem from="1522127874749" duration="3060000" />
+      <workItem from="1522132506925" duration="12546000" />
+      <workItem from="1522214771609" duration="5591000" />
+      <workItem from="1522312516959" duration="4910000" />
+      <workItem from="1522409607985" duration="2501000" />
+      <workItem from="1522521932545" duration="20553000" />
+      <workItem from="1522773200243" duration="3260000" />
+      <workItem from="1522818311248" duration="14743000" />
+      <workItem from="1522912024296" duration="4494000" />
+      <workItem from="1523002416704" duration="17928000" />
+      <workItem from="1523270178222" duration="3757000" />
+      <workItem from="1523277887077" duration="9287000" />
+      <workItem from="1523340597422" duration="12335000" />
+      <workItem from="1523423204602" duration="6879000" />
+      <workItem from="1523608278603" duration="25671000" />
+      <workItem from="1523768443001" duration="10009000" />
+      <workItem from="1523881946897" duration="12517000" />
+      <workItem from="1523945857058" duration="28925000" />
+      <workItem from="1524123149269" duration="16122000" />
+      <workItem from="1524249092061" duration="3652000" />
+      <workItem from="1524285845195" duration="54035000" />
+      <workItem from="1524458857267" duration="21458000" />
+      <workItem from="1524551938306" duration="1484000" />
+      <workItem from="1524665033707" duration="49635000" />
+      <workItem from="1524889856278" duration="27285000" />
+      <workItem from="1524976836712" duration="20646000" />
+      <workItem from="1525152123846" duration="23372000" />
+      <workItem from="1525242925842" duration="50222000" />
+      <workItem from="1525756505938" duration="2910000" />
+      <workItem from="1525855017904" duration="1304000" />
+      <workItem from="1527324162827" duration="3133000" />
+      <workItem from="1527379375066" duration="12872000" />
+      <workItem from="1527417057706" duration="7016000" />
+      <workItem from="1527448023397" duration="22000" />
+      <workItem from="1527589684156" duration="6167000" />
+      <workItem from="1529047000623" duration="8030000" />
+      <workItem from="1529240590580" duration="10076000" />
+      <workItem from="1529310924374" duration="4493000" />
+      <workItem from="1529340147017" duration="628000" />
+      <workItem from="1529383268890" duration="224000" />
+      <workItem from="1529774689180" duration="788000" />
+      <workItem from="1529825440777" duration="7836000" />
+      <workItem from="1529902439751" duration="8312000" />
+      <workItem from="1530022808051" duration="1220000" />
+      <workItem from="1530203980826" duration="62627000" />
+      <workItem from="1530684467985" duration="29975000" />
+      <workItem from="1530855832964" duration="9334000" />
+      <workItem from="1530878173214" duration="6042000" />
+      <workItem from="1530941523182" duration="7199000" />
+      <workItem from="1530951466375" duration="1611000" />
+      <workItem from="1531369242854" duration="12026000" />
+      <workItem from="1531850671519" duration="1244000" />
+      <workItem from="1531887979417" duration="515000" />
+      <workItem from="1531936480814" duration="17862000" />
+      <workItem from="1532083991131" duration="8185000" />
+      <workItem from="1532172855792" duration="1620000" />
+      <workItem from="1533041659630" duration="8840000" />
+      <workItem from="1533095195940" duration="53000" />
+      <workItem from="1533114619031" duration="34000" />
+      <workItem from="1533129426517" duration="1783000" />
+      <workItem from="1533132247264" duration="1302000" />
+      <workItem from="1533142629643" duration="4081000" />
+      <workItem from="1533197190258" duration="587000" />
+      <workItem from="1533217651655" duration="622000" />
+      <workItem from="1533279325560" duration="7745000" />
+      <workItem from="1533355224557" duration="276000" />
+      <workItem from="1533357212504" duration="225000" />
+      <workItem from="1533361256917" duration="47000" />
+      <workItem from="1533387529803" duration="6618000" />
+      <workItem from="1533445400995" duration="148000" />
+      <workItem from="1533457730179" duration="1367000" />
+      <workItem from="1533558901754" duration="11368000" />
+      <workItem from="1533646517361" duration="8469000" />
+      <workItem from="1533788515862" duration="12601000" />
+      <workItem from="1533891780642" duration="5001000" />
+      <workItem from="1533959719198" duration="75000" />
+      <workItem from="1534001842034" duration="3067000" />
+      <workItem from="1534046191347" duration="335000" />
+      <workItem from="1534273431187" duration="2266000" />
+      <workItem from="1534349128373" duration="3312000" />
+      <workItem from="1534394130778" duration="3956000" />
+      <workItem from="1534399909667" duration="993000" />
+      <workItem from="1534403518447" duration="597000" />
+      <workItem from="1534423131353" duration="2478000" />
+      <workItem from="1534491072231" duration="11535000" />
+      <workItem from="1534688210904" duration="4418000" />
+      <workItem from="1534874799613" duration="4598000" />
+      <workItem from="1534916139058" duration="15664000" />
+      <workItem from="1535008700041" duration="853000" />
+      <workItem from="1535093715184" duration="14666000" />
+      <workItem from="1535201772724" duration="7789000" />
+      <workItem from="1535287945306" duration="11240000" />
+      <workItem from="1535344812595" duration="4118000" />
+      <workItem from="1535861660383" duration="6655000" />
+      <workItem from="1535947650196" duration="3722000" />
+      <workItem from="1536211353847" duration="28000" />
+      <workItem from="1537622505690" duration="12614000" />
+      <workItem from="1537767169372" duration="9193000" />
+      <workItem from="1537817772821" duration="893000" />
+      <workItem from="1537979292157" duration="3574000" />
+      <workItem from="1538026445032" duration="12391000" />
+      <workItem from="1538235300273" duration="1903000" />
+      <workItem from="1538381904112" duration="4535000" />
+      <workItem from="1538586524670" duration="2785000" />
+      <workItem from="1538894046119" duration="599000" />
+      <workItem from="1539331106290" duration="1204000" />
+      <workItem from="1539409561692" duration="27747000" />
+      <workItem from="1539581890473" duration="4282000" />
+      <workItem from="1539847749112" duration="60000" />
+      <workItem from="1540966150889" duration="27242000" />
+      <workItem from="1541151998995" duration="709000" />
+      <workItem from="1541329053097" duration="3979000" />
+      <workItem from="1541529979612" duration="24902000" />
+      <workItem from="1541748385428" duration="13264000" />
+      <workItem from="1541964587741" duration="19316000" />
+      <workItem from="1542112468886" duration="23291000" />
+      <workItem from="1542354057487" duration="8854000" />
+      <workItem from="1542481710258" duration="4070000" />
+      <workItem from="1542813796942" duration="695000" />
+      <workItem from="1542868125343" duration="595000" />
+      <workItem from="1542892689111" duration="25473000" />
+      <workItem from="1543471375330" duration="31627000" />
+      <workItem from="1543870260849" duration="135000" />
+      <workItem from="1544511224535" duration="1311000" />
+      <workItem from="1544861236467" duration="180000" />
+      <workItem from="1546078210631" duration="6237000" />
+      <workItem from="1546502650717" duration="28060000" />
+      <workItem from="1546590598707" duration="13817000" />
+      <workItem from="1546775571210" duration="8493000" />
+      <workItem from="1546889620046" duration="1201000" />
+      <workItem from="1547372572333" duration="202000" />
+      <workItem from="1548792051980" duration="1518000" />
+      <workItem from="1548828379158" duration="4510000" />
+      <workItem from="1549089493325" duration="11169000" />
+      <workItem from="1549176142771" duration="6532000" />
+      <workItem from="1549298134180" duration="6719000" />
+      <workItem from="1549435167671" duration="10278000" />
+      <workItem from="1549620672763" duration="226000" />
+      <workItem from="1549634376120" duration="1201000" />
+      <workItem from="1549706520023" duration="10521000" />
+      <workItem from="1549782351026" duration="9615000" />
+      <workItem from="1550006808909" duration="766000" />
+      <workItem from="1550040171990" duration="12571000" />
+      <workItem from="1550260341792" duration="236000" />
+      <workItem from="1550267208140" duration="15265000" />
+      <workItem from="1550387460146" duration="6529000" />
+      <workItem from="1550651819946" duration="6095000" />
+      <workItem from="1550732798611" duration="3862000" />
+      <workItem from="1550824149445" duration="5219000" />
+      <workItem from="1551075613345" duration="6218000" />
+      <workItem from="1551164777735" duration="10598000" />
+      <workItem from="1551376393607" duration="3458000" />
+      <workItem from="1551449874936" duration="3025000" />
+      <workItem from="1551512605479" duration="2936000" />
+      <workItem from="1551608021465" duration="972000" />
+      <workItem from="1551993233614" duration="855000" />
+      <workItem from="1552027511215" duration="1811000" />
+      <workItem from="1552556711987" duration="22434000" />
+      <workItem from="1552824733009" duration="746000" />
+      <workItem from="1552981365125" duration="18742000" />
+      <workItem from="1553326369055" duration="30899000" />
+      <workItem from="1553670433535" duration="29413000" />
+      <workItem from="1554017366372" duration="28817000" />
+      <workItem from="1554637721683" duration="9176000" />
+      <workItem from="1554790801401" duration="8569000" />
+      <workItem from="1554876844408" duration="20994000" />
+      <workItem from="1555135839586" duration="15409000" />
+      <workItem from="1555241067466" duration="8272000" />
+      <workItem from="1555331060223" duration="12388000" />
+      <workItem from="1555568072310" duration="7120000" />
+      <workItem from="1555741181826" duration="3276000" />
+      <workItem from="1555914477808" duration="9969000" />
+      <workItem from="1557476303409" duration="167000" />
+      <workItem from="1557499636417" duration="634000" />
+      <workItem from="1557660738665" duration="76000" />
+      <workItem from="1557835007805" duration="322000" />
+      <workItem from="1558598537232" duration="2406000" />
+      <workItem from="1562138949566" duration="7390000" />
+      <workItem from="1562323688329" duration="1213000" />
+      <workItem from="1567411215560" duration="10708000" />
+      <workItem from="1568699391023" duration="49000" />
+      <workItem from="1577094357332" duration="8457000" />
+      <workItem from="1581512610586" duration="587000" />
+      <workItem from="1587631069626" duration="2157000" />
+      <workItem from="1587638644825" duration="3073000" />
+      <workItem from="1594369667357" duration="1213000" />
+      <workItem from="1594579119653" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1640393000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\wamp64\www\mousetrc</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/product_content_close.php</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/1.png" />
+    <entry file="file://E:/IT/پایان نامه/قالب پروژه/new_shop/web/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="248" column="58" selection-start-line="248" selection-start-column="52" selection-end-line="248" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/elementsPosition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wawimp/wp-content/plugins/fre_fields/template/edit-field.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/category_top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/category_item_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="176" column="42" selection-start-line="176" selection-start-column="42" selection-end-line="176" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/posttype.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/price_metabox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/thumbnails_metabox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/colors_metabox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="3" column="88" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/admin/product/gallery_metabox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/metaboxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="85" column="63" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smt2/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/product_content_close.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="120" column="7" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1340">
+          <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/dbmodification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="28" column="82" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/general/smtdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="136" column="40" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/sessionhandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/remodal.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/cleansing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/procedure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1618" column="9" selection-start-line="1618" selection-start-column="9" selection-end-line="1618" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/page-analysis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/analysis/features.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="164" column="26" selection-start-line="164" selection-start-column="26" selection-end-line="164" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/product_comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/banner_top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/general/lottery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/constant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/attributes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="27" column="108" selection-start-line="27" selection-start-column="108" selection-end-line="27" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/theme/cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/taxonomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/theme/asset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/theme/initializer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/theme/optionsPanel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/basket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/basket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="120" column="22" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/taxonomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/themeAutoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/app/classes/product/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/views/partials/single_top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1480">
+          <caret line="79" column="56" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/mytheme/assets/js/mousetrcscripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4980">
+          <caret line="249" column="44" selection-start-line="249" selection-start-column="32" selection-end-line="249" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

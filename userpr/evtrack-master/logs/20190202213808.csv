@@ -1,0 +1,13 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1549143457786 0 0 load / {} {}
+0 1549143584514 566 550 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143584575 501 463 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143584635 347 287 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143584696 205 165 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143584756 168 105 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143584817 161 78 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549143584876 161 54 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143584937 159 34 mousemove /html/body/div[2]/div/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549143584997 136 14 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143585057 116 0 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143587025 0 0 unload / {} {}

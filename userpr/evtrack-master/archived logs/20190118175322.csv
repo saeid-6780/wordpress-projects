@@ -1,0 +1,156 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1547821373403 0 0 load / {} {}
+0 1547821414587 0 0 scroll / {} {}
+0 1547821414966 816 3 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547821415025 652 133 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821415080 623 186 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1547821415142 598 353 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821415192 583 470 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821415245 571 550 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415310 567 556 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415360 564 558 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415361 564 558 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415377 564 562 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415378 0 0 scroll / {} {}
+0 1547821415393 0 0 scroll / {} {}
+0 1547821415408 564 602 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415409 0 0 scroll / {} {}
+0 1547821415423 564 643 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415424 0 0 scroll / {} {}
+0 1547821415441 564 705 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415441 0 0 scroll / {} {}
+0 1547821415456 0 0 scroll / {} {}
+0 1547821415475 0 0 scroll / {} {}
+0 1547821415493 564 938 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821415493 0 0 scroll / {} {}
+0 1547821415678 0 0 scroll / {} {}
+0 1547821416048 564 1154 mousemove //*[@id='product-187-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1547821416103 568 1116 mousemove //*[@id='product-187-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/plantronics-backbeat-fit-handsfree/"}} {}
+0 1547821416164 572 1067 mousemove //*[@id='product-187-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/plantronics-backbeat-fit-handsfree/"}} {}
+0 1547821416234 577 1046 mousemove //*[@id='product-187-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821416326 580 1040 mousemove //*[@id='product-187-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821417801 580 1039 mousemove //*[@id='product-187-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821417857 572 1043 mousemove //*[@id='product-187-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821417895 569 1046 mousewheel //*[@id='product-187-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821417907 0 0 scroll / {} {}
+0 1547821417922 569 1054 mousewheel //*[@id='product-187-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821417923 0 0 scroll / {} {}
+0 1547821417938 0 0 scroll / {} {}
+0 1547821417956 569 1088 mousewheel //*[@id='product-187-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821417956 0 0 scroll / {} {}
+0 1547821417972 0 0 scroll / {} {}
+0 1547821417989 569 1163 mousewheel //*[@id='product-187-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Plantronics-BackBeat-Fit-Handsfree1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821417990 0 0 scroll / {} {}
+0 1547821418005 0 0 scroll / {} {}
+0 1547821418022 0 0 scroll / {} {}
+0 1547821418037 0 0 scroll / {} {}
+0 1547821418053 0 0 scroll / {} {}
+0 1547821418072 0 0 scroll / {} {}
+0 1547821418087 0 0 scroll / {} {}
+0 1547821418104 0 0 scroll / {} {}
+0 1547821418122 0 0 scroll / {} {}
+0 1547821418857 569 1446 mousemove //*[@id='product-177-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Level-U-Pro-Wireless-Headphone1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821418872 568 1448 mousewheel //*[@id='product-177-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Level-U-Pro-Wireless-Headphone1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821418891 568 1456 mousewheel //*[@id='product-177-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Level-U-Pro-Wireless-Headphone1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821418892 0 0 scroll / {} {}
+0 1547821418904 0 0 scroll / {} {}
+0 1547821418921 567 1489 mousewheel //*[@id='product-177-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Level-U-Pro-Wireless-Headphone1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821418922 0 0 scroll / {} {}
+0 1547821418939 0 0 scroll / {} {}
+0 1547821418956 567 1561 mousewheel //*[@id='product-177-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Level-U-Pro-Wireless-Headphone1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821418956 0 0 scroll / {} {}
+0 1547821418972 0 0 scroll / {} {}
+0 1547821418985 0 0 scroll / {} {}
+0 1547821419005 0 0 scroll / {} {}
+0 1547821419022 0 0 scroll / {} {}
+0 1547821419035 0 0 scroll / {} {}
+0 1547821419054 0 0 scroll / {} {}
+0 1547821419071 0 0 scroll / {} {}
+0 1547821419086 0 0 scroll / {} {}
+0 1547821419523 566 1850 mousemove //*[@id='product-166-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821419575 566 1859 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821419640 566 1884 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821419690 567 1903 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821419755 565 1921 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821419805 558 1934 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821419856 553 1945 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821419907 549 1950 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821420184 549 1951 mousemove //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821420209 549 1951 mousewheel //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821420218 0 0 scroll / {} {}
+0 1547821420237 0 0 scroll / {} {}
+0 1547821420252 548 1966 mousewheel //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821420253 0 0 scroll / {} {}
+0 1547821420272 0 0 scroll / {} {}
+0 1547821420292 546 2005 mousewheel //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821420292 0 0 scroll / {} {}
+0 1547821420302 0 0 scroll / {} {}
+0 1547821420320 0 0 scroll / {} {}
+0 1547821420335 0 0 scroll / {} {}
+0 1547821420353 546 2170 mousewheel //*[@id='product-166-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821420354 0 0 scroll / {} {}
+0 1547821420367 0 0 scroll / {} {}
+0 1547821420385 0 0 scroll / {} {}
+0 1547821420409 0 0 scroll / {} {}
+0 1547821420418 0 0 scroll / {} {}
+0 1547821420436 0 0 scroll / {} {}
+0 1547821420451 0 0 scroll / {} {}
+0 1547821420475 0 0 scroll / {} {}
+0 1547821420856 546 2298 mousemove //*[@id='parentVerticalTab']/form/div/div[4] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-3","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821420925 496 2263 mousemove //*[@id='product-166-grid-info'] {"DIV":{"id":"product-166-grid-info","class":"women"}} {}
+0 1547821420990 428 2203 mousemove //*[@id='product-170-grid-info'] {"DIV":{"id":"product-170-grid-info","class":"women"}} {}
+0 1547821421056 398 2119 mousemove //*[@id='product-170-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/earphones-s8-akg-eo-ig955/"}} {}
+0 1547821421123 385 2055 mousemove //*[@id='product-170-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Earphones-S8-AKG-EO-IG9552.jpg","class":"img-responsive","alt":""}} {}
+0 1547821421188 384 2032 mousemove //*[@id='product-170-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Earphones-S8-AKG-EO-IG9552.jpg","class":"img-responsive","alt":""}} {}
+0 1547821421326 383 2031 mousemove //*[@id='product-170-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Earphones-S8-AKG-EO-IG9552.jpg","class":"img-responsive","alt":""}} {}
+0 1547821421588 384 2030 mousemove //*[@id='product-170-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Earphones-S8-AKG-EO-IG9551.jpg","class":"img-responsive","alt":""}} {}
+0 1547821421639 452 2025 mousemove //*[@id='product-170'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-170","data-product-id":"170"}} {}
+0 1547821421689 626 2002 mousemove //*[@id='product-166-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821421741 776 1983 mousemove //*[@id='product-162-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-HBS-770-Tone-Pro-Bluetooth-Stereo-Headset2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821421804 866 1963 mousemove //*[@id='product-162-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-HBS-770-Tone-Pro-Bluetooth-Stereo-Headset2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821421972 868 1963 mousemove //*[@id='product-162-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-HBS-770-Tone-Pro-Bluetooth-Stereo-Headset2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821423219 868 1963 click //*[@id='product-162-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-HBS-770-Tone-Pro-Bluetooth-Stereo-Headset1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821424217 0 0 unload / {} {}
+0 1547821430554 0 0 scroll / {} {}
+0 1547821430755 1028 3 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1547821430820 947 113 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821430882 836 264 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1547821430946 720 417 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821430998 616 566 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821431063 595 594 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431146 589 598 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431198 588 599 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431212 588 603 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431213 0 0 scroll / {} {}
+0 1547821431229 0 0 scroll / {} {}
+0 1547821431248 588 639 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431249 0 0 scroll / {} {}
+0 1547821431263 588 678 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431265 0 0 scroll / {} {}
+0 1547821431281 588 737 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431281 0 0 scroll / {} {}
+0 1547821431296 0 0 scroll / {} {}
+0 1547821431315 0 0 scroll / {} {}
+0 1547821431329 588 998 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1547821431330 0 0 scroll / {} {}
+0 1547821431493 0 0 scroll / {} {}
+0 1547821431885 588 1198 mousemove //*[@id='product-154-grid-info'] {"DIV":{"id":"product-154-grid-info","class":"women"}} {}
+0 1547821432340 588 1194 mousemove //*[@id='product-154-grid-info'] {"DIV":{"id":"product-154-grid-info","class":"women"}} {}
+0 1547821432402 598 1171 mousemove //*[@id='product-154-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1547821432460 612 1070 mousemove //*[@id='product-154-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-clear-view-standing-flip-cover-for-galaxy-note-8/"}} {}
+0 1547821432514 596 1039 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821432566 588 1031 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821432666 587 1030 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821432766 587 1025 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821432847 587 1023 mousemove //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821437533 587 1021 mousemove //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821437594 494 1021 mousemove //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821437646 290 1004 mousemove //*[@id='product-158-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-LED-View-Flip-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821437827 232 990 mousemove //*[@id='product-158-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-LED-View-Flip-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821437878 246 981 mousemove //*[@id='product-158-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-LED-View-Flip-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821437944 281 972 mousemove //*[@id='product-158-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-LED-View-Flip-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821443412 289 971 mousemove //*[@id='product-158-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-LED-View-Flip-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821443474 402 959 mousemove //*[@id='product-158-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-LED-View-Flip-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821443543 589 956 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821445173 603 954 click //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821445945 0 0 unload / {} {}

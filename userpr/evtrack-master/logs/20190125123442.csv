@@ -1,0 +1,27 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548407079125 1365 436 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1548407079492 1363 445 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1548407079575 1360 447 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1548407079919 1347 330 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548407080154 1296 325 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548407080156 0 0 load / {} {}
+0 1548407080163 0 0 scroll / {} {}
+0 1548407080559 1157 302 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548407080623 603 235 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1548407080688 370 148 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548407080739 346 143 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548407080957 346 142 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548407081022 234 49 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407081089 194 20 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407081155 188 17 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548407081271 184 17 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548407081323 175 22 mousemove /html/body/div[2]/div[1]/div[1]/div[2] {"DIV":{"class":"header-right"}} {}
+0 1548407081387 156 32 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407081438 150 34 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407081505 148 34 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407081708 147 34 click /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407082142 149 35 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407082205 167 40 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407082271 198 49 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407082321 202 50 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info","dideo-checked":"true"}} {}
+0 1548407082813 0 0 unload / {} {}

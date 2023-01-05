@@ -1,0 +1,62 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548406853334 0 0 load / {} {}
+0 1548407012476 506 720 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407012537 560 708 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407015609 582 712 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407015671 521 727 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407015722 468 730 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407015772 443 730 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407015839 433 728 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407015904 431 740 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407015955 429 778 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407016149 430 795 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407016205 486 742 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407016272 757 559 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548407016322 800 538 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548407016528 801 538 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548407016587 785 518 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5]/span[2] {"SPAN":{"class":"red-text"}} {}
+0 1548407016638 778 460 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548407016688 782 401 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548407016738 794 372 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548407016968 791 368 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548407017021 731 374 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548407017072 663 369 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548407017138 606 326 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548407017188 588 272 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548407017239 586 242 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548407017438 585 242 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548407017518 586 242 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548407017571 631 223 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548407017621 682 214 mousemove /html/body/div[3]/div[2]/div[2]/div/header {"HEADER":{}} {}
+0 1548407017671 693 216 mousemove /html/body/div[3]/div[2]/div[2]/div/header {"HEADER":{}} {}
+0 1548407017722 686 230 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548407017772 630 245 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548407017822 526 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1]/span[1] {"SPAN":{"class":"red-text"}} {}
+0 1548407017872 431 247 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548407017922 386 245 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407017981 369 244 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018132 369 244 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018239 369 244 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018466 368 244 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018531 362 245 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018582 353 240 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018632 348 233 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018682 348 228 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018748 357 221 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407018800 393 215 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019066 427 221 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548407019131 395 208 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019183 368 175 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019233 356 137 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019298 357 109 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019596 357 106 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019648 346 104 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019700 335 94 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019765 329 76 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019815 328 67 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019866 329 64 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407019933 340 63 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407020157 350 66 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407020215 331 51 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407020265 305 6 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548407022944 0 0 unload / {} {}

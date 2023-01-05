@@ -1,0 +1,67 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1552824960356 0 0 load / {} {}
+0 1552824960370 0 0 scroll / {} {}
+0 1552824960838 421 273 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552824960902 421 273 mousewheel //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552824960910 0 0 scroll / {} {}
+0 1552824960929 0 0 scroll / {} {}
+0 1552824960949 0 0 scroll / {} {}
+0 1552824960972 421 309 mousewheel //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552824960972 0 0 scroll / {} {}
+0 1552824960992 0 0 scroll / {} {}
+0 1552824961013 0 0 scroll / {} {}
+0 1552824961032 0 0 scroll / {} {}
+0 1552824961052 0 0 scroll / {} {}
+0 1552824961072 0 0 scroll / {} {}
+0 1552824961092 0 0 scroll / {} {}
+0 1552824961114 421 474 mousewheel //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552824961114 0 0 scroll / {} {}
+0 1552824961132 0 0 scroll / {} {}
+0 1552824961152 421 508 mousewheel //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552824961152 0 0 scroll / {} {}
+0 1552824961172 0 0 scroll / {} {}
+0 1552824961192 0 0 scroll / {} {}
+0 1552824961215 0 0 scroll / {} {}
+0 1552824961233 0 0 scroll / {} {}
+0 1552824961253 0 0 scroll / {} {}
+0 1552824961272 0 0 scroll / {} {}
+0 1552824961292 0 0 scroll / {} {}
+0 1552824961313 0 0 scroll / {} {}
+0 1552824961373 422 670 mousemove //*[@id='myTab'] {"UL":{"id":"myTab","class":"nav nav-tabs left-tab","role":"tablist"}} {}
+0 1552824961558 423 670 mousewheel //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552824961558 0 0 scroll / {} {}
+0 1552824961574 0 0 scroll / {} {}
+0 1552824961594 423 689 mousewheel //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1552824961594 0 0 scroll / {} {}
+0 1552824961614 0 0 scroll / {} {}
+0 1552824961633 0 0 scroll / {} {}
+0 1552824961654 0 0 scroll / {} {}
+0 1552824961674 0 0 scroll / {} {}
+0 1552824961694 0 0 scroll / {} {}
+0 1552824961714 0 0 scroll / {} {}
+0 1552824961734 0 0 scroll / {} {}
+0 1552824961775 0 0 scroll / {} {}
+0 1552824961856 423 869 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1552824961996 423 866 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1552824962057 424 864 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1552824962116 447 862 mousemove //*[@id='product-154-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1552824962176 538 862 mousemove //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824962237 596 862 mousemove //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1552824962298 601 860 mousemove //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1552824962655 604 860 mousemove //*[@id='product-150']/div {"DIV":{"class":"grid-arr"}} {}
+0 1552824962719 620 860 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1552824962781 646 860 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1552824962840 681 860 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1552824963240 693 860 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824963361 694 859 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824963421 699 858 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824963481 709 856 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824963541 719 855 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824963754 721 854 click //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824964078 723 854 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824964143 751 883 mousemove //*[@id='product-150-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1552824964204 823 931 mousemove //*[@id='product-150-grid-img']/a {"A":{"href":"http://userpr.ir/product/nillkin-defender-2-cover-for-samsung-galaxy-note-8/","class":"new-gri"}} {}
+0 1552824964266 928 1002 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1552824964325 1003 1089 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1552824964385 1037 1149 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1552824966046 0 0 unload / {} {}

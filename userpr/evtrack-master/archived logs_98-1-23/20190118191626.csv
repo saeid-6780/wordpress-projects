@@ -1,0 +1,365 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1547826354713 0 0 load / {} {}
+0 1547826354722 0 0 scroll / {} {}
+0 1547826355824 791 71 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547826355884 797 70 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547826355934 811 67 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547826356336 818 64 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547826356400 848 58 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547826356451 938 35 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1547826388762 314 8 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1547826388818 310 71 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826388880 283 130 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826388931 292 157 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1547826388982 427 200 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1547826389042 870 280 mousemove //*[@id='slider-id-']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1547826389099 1206 361 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 247.403px; left: 979.712px;"}} {}
+0 1547826389152 1181 373 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 258.403px; left: 979.712px;"}} {}
+0 1547826389215 1041 361 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 258.403px; left: 930.325px;"}} {}
+0 1547826389423 1038 361 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 258.403px; left: 916.325px;"}} {}
+0 1547826389482 1032 341 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 242.403px; left: 909.325px;"}} {}
+0 1547826389532 1027 335 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 234.403px; left: 905.325px;"}} {}
+0 1547826389583 961 319 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 226.403px; left: 876.325px;"}} {}
+0 1547826389647 817 290 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1547826389698 759 282 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1547826389824 714 284 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1547826389884 714 287 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1547826389934 717 292 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1547826389984 740 298 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1547826390035 789 298 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826390100 809 300 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826390150 823 302 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826390210 892 318 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1547826390267 943 333 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 228.403px; left: 850.882px;"}} {}
+0 1547826390332 950 334 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 231.403px; left: 850.882px;"}} {}
+0 1547826390383 963 339 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 233.403px; left: 850.882px;"}} {}
+0 1547826390448 998 350 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 243.403px; left: 862.325px;"}} {}
+0 1547826390500 1032 361 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 254.403px; left: 896.325px;"}} {}
+0 1547826390567 1058 373 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 268.403px; left: 929.325px;"}} {}
+0 1547826390699 1059 375 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 271.403px; left: 934.325px;"}} {}
+0 1547826390766 1055 380 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 274.403px; left: 933.325px;"}} {}
+0 1547826390830 1035 390 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 283.403px; left: 918.325px;"}} {}
+0 1547826390881 1000 401 mousemove /html/body/div[3] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 294.403px; left: 895.325px;"}} {}
+0 1547826390937 920 416 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -166.325px; left: 5.47118e-14px;"}} {}
+0 1547826390999 850 426 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -195.2px; left: 5.47118e-14px;"}} {}
+0 1547826391097 845 427 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -200.975px; left: 5.47118e-14px;"}} {}
+0 1547826391147 842 429 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -202.9px; left: 5.47118e-14px;"}} {}
+0 1547826391200 836 431 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826391264 834 431 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826391314 833 431 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826391381 815 431 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826391431 792 428 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826391495 787 425 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1547826391548 791 418 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826391598 827 392 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826391664 883 374 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -102.8px; left: 5.47118e-14px;"}} {}
+0 1547826391714 909 370 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -95.1px; left: 5.47118e-14px;"}} {}
+0 1547826391765 928 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 267.403px; left: 842.063px;"}} {}
+0 1547826391815 944 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 267.403px; left: 842.063px;"}} {}
+0 1547826391880 955 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 267.403px; left: 842.063px;"}} {}
+0 1547826392031 959 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 267.403px; left: 842.063px;"}} {}
+0 1547826392098 965 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 267.403px; left: 842.063px;"}} {}
+0 1547826392167 966 373 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 269.403px; left: 842.063px;"}} {}
+0 1547826392235 923 383 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -104.725px; left: 5.47118e-14px;"}} {}
+0 1547826392299 839 399 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -145.15px; left: 5.47118e-14px;"}} {}
+0 1547826392363 790 401 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826392415 768 403 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826392480 746 404 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826392532 736 404 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826392631 723 405 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826392703 723 402 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826392807 723 402 mousewheel //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826392816 0 0 scroll / {} {}
+0 1547826392832 0 0 scroll / {} {}
+0 1547826392849 0 0 scroll / {} {}
+0 1547826392865 0 0 scroll / {} {}
+0 1547826392880 0 0 scroll / {} {}
+0 1547826392898 0 0 scroll / {} {}
+0 1547826392915 0 0 scroll / {} {}
+0 1547826392930 0 0 scroll / {} {}
+0 1547826392949 724 488 mousewheel //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826392949 0 0 scroll / {} {}
+0 1547826392964 0 0 scroll / {} {}
+0 1547826392981 0 0 scroll / {} {}
+0 1547826392999 724 525 mousewheel //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826393002 0 0 scroll / {} {}
+0 1547826393014 0 0 scroll / {} {}
+0 1547826393034 0 0 scroll / {} {}
+0 1547826393048 0 0 scroll / {} {}
+0 1547826393065 0 0 scroll / {} {}
+0 1547826393085 0 0 scroll / {} {}
+0 1547826393100 0 0 scroll / {} {}
+0 1547826393114 0 0 scroll / {} {}
+0 1547826393134 0 0 scroll / {} {}
+0 1547826393151 0 0 scroll / {} {}
+0 1547826393166 0 0 scroll / {} {}
+0 1547826393199 728 696 mousewheel //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826393199 0 0 scroll / {} {}
+0 1547826393213 0 0 scroll / {} {}
+0 1547826393233 0 0 scroll / {} {}
+0 1547826393249 0 0 scroll / {} {}
+0 1547826393265 0 0 scroll / {} {}
+0 1547826393282 0 0 scroll / {} {}
+0 1547826393299 0 0 scroll / {} {}
+0 1547826393317 0 0 scroll / {} {}
+0 1547826393333 0 0 scroll / {} {}
+0 1547826393349 0 0 scroll / {} {}
+0 1547826393366 0 0 scroll / {} {}
+0 1547826393433 861 772 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"","draggable":"false"}} {}
+0 1547826393498 924 762 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"","draggable":"false"}} {}
+0 1547826393565 932 759 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"","draggable":"false"}} {}
+0 1547826393616 936 751 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"","draggable":"false"}} {}
+0 1547826393682 945 737 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"","draggable":"false"}} {}
+0 1547826393732 946 732 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"","draggable":"false"}} {}
+0 1547826393864 946 728 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"","draggable":"false"}} {}
+0 1547826393985 946 728 click //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394166 946 727 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394250 945 727 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394383 941 725 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394515 941 724 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394532 941 724 mousewheel //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394548 0 0 scroll / {} {}
+0 1547826394565 941 717 mousewheel //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394565 0 0 scroll / {} {}
+0 1547826394581 0 0 scroll / {} {}
+0 1547826394600 941 686 mousewheel //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394600 0 0 scroll / {} {}
+0 1547826394614 0 0 scroll / {} {}
+0 1547826394631 0 0 scroll / {} {}
+0 1547826394648 0 0 scroll / {} {}
+0 1547826394664 0 0 scroll / {} {}
+0 1547826394682 941 513 mousewheel //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826394682 0 0 scroll / {} {}
+0 1547826394698 0 0 scroll / {} {}
+0 1547826394714 0 0 scroll / {} {}
+0 1547826394731 0 0 scroll / {} {}
+0 1547826394748 0 0 scroll / {} {}
+0 1547826394764 0 0 scroll / {} {}
+0 1547826394782 0 0 scroll / {} {}
+0 1547826394798 0 0 scroll / {} {}
+0 1547826394814 0 0 scroll / {} {}
+0 1547826394831 0 0 scroll / {} {}
+0 1547826394848 0 0 scroll / {} {}
+0 1547826394998 941 322 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 221.403px; left: 941px;"}} {}
+0 1547826395063 945 323 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 219.403px; left: 842.063px;"}} {}
+0 1547826395114 980 334 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 227.403px; left: 842.063px;"}} {}
+0 1547826395164 1039 348 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 238.403px; left: 876.325px;"}} {}
+0 1547826395215 1075 349 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 246.403px; left: 947.325px;"}} {}
+0 1547826395335 1074 349 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 246.403px; left: 950.325px;"}} {}
+0 1547826395398 1038 347 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 244.403px; left: 931.325px;"}} {}
+0 1547826395469 917 349 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -87.4px; left: 5.47118e-14px;"}} {}
+0 1547826395531 860 359 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -106.65px; left: 5.47118e-14px;"}} {}
+0 1547826395583 854 360 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -110.5px; left: 5.47118e-14px;"}} {}
+0 1547826395647 845 361 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -110.5px; left: 5.47118e-14px;"}} {}
+0 1547826395748 841 362 mousemove //*[@id='product-slider']/div {"DIV":{"class":"flex-viewport","style":"overflow: hidden; position: relative;"}} {}
+0 1547826395814 835 362 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 259.403px; left: 592.712px;"}} {}
+0 1547826395878 831 362 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 259.403px; left: 592.712px;"}} {}
+0 1547826395930 831 361 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 259.403px; left: 592.712px;"}} {}
+0 1547826395981 831 356 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 255.403px; left: 592.712px;"}} {}
+0 1547826396031 836 352 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 251.403px; left: 592.712px;"}} {}
+0 1547826396081 841 345 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 244.403px; left: 592.712px;"}} {}
+0 1547826396132 856 338 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -77.775px; left: 5.47118e-14px;"}} {}
+0 1547826396197 908 320 mousemove /html/body/div[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -43.125px; left: 5.47118e-14px;"}} {}
+0 1547826396247 956 315 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 842.063px;"}} {}
+0 1547826396297 984 315 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 849.325px;"}} {}
+0 1547826396348 1001 315 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 873.325px;"}} {}
+0 1547826396527 999 315 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 876.325px;"}} {}
+0 1547826396580 976 319 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 213.403px; left: 864.325px;"}} {}
+0 1547826396636 920 334 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -50.825px; left: 5.47118e-14px;"}} {}
+0 1547826396698 862 345 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -77.775px; left: 5.47118e-14px;"}} {}
+0 1547826396823 859 347 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -81.625px; left: 5.47118e-14px;"}} {}
+0 1547826396880 847 352 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -91.25px; left: 5.47118e-14px;"}} {}
+0 1547826396930 807 363 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826396980 760 380 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826397031 729 388 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826397096 712 392 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826397146 703 393 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826397303 705 393 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826397363 755 383 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1547826397413 826 374 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826397463 915 355 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -123.975px; left: 5.47118e-14px;"}} {}
+0 1547826397514 939 347 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 245.403px; left: 842.063px;"}} {}
+0 1547826397564 943 346 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 244.403px; left: 842.063px;"}} {}
+0 1547826397631 951 342 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 240.403px; left: 842.063px;"}} {}
+0 1547826397681 959 338 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 237.403px; left: 842.063px;"}} {}
+0 1547826397732 967 335 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 232.403px; left: 842.063px;"}} {}
+0 1547826397797 979 332 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 230.403px; left: 848.325px;"}} {}
+0 1547826398111 987 329 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 226.403px; left: 861.325px;"}} {}
+0 1547826398165 994 329 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 226.403px; left: 865.325px;"}} {}
+0 1547826398230 1035 329 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 226.403px; left: 903.325px;"}} {}
+0 1547826398583 1042 329 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 226.403px; left: 915.325px;"}} {}
+0 1547826398639 1042 327 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 226.403px; left: 917.325px;"}} {}
+0 1547826398697 1046 323 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 221.403px; left: 920.325px;"}} {}
+0 1547826398748 1053 318 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 216.403px; left: 926.325px;"}} {}
+0 1547826398814 1056 315 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 214.403px; left: 930.325px;"}} {}
+0 1547826399343 1056 315 mousewheel /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 931.325px;"}} {}
+0 1547826399346 0 0 scroll / {} {}
+0 1547826399364 0 0 scroll / {} {}
+0 1547826399380 1056 328 mousewheel /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 931.325px;"}} {}
+0 1547826399381 0 0 scroll / {} {}
+0 1547826399396 0 0 scroll / {} {}
+0 1547826399414 1056 359 mousewheel /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 931.325px;"}} {}
+0 1547826399415 0 0 scroll / {} {}
+0 1547826399433 1056 386 mousewheel /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 931.325px;"}} {}
+0 1547826399433 0 0 scroll / {} {}
+0 1547826399447 0 0 scroll / {} {}
+0 1547826399465 0 0 scroll / {} {}
+0 1547826399498 0 0 scroll / {} {}
+0 1547826399514 0 0 scroll / {} {}
+0 1547826399531 0 0 scroll / {} {}
+0 1547826399548 0 0 scroll / {} {}
+0 1547826399565 0 0 scroll / {} {}
+0 1547826399585 0 0 scroll / {} {}
+0 1547826399648 1076 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree2.jpg","draggable":"false","class":""}} {}
+0 1547826399698 1109 703 mousemove //*[@id='product-slider']/ol {"OL":{"class":"flex-control-nav flex-control-thumbs"}} {}
+0 1547826399764 1155 691 mousemove //*[@id='product-slider']/ol {"OL":{"class":"flex-control-nav flex-control-thumbs"}} {}
+0 1547826399815 1187 685 mousemove //*[@id='product-slider']/ol {"OL":{"class":"flex-control-nav flex-control-thumbs"}} {}
+0 1547826399991 1196 682 mousemove //*[@id='product-slider']/ol {"OL":{"class":"flex-control-nav flex-control-thumbs"}} {}
+0 1547826400047 1150 697 mousemove //*[@id='product-slider']/ol {"OL":{"class":"flex-control-nav flex-control-thumbs"}} {}
+0 1547826400099 953 740 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-J-5-Handsfree1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1547826400165 520 785 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400232 272 792 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400296 239 792 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400362 236 792 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400413 221 787 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400463 150 788 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400516 74 782 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826400580 64 750 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826400632 120 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400696 190 618 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400746 213 599 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400797 236 594 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400864 265 594 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826400943 266 594 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401088 268 594 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401216 268 594 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401231 0 0 scroll / {} {}
+0 1547826401246 0 0 scroll / {} {}
+0 1547826401264 0 0 scroll / {} {}
+0 1547826401279 268 618 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401280 0 0 scroll / {} {}
+0 1547826401297 0 0 scroll / {} {}
+0 1547826401315 0 0 scroll / {} {}
+0 1547826401330 0 0 scroll / {} {}
+0 1547826401347 0 0 scroll / {} {}
+0 1547826401367 0 0 scroll / {} {}
+0 1547826401381 0 0 scroll / {} {}
+0 1547826401397 0 0 scroll / {} {}
+0 1547826401414 0 0 scroll / {} {}
+0 1547826401431 0 0 scroll / {} {}
+0 1547826401448 0 0 scroll / {} {}
+0 1547826401465 0 0 scroll / {} {}
+0 1547826401648 269 793 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401727 270 792 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401904 271 789 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401913 0 0 scroll / {} {}
+0 1547826401930 271 795 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401931 0 0 scroll / {} {}
+0 1547826401949 0 0 scroll / {} {}
+0 1547826401965 272 821 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401965 0 0 scroll / {} {}
+0 1547826401981 0 0 scroll / {} {}
+0 1547826401998 272 884 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826401999 0 0 scroll / {} {}
+0 1547826402014 0 0 scroll / {} {}
+0 1547826402031 0 0 scroll / {} {}
+0 1547826402047 0 0 scroll / {} {}
+0 1547826402063 0 0 scroll / {} {}
+0 1547826402079 0 0 scroll / {} {}
+0 1547826402098 0 0 scroll / {} {}
+0 1547826402114 0 0 scroll / {} {}
+0 1547826402131 0 0 scroll / {} {}
+0 1547826402224 273 1189 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402279 300 1192 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402329 391 1208 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402379 621 1215 mousemove //*[@id='myTabContent1'] {"DIV":{"id":"myTabContent1"}} {}
+0 1547826402432 837 1210 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402497 936 1193 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402547 964 1178 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402615 972 1170 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402679 983 1158 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402729 987 1152 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826402782 993 1139 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826402832 1004 1118 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826402992 1006 1113 click //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826403615 1007 1112 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826404528 1007 1110 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826405816 1007 1110 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826405829 0 0 scroll / {} {}
+0 1547826405846 1007 1116 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826405846 0 0 scroll / {} {}
+0 1547826405864 0 0 scroll / {} {}
+0 1547826405881 1007 1143 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826405881 0 0 scroll / {} {}
+0 1547826405896 0 0 scroll / {} {}
+0 1547826405913 0 0 scroll / {} {}
+0 1547826405930 0 0 scroll / {} {}
+0 1547826405947 0 0 scroll / {} {}
+0 1547826405963 0 0 scroll / {} {}
+0 1547826405980 0 0 scroll / {} {}
+0 1547826405997 0 0 scroll / {} {}
+0 1547826406015 0 0 scroll / {} {}
+0 1547826406036 0 0 scroll / {} {}
+0 1547826406097 1002 1418 mousemove //*[@id='product_attributes']/div[4]/div[1] {"DIV":{"class":"right"}} {}
+0 1547826406164 1003 1421 mousemove //*[@id='product_attributes']/div[4]/div[1] {"DIV":{"class":"right"}} {}
+0 1547826406215 1005 1427 mousemove //*[@id='product_attributes']/div[4]/div[1] {"DIV":{"class":"right"}} {}
+0 1547826406279 1005 1438 mousemove //*[@id='product_attributes'] {"DIV":{"id":"product_attributes","class":"card-body collapse in","style":"height: auto;"}} {}
+0 1547826406381 1005 1441 mousemove //*[@id='product_attributes'] {"DIV":{"id":"product_attributes","class":"card-body collapse in","style":"height: auto;"}} {}
+0 1547826406416 1005 1449 mousewheel //*[@id='product_attributes']/h4[3] {"H4":{}} {}
+0 1547826406433 1005 1466 mousewheel //*[@id='product_attributes']/h4[3] {"H4":{}} {}
+0 1547826406434 0 0 scroll / {} {}
+0 1547826406452 1005 1493 mousewheel //*[@id='product_attributes']/div[5]/div[1] {"DIV":{"class":"right"}} {}
+0 1547826406452 0 0 scroll / {} {}
+0 1547826406463 0 0 scroll / {} {}
+0 1547826406481 1005 1593 mousewheel //*[@id='product_attributes']/div[5]/div[1] {"DIV":{"class":"right"}} {}
+0 1547826406482 0 0 scroll / {} {}
+0 1547826406497 0 0 scroll / {} {}
+0 1547826406516 0 0 scroll / {} {}
+0 1547826406531 0 0 scroll / {} {}
+0 1547826406546 0 0 scroll / {} {}
+0 1547826406563 0 0 scroll / {} {}
+0 1547826406579 0 0 scroll / {} {}
+0 1547826406597 0 0 scroll / {} {}
+0 1547826406651 1000 1963 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826406714 977 1970 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826406764 929 1982 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826406814 874 1997 mousemove //*[@id='reviews-main'] {"DIV":{"class":"","id":"reviews-main","a":""}} {}
+0 1547826406864 800 2017 mousemove //*[@id='reviews-main'] {"DIV":{"class":"","id":"reviews-main","a":""}} {}
+0 1547826406915 754 2028 mousemove //*[@id='reviews-main'] {"DIV":{"class":"","id":"reviews-main","a":""}} {}
+0 1547826406965 730 2038 mousemove //*[@id='reply-title'] {"H3":{"id":"reply-title","class":"comment-reply-title"}} {}
+0 1547826407015 701 2046 mousemove //*[@id='reply-title'] {"H3":{"id":"reply-title","class":"comment-reply-title"}} {}
+0 1547826407086 700 2042 mousemove //*[@id='reply-title'] {"H3":{"id":"reply-title","class":"comment-reply-title"}} {}
+0 1547826407145 683 2039 mousemove //*[@id='reply-title'] {"H3":{"id":"reply-title","class":"comment-reply-title"}} {}
+0 1547826407183 646 2044 mousewheel //*[@id='reply-title'] {"H3":{"id":"reply-title","class":"comment-reply-title"}} {}
+0 1547826407197 610 2048 mousewheel //*[@id='reply-title'] {"H3":{"id":"reply-title","class":"comment-reply-title"}} {}
+0 1547826407197 0 0 scroll / {} {}
+0 1547826407217 559 2061 mousewheel //*[@id='respond'] {"DIV":{"id":"respond","class":"comment-respond"}} {}
+0 1547826407217 0 0 scroll / {} {}
+0 1547826407229 518 2123 mousewheel //*[@id='respond'] {"DIV":{"id":"respond","class":"comment-respond"}} {}
+0 1547826407234 444 2122 mousewheel //*[@id='commentform']/p[2] {"P":{"class":"comment-form-comment"}} {}
+0 1547826407234 0 0 scroll / {} {}
+0 1547826407250 400 2201 mousewheel //*[@id='commentform']/p[2] {"P":{"class":"comment-form-comment"}} {}
+0 1547826407251 0 0 scroll / {} {}
+0 1547826407264 0 0 scroll / {} {}
+0 1547826407282 0 0 scroll / {} {}
+0 1547826407299 0 0 scroll / {} {}
+0 1547826407315 0 0 scroll / {} {}
+0 1547826407332 0 0 scroll / {} {}
+0 1547826408219 76 2391 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826408280 254 2456 mousemove //*[@id='commentform']/p[4] {"P":{}} {}
+0 1547826408330 466 2545 mousemove //*[@id='commentform']/div[2] {"DIV":{"class":"form-group row-grid"}} {}
+0 1547826408382 571 2600 mousemove //*[@id='commentform'] {"FORM":{"action":"http://userpr.ir/wp-comments-post.php","method":"post","id":"commentform","class":"comment-form"}} {}
+0 1547826408448 603 2665 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826408499 603 2669 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826408592 603 2672 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826408744 603 2673 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826408808 603 2677 mousemove //*[@id='commentform'] {"FORM":{"action":"http://userpr.ir/wp-comments-post.php","method":"post","id":"commentform","class":"comment-form"}} {}
+0 1547826408863 602 2682 mousemove //*[@id='commentform'] {"FORM":{"action":"http://userpr.ir/wp-comments-post.php","method":"post","id":"commentform","class":"comment-form"}} {}
+0 1547826408914 599 2688 mousemove //*[@id='commentform'] {"FORM":{"action":"http://userpr.ir/wp-comments-post.php","method":"post","id":"commentform","class":"comment-form"}} {}
+0 1547826408980 598 2686 mousemove //*[@id='commentform'] {"FORM":{"action":"http://userpr.ir/wp-comments-post.php","method":"post","id":"commentform","class":"comment-form"}} {}
+0 1547826409030 589 2662 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826409127 587 2658 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826409231 586 2660 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826409313 587 2663 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826409363 593 2660 mousemove //*[@id='email'] {"INPUT":{"class":"","id":"email","name":"email","type":"email","value":"","placeholder":"ایمیل شما:","aria-required":"true"}} {}
+0 1547826409435 0 0 unload / {} {}

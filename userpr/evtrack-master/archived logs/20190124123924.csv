@@ -1,0 +1,391 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548320932882 0 0 load / {} {}
+0 1548320932897 0 0 scroll / {} {}
+0 1548320933587 501 56 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548320934371 490 18 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548320934431 712 170 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548320934481 805 235 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320934531 814 267 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320934597 791 327 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320934650 764 367 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548320934808 742 369 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548320934865 744 353 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320934931 741 346 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320934981 738 345 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320935033 717 345 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320935083 695 345 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320935133 686 349 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320935216 687 349 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320935266 720 343 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320935333 770 344 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320935384 788 350 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320935480 789 349 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320935533 779 341 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320935584 772 338 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320935650 766 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320935700 762 332 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320935785 760 331 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320935907 760 331 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320936009 759 331 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548320936067 710 338 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320936117 617 349 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320936167 477 360 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548320936218 416 362 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.83478260869565","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320936280 407 363 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.83478260869565","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320936402 407 364 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.83478260869565","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320936455 406 366 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.83478260869565","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320936520 404 370 mousewheel //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548320936535 0 0 scroll / {} {}
+0 1548320936553 0 0 scroll / {} {}
+0 1548320936567 0 0 scroll / {} {}
+0 1548320936585 0 0 scroll / {} {}
+0 1548320936602 0 0 scroll / {} {}
+0 1548320936620 0 0 scroll / {} {}
+0 1548320936635 0 0 scroll / {} {}
+0 1548320936653 404 451 mousewheel //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548320936653 0 0 scroll / {} {}
+0 1548320936669 0 0 scroll / {} {}
+0 1548320936685 0 0 scroll / {} {}
+0 1548320936702 0 0 scroll / {} {}
+0 1548320936719 0 0 scroll / {} {}
+0 1548320936735 0 0 scroll / {} {}
+0 1548320936752 0 0 scroll / {} {}
+0 1548320936769 0 0 scroll / {} {}
+0 1548320936788 0 0 scroll / {} {}
+0 1548320936803 0 0 scroll / {} {}
+0 1548320936820 0 0 scroll / {} {}
+0 1548320936853 0 0 scroll / {} {}
+0 1548320937032 405 572 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937203 417 572 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937255 523 562 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937305 576 546 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937371 601 546 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937528 603 545 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937592 604 539 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937655 625 528 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937705 646 523 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937757 652 520 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937822 657 516 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937888 657 514 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937940 656 511 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320937990 632 511 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938040 583 511 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938090 561 514 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938156 519 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938206 496 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938273 454 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938323 426 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938373 402 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938423 384 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938476 376 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938609 372 515 click //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938663 375 515 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938724 403 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938774 425 523 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938824 481 531 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938875 541 539 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320938947 613 550 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320939009 628 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320939076 625 562 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320939152 621 566 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320939308 621 567 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320939360 640 578 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320939412 805 641 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320939476 1017 708 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false"}} {}
+0 1548320939527 1025 713 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false"}} {}
+0 1548320939593 1027 713 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false"}} {}
+0 1548320939644 1039 716 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false"}} {}
+0 1548320939728 1043 718 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false"}} {}
+0 1548320939853 1043 718 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320939994 1044 718 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940045 1048 718 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940096 1057 720 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940161 1059 717 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940329 1050 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940397 1048 702 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940475 1060 698 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940530 1081 698 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940581 1099 698 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false"}} {}
+0 1548320940776 1104 698 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false"}} {}
+0 1548320940780 1104 698 click //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940830 1124 700 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320940880 1141 701 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941000 1142 702 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941249 1143 702 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941314 1147 706 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941365 1154 712 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941415 1160 716 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941483 1163 720 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941548 1141 728 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941665 1137 731 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941716 1135 734 mousewheel //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320941733 0 0 scroll / {} {}
+0 1548320941749 0 0 scroll / {} {}
+0 1548320941765 0 0 scroll / {} {}
+0 1548320941783 0 0 scroll / {} {}
+0 1548320941799 0 0 scroll / {} {}
+0 1548320941815 0 0 scroll / {} {}
+0 1548320941832 0 0 scroll / {} {}
+0 1548320941849 0 0 scroll / {} {}
+0 1548320941866 0 0 scroll / {} {}
+0 1548320941882 0 0 scroll / {} {}
+0 1548320941898 0 0 scroll / {} {}
+0 1548320942000 1135 834 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320942065 1131 826 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320942116 1098 809 mousemove //*[@id='product-slider']/ol {"OL":{"class":"flex-control-nav flex-control-thumbs"}} {}
+0 1548320942166 1029 784 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320942216 987 748 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320942267 953 730 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320942317 920 722 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320942514 910 721 click //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320942835 911 721 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320942903 918 722 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320942971 970 731 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943035 1013 742 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943087 1036 746 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943152 1047 748 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943236 1055 748 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943286 1057 749 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943353 1058 750 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943353 1058 749 mousewheel //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943371 0 0 scroll / {} {}
+0 1548320943386 0 0 scroll / {} {}
+0 1548320943403 0 0 scroll / {} {}
+0 1548320943420 0 0 scroll / {} {}
+0 1548320943439 0 0 scroll / {} {}
+0 1548320943453 0 0 scroll / {} {}
+0 1548320943469 0 0 scroll / {} {}
+0 1548320943487 0 0 scroll / {} {}
+0 1548320943503 0 0 scroll / {} {}
+0 1548320943521 0 0 scroll / {} {}
+0 1548320943538 0 0 scroll / {} {}
+0 1548320943603 1065 672 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943653 1058 688 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943703 1044 699 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943754 1036 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943822 1032 723 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320943955 1032 723 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944011 1034 724 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944090 1038 724 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944140 1054 722 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944190 1080 719 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944241 1096 715 mousemove //*[@id='product-slider']/ol {"OL":{"class":"flex-control-nav flex-control-thumbs"}} {}
+0 1548320944309 1112 712 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320944374 1131 710 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320944442 1154 710 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320944611 1158 709 click //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944743 1158 708 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944808 1134 708 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944860 1105 707 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320944926 1091 707 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320944992 1077 709 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945059 1059 709 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945126 1051 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945176 1047 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945226 1043 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945292 1038 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945358 1028 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945409 1021 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945460 1011 710 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945526 1001 709 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945617 999 709 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945676 996 709 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945726 991 709 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945776 979 712 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320945826 945 713 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320945877 930 713 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320946086 930 713 click //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320946229 934 713 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320946296 973 713 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320946346 1011 713 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320946412 1032 713 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320946462 1041 714 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320946512 1046 714 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320946562 1052 714 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320946687 1052 714 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320946747 1054 714 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320946797 1059 714 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320946847 1073 714 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320946898 1115 714 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320946948 1138 714 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320947014 1176 714 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320947214 1174 714 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320947265 1087 690 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320947315 880 595 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 842.063px;"}} {}
+0 1548320947365 763 504 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1548320947415 744 459 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548320947465 728 406 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548320947515 711 377 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548320947565 685 351 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320947616 676 342 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320947682 675 339 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320947732 667 337 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548320947799 639 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320947921 634 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320947998 631 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320948048 629 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320948098 622 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320948148 610 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320948198 585 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548320948249 572 332 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548320948321 570 332 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548320948946 569 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548320949004 579 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548320949069 590 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548320949121 591 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1548320949188 596 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320949252 603 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320949303 606 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320949426 613 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320949489 619 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320949552 626 334 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320949701 626 334 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320949945 626 335 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320950004 623 351 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320950071 612 400 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548320950137 604 471 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548320950187 609 491 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548320950237 619 513 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950287 621 521 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950378 622 523 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950439 623 522 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950521 623 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950705 623 519 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950722 623 515 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950722 0 0 scroll / {} {}
+0 1548320950739 623 504 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950739 0 0 scroll / {} {}
+0 1548320950755 0 0 scroll / {} {}
+0 1548320950772 623 468 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950772 0 0 scroll / {} {}
+0 1548320950789 0 0 scroll / {} {}
+0 1548320950806 0 0 scroll / {} {}
+0 1548320950822 0 0 scroll / {} {}
+0 1548320950839 0 0 scroll / {} {}
+0 1548320950858 623 350 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320950858 0 0 scroll / {} {}
+0 1548320950873 0 0 scroll / {} {}
+0 1548320950890 0 0 scroll / {} {}
+0 1548320950907 0 0 scroll / {} {}
+0 1548320950923 0 0 scroll / {} {}
+0 1548320951082 623 319 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548320951108 623 321 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951108 0 0 scroll / {} {}
+0 1548320951124 0 0 scroll / {} {}
+0 1548320951140 622 336 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951141 0 0 scroll / {} {}
+0 1548320951156 621 350 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951156 0 0 scroll / {} {}
+0 1548320951175 621 377 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951175 0 0 scroll / {} {}
+0 1548320951190 621 421 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951191 0 0 scroll / {} {}
+0 1548320951207 0 0 scroll / {} {}
+0 1548320951223 621 559 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951224 0 0 scroll / {} {}
+0 1548320951240 0 0 scroll / {} {}
+0 1548320951256 0 0 scroll / {} {}
+0 1548320951272 0 0 scroll / {} {}
+0 1548320951290 0 0 scroll / {} {}
+0 1548320951307 0 0 scroll / {} {}
+0 1548320951324 0 0 scroll / {} {}
+0 1548320951341 0 0 scroll / {} {}
+0 1548320951485 621 924 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951485 0 0 scroll / {} {}
+0 1548320951491 0 0 scroll / {} {}
+0 1548320951508 621 937 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951508 0 0 scroll / {} {}
+0 1548320951524 621 951 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951524 0 0 scroll / {} {}
+0 1548320951541 621 974 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320951541 0 0 scroll / {} {}
+0 1548320951557 0 0 scroll / {} {}
+0 1548320951577 0 0 scroll / {} {}
+0 1548320951591 0 0 scroll / {} {}
+0 1548320951612 0 0 scroll / {} {}
+0 1548320951624 0 0 scroll / {} {}
+0 1548320951641 0 0 scroll / {} {}
+0 1548320951658 0 0 scroll / {} {}
+0 1548320951674 0 0 scroll / {} {}
+0 1548320951875 622 1323 mousemove //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952242 622 1323 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952259 0 0 scroll / {} {}
+0 1548320952277 622 1330 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952277 0 0 scroll / {} {}
+0 1548320952295 622 1343 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952295 0 0 scroll / {} {}
+0 1548320952310 622 1370 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952310 0 0 scroll / {} {}
+0 1548320952327 0 0 scroll / {} {}
+0 1548320952343 622 1477 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952343 0 0 scroll / {} {}
+0 1548320952359 0 0 scroll / {} {}
+0 1548320952377 622 1629 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952377 0 0 scroll / {} {}
+0 1548320952393 0 0 scroll / {} {}
+0 1548320952409 0 0 scroll / {} {}
+0 1548320952427 0 0 scroll / {} {}
+0 1548320952444 0 0 scroll / {} {}
+0 1548320952460 0 0 scroll / {} {}
+0 1548320952476 0 0 scroll / {} {}
+0 1548320952493 0 0 scroll / {} {}
+0 1548320952511 0 0 scroll / {} {}
+0 1548320952561 623 1921 mousemove //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1548320952711 623 1923 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952711 0 0 scroll / {} {}
+0 1548320952727 623 1929 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952727 0 0 scroll / {} {}
+0 1548320952747 623 1942 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952747 0 0 scroll / {} {}
+0 1548320952760 0 0 scroll / {} {}
+0 1548320952778 623 2000 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952778 0 0 scroll / {} {}
+0 1548320952794 0 0 scroll / {} {}
+0 1548320952812 0 0 scroll / {} {}
+0 1548320952828 0 0 scroll / {} {}
+0 1548320952844 0 0 scroll / {} {}
+0 1548320952861 623 2266 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320952861 0 0 scroll / {} {}
+0 1548320952878 0 0 scroll / {} {}
+0 1548320952895 0 0 scroll / {} {}
+0 1548320952911 0 0 scroll / {} {}
+0 1548320952929 0 0 scroll / {} {}
+0 1548320953169 623 2353 mousemove //*[@id='commentform']/p[5] {"P":{"class":"form-submit"}} {}
+0 1548320953228 623 2362 mousemove //*[@id='commentform']/p[5] {"P":{"class":"form-submit"}} {}
+0 1548320953245 623 2363 mousewheel //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1548320953295 622 2371 mousemove //*[@id='commentform']/p[5] {"P":{"class":"form-submit"}} {}
+0 1548320953345 619 2392 mousemove //*[@id='myTabContent1'] {"DIV":{"id":"myTabContent1"}} {}
+0 1548320953395 619 2404 mousemove //*[@id='recommended-items-button'] {"BUTTON":{"id":"recommended-items-button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#recommended-items","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548320953447 636 2418 mousemove //*[@id='recommended-items-button'] {"BUTTON":{"id":"recommended-items-button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#recommended-items","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548320953630 657 2427 mousemove //*[@id='recommended-items-button'] {"BUTTON":{"id":"recommended-items-button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#recommended-items","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548320953713 653 2427 mousemove //*[@id='recommended-items-button'] {"BUTTON":{"id":"recommended-items-button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#recommended-items","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548320953764 568 2459 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320953831 304 2534 mousemove /html/body/div[3] {"DIV":{"class":"copy-section"}} {}
+0 1548320953882 169 2560 mousemove /html/body/div[3]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320953948 181 2563 mousemove /html/body/div[3]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320954014 254 2573 mousemove /html/body/div[3]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320954065 371 2586 mousemove /html/body/div[3]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320954214 386 2587 mousemove /html/body/div[3]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320954264 415 2587 mousemove /html/body/div[3]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320954315 466 2586 mousemove /html/body/div[3]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320954858 473 2586 click /html/body/div[3]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320954859 0 0 scroll / {} {}
+0 1548320955248 473 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320955300 477 550 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320955350 492 525 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320955401 560 432 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548320955451 683 229 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320955518 707 75 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548320955568 674 38 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548320955618 594 7 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548320955826 709 4 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548320955885 912 25 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320955937 949 25 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320956008 951 25 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320956069 959 27 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320956119 960 28 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320956210 960 28 click /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320956376 960 29 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320956436 939 34 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1548320956487 839 23 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1548320957362 0 0 unload / {} {}

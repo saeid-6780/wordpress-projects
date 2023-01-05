@@ -1,0 +1,35 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548321188566 15 315 mousewheel /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321188644 0 0 scroll / {} {}
+0 1548321188697 0 0 load / {} {}
+0 1548321188716 0 0 scroll / {} {}
+0 1548321203943 375 356 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321204009 245 373 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321204060 196 382 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321204110 284 303 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321204338 743 3 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548321204394 731 39 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548321204467 728 45 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548321204527 685 41 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548321204577 496 26 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548321204627 300 25 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1548321204709 242 30 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://userpr.ir/registration","class":"site-guide btn btn-info"}} {}
+0 1548321204759 236 66 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548321204810 236 105 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321204861 244 147 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548321204927 258 177 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548321204977 260 179 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548321205028 248 187 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548321205080 232 196 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321205154 232 194 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548321205211 245 182 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548321205276 287 153 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548321205327 336 134 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321205377 396 113 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321205443 456 99 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321205509 620 97 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321205559 903 97 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321205610 1120 99 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321205677 1177 103 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321205931 1179 105 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548321206014 0 0 unload / {} {}

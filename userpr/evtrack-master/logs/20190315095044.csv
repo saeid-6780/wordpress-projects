@@ -1,0 +1,13 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1552643431657 72 400 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1552643432231 184 403 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1552643432400 171 427 mousemove /html/body/div[2]/pre[4]/small[1] {"SMALL":{}} {}
+0 1552643432489 174 427 mousemove /html/body/div[2]/pre[4]/small[1] {"SMALL":{}} {}
+0 1552643432545 242 417 mousemove /html/body/div[2]/pre[4]/small[1] {"SMALL":{}} {}
+0 1552643432605 417 489 mousemove /html/body/div[2]/pre[4]/font[3] {"FONT":{"color":"#cc0000"}} {}
+0 1552643432717 440 515 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1552643432868 513 658 mousemove /html/body/div[2]/pre[6] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1552643433025 682 923 mousemove /html/body/div[2]/font[1]/table/tbody/tr[2]/th {"TH":{"align":"left","bgcolor":"#e9b96e","colspan":"5"}} {}
+0 1552643433157 754 958 mousemove /html/body/div[2]/font[1]/table/tbody/tr[4]/td[4] {"TD":{"bgcolor":"#eeeeec"}} {}
+0 1552643433282 977 959 mousemove /html/body/div[2]/font[1]/table/tbody/tr[4]/td[4] {"TD":{"bgcolor":"#eeeeec"}} {}
+0 1552643444475 0 0 unload / {} {}

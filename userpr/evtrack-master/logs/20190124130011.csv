@@ -1,0 +1,285 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548322177498 0 0 load / {} {}
+0 1548322184083 0 1 scroll / {} {}
+0 1548322207210 990 22 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548322207260 938 71 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548322207327 880 118 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322207392 866 129 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322207443 864 131 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322207493 862 133 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322207545 856 141 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322207595 819 200 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548322207648 782 256 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548322208064 0 5 scroll / {} {}
+0 1548322208088 0 9 scroll / {} {}
+0 1548322208114 0 19 scroll / {} {}
+0 1548322208130 0 30 scroll / {} {}
+0 1548322208147 0 44 scroll / {} {}
+0 1548322208164 0 59 scroll / {} {}
+0 1548322208180 0 76 scroll / {} {}
+0 1548322208204 0 92 scroll / {} {}
+0 1548322208214 0 108 scroll / {} {}
+0 1548322208231 0 124 scroll / {} {}
+0 1548322208248 0 139 scroll / {} {}
+0 1548322208264 0 152 scroll / {} {}
+0 1548322208281 0 165 scroll / {} {}
+0 1548322208297 0 176 scroll / {} {}
+0 1548322208314 0 186 scroll / {} {}
+0 1548322208331 0 194 scroll / {} {}
+0 1548322208348 0 200 scroll / {} {}
+0 1548322208365 0 203 scroll / {} {}
+0 1548322208382 0 205 scroll / {} {}
+0 1548322208750 778 479 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548322208800 839 535 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1548322208853 943 605 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.089px; left: 842.067px;"}} {}
+0 1548322208918 1030 674 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.089px; left: 889.325px;"}} {}
+0 1548322208968 1051 693 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree4_c33f7b.jpg","draggable":"false"}} {}
+0 1548322209019 1057 704 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree4_c33f7b.jpg","draggable":"false"}} {}
+0 1548322209252 1057 704 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree4_c33f7b.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548322209890 1057 705 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree4_c33f7b.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548322209940 1074 705 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree4_c33f7b.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548322209992 1110 705 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","draggable":"false"}} {}
+0 1548322210057 1165 708 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","draggable":"false"}} {}
+0 1548322210107 1178 708 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","draggable":"false"}} {}
+0 1548322210315 1181 708 click //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548322210492 0 206 scroll / {} {}
+0 1548322210509 0 208 scroll / {} {}
+0 1548322210525 0 211 scroll / {} {}
+0 1548322210543 0 217 scroll / {} {}
+0 1548322210559 0 227 scroll / {} {}
+0 1548322210576 0 247 scroll / {} {}
+0 1548322210592 0 281 scroll / {} {}
+0 1548322210609 0 323 scroll / {} {}
+0 1548322210626 0 373 scroll / {} {}
+0 1548322210643 0 423 scroll / {} {}
+0 1548322210660 0 477 scroll / {} {}
+0 1548322210677 0 529 scroll / {} {}
+0 1548322210693 0 579 scroll / {} {}
+0 1548322210709 0 625 scroll / {} {}
+0 1548322210727 0 668 scroll / {} {}
+0 1548322210743 0 709 scroll / {} {}
+0 1548322210761 0 746 scroll / {} {}
+0 1548322210777 0 780 scroll / {} {}
+0 1548322210793 0 812 scroll / {} {}
+0 1548322210811 0 840 scroll / {} {}
+0 1548322210827 0 865 scroll / {} {}
+0 1548322210844 0 886 scroll / {} {}
+0 1548322210860 0 902 scroll / {} {}
+0 1548322210878 0 913 scroll / {} {}
+0 1548322210894 0 919 scroll / {} {}
+0 1548322211146 0 921 scroll / {} {}
+0 1548322211162 0 925 scroll / {} {}
+0 1548322211179 0 934 scroll / {} {}
+0 1548322211196 0 951 scroll / {} {}
+0 1548322211212 0 977 scroll / {} {}
+0 1548322211229 0 1013 scroll / {} {}
+0 1548322211246 0 1055 scroll / {} {}
+0 1548322211263 0 1097 scroll / {} {}
+0 1548322211279 0 1140 scroll / {} {}
+0 1548322211296 0 1183 scroll / {} {}
+0 1548322211313 0 1224 scroll / {} {}
+0 1548322211330 0 1262 scroll / {} {}
+0 1548322211346 0 1297 scroll / {} {}
+0 1548322211363 0 1329 scroll / {} {}
+0 1548322211380 0 1358 scroll / {} {}
+0 1548322211396 0 1382 scroll / {} {}
+0 1548322211413 0 1403 scroll / {} {}
+0 1548322211430 0 1417 scroll / {} {}
+0 1548322211447 0 1427 scroll / {} {}
+0 1548322211463 0 1429 scroll / {} {}
+0 1548322211715 0 1428 scroll / {} {}
+0 1548322211732 0 1423 scroll / {} {}
+0 1548322211748 0 1405 scroll / {} {}
+0 1548322211765 0 1377 scroll / {} {}
+0 1548322211782 0 1337 scroll / {} {}
+0 1548322211798 0 1293 scroll / {} {}
+0 1548322211815 0 1250 scroll / {} {}
+0 1548322211832 0 1207 scroll / {} {}
+0 1548322211848 0 1168 scroll / {} {}
+0 1548322211866 0 1131 scroll / {} {}
+0 1548322211882 0 1099 scroll / {} {}
+0 1548322211899 0 1071 scroll / {} {}
+0 1548322211916 0 1049 scroll / {} {}
+0 1548322211933 0 1033 scroll / {} {}
+0 1548322211949 0 1023 scroll / {} {}
+0 1548322211966 0 1021 scroll / {} {}
+0 1548322212217 1181 1511 mousemove //*[@id='commentform']/p[2] {"P":{"class":"comment-form-comment"}} {}
+0 1548322212268 1176 1385 mousemove //*[@id='reviews-main'] {"DIV":{"class":"","id":"reviews-main","a":""}} {}
+0 1548322212318 1169 1272 mousemove //*[@id='myTabContent1'] {"DIV":{"id":"myTabContent1"}} {}
+0 1548322212368 1148 1207 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1548322212419 1133 1169 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548322212469 1128 1159 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548322212677 1128 1158 click //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548322213289 1126 1158 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548322213498 999 1271 mousemove //*[@id='product_attributes']/div[1]/div[1] {"DIV":{"class":"right"}} {}
+0 1548322213558 989 1282 mousemove //*[@id='product_attributes']/div[1]/div[1] {"DIV":{"class":"right"}} {}
+0 1548322213809 0 1022 scroll / {} {}
+0 1548322213826 0 1024 scroll / {} {}
+0 1548322213842 0 1028 scroll / {} {}
+0 1548322213859 0 1032 scroll / {} {}
+0 1548322213877 0 1038 scroll / {} {}
+0 1548322213892 0 1043 scroll / {} {}
+0 1548322213909 0 1049 scroll / {} {}
+0 1548322213925 0 1056 scroll / {} {}
+0 1548322213943 0 1062 scroll / {} {}
+0 1548322213960 0 1069 scroll / {} {}
+0 1548322213976 0 1075 scroll / {} {}
+0 1548322213993 0 1081 scroll / {} {}
+0 1548322214010 0 1087 scroll / {} {}
+0 1548322214027 0 1093 scroll / {} {}
+0 1548322214043 0 1098 scroll / {} {}
+0 1548322214060 0 1103 scroll / {} {}
+0 1548322214086 0 1107 scroll / {} {}
+0 1548322214093 0 1111 scroll / {} {}
+0 1548322214110 0 1115 scroll / {} {}
+0 1548322214127 0 1118 scroll / {} {}
+0 1548322214144 0 1120 scroll / {} {}
+0 1548322214162 0 1123 scroll / {} {}
+0 1548322214429 0 1125 scroll / {} {}
+0 1548322214445 0 1128 scroll / {} {}
+0 1548322214462 0 1133 scroll / {} {}
+0 1548322214479 0 1137 scroll / {} {}
+0 1548322214496 0 1143 scroll / {} {}
+0 1548322214513 0 1151 scroll / {} {}
+0 1548322214529 0 1161 scroll / {} {}
+0 1548322214546 0 1173 scroll / {} {}
+0 1548322214562 0 1186 scroll / {} {}
+0 1548322214580 0 1199 scroll / {} {}
+0 1548322214598 0 1231 scroll / {} {}
+0 1548322214630 0 1251 scroll / {} {}
+0 1548322214648 0 1272 scroll / {} {}
+0 1548322214665 0 1294 scroll / {} {}
+0 1548322214681 0 1313 scroll / {} {}
+0 1548322214697 0 1332 scroll / {} {}
+0 1548322214713 0 1350 scroll / {} {}
+0 1548322214730 0 1366 scroll / {} {}
+0 1548322214747 0 1382 scroll / {} {}
+0 1548322214764 0 1395 scroll / {} {}
+0 1548322214780 0 1407 scroll / {} {}
+0 1548322214797 0 1416 scroll / {} {}
+0 1548322214814 0 1423 scroll / {} {}
+0 1548322214831 0 1428 scroll / {} {}
+0 1548322214848 0 1429 scroll / {} {}
+0 1548322216943 0 1430 scroll / {} {}
+0 1548322216958 0 1431 scroll / {} {}
+0 1548322216974 0 1440 scroll / {} {}
+0 1548322216991 0 1455 scroll / {} {}
+0 1548322217008 0 1482 scroll / {} {}
+0 1548322217024 0 1526 scroll / {} {}
+0 1548322217042 0 1570 scroll / {} {}
+0 1548322217058 0 1616 scroll / {} {}
+0 1548322217075 0 1659 scroll / {} {}
+0 1548322217092 0 1701 scroll / {} {}
+0 1548322217108 0 1741 scroll / {} {}
+0 1548322217126 0 1778 scroll / {} {}
+0 1548322217142 0 1812 scroll / {} {}
+0 1548322217159 0 1842 scroll / {} {}
+0 1548322217175 0 1870 scroll / {} {}
+0 1548322217192 0 1894 scroll / {} {}
+0 1548322217209 0 1913 scroll / {} {}
+0 1548322217226 0 1927 scroll / {} {}
+0 1548322217242 0 1936 scroll / {} {}
+0 1548322217259 0 1939 scroll / {} {}
+0 1548322217578 0 1938 scroll / {} {}
+0 1548322217611 0 1935 scroll / {} {}
+0 1548322217628 0 1927 scroll / {} {}
+0 1548322217645 0 1903 scroll / {} {}
+0 1548322217661 0 1863 scroll / {} {}
+0 1548322217684 0 1810 scroll / {} {}
+0 1548322217695 0 1744 scroll / {} {}
+0 1548322217711 0 1670 scroll / {} {}
+0 1548322217728 0 1601 scroll / {} {}
+0 1548322217745 0 1535 scroll / {} {}
+0 1548322217762 0 1473 scroll / {} {}
+0 1548322217778 0 1416 scroll / {} {}
+0 1548322217796 0 1365 scroll / {} {}
+0 1548322217812 0 1321 scroll / {} {}
+0 1548322217829 0 1283 scroll / {} {}
+0 1548322217845 0 1254 scroll / {} {}
+0 1548322217862 0 1234 scroll / {} {}
+0 1548322217879 0 1225 scroll / {} {}
+0 1548322218014 0 1224 scroll / {} {}
+0 1548322218030 0 1218 scroll / {} {}
+0 1548322218048 0 1198 scroll / {} {}
+0 1548322218064 0 1160 scroll / {} {}
+0 1548322218079 0 1111 scroll / {} {}
+0 1548322218097 0 1049 scroll / {} {}
+0 1548322218113 0 985 scroll / {} {}
+0 1548322218130 0 922 scroll / {} {}
+0 1548322218147 0 864 scroll / {} {}
+0 1548322218164 0 809 scroll / {} {}
+0 1548322218180 0 759 scroll / {} {}
+0 1548322218198 0 715 scroll / {} {}
+0 1548322218214 0 678 scroll / {} {}
+0 1548322218231 0 647 scroll / {} {}
+0 1548322218248 0 626 scroll / {} {}
+0 1548322218264 0 615 scroll / {} {}
+0 1548322218282 0 613 scroll / {} {}
+0 1548322218365 0 611 scroll / {} {}
+0 1548322218382 0 601 scroll / {} {}
+0 1548322218399 0 574 scroll / {} {}
+0 1548322218415 0 531 scroll / {} {}
+0 1548322218432 0 486 scroll / {} {}
+0 1548322218448 0 439 scroll / {} {}
+0 1548322218466 0 393 scroll / {} {}
+0 1548322218482 0 350 scroll / {} {}
+0 1548322218498 0 309 scroll / {} {}
+0 1548322218516 0 271 scroll / {} {}
+0 1548322218533 0 235 scroll / {} {}
+0 1548322218549 0 204 scroll / {} {}
+0 1548322218566 0 176 scroll / {} {}
+0 1548322218583 0 151 scroll / {} {}
+0 1548322218599 0 131 scroll / {} {}
+0 1548322218616 0 116 scroll / {} {}
+0 1548322218633 0 106 scroll / {} {}
+0 1548322218650 0 103 scroll / {} {}
+0 1548322218717 0 102 scroll / {} {}
+0 1548322218733 0 98 scroll / {} {}
+0 1548322218750 0 90 scroll / {} {}
+0 1548322218767 0 80 scroll / {} {}
+0 1548322218784 0 68 scroll / {} {}
+0 1548322218800 0 56 scroll / {} {}
+0 1548322218817 0 44 scroll / {} {}
+0 1548322218834 0 33 scroll / {} {}
+0 1548322218850 0 24 scroll / {} {}
+0 1548322218867 0 15 scroll / {} {}
+0 1548322218884 0 8 scroll / {} {}
+0 1548322218901 0 3 scroll / {} {}
+0 1548322218918 0 1 scroll / {} {}
+0 1548322218934 0 0 scroll / {} {}
+0 1548322219034 986 263 mousemove //*[@id='slider-id-44bed2']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1548322219086 976 263 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 854.325px;"}} {}
+0 1548322219136 959 263 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 842.067px;"}} {}
+0 1548322219203 881 263 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","style":"position: absolute; width: 744.975px; height: 929.775px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548322219254 819 272 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548322219305 755 284 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548322219355 723 291 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548322219421 695 301 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548322219471 672 315 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548322219522 658 325 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548322219673 655 326 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548322219739 649 311 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548322219789 644 303 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548322219839 639 293 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548322219889 637 290 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548322220746 637 290 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548322221297 647 295 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548322221348 736 314 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548322221418 865 340 mousemove //*[@id='slider-id-44bed2']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1548322221481 952 344 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 241.403px; left: 842.067px;"}} {}
+0 1548322221531 985 341 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 239.403px; left: 850.325px;"}} {}
+0 1548322221581 1018 323 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 227.403px; left: 884.325px;"}} {}
+0 1548322221632 1039 300 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 204.403px; left: 909.325px;"}} {}
+0 1548322221682 1049 284 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 922.325px;"}} {}
+0 1548322221732 1050 273 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 925.325px;"}} {}
+0 1548322221999 1052 269 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 926.325px;"}} {}
+0 1548322222051 1108 258 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 956.325px;"}} {}
+0 1548322222104 1259 234 mousemove /html/body/div[3]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548322222619 1361 233 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1548322222669 1336 233 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322222720 1325 231 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322222787 1262 220 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322222841 1222 204 mousemove //*[@id='slider-id-44bed2']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Plantronics-BackBeat-Fit-Handsfree5_44bed2.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1548322222891 1172 125 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548322222952 1125 5 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548322223783 0 0 unload / {} {}

@@ -1,0 +1,93 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1552677747087 0 0 load / {} {}
+0 1552677775969 0 0 scroll / {} {}
+0 1552677776315 206 2 mousemove //*[@id='wpadminbar'] {"DIV":{"id":"wpadminbar","class":""}} {}
+0 1552677776368 291 46 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1552677776428 395 99 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1552677776489 457 140 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552677776549 483 161 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552677776569 486 170 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552677776581 486 172 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552677776588 0 0 scroll / {} {}
+0 1552677776608 0 0 scroll / {} {}
+0 1552677776613 486 182 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552677776628 0 0 scroll / {} {}
+0 1552677776648 0 0 scroll / {} {}
+0 1552677776653 486 237 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1552677776669 0 0 scroll / {} {}
+0 1552677776690 0 0 scroll / {} {}
+0 1552677776709 0 0 scroll / {} {}
+0 1552677776729 0 0 scroll / {} {}
+0 1552677776750 0 0 scroll / {} {}
+0 1552677776775 0 0 scroll / {} {}
+0 1552677776811 0 0 scroll / {} {}
+0 1552677776890 483 566 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1552677776991 483 565 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1552677777093 484 564 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1552677777151 496 564 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1552677777309 508 564 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1552677777330 0 0 scroll / {} {}
+0 1552677777341 508 565 mousewheel //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1552677777351 0 0 scroll / {} {}
+0 1552677777371 0 0 scroll / {} {}
+0 1552677777391 0 0 scroll / {} {}
+0 1552677777412 0 0 scroll / {} {}
+0 1552677777431 0 0 scroll / {} {}
+0 1552677777473 0 0 scroll / {} {}
+0 1552677777493 0 0 scroll / {} {}
+0 1552677777512 0 0 scroll / {} {}
+0 1552677777532 0 0 scroll / {} {}
+0 1552677777593 531 761 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677777674 535 764 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677777694 535 766 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677777709 533 772 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677777712 0 0 scroll / {} {}
+0 1552677777732 0 0 scroll / {} {}
+0 1552677777735 533 792 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677777752 0 0 scroll / {} {}
+0 1552677777757 533 830 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677777774 0 0 scroll / {} {}
+0 1552677777792 0 0 scroll / {} {}
+0 1552677777815 0 0 scroll / {} {}
+0 1552677777832 0 0 scroll / {} {}
+0 1552677777853 0 0 scroll / {} {}
+0 1552677777874 0 0 scroll / {} {}
+0 1552677777892 0 0 scroll / {} {}
+0 1552677778069 529 1273 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677778085 529 1273 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677778093 0 0 scroll / {} {}
+0 1552677778111 528 1275 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677778113 0 0 scroll / {} {}
+0 1552677778125 528 1287 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677778135 0 0 scroll / {} {}
+0 1552677778149 528 1311 mousewheel //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677778153 0 0 scroll / {} {}
+0 1552677778173 0 0 scroll / {} {}
+0 1552677778195 0 0 scroll / {} {}
+0 1552677778218 0 0 scroll / {} {}
+0 1552677778235 0 0 scroll / {} {}
+0 1552677778258 0 0 scroll / {} {}
+0 1552677778281 0 0 scroll / {} {}
+0 1552677778336 520 1760 mousemove //*[@id='product-101-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1552677778398 521 1751 mousemove //*[@id='product-101-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1552677778456 524 1747 mousemove //*[@id='product-101-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1552677778556 526 1748 mousemove //*[@id='product-101-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1552677778618 521 1782 mousemove //*[@id='home2']/div[2]/div[4] {"DIV":{"class":"clearfix"}} {}
+0 1552677778677 504 1839 mousemove //*[@id='home2']/div[2]/div[4] {"DIV":{"class":"clearfix"}} {}
+0 1552677778737 496 1861 mousemove //*[@id='home2'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home2","aria-labelledby":"home-tab"}} {}
+0 1552677778798 482 1889 mousemove //*[@id='product-89-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677778858 467 1921 mousemove //*[@id='product-89-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677779018 462 1930 mousemove //*[@id='product-89-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677779079 459 1928 mousemove //*[@id='product-89-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1552677779139 457 1915 mousemove //*[@id='product-89-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552677779381 457 1915 click //*[@id='product-89-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552677779480 457 1914 mousemove //*[@id='product-89-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552677780014 458 1913 mousemove //*[@id='product-89-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552677780082 461 1909 mousemove //*[@id='product-89-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552677780141 514 1894 mousemove //*[@id='product-89-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/LG-K10-2017-M250E-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1552677780203 735 1836 mousemove //*[@id='product-97']/div {"DIV":{"class":"grid-arr"}} {}
+0 1552677780302 1279 1654 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1552677780363 1279 1642 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1552677780423 1279 1622 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1552677780484 1274 1608 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1552677781756 0 0 unload / {} {}

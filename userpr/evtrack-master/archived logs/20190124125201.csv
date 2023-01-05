@@ -1,0 +1,99 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548321705389 0 0 load / {} {}
+0 1548321705433 0 1 scroll / {} {}
+0 1548321709978 0 3 scroll / {} {}
+0 1548321709995 0 7 scroll / {} {}
+0 1548321710011 0 13 scroll / {} {}
+0 1548321710029 0 30 scroll / {} {}
+0 1548321710045 0 58 scroll / {} {}
+0 1548321710063 0 91 scroll / {} {}
+0 1548321710079 0 131 scroll / {} {}
+0 1548321710095 0 171 scroll / {} {}
+0 1548321710112 0 210 scroll / {} {}
+0 1548321710129 0 247 scroll / {} {}
+0 1548321710146 0 282 scroll / {} {}
+0 1548321710162 0 313 scroll / {} {}
+0 1548321710179 0 341 scroll / {} {}
+0 1548321710195 0 365 scroll / {} {}
+0 1548321710213 0 385 scroll / {} {}
+0 1548321710229 0 399 scroll / {} {}
+0 1548321710246 0 407 scroll / {} {}
+0 1548321710262 0 409 scroll / {} {}
+0 1548321710665 0 410 scroll / {} {}
+0 1548321710681 0 412 scroll / {} {}
+0 1548321710699 0 415 scroll / {} {}
+0 1548321710715 0 419 scroll / {} {}
+0 1548321710732 0 424 scroll / {} {}
+0 1548321710749 0 432 scroll / {} {}
+0 1548321710766 0 443 scroll / {} {}
+0 1548321710782 0 455 scroll / {} {}
+0 1548321710799 0 469 scroll / {} {}
+0 1548321710815 0 484 scroll / {} {}
+0 1548321710832 0 505 scroll / {} {}
+0 1548321710849 0 528 scroll / {} {}
+0 1548321710865 0 552 scroll / {} {}
+0 1548321710883 0 576 scroll / {} {}
+0 1548321710899 0 600 scroll / {} {}
+0 1548321710916 0 622 scroll / {} {}
+0 1548321710933 0 642 scroll / {} {}
+0 1548321710950 0 661 scroll / {} {}
+0 1548321710967 0 677 scroll / {} {}
+0 1548321710983 0 691 scroll / {} {}
+0 1548321711000 0 702 scroll / {} {}
+0 1548321711016 0 710 scroll / {} {}
+0 1548321711033 0 714 scroll / {} {}
+0 1548321711050 0 715 scroll / {} {}
+0 1548321711175 863 827 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321711234 821 867 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321711286 776 895 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1548321711336 757 903 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321711387 740 910 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321711452 718 921 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321711503 712 923 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321711733 712 923 click //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321712174 711 923 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321712240 709 922 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321712356 709 921 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321712408 713 918 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321712475 757 915 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548321712525 823 908 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321712575 883 899 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321712625 942 886 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321712676 983 877 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321712726 1011 872 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548321714987 0 713 scroll / {} {}
+0 1548321715004 0 705 scroll / {} {}
+0 1548321715020 0 691 scroll / {} {}
+0 1548321715037 0 664 scroll / {} {}
+0 1548321715054 0 624 scroll / {} {}
+0 1548321715072 0 579 scroll / {} {}
+0 1548321715088 0 535 scroll / {} {}
+0 1548321715104 0 491 scroll / {} {}
+0 1548321715121 0 449 scroll / {} {}
+0 1548321715138 0 409 scroll / {} {}
+0 1548321715155 0 372 scroll / {} {}
+0 1548321715171 0 337 scroll / {} {}
+0 1548321715188 0 307 scroll / {} {}
+0 1548321715205 0 279 scroll / {} {}
+0 1548321715221 0 254 scroll / {} {}
+0 1548321715238 0 234 scroll / {} {}
+0 1548321715255 0 219 scroll / {} {}
+0 1548321715272 0 209 scroll / {} {}
+0 1548321715288 0 205 scroll / {} {}
+0 1548321716244 1017 361 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 258.403px; left: 1016px;"}} {}
+0 1548321716294 1043 392 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 280.403px; left: 913.325px;"}} {}
+0 1548321716344 1054 422 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 308.403px; left: 926.325px;"}} {}
+0 1548321716395 1054 455 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 341.403px; left: 929.325px;"}} {}
+0 1548321716445 1049 496 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 380.403px; left: 926.325px;"}} {}
+0 1548321716495 1041 535 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 420.403px; left: 919.325px;"}} {}
+0 1548321716545 1035 565 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 450.403px; left: 912.325px;"}} {}
+0 1548321716596 1028 596 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.089px; left: 905.325px;"}} {}
+0 1548321716646 1022 631 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.089px; left: 899.325px;"}} {}
+0 1548321716696 1016 658 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.089px; left: 892.325px;"}} {}
+0 1548321716746 1013 681 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.089px; left: 890.325px;"}} {}
+0 1548321716797 1009 693 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548321716863 998 704 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548321716914 979 712 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548321716965 962 718 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank1.jpg","class":"","draggable":"false"}} {}
+0 1548321717279 955 721 click //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548321717559 0 0 unload / {} {}

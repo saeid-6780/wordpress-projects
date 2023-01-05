@@ -1,0 +1,27 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1549140150744 0 0 load / {} {}
+0 1549140150753 0 0 scroll / {} {}
+0 1549140152151 132 39 mousemove /html/body/div[2]/div[1]/div/div[2] {"DIV":{"class":"header-right"}} {}
+0 1549140152211 178 57 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549140152297 187 63 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549140152356 192 71 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140152415 196 76 mousemove /html/body/div[2]/pre[1]/small[1] {"SMALL":{}} {}
+0 1549140152609 196 77 mousemove /html/body/div[2]/pre[1]/small[1] {"SMALL":{}} {}
+0 1549140152676 196 80 mousemove /html/body/div[2]/pre[1]/small[1] {"SMALL":{}} {}
+0 1549140152775 196 84 mousemove /html/body/div[2]/pre[1]/small[1] {"SMALL":{}} {}
+0 1549140152836 203 116 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140152895 215 158 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140152958 259 290 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549140153018 304 359 mousemove /html/body/div[2]/pre[3] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140153078 318 382 mousemove /html/body/div[2]/pre[3] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140153138 321 392 mousemove /html/body/div[2]/pre[3] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140153198 322 396 mousemove /html/body/div[2]/pre[3] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140153249 322 401 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549140153377 322 404 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549140153438 275 349 mousemove /html/body/div[2]/pre[3] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140153498 120 193 mousemove /html/body/div[2]/pre[2]/small[1] {"SMALL":{}} {}
+0 1549140153558 70 114 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1549140153618 43 76 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549140153679 32 57 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549140153740 26 40 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549140156162 0 0 unload / {} {}

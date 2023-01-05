@@ -1,0 +1,467 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548320784592 0 0 load / {} {}
+0 1548320785539 0 0 scroll / {} {}
+0 1548320786746 1003 1 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548320786800 996 39 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548320786851 976 81 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320786917 908 147 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548320786968 786 195 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787032 556 231 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787083 511 231 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787133 502 231 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787183 445 233 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787234 421 219 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787367 404 222 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787368 404 222 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548320787383 0 0 scroll / {} {}
+0 1548320787399 0 0 scroll / {} {}
+0 1548320787416 0 0 scroll / {} {}
+0 1548320787433 0 0 scroll / {} {}
+0 1548320787449 0 0 scroll / {} {}
+0 1548320787466 0 0 scroll / {} {}
+0 1548320787483 0 0 scroll / {} {}
+0 1548320787499 0 0 scroll / {} {}
+0 1548320787516 0 0 scroll / {} {}
+0 1548320787533 0 0 scroll / {} {}
+0 1548320787549 0 0 scroll / {} {}
+0 1548320787566 0 0 scroll / {} {}
+0 1548320788366 402 323 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788416 389 335 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788467 377 349 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788559 375 351 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788617 373 362 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788686 373 366 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788701 0 0 scroll / {} {}
+0 1548320788716 0 0 scroll / {} {}
+0 1548320788734 0 0 scroll / {} {}
+0 1548320788749 0 0 scroll / {} {}
+0 1548320788767 0 0 scroll / {} {}
+0 1548320788783 0 0 scroll / {} {}
+0 1548320788801 0 0 scroll / {} {}
+0 1548320788820 0 0 scroll / {} {}
+0 1548320788835 373 464 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788835 0 0 scroll / {} {}
+0 1548320788850 0 0 scroll / {} {}
+0 1548320788867 373 490 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.82727272727273","data-productid":"85","class":"starbox small  autoupdate"}} {}
+0 1548320788867 0 0 scroll / {} {}
+0 1548320788882 0 0 scroll / {} {}
+0 1548320788899 0 0 scroll / {} {}
+0 1548320788918 0 0 scroll / {} {}
+0 1548320788933 0 0 scroll / {} {}
+0 1548320788966 0 0 scroll / {} {}
+0 1548320788983 0 0 scroll / {} {}
+0 1548320789016 0 0 scroll / {} {}
+0 1548320789034 0 0 scroll / {} {}
+0 1548320789128 372 675 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789182 360 675 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789233 359 674 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789283 378 654 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789333 527 579 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789384 649 516 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789451 686 490 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789502 719 461 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548320789591 725 453 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548320789649 701 462 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548320789701 689 466 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1548320789766 659 478 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320789990 660 477 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790049 635 482 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790100 616 485 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790150 606 487 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790200 590 491 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790283 582 492 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790334 567 493 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790399 556 493 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790450 542 495 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790500 519 495 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790550 508 496 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790616 409 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320790950 380 523 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791031 379 524 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791239 379 530 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791310 382 520 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791366 382 514 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791418 380 505 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791483 375 502 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791534 363 501 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791584 341 501 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791683 316 501 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791733 311 497 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791800 321 495 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791867 462 511 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791917 562 514 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320791984 691 514 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792038 715 514 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792100 747 522 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792150 751 523 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792230 751 524 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792283 736 524 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792334 695 524 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792400 657 524 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792450 651 524 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792500 632 526 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792568 607 528 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792635 600 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792701 589 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792751 570 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792835 555 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792886 547 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320792951 540 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793018 529 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793102 523 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793217 518 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793267 510 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793317 502 529 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793368 492 527 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793433 478 525 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793483 470 523 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793534 465 523 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793584 458 521 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793634 446 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793700 430 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793750 408 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793800 394 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793910 394 519 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320793966 485 527 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794017 635 527 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794083 707 527 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794134 716 527 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794190 722 531 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794250 752 548 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794317 755 551 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794384 727 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794434 703 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794499 680 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794550 656 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794618 645 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794683 633 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794734 624 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794784 611 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794850 601 554 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794900 591 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320794950 584 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795001 571 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795066 553 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795118 540 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795184 525 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795250 511 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795302 501 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795367 489 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795417 476 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795467 470 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795534 460 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795633 442 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795684 429 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795750 410 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795800 404 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795850 394 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795900 381 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320795950 358 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796001 349 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796068 334 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796135 320 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796231 319 553 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796284 417 557 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796334 603 557 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796401 644 557 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796451 707 557 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796501 733 558 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796568 747 562 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796679 769 566 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796743 770 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796800 747 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796850 713 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796900 701 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320796950 686 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797000 669 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797067 653 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797118 637 568 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797184 621 570 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797234 609 570 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797284 601 570 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797334 587 573 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797400 568 573 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797451 555 573 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797518 532 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797582 503 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797633 488 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797683 481 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797734 463 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797784 449 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797850 437 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797901 419 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320797966 397 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798016 386 575 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798067 371 578 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798117 354 581 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798183 344 583 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798233 340 583 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798283 330 585 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798342 319 585 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798401 313 585 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798494 314 587 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798550 412 602 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798600 679 621 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320798650 781 622 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799006 829 629 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320799067 786 624 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799118 721 625 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799183 625 624 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799233 577 626 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799285 558 628 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799350 515 628 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799400 472 628 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799450 461 628 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799500 441 628 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799551 402 623 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799635 384 618 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799702 357 613 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799770 342 610 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799836 331 609 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320799902 327 609 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320800435 325 609 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320800485 319 609 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320800551 310 609 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548320800602 304 609 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320800668 297 610 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320800726 294 613 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320800830 294 618 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320800883 292 621 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320800934 290 624 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320801031 289 626 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320801527 288 628 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320801528 288 628 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320801534 0 0 scroll / {} {}
+0 1548320801552 0 0 scroll / {} {}
+0 1548320801566 0 0 scroll / {} {}
+0 1548320801583 0 0 scroll / {} {}
+0 1548320801600 0 0 scroll / {} {}
+0 1548320801620 0 0 scroll / {} {}
+0 1548320801635 0 0 scroll / {} {}
+0 1548320801652 0 0 scroll / {} {}
+0 1548320801668 0 0 scroll / {} {}
+0 1548320801685 0 0 scroll / {} {}
+0 1548320801705 0 0 scroll / {} {}
+0 1548320801720 0 0 scroll / {} {}
+0 1548320801802 874 794 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320801853 1005 794 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320801904 1141 762 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320801968 1138 747 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320802018 1035 728 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320802084 951 716 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320802134 913 721 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320802185 895 724 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320802350 880 728 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"","draggable":"false"}} {}
+0 1548320802428 880 728 click //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320802818 881 728 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320802868 890 726 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320802952 893 725 mousewheel //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320802967 0 0 scroll / {} {}
+0 1548320802984 0 0 scroll / {} {}
+0 1548320803002 0 0 scroll / {} {}
+0 1548320803018 894 696 mousewheel //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320803018 0 0 scroll / {} {}
+0 1548320803034 0 0 scroll / {} {}
+0 1548320803050 0 0 scroll / {} {}
+0 1548320803067 0 0 scroll / {} {}
+0 1548320803084 0 0 scroll / {} {}
+0 1548320803100 0 0 scroll / {} {}
+0 1548320803116 0 0 scroll / {} {}
+0 1548320803134 0 0 scroll / {} {}
+0 1548320803151 894 535 mousewheel //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","class":"flex-active","draggable":"false"}} {}
+0 1548320803152 0 0 scroll / {} {}
+0 1548320803168 0 0 scroll / {} {}
+0 1548320803184 0 0 scroll / {} {}
+0 1548320803200 0 0 scroll / {} {}
+0 1548320803229 0 0 scroll / {} {}
+0 1548320803253 0 0 scroll / {} {}
+0 1548320803269 0 0 scroll / {} {}
+0 1548320803286 0 0 scroll / {} {}
+0 1548320803303 0 0 scroll / {} {}
+0 1548320803319 0 0 scroll / {} {}
+0 1548320803335 0 0 scroll / {} {}
+0 1548320803402 977 607 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 852.325px;"}} {}
+0 1548320803469 1010 650 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 869.325px;"}} {}
+0 1548320803534 1019 664 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 893.325px;"}} {}
+0 1548320803584 1022 670 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 896.325px;"}} {}
+0 1548320803634 1040 702 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320803686 1050 728 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320803751 1053 747 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320803801 1051 757 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320803851 1043 763 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320804084 1042 763 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320804134 1036 755 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320804184 1020 711 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320804238 1001 628 mousemove //*[@id='slider-id-']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-X-256GB-Mobile-Phone1.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1548320804303 951 534 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 461.403px; left: 842.063px;"}} {}
+0 1548320804368 952 486 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 393.403px; left: 842.063px;"}} {}
+0 1548320804419 967 450 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 354.403px; left: 842.063px;"}} {}
+0 1548320804584 968 447 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 345.403px; left: 842.325px;"}} {}
+0 1548320804636 966 427 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 333.403px; left: 842.325px;"}} {}
+0 1548320804686 953 378 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 292.403px; left: 842.063px;"}} {}
+0 1548320804752 949 349 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 255.403px; left: 842.063px;"}} {}
+0 1548320804802 946 331 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 232.403px; left: 842.063px;"}} {}
+0 1548320804868 946 330 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 228.403px; left: 842.063px;"}} {}
+0 1548320804934 954 311 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 212.403px; left: 842.063px;"}} {}
+0 1548320804985 960 301 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200.403px; left: 842.063px;"}} {}
+0 1548320805052 964 293 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548320805118 975 265 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.325px;"}} {}
+0 1548320805238 977 252 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 851.325px;"}} {}
+0 1548320805294 978 252 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 852.325px;"}} {}
+0 1548320805350 1017 260 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 872.325px;"}} {}
+0 1548320805400 1076 286 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 934.325px;"}} {}
+0 1548320805450 1091 352 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 222.403px; left: 965.325px;"}} {}
+0 1548320805502 1078 449 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 319.403px; left: 959.325px;"}} {}
+0 1548320805567 1059 544 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 422.403px; left: 939.325px;"}} {}
+0 1548320805617 1040 604 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 477.403px; left: 923.325px;"}} {}
+0 1548320805673 1025 705 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320805734 1027 791 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320805903 1032 804 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":""}} {}
+0 1548320806002 1032 804 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320806068 1031 802 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320806119 1029 800 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320806235 1026 793 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320806285 1019 766 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320806335 985 665 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320806386 974 632 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 876.57px;"}} {}
+0 1548320806437 952 579 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -536.7px; left: 5.47118e-14px;"}} {}
+0 1548320806503 950 533 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -472.4px; left: 5.47118e-14px;"}} {}
+0 1548320806569 942 455 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -324.175px; left: 5.47118e-14px;"}} {}
+0 1548320806635 922 403 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -210.6px; left: 5.47118e-14px;"}} {}
+0 1548320806702 909 382 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -164.4px; left: 5.47118e-14px;"}} {}
+0 1548320806768 904 362 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -122.05px; left: 5.47118e-14px;"}} {}
+0 1548320806835 910 337 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -77.775px; left: 5.47118e-14px;"}} {}
+0 1548320806885 920 325 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -50.825px; left: 5.47118e-14px;"}} {}
+0 1548320806935 933 308 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -20.025px; left: 5.47118e-14px;"}} {}
+0 1548320807001 959 277 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone2_000.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548320807062 964 276 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548320807118 991 272 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 855.325px;"}} {}
+0 1548320807185 1015 279 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 882.325px;"}} {}
+0 1548320807235 1047 302 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 909.325px;"}} {}
+0 1548320807301 1101 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 252.403px; left: 968.325px;"}} {}
+0 1548320807351 1119 420 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 302.403px; left: 979.712px;"}} {}
+0 1548320807435 1133 491 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 346.403px; left: 979.712px;"}} {}
+0 1548320807485 1142 539 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 421.403px; left: 979.712px;"}} {}
+0 1548320807552 1146 579 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 468.403px; left: 979.712px;"}} {}
+0 1548320807621 1142 622 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 979.712px;"}} {}
+0 1548320807685 1135 666 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 979.712px;"}} {}
+0 1548320807751 1131 720 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320807801 1131 727 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320807852 1134 738 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320807919 1138 739 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320807984 1147 739 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320808068 1151 739 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":""}} {}
+0 1548320808274 1153 738 click //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320808535 1153 737 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320808602 1149 737 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320808653 1141 734 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320808720 1130 729 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320808786 1119 717 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320808853 1105 697 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Apple-iPhone-X-256GB-Mobile-Phone4_f6f6f4.jpg","draggable":"false","class":"flex-active"}} {}
+0 1548320808917 1045 591 mousemove //*[@id='product-slider']/div/ul {"UL":{"class":"slides","style":"width: 1000%; transition-duration: 0.6s; transform: translate3d(-1161px, 0px, 0px);"}} {}
+0 1548320808967 1030 557 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 381.805px; left: 909.325px;"}} {}
+0 1548320809018 1017 517 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 381.805px; left: 895.325px;"}} {}
+0 1548320809085 1016 513 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 381.805px; left: 892.325px;"}} {}
+0 1548320809152 1016 495 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 381.805px; left: 891.325px;"}} {}
+0 1548320809202 1019 487 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 381.805px; left: 893.325px;"}} {}
+0 1548320809252 1020 476 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 379.403px; left: 895.325px;"}} {}
+0 1548320809318 1022 453 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 357.403px; left: 896.325px;"}} {}
+0 1548320809383 1029 410 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 323.403px; left: 901.325px;"}} {}
+0 1548320809434 1035 388 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 289.403px; left: 908.325px;"}} {}
+0 1548320809486 1035 375 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 279.403px; left: 910.325px;"}} {}
+0 1548320809551 1028 335 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 239.403px; left: 903.325px;"}} {}
+0 1548320809601 1022 322 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 223.403px; left: 900.325px;"}} {}
+0 1548320809651 1012 305 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 207.403px; left: 889.325px;"}} {}
+0 1548320809701 1008 298 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 884.325px;"}} {}
+0 1548320809751 1001 295 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 880.325px;"}} {}
+0 1548320809802 983 291 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 864.325px;"}} {}
+0 1548320809852 976 290 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 853.325px;"}} {}
+0 1548320809902 951 290 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548320810262 943 290 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548320810317 948 292 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548320810367 959 294 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 842.063px;"}} {}
+0 1548320810417 973 300 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 843.325px;"}} {}
+0 1548320810467 985 307 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.403px; left: 856.325px;"}} {}
+0 1548320810517 1019 334 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 220.403px; left: 881.325px;"}} {}
+0 1548320810568 1052 377 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 262.403px; left: 916.325px;"}} {}
+0 1548320810634 1102 438 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 315.403px; left: 963.325px;"}} {}
+0 1548320810685 1152 494 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 375.403px; left: 979.712px;"}} {}
+0 1548320810761 1231 547 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1548320810817 1307 578 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320810867 1339 578 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320810918 1361 564 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1548320810973 1363 557 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1548320811063 1362 557 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1548320811118 1356 560 mousewheel /html {"HTML":{"lang":"en"}} {}
+0 1548320811153 0 0 scroll / {} {}
+0 1548320811169 0 0 scroll / {} {}
+0 1548320811186 0 0 scroll / {} {}
+0 1548320811203 0 0 scroll / {} {}
+0 1548320811220 0 0 scroll / {} {}
+0 1548320811235 1341 635 mousewheel /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811235 0 0 scroll / {} {}
+0 1548320811252 0 0 scroll / {} {}
+0 1548320811269 0 0 scroll / {} {}
+0 1548320811285 0 0 scroll / {} {}
+0 1548320811302 0 0 scroll / {} {}
+0 1548320811319 0 0 scroll / {} {}
+0 1548320811336 0 0 scroll / {} {}
+0 1548320811353 0 0 scroll / {} {}
+0 1548320811368 0 0 scroll / {} {}
+0 1548320811385 0 0 scroll / {} {}
+0 1548320811401 0 0 scroll / {} {}
+0 1548320811418 0 0 scroll / {} {}
+0 1548320811434 0 0 scroll / {} {}
+0 1548320811451 0 0 scroll / {} {}
+0 1548320811502 1320 785 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811567 1309 792 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811618 1292 801 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811718 1279 809 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811784 1276 811 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811845 1274 814 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811901 1271 817 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811957 1271 821 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811976 1271 821 mousewheel /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320811986 0 0 scroll / {} {}
+0 1548320812002 0 0 scroll / {} {}
+0 1548320812019 0 0 scroll / {} {}
+0 1548320812034 0 0 scroll / {} {}
+0 1548320812052 0 0 scroll / {} {}
+0 1548320812068 0 0 scroll / {} {}
+0 1548320812085 0 0 scroll / {} {}
+0 1548320812103 0 0 scroll / {} {}
+0 1548320812118 0 0 scroll / {} {}
+0 1548320812135 0 0 scroll / {} {}
+0 1548320812151 0 0 scroll / {} {}
+0 1548320812168 0 0 scroll / {} {}
+0 1548320812391 1267 925 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548320812452 1254 923 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548320812527 1243 921 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320812584 1235 918 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320812766 1232 916 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320812817 1230 917 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548320812895 1229 917 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320812917 1229 918 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320812935 0 0 scroll / {} {}
+0 1548320812950 0 0 scroll / {} {}
+0 1548320812970 0 0 scroll / {} {}
+0 1548320812986 0 0 scroll / {} {}
+0 1548320813001 0 0 scroll / {} {}
+0 1548320813017 0 0 scroll / {} {}
+0 1548320813035 0 0 scroll / {} {}
+0 1548320813051 0 0 scroll / {} {}
+0 1548320813067 0 0 scroll / {} {}
+0 1548320813084 0 0 scroll / {} {}
+0 1548320813100 0 0 scroll / {} {}
+0 1548320813318 1226 1021 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320813368 1218 1021 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320813438 1216 1021 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320813494 1210 1020 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320813552 1200 1020 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320813618 1192 1020 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320813668 1182 1020 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320813734 1116 1025 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548320813784 928 1069 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548320813835 772 1080 mousemove //*[@id='product-description']/h3 {"H3":{"style":"direction: rtl !important;","class":"tittle1"}} {}
+0 1548320813885 732 1076 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548320915439 0 0 unload / {} {}

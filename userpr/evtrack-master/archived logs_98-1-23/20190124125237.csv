@@ -1,0 +1,400 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548321726407 0 0 load / {} {}
+0 1548321727483 0 1 scroll / {} {}
+0 1548321811678 904 22 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548321811739 695 259 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548321811791 568 419 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548321812460 0 3 scroll / {} {}
+0 1548321812476 0 13 scroll / {} {}
+0 1548321812493 0 29 scroll / {} {}
+0 1548321812510 0 56 scroll / {} {}
+0 1548321812527 0 89 scroll / {} {}
+0 1548321812543 0 127 scroll / {} {}
+0 1548321812560 0 166 scroll / {} {}
+0 1548321812576 0 205 scroll / {} {}
+0 1548321812594 0 243 scroll / {} {}
+0 1548321812610 0 277 scroll / {} {}
+0 1548321812627 0 308 scroll / {} {}
+0 1548321812644 0 336 scroll / {} {}
+0 1548321812661 0 361 scroll / {} {}
+0 1548321812677 0 381 scroll / {} {}
+0 1548321812694 0 396 scroll / {} {}
+0 1548321812710 0 406 scroll / {} {}
+0 1548321812727 0 409 scroll / {} {}
+0 1548321812844 0 410 scroll / {} {}
+0 1548321812862 0 413 scroll / {} {}
+0 1548321812878 0 421 scroll / {} {}
+0 1548321812896 0 433 scroll / {} {}
+0 1548321812912 0 447 scroll / {} {}
+0 1548321812929 0 463 scroll / {} {}
+0 1548321812945 0 480 scroll / {} {}
+0 1548321812962 0 497 scroll / {} {}
+0 1548321812979 0 515 scroll / {} {}
+0 1548321812996 0 531 scroll / {} {}
+0 1548321813012 0 547 scroll / {} {}
+0 1548321813029 0 561 scroll / {} {}
+0 1548321813046 0 575 scroll / {} {}
+0 1548321813063 0 586 scroll / {} {}
+0 1548321813080 0 596 scroll / {} {}
+0 1548321813096 0 604 scroll / {} {}
+0 1548321813113 0 609 scroll / {} {}
+0 1548321813130 0 612 scroll / {} {}
+0 1548321813146 0 613 scroll / {} {}
+0 1548321813549 0 614 scroll / {} {}
+0 1548321813564 0 622 scroll / {} {}
+0 1548321813581 0 635 scroll / {} {}
+0 1548321813599 0 660 scroll / {} {}
+0 1548321813616 0 693 scroll / {} {}
+0 1548321813632 0 734 scroll / {} {}
+0 1548321813649 0 777 scroll / {} {}
+0 1548321813666 0 818 scroll / {} {}
+0 1548321813682 0 857 scroll / {} {}
+0 1548321813699 0 894 scroll / {} {}
+0 1548321813716 0 927 scroll / {} {}
+0 1548321813733 0 957 scroll / {} {}
+0 1548321813750 0 983 scroll / {} {}
+0 1548321813766 0 1001 scroll / {} {}
+0 1548321813783 0 1014 scroll / {} {}
+0 1548321813800 0 1021 scroll / {} {}
+0 1548321814001 0 1022 scroll / {} {}
+0 1548321814017 0 1025 scroll / {} {}
+0 1548321814034 0 1029 scroll / {} {}
+0 1548321814051 0 1033 scroll / {} {}
+0 1548321814068 0 1039 scroll / {} {}
+0 1548321814084 0 1045 scroll / {} {}
+0 1548321814101 0 1051 scroll / {} {}
+0 1548321814118 0 1057 scroll / {} {}
+0 1548321814134 0 1063 scroll / {} {}
+0 1548321814157 0 1070 scroll / {} {}
+0 1548321814173 0 1076 scroll / {} {}
+0 1548321814187 0 1082 scroll / {} {}
+0 1548321814204 0 1088 scroll / {} {}
+0 1548321814221 0 1094 scroll / {} {}
+0 1548321814236 0 1099 scroll / {} {}
+0 1548321814253 0 1104 scroll / {} {}
+0 1548321814270 0 1108 scroll / {} {}
+0 1548321814286 0 1112 scroll / {} {}
+0 1548321814303 0 1116 scroll / {} {}
+0 1548321814320 0 1118 scroll / {} {}
+0 1548321814337 0 1121 scroll / {} {}
+0 1548321814354 0 1122 scroll / {} {}
+0 1548321814371 0 1123 scroll / {} {}
+0 1548321814437 1089 1499 mousemove //*[@id='reviews-main'] {"DIV":{"class":"","id":"reviews-main","a":""}} {}
+0 1548321814487 1115 1465 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321814537 1120 1458 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321814733 1120 1458 click //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321814873 1120 1457 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321814940 1118 1457 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815007 1116 1457 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815057 1114 1457 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815109 1109 1458 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815172 1088 1463 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815223 1075 1468 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815273 1043 1476 mousemove //*[@id='product_reviews_button'] {"BUTTON":{"id":"product_reviews_button","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815323 978 1484 mousemove //*[@id='reviews-main']/div[1]/div {"DIV":{"class":"card"}} {}
+0 1548321815374 934 1492 mousemove //*[@id='reviews-main']/div[1]/div {"DIV":{"class":"card"}} {}
+0 1548321815425 906 1506 mousemove //*[@id='reviews-main']/div[1]/div {"DIV":{"class":"card"}} {}
+0 1548321815476 888 1520 mousemove //*[@id='product_reviews_button_47'] {"BUTTON":{"id":"product_reviews_button_47","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews_47","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815643 882 1524 mousemove //*[@id='product_reviews_button_47'] {"BUTTON":{"id":"product_reviews_button_47","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews_47","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815710 875 1540 mousemove //*[@id='product_reviews_button_47'] {"BUTTON":{"id":"product_reviews_button_47","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews_47","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815760 871 1556 mousemove //*[@id='product_reviews_button_47'] {"BUTTON":{"id":"product_reviews_button_47","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews_47","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321815810 871 1577 mousemove //*[@id='comment-section'] {"DIV":{"id":"comment-section","class":"reviews-top reviews-bottom"}} {}
+0 1548321815861 871 1592 mousemove //*[@id='comment-section'] {"DIV":{"id":"comment-section","class":"reviews-top reviews-bottom"}} {}
+0 1548321816011 0 1124 scroll / {} {}
+0 1548321816027 0 1126 scroll / {} {}
+0 1548321816044 0 1132 scroll / {} {}
+0 1548321816061 0 1143 scroll / {} {}
+0 1548321816078 0 1156 scroll / {} {}
+0 1548321816095 0 1172 scroll / {} {}
+0 1548321816111 0 1189 scroll / {} {}
+0 1548321816128 0 1206 scroll / {} {}
+0 1548321816144 0 1223 scroll / {} {}
+0 1548321816161 0 1240 scroll / {} {}
+0 1548321816178 0 1256 scroll / {} {}
+0 1548321816195 0 1271 scroll / {} {}
+0 1548321816212 0 1285 scroll / {} {}
+0 1548321816229 0 1297 scroll / {} {}
+0 1548321816245 0 1307 scroll / {} {}
+0 1548321816262 0 1316 scroll / {} {}
+0 1548321816279 0 1322 scroll / {} {}
+0 1548321816295 0 1326 scroll / {} {}
+0 1548321816312 0 1327 scroll / {} {}
+0 1548321816364 871 1795 mousemove //*[@id='reply-title'] {"H3":{"id":"reply-title","class":"comment-reply-title"}} {}
+0 1548321816429 892 1751 mousemove //*[@id='reviews-main'] {"DIV":{"class":"","id":"reviews-main","a":""}} {}
+0 1548321816480 909 1730 mousemove //*[@id='reviews-main'] {"DIV":{"class":"","id":"reviews-main","a":""}} {}
+0 1548321816531 916 1720 mousemove //*[@id='product_reviews_button_49'] {"BUTTON":{"id":"product_reviews_button_49","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews_49","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321816631 920 1715 mousemove //*[@id='product_reviews_button_49'] {"BUTTON":{"id":"product_reviews_button_49","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews_49","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321816766 920 1715 click //*[@id='product_reviews_button_49'] {"BUTTON":{"id":"product_reviews_button_49","class":"btn btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_reviews_49","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321816916 919 1715 mousemove //*[@id='product_reviews_button_49'] {"BUTTON":{"id":"product_reviews_button_49","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews_49","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321816966 889 1720 mousemove //*[@id='product_reviews_button_49'] {"BUTTON":{"id":"product_reviews_button_49","class":"btn btn-block showing-list","data-toggle":"collapse","data-target":"#product_reviews_49","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548321817022 809 1721 mousemove //*[@id='comment-section']/div[3]/div[1]/h4 {"H4":{"class":"mb-0"}} {}
+0 1548321817084 710 1721 mousemove //*[@id='comment-section']/div[3]/div[1]/h4 {"H4":{"class":"mb-0"}} {}
+0 1548321817182 0 1328 scroll / {} {}
+0 1548321817199 0 1330 scroll / {} {}
+0 1548321817217 0 1334 scroll / {} {}
+0 1548321817234 0 1341 scroll / {} {}
+0 1548321817251 0 1353 scroll / {} {}
+0 1548321817267 0 1366 scroll / {} {}
+0 1548321817283 0 1382 scroll / {} {}
+0 1548321817300 0 1406 scroll / {} {}
+0 1548321817317 0 1435 scroll / {} {}
+0 1548321817334 0 1465 scroll / {} {}
+0 1548321817351 0 1494 scroll / {} {}
+0 1548321817368 0 1523 scroll / {} {}
+0 1548321817385 0 1549 scroll / {} {}
+0 1548321817402 0 1573 scroll / {} {}
+0 1548321817418 0 1594 scroll / {} {}
+0 1548321817435 0 1610 scroll / {} {}
+0 1548321817451 0 1623 scroll / {} {}
+0 1548321817468 0 1631 scroll / {} {}
+0 1548321817485 0 1633 scroll / {} {}
+0 1548321818406 700 2027 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321818456 697 2027 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321818507 693 2028 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321818574 687 2030 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321818624 684 2029 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321818677 680 2019 mousemove //*[@id='comment-100']/div/ul {"UL":{}} {}
+0 1548321818959 679 2016 mousemove //*[@id='comment-100']/div/ul {"UL":{}} {}
+0 1548321819009 662 2026 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321819059 656 2033 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321819109 646 2041 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321819160 639 2046 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321819210 630 2050 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321819294 624 2051 mousemove //*[@id='comment-100']/div/p[1] {"P":{}} {}
+0 1548321821572 0 1634 scroll / {} {}
+0 1548321821589 0 1636 scroll / {} {}
+0 1548321821606 0 1642 scroll / {} {}
+0 1548321821623 0 1659 scroll / {} {}
+0 1548321821639 0 1691 scroll / {} {}
+0 1548321821655 0 1740 scroll / {} {}
+0 1548321821673 0 1793 scroll / {} {}
+0 1548321821689 0 1855 scroll / {} {}
+0 1548321821706 0 1912 scroll / {} {}
+0 1548321821723 0 1970 scroll / {} {}
+0 1548321821739 0 2023 scroll / {} {}
+0 1548321821756 0 2075 scroll / {} {}
+0 1548321821773 0 2122 scroll / {} {}
+0 1548321821789 0 2168 scroll / {} {}
+0 1548321821806 0 2207 scroll / {} {}
+0 1548321821824 0 2244 scroll / {} {}
+0 1548321821840 0 2276 scroll / {} {}
+0 1548321821857 0 2302 scroll / {} {}
+0 1548321821873 0 2324 scroll / {} {}
+0 1548321821890 0 2339 scroll / {} {}
+0 1548321821907 0 2346 scroll / {} {}
+0 1548321821923 0 2347 scroll / {} {}
+0 1548321822527 0 2346 scroll / {} {}
+0 1548321822543 0 2335 scroll / {} {}
+0 1548321822560 0 2306 scroll / {} {}
+0 1548321822577 0 2258 scroll / {} {}
+0 1548321822593 0 2197 scroll / {} {}
+0 1548321822610 0 2131 scroll / {} {}
+0 1548321822628 0 2068 scroll / {} {}
+0 1548321822644 0 2006 scroll / {} {}
+0 1548321822661 0 1949 scroll / {} {}
+0 1548321822677 0 1897 scroll / {} {}
+0 1548321822695 0 1850 scroll / {} {}
+0 1548321822711 0 1810 scroll / {} {}
+0 1548321822728 0 1777 scroll / {} {}
+0 1548321822744 0 1753 scroll / {} {}
+0 1548321822761 0 1739 scroll / {} {}
+0 1548321822778 0 1735 scroll / {} {}
+0 1548321825491 0 1737 scroll / {} {}
+0 1548321825507 0 1740 scroll / {} {}
+0 1548321825526 0 1745 scroll / {} {}
+0 1548321825542 0 1750 scroll / {} {}
+0 1548321825558 0 1755 scroll / {} {}
+0 1548321825576 0 1761 scroll / {} {}
+0 1548321825592 0 1769 scroll / {} {}
+0 1548321825609 0 1779 scroll / {} {}
+0 1548321825625 0 1791 scroll / {} {}
+0 1548321825643 0 1803 scroll / {} {}
+0 1548321825659 0 1816 scroll / {} {}
+0 1548321825676 0 1828 scroll / {} {}
+0 1548321825693 0 1841 scroll / {} {}
+0 1548321825709 0 1853 scroll / {} {}
+0 1548321825726 0 1865 scroll / {} {}
+0 1548321825743 0 1876 scroll / {} {}
+0 1548321825760 0 1887 scroll / {} {}
+0 1548321825777 0 1896 scroll / {} {}
+0 1548321825793 0 1906 scroll / {} {}
+0 1548321825810 0 1914 scroll / {} {}
+0 1548321825827 0 1921 scroll / {} {}
+0 1548321825844 0 1927 scroll / {} {}
+0 1548321825860 0 1932 scroll / {} {}
+0 1548321825877 0 1936 scroll / {} {}
+0 1548321825894 0 1938 scroll / {} {}
+0 1548321825911 0 1939 scroll / {} {}
+0 1548321829780 0 1938 scroll / {} {}
+0 1548321829796 0 1923 scroll / {} {}
+0 1548321829814 0 1891 scroll / {} {}
+0 1548321829831 0 1838 scroll / {} {}
+0 1548321829848 0 1775 scroll / {} {}
+0 1548321829864 0 1702 scroll / {} {}
+0 1548321829880 0 1630 scroll / {} {}
+0 1548321829897 0 1561 scroll / {} {}
+0 1548321829913 0 1495 scroll / {} {}
+0 1548321829931 0 1437 scroll / {} {}
+0 1548321829948 0 1382 scroll / {} {}
+0 1548321829964 0 1334 scroll / {} {}
+0 1548321829981 0 1293 scroll / {} {}
+0 1548321829997 0 1261 scroll / {} {}
+0 1548321830014 0 1238 scroll / {} {}
+0 1548321830031 0 1226 scroll / {} {}
+0 1548321830048 0 1225 scroll / {} {}
+0 1548321830131 0 1223 scroll / {} {}
+0 1548321830147 0 1211 scroll / {} {}
+0 1548321830165 0 1183 scroll / {} {}
+0 1548321830182 0 1141 scroll / {} {}
+0 1548321830199 0 1092 scroll / {} {}
+0 1548321830215 0 1041 scroll / {} {}
+0 1548321830232 0 989 scroll / {} {}
+0 1548321830248 0 940 scroll / {} {}
+0 1548321830265 0 894 scroll / {} {}
+0 1548321830282 0 851 scroll / {} {}
+0 1548321830299 0 814 scroll / {} {}
+0 1548321830316 0 781 scroll / {} {}
+0 1548321830333 0 754 scroll / {} {}
+0 1548321830349 0 733 scroll / {} {}
+0 1548321830367 0 720 scroll / {} {}
+0 1548321830383 0 715 scroll / {} {}
+0 1548321830466 0 714 scroll / {} {}
+0 1548321830483 0 708 scroll / {} {}
+0 1548321830500 0 689 scroll / {} {}
+0 1548321830517 0 652 scroll / {} {}
+0 1548321830533 0 601 scroll / {} {}
+0 1548321830551 0 538 scroll / {} {}
+0 1548321830568 0 474 scroll / {} {}
+0 1548321830583 0 411 scroll / {} {}
+0 1548321830600 0 353 scroll / {} {}
+0 1548321830617 0 299 scroll / {} {}
+0 1548321830634 0 249 scroll / {} {}
+0 1548321830651 0 205 scroll / {} {}
+0 1548321830668 0 167 scroll / {} {}
+0 1548321830684 0 137 scroll / {} {}
+0 1548321830702 0 116 scroll / {} {}
+0 1548321830718 0 105 scroll / {} {}
+0 1548321830735 0 103 scroll / {} {}
+0 1548321830818 0 101 scroll / {} {}
+0 1548321830835 0 98 scroll / {} {}
+0 1548321830852 0 91 scroll / {} {}
+0 1548321830869 0 81 scroll / {} {}
+0 1548321830886 0 70 scroll / {} {}
+0 1548321830902 0 58 scroll / {} {}
+0 1548321830919 0 47 scroll / {} {}
+0 1548321830936 0 36 scroll / {} {}
+0 1548321830953 0 26 scroll / {} {}
+0 1548321830969 0 18 scroll / {} {}
+0 1548321830987 0 11 scroll / {} {}
+0 1548321831003 0 5 scroll / {} {}
+0 1548321831020 0 2 scroll / {} {}
+0 1548321831036 0 0 scroll / {} {}
+0 1548321831540 623 418 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548321831605 621 404 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321831706 620 403 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321831773 618 403 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321832059 0 1 scroll / {} {}
+0 1548321832075 0 3 scroll / {} {}
+0 1548321832091 0 9 scroll / {} {}
+0 1548321832108 0 28 scroll / {} {}
+0 1548321832125 0 62 scroll / {} {}
+0 1548321832141 0 105 scroll / {} {}
+0 1548321832159 0 156 scroll / {} {}
+0 1548321832176 0 209 scroll / {} {}
+0 1548321832193 0 260 scroll / {} {}
+0 1548321832209 0 307 scroll / {} {}
+0 1548321832225 0 351 scroll / {} {}
+0 1548321832243 0 390 scroll / {} {}
+0 1548321832259 0 423 scroll / {} {}
+0 1548321832275 0 455 scroll / {} {}
+0 1548321832292 0 483 scroll / {} {}
+0 1548321832309 0 509 scroll / {} {}
+0 1548321832326 0 533 scroll / {} {}
+0 1548321832343 0 554 scroll / {} {}
+0 1548321832360 0 572 scroll / {} {}
+0 1548321832376 0 588 scroll / {} {}
+0 1548321832393 0 600 scroll / {} {}
+0 1548321832410 0 608 scroll / {} {}
+0 1548321832427 0 612 scroll / {} {}
+0 1548321832477 622 1001 mousemove //*[@id='product-description']/h3 {"H3":{"style":"direction: rtl !important;","class":"tittle1"}} {}
+0 1548321832527 626 968 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548321832579 629 936 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1548321832629 634 897 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1548321832679 634 870 mousemove //*[@id='set-basket-quantity']/div {"DIV":{"class":"quantity-select"}} {}
+0 1548321832729 627 848 mousemove //*[@id='set-basket-quantity']/div {"DIV":{"class":"quantity-select"}} {}
+0 1548321832780 619 829 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548321832847 609 809 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321832913 594 791 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321832963 590 785 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321833165 588 783 mousemove //*[@id='product-introduction-show-more'] {"P":{"id":"product-introduction-show-more"}} {}
+0 1548321833231 584 781 mousemove //*[@id='product-introduction-show-more'] {"P":{"id":"product-introduction-show-more"}} {}
+0 1548321833281 583 781 mousemove //*[@id='product-introduction-show-more'] {"P":{"id":"product-introduction-show-more"}} {}
+0 1548321833331 581 778 mousemove //*[@id='product-introduction-show-more'] {"P":{"id":"product-introduction-show-more"}} {}
+0 1548321833382 578 776 mousemove //*[@id='product-introduction-show-more'] {"P":{"id":"product-introduction-show-more"}} {}
+0 1548321833551 578 776 click //*[@id='product-introduction-show-more'] {"P":{"id":"product-introduction-show-more"}} {}
+0 1548321833716 576 777 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548321833767 561 801 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548321833819 527 848 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321833884 463 929 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548321833951 420 981 mousemove //*[@id='set-basket-quantity']/div {"DIV":{"class":"quantity-select"}} {}
+0 1548321834002 401 1006 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1548321835039 0 611 scroll / {} {}
+0 1548321835057 0 609 scroll / {} {}
+0 1548321835073 0 604 scroll / {} {}
+0 1548321835090 0 594 scroll / {} {}
+0 1548321835107 0 574 scroll / {} {}
+0 1548321835124 0 544 scroll / {} {}
+0 1548321835140 0 507 scroll / {} {}
+0 1548321835157 0 466 scroll / {} {}
+0 1548321835174 0 423 scroll / {} {}
+0 1548321835190 0 379 scroll / {} {}
+0 1548321835207 0 337 scroll / {} {}
+0 1548321835224 0 297 scroll / {} {}
+0 1548321835240 0 260 scroll / {} {}
+0 1548321835258 0 225 scroll / {} {}
+0 1548321835274 0 191 scroll / {} {}
+0 1548321835291 0 161 scroll / {} {}
+0 1548321835307 0 132 scroll / {} {}
+0 1548321835324 0 106 scroll / {} {}
+0 1548321835341 0 81 scroll / {} {}
+0 1548321835358 0 60 scroll / {} {}
+0 1548321835375 0 41 scroll / {} {}
+0 1548321835391 0 25 scroll / {} {}
+0 1548321835408 0 13 scroll / {} {}
+0 1548321835424 0 4 scroll / {} {}
+0 1548321835442 0 0 scroll / {} {}
+0 1548321835642 396 399 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321835692 400 396 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321835743 407 392 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548321835810 433 382 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1548321835862 469 365 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.6","data-productid":"65","class":"starbox small  autoupdate"}} {}
+0 1548321835928 493 342 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321835978 503 332 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836028 507 326 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836255 508 325 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836583 508 326 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836648 502 340 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836715 500 344 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836765 500 346 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836816 499 348 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836883 498 351 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321836954 495 356 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1548321837017 492 365 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.6","data-productid":"65","class":"starbox small  autoupdate"}} {}
+0 1548321837083 488 377 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548321837133 487 384 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548321837183 485 389 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548321837233 485 394 mousemove //*[@id='product-rater']/div[2] {"DIV":{"class":"rate-description"}} {}
+0 1548321837285 485 398 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548321837351 485 402 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548321837401 492 408 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548321837452 523 412 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548321837502 580 412 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548321837552 650 409 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548321837602 699 398 mousemove //*[@id='product-rater']/div[2]/p[2] {"P":{"class":"your-rate-description"}} {}
+0 1548321837938 711 395 mousemove //*[@id='product-rater']/div[2] {"DIV":{"class":"rate-description"}} {}
+0 1548321837994 761 388 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548321838055 926 284 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 225.403px; left: 842.067px;"}} {}
+0 1548321838108 1050 143 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548321838172 1099 51 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548321838222 1104 19 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548321839267 0 0 unload / {} {}

@@ -1,0 +1,19 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1546843261870 0 0 load / {} {}
+0 1546843262487 919 10 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1546843262540 928 130 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1546843262590 941 202 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1546843262640 942 245 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1546843262780 944 256 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1546843262840 951 280 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1546843262890 954 312 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1546843263274 955 323 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1546843263324 969 406 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1546843263392 1026 574 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1546843263458 1076 614 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1546843263508 1101 633 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1546843263558 1119 655 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1546843263608 1132 676 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1546843263675 1153 717 mousemove //*[@id='select-cat']/div/div[2]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1546843264757 1158 727 click //*[@id='select-cat']/div/div[2]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1546843265046 0 0 unload / {} {}

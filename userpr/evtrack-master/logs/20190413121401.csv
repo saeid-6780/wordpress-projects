@@ -1,0 +1,17 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1555157611822 0 0 load / {} {}
+0 1555157614734 135 0 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1555157614814 244 70 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1555157614873 321 113 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157614934 431 177 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157614994 497 302 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615054 527 369 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615115 529 407 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615174 529 444 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615235 538 476 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615295 564 508 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615354 589 536 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615414 604 557 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615474 609 571 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615534 620 593 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555157615594 626 601 mousemove /html {"HTML":{"lang":"en"}} {}

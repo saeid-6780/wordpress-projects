@@ -1,0 +1,66 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548428758589 878 1194 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428758596 0 0 scroll / {} {}
+0 1548428758612 0 0 scroll / {} {}
+0 1548428758629 878 1209 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428758630 0 0 scroll / {} {}
+0 1548428758645 878 1224 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428758645 0 0 scroll / {} {}
+0 1548428758663 0 0 scroll / {} {}
+0 1548428758679 0 0 scroll / {} {}
+0 1548428758695 0 0 scroll / {} {}
+0 1548428758713 0 0 scroll / {} {}
+0 1548428758729 0 0 scroll / {} {}
+0 1548428758744 0 0 scroll / {} {}
+0 1548428758762 0 0 scroll / {} {}
+0 1548428758777 0 0 scroll / {} {}
+0 1548428758795 0 0 scroll / {} {}
+0 1548428758875 878 1495 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428758876 0 0 scroll / {} {}
+0 1548428758896 0 0 scroll / {} {}
+0 1548428758913 878 1518 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428758914 0 0 scroll / {} {}
+0 1548428758931 878 1539 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428758932 0 0 scroll / {} {}
+0 1548428758949 878 1576 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428758949 0 0 scroll / {} {}
+0 1548428758962 0 0 scroll / {} {}
+0 1548428758978 0 0 scroll / {} {}
+0 1548428758995 0 0 scroll / {} {}
+0 1548428759012 0 0 scroll / {} {}
+0 1548428759029 0 0 scroll / {} {}
+0 1548428759045 0 0 scroll / {} {}
+0 1548428759062 0 0 scroll / {} {}
+0 1548428759079 0 0 scroll / {} {}
+0 1548428759349 878 1995 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428759349 0 0 scroll / {} {}
+0 1548428759362 0 0 scroll / {} {}
+0 1548428759379 878 2008 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428759379 0 0 scroll / {} {}
+0 1548428759396 878 2024 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428759396 0 0 scroll / {} {}
+0 1548428759410 0 0 scroll / {} {}
+0 1548428759429 0 0 scroll / {} {}
+0 1548428759446 0 0 scroll / {} {}
+0 1548428759461 0 0 scroll / {} {}
+0 1548428759479 0 0 scroll / {} {}
+0 1548428759495 0 0 scroll / {} {}
+0 1548428759511 0 0 scroll / {} {}
+0 1548428759635 878 2395 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428759636 0 0 scroll / {} {}
+0 1548428759645 0 0 scroll / {} {}
+0 1548428759665 878 2408 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428759666 0 0 scroll / {} {}
+0 1548428759679 878 2422 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428759680 0 0 scroll / {} {}
+0 1548428759697 878 2456 mousewheel //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548428759697 0 0 scroll / {} {}
+0 1548428759713 0 0 scroll / {} {}
+0 1548428759730 0 0 scroll / {} {}
+0 1548428759745 0 0 scroll / {} {}
+0 1548428759763 0 0 scroll / {} {}
+0 1548428759780 0 0 scroll / {} {}
+0 1548428759795 0 0 scroll / {} {}
+0 1548428759915 879 2849 mousemove //*[@id='product-9'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-9","data-product-id":"9"}} {}
+0 1548428759978 944 2712 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548428760275 0 0 unload / {} {}

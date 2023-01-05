@@ -1,0 +1,414 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1552824967282 981 559 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824967334 968 552 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824967394 943 541 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824967499 806 476 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824967556 759 454 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824967615 728 443 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1552824967675 715 438 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1552824967736 709 433 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1552824967798 704 413 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1552824967858 714 349 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1552824967918 725 303 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1552824967978 721 273 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1552824968038 714 265 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1552824968098 709 265 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1552824968158 704 265 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1552824968368 702 266 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1552824968420 672 269 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1552824968482 486 226 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552824968539 374 209 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552824968580 354 210 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552824968600 0 0 scroll / {} {}
+0 1552824968620 0 0 scroll / {} {}
+0 1552824968640 0 0 scroll / {} {}
+0 1552824968661 0 0 scroll / {} {}
+0 1552824968682 313 264 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552824968682 0 0 scroll / {} {}
+0 1552824968700 0 0 scroll / {} {}
+0 1552824968720 296 311 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552824968720 0 0 scroll / {} {}
+0 1552824968740 0 0 scroll / {} {}
+0 1552824968761 0 0 scroll / {} {}
+0 1552824968780 0 0 scroll / {} {}
+0 1552824968822 281 465 mousewheel //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1552824968822 0 0 scroll / {} {}
+0 1552824968840 0 0 scroll / {} {}
+0 1552824968860 0 0 scroll / {} {}
+0 1552824968881 0 0 scroll / {} {}
+0 1552824968900 0 0 scroll / {} {}
+0 1552824968921 0 0 scroll / {} {}
+0 1552824968941 0 0 scroll / {} {}
+0 1552824968961 0 0 scroll / {} {}
+0 1552824969021 243 599 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969081 243 597 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969224 0 0 load / {} {}
+0 1552824969261 0 0 scroll / {} {}
+0 1552824969366 243 199 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969382 0 0 scroll / {} {}
+0 1552824969401 0 0 scroll / {} {}
+0 1552824969422 0 0 scroll / {} {}
+0 1552824969443 0 0 scroll / {} {}
+0 1552824969462 0 0 scroll / {} {}
+0 1552824969483 0 0 scroll / {} {}
+0 1552824969502 0 0 scroll / {} {}
+0 1552824969523 0 0 scroll / {} {}
+0 1552824969574 245 298 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969695 245 295 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969806 247 294 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969843 247 297 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969843 0 0 scroll / {} {}
+0 1552824969863 247 305 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969863 0 0 scroll / {} {}
+0 1552824969882 0 0 scroll / {} {}
+0 1552824969924 247 372 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824969924 0 0 scroll / {} {}
+0 1552824969944 0 0 scroll / {} {}
+0 1552824969964 0 0 scroll / {} {}
+0 1552824969983 0 0 scroll / {} {}
+0 1552824970004 0 0 scroll / {} {}
+0 1552824970026 0 0 scroll / {} {}
+0 1552824970044 0 0 scroll / {} {}
+0 1552824970064 0 0 scroll / {} {}
+0 1552824970142 248 592 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824970204 252 588 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1552824970350 258 586 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1552824970404 261 584 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1552824970464 290 584 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1552824970525 341 594 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1552824970584 431 617 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1552824970644 527 653 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1552824970704 590 682 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552824970765 615 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552824970827 650 699 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3] {"A":{"class":"product-color","data-color":"f00"}} {}
+0 1552824970911 690 707 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"ff7e00"}} {}
+0 1552824970968 715 708 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824971028 730 703 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824971089 734 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971149 734 687 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971270 732 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971330 719 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971410 717 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971631 717 688 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971710 716 690 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971770 715 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824971834 707 692 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824971892 690 690 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824973315 685 689 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824973899 684 689 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824974160 683 689 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824974240 682 689 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824974300 673 689 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824974364 652 689 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824974421 643 689 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824974521 644 689 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824974595 691 687 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824974722 700 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824974784 706 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552824974843 713 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824975043 714 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824975129 715 685 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824975607 714 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824975688 709 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824975767 705 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552824975827 689 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824975887 661 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552824975949 648 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976007 638 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976066 636 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976226 636 679 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976469 635 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976528 634 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976689 632 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976749 630 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824976849 628 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824977551 625 680 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552824977613 628 680 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824977692 636 684 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824977753 653 693 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824977813 660 695 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3] {"A":{"class":"product-color","data-color":"f00"}} {}
+0 1552824977873 666 694 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"ff7e00"}} {}
+0 1552824977935 680 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824977995 692 688 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824978056 711 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824978240 717 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824978358 718 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824978362 718 683 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824979322 717 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824979430 715 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824980183 714 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824980232 714 683 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824980662 713 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824980718 707 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824980804 693 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824980864 690 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824980924 687 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824981161 686 683 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824982382 687 683 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824982448 700 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824982510 717 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824982570 726 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824982711 731 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824982826 732 686 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824983533 730 688 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824983593 717 690 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824983653 709 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824983716 692 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824983775 673 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #ff7e00;"}} {}
+0 1552824983837 655 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824983896 644 691 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824983956 641 692 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824984055 636 692 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824984283 636 692 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824985138 637 692 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824985199 652 694 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f00;"}} {}
+0 1552824985261 666 697 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"ff7e00"}} {}
+0 1552824985481 668 699 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"ff7e00"}} {}
+0 1552824985541 668 704 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"ff7e00"}} {}
+0 1552824985602 667 711 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824985703 667 719 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824985761 667 724 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824985841 667 730 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824985901 667 732 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824985960 665 739 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824986000 665 739 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824986021 0 0 scroll / {} {}
+0 1552824986042 0 0 scroll / {} {}
+0 1552824986060 0 0 scroll / {} {}
+0 1552824986102 0 0 scroll / {} {}
+0 1552824986122 0 0 scroll / {} {}
+0 1552824986143 0 0 scroll / {} {}
+0 1552824986162 0 0 scroll / {} {}
+0 1552824986182 0 0 scroll / {} {}
+0 1552824986203 665 844 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824986203 0 0 scroll / {} {}
+0 1552824986222 0 0 scroll / {} {}
+0 1552824986243 0 0 scroll / {} {}
+0 1552824986262 0 0 scroll / {} {}
+0 1552824986283 0 0 scroll / {} {}
+0 1552824986302 0 0 scroll / {} {}
+0 1552824986322 0 0 scroll / {} {}
+0 1552824986344 0 0 scroll / {} {}
+0 1552824986369 0 0 scroll / {} {}
+0 1552824986383 665 944 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824986384 0 0 scroll / {} {}
+0 1552824986403 0 0 scroll / {} {}
+0 1552824986423 0 0 scroll / {} {}
+0 1552824986443 0 0 scroll / {} {}
+0 1552824986464 0 0 scroll / {} {}
+0 1552824986484 0 0 scroll / {} {}
+0 1552824986503 0 0 scroll / {} {}
+0 1552824986523 0 0 scroll / {} {}
+0 1552824986544 0 0 scroll / {} {}
+0 1552824986564 0 0 scroll / {} {}
+0 1552824986663 664 1046 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824986664 0 0 scroll / {} {}
+0 1552824986704 0 0 scroll / {} {}
+0 1552824986724 0 0 scroll / {} {}
+0 1552824986744 0 0 scroll / {} {}
+0 1552824986764 0 0 scroll / {} {}
+0 1552824986784 0 0 scroll / {} {}
+0 1552824986824 0 0 scroll / {} {}
+0 1552824986878 663 1144 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824986990 662 1144 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987070 662 1143 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987125 661 1142 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987326 661 1141 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987385 659 1141 mousewheel //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987404 659 1135 mousewheel //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987404 0 0 scroll / {} {}
+0 1552824987424 0 0 scroll / {} {}
+0 1552824987445 658 1089 mousewheel //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987446 0 0 scroll / {} {}
+0 1552824987488 0 0 scroll / {} {}
+0 1552824987508 658 949 mousewheel //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824987508 0 0 scroll / {} {}
+0 1552824987528 0 0 scroll / {} {}
+0 1552824987548 0 0 scroll / {} {}
+0 1552824987569 0 0 scroll / {} {}
+0 1552824987588 0 0 scroll / {} {}
+0 1552824987608 0 0 scroll / {} {}
+0 1552824987628 0 0 scroll / {} {}
+0 1552824987648 0 0 scroll / {} {}
+0 1552824987668 0 0 scroll / {} {}
+0 1552824988014 655 737 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824988078 653 738 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824988128 651 739 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824988198 649 741 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824988430 648 742 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824988527 645 743 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824988646 643 745 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824988950 642 746 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824989598 642 744 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824989718 641 744 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824989787 640 743 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824989838 639 739 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824989906 643 731 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824989967 658 722 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824990027 669 717 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824990087 681 710 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824990147 687 706 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"ff7e00"}} {}
+0 1552824990207 693 700 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"ff7e00"}} {}
+0 1552824990268 708 692 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824990329 716 688 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824990379 717 688 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824990820 718 688 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824990879 718 690 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824990979 718 695 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/i {"I":{"class":"icon","style":"background-color: #0f0;"}} {}
+0 1552824991040 718 704 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824991060 718 705 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824991082 0 0 scroll / {} {}
+0 1552824991101 0 0 scroll / {} {}
+0 1552824991121 718 729 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824991121 0 0 scroll / {} {}
+0 1552824991141 0 0 scroll / {} {}
+0 1552824991161 718 772 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824991161 0 0 scroll / {} {}
+0 1552824991181 0 0 scroll / {} {}
+0 1552824991202 0 0 scroll / {} {}
+0 1552824991221 0 0 scroll / {} {}
+0 1552824991241 0 0 scroll / {} {}
+0 1552824991261 0 0 scroll / {} {}
+0 1552824991280 0 0 scroll / {} {}
+0 1552824991301 0 0 scroll / {} {}
+0 1552824991321 0 0 scroll / {} {}
+0 1552824991383 718 1010 mousemove //*[@id='home'] {"DIV":{"id":"home"}} {}
+0 1552824991563 718 1013 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1552824991563 718 1013 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824991563 0 0 scroll / {} {}
+0 1552824991581 0 0 scroll / {} {}
+0 1552824991601 718 1031 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[1] {"A":{"class":"product-color","data-color":"0f0"}} {}
+0 1552824991602 0 0 scroll / {} {}
+0 1552824991642 0 0 scroll / {} {}
+0 1552824991662 0 0 scroll / {} {}
+0 1552824991682 0 0 scroll / {} {}
+0 1552824991702 0 0 scroll / {} {}
+0 1552824991722 0 0 scroll / {} {}
+0 1552824991743 0 0 scroll / {} {}
+0 1552824991762 0 0 scroll / {} {}
+0 1552824991783 0 0 scroll / {} {}
+0 1552824991983 718 1212 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824992206 718 1211 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824993126 718 1209 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824993214 718 1209 mousewheel //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824993222 0 0 scroll / {} {}
+0 1552824993241 718 1200 mousewheel //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824993241 0 0 scroll / {} {}
+0 1552824993268 718 1179 mousewheel //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824993268 0 0 scroll / {} {}
+0 1552824993288 0 0 scroll / {} {}
+0 1552824993308 0 0 scroll / {} {}
+0 1552824993328 0 0 scroll / {} {}
+0 1552824993348 0 0 scroll / {} {}
+0 1552824993368 0 0 scroll / {} {}
+0 1552824993388 0 0 scroll / {} {}
+0 1552824993408 0 0 scroll / {} {}
+0 1552824993432 0 0 scroll / {} {}
+0 1552824993542 719 907 mousewheel //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824993542 0 0 scroll / {} {}
+0 1552824993548 0 0 scroll / {} {}
+0 1552824993570 0 0 scroll / {} {}
+0 1552824993589 720 875 mousewheel //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1552824993589 0 0 scroll / {} {}
+0 1552824993609 0 0 scroll / {} {}
+0 1552824993629 0 0 scroll / {} {}
+0 1552824993649 0 0 scroll / {} {}
+0 1552824993670 0 0 scroll / {} {}
+0 1552824993689 0 0 scroll / {} {}
+0 1552824993709 0 0 scroll / {} {}
+0 1552824993729 0 0 scroll / {} {}
+0 1552824993751 0 0 scroll / {} {}
+0 1552824993809 649 721 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824993870 613 722 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824993930 589 736 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824993990 568 751 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824994049 531 778 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824994110 520 787 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824996549 563 782 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824996814 562 782 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824996875 553 786 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552824997336 0 0 scroll / {} {}
+0 1552824998067 0 0 scroll / {} {}
+0 1552824999723 0 0 scroll / {} {}
+0 1552825000503 114 361 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552825000554 200 317 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552825000614 326 268 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552825000674 344 263 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552825000735 348 268 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552825000755 348 268 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552825000758 348 269 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552825000782 348 270 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552825000795 0 0 scroll / {} {}
+0 1552825000815 0 0 scroll / {} {}
+0 1552825000835 0 0 scroll / {} {}
+0 1552825000839 348 349 mousewheel //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552825000856 0 0 scroll / {} {}
+0 1552825000875 0 0 scroll / {} {}
+0 1552825000896 0 0 scroll / {} {}
+0 1552825000915 0 0 scroll / {} {}
+0 1552825000936 0 0 scroll / {} {}
+0 1552825000957 0 0 scroll / {} {}
+0 1552825000976 0 0 scroll / {} {}
+0 1552825000998 0 0 scroll / {} {}
+0 1552825001016 0 0 scroll / {} {}
+0 1552825001118 359 666 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552825001136 359 669 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552825001156 0 0 scroll / {} {}
+0 1552825001176 359 679 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1552825001177 0 0 scroll / {} {}
+0 1552825001197 0 0 scroll / {} {}
+0 1552825001216 0 0 scroll / {} {}
+0 1552825001236 0 0 scroll / {} {}
+0 1552825001257 0 0 scroll / {} {}
+0 1552825001276 0 0 scroll / {} {}
+0 1552825001297 0 0 scroll / {} {}
+0 1552825001317 0 0 scroll / {} {}
+0 1552825001358 0 0 scroll / {} {}
+0 1552825001418 302 898 mousemove //*[@id='product-description']/h3 {"H3":{"style":"direction: rtl !important;","class":"tittle1"}} {}
+0 1552825004910 849 792 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825005131 847 794 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825005210 846 795 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825005271 845 798 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825005331 843 801 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825005412 840 806 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825005471 835 809 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825005533 828 814 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1552825005593 811 829 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1552825005653 753 894 mousemove //*[@id='product-description']/h3 {"H3":{"style":"direction: rtl !important;","class":"tittle1"}} {}
+0 1552825005710 688 962 mousemove //*[@id='product-description']/div[2] {"DIV":{"class":"clearfix"}} {}
+0 1552825578937 458 946 mousemove //*[@id='product-description']/div[2] {"DIV":{"class":"clearfix"}} {}
+0 1552825578993 673 787 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552825579055 826 672 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1552825579120 880 636 mousemove //*[@id='slider-id-f00']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-83_f00.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1552825580721 352 630 mousemove /html/body/div[7] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825580782 623 790 mousemove //*[@id='product-rater-modal']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1552825814984 638 910 mousemove //*[@id='product-set-rate-modal'] {"BUTTON":{"id":"product-set-rate-modal","data-remodal-action":"confirm","class":"remodal-confirm"}} {}
+0 1552825815043 628 786 mousemove //*[@id='product-rater-modal']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1552825815102 626 708 mousemove //*[@id='rating-modal-warning']/p {"P":{}} {}
+0 1552825815164 631 661 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825815223 636 647 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825815278 638 645 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825815344 648 634 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825815403 658 631 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825885316 1096 637 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825885375 1004 847 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825885429 966 958 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825885661 951 963 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825885716 955 898 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825885775 970 796 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825885835 971 733 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825885896 981 697 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825885956 997 690 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552825886015 1023 709 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825886075 1056 774 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825886135 1072 881 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825886374 1094 924 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825886439 1155 712 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552825886499 1164 643 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552827106453 858 928 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552827106506 952 814 mousemove //*[@id='product-rater-modal']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1552827106567 1000 753 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552827106626 1021 694 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552827106686 1025 654 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552827106745 1019 637 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552852363214 0 0 unload / {} {}

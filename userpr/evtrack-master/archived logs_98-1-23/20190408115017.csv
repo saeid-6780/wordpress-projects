@@ -1,0 +1,56 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554708011000 246 398 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554708011062 603 387 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1554708011120 0 0 load / {} {}
+0 1554708011175 819 376 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554708011176 0 0 scroll / {} {}
+0 1554708011239 815 364 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554708011294 790 337 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554708011346 759 323 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1554708011397 631 296 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554708011462 498 281 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708011512 495 280 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708011563 491 278 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708011618 461 271 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.56","data-productid":"134","class":"starbox small  autoupdate"}} {}
+0 1554708011711 455 270 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.56","data-productid":"134","class":"starbox small  autoupdate"}} {}
+0 1554708011765 472 270 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708011830 484 270 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708011881 493 270 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708011949 495 270 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708012001 495 271 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708012066 495 274 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708012116 495 278 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708012166 495 280 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708012233 495 282 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708012395 495 283 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708013817 497 283 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708013872 523 286 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[5] {"DIV":{"class":"star star-4"}} {}
+0 1554708013922 541 288 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554708013972 570 290 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554708014023 599 297 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554708014092 611 304 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554708014393 614 306 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554708014460 750 321 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1554708014524 837 323 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1554708014590 862 323 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81_7b4928.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -39.275px; left: 5.47118e-14px;"}} {}
+0 1554708014904 864 323 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81_7b4928.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -39.275px; left: 5.47118e-14px;"}} {}
+0 1554708014958 894 320 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Pierre-Cardin-PCL-P05-Leather-Cover-For-Samsung-Galaxy-Note-81_7b4928.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -39.275px; left: 5.47118e-14px;"}} {}
+0 1554708015009 944 301 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 202.403px; left: 840.063px;"}} {}
+0 1554708015075 982 275 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 854.325px;"}} {}
+0 1554708015126 993 261 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 865.325px;"}} {}
+0 1554708015176 1003 244 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 876.325px;"}} {}
+0 1554708015228 1022 218 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 888.325px;"}} {}
+0 1554708015298 1034 196 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1554708015529 1036 191 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554708015596 1101 166 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/phone-pouch-cover/","class":"product-nav-link"}} {}
+0 1554708015646 1135 142 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1554708015710 1145 136 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554708015891 1145 135 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554708015943 1113 160 mousemove /html/body/div[2]/div[2]/div/div/p/span[2] {"SPAN":{}} {}
+0 1554708015994 1091 179 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554708016045 1088 181 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554708016192 1087 180 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554708016248 1085 166 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/phone-pouch-cover/","class":"product-nav-link"}} {}
+0 1554708016330 1085 151 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/phone-pouch-cover/","class":"product-nav-link"}} {}
+0 1554708016657 1085 151 click /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/phone-pouch-cover/","class":"product-nav-link"}} {}
+0 1554708017370 0 0 unload / {} {}

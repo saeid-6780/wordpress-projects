@@ -1,0 +1,38 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548611372230 0 0 load / {} {}
+0 1548611372236 0 0 scroll / {} {}
+0 1548611372715 418 262 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548611381079 418 262 click //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548611385900 433 249 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1548611385962 645 145 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611386025 699 166 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548611386087 693 213 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548611386149 640 260 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548611386213 585 279 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611386263 556 280 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548611387255 556 279 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548611387320 597 296 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611387370 631 318 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611387420 655 331 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611387470 664 337 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611387581 664 336 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611387969 644 321 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611388025 647 308 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611388084 647 301 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611388184 648 299 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611388604 648 300 click //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611388620 0 0 scroll / {} {}
+0 1548611389178 640 861 mousemove //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548611389246 565 871 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611389296 535 878 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611389346 525 879 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611389398 509 882 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611389460 469 893 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611389520 421 910 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611389580 402 917 mousemove //*[@id='product-113-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y5-2017-4G-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611389903 390 919 mousemove //*[@id='product-113'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-113","data-product-id":"113"}} {}
+0 1548611389961 312 923 mousemove //*[@id='product-117-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611390011 285 924 mousemove //*[@id='product-117-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611390520 282 924 click //*[@id='product-117-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611390643 282 924 click //*[@id='product-117-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611391425 0 0 unload / {} {}

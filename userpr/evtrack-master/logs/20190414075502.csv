@@ -1,0 +1,7 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1555228471479 0 0 load / {} {}
+0 1555228530715 593 603 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555228530768 493 452 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555228530829 270 131 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1555228530894 219 78 mousemove /html/body/div[2]/pre[1]/small[1] {"SMALL":{}} {}
+0 1555228530949 106 15 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}

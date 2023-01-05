@@ -1,0 +1,52 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554707959355 0 0 load / {} {}
+0 1554707959379 0 0 scroll / {} {}
+0 1554707959913 752 391 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554707959974 723 343 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1554707960038 673 299 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1554707960103 639 290 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554707960157 632 290 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554707960223 624 301 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960288 603 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960339 593 336 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707960471 593 337 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707960522 601 333 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960573 605 331 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960623 607 330 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960690 610 329 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960783 613 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960846 614 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707960983 616 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961074 618 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961125 619 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961183 623 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961520 623 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961576 619 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961626 612 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961676 600 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1554707961726 585 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707961778 579 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707961844 568 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707961895 564 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707962199 564 327 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707963420 565 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707963795 566 327 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554707963858 723 283 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554707963921 1029 168 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707964203 1044 160 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707964269 1078 157 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707964319 1107 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707964371 1131 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[1] {"SPAN":{}} {}
+0 1554707964422 1146 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[1]/a {"A":{"data-productnavlink":"http://userpr.ir","class":"product-nav-link"}} {}
+0 1554707964487 1152 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[1]/a {"A":{"data-productnavlink":"http://userpr.ir","class":"product-nav-link"}} {}
+0 1554707964587 1153 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[1]/a {"A":{"data-productnavlink":"http://userpr.ir","class":"product-nav-link"}} {}
+0 1554707964637 1154 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[1]/a {"A":{"data-productnavlink":"http://userpr.ir","class":"product-nav-link"}} {}
+0 1554707964721 1155 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[1]/a {"A":{"data-productnavlink":"http://userpr.ir","class":"product-nav-link"}} {}
+0 1554707964806 1155 155 mousemove /html/body/div[2]/div[2]/div/div/p/span[1]/a {"A":{"data-productnavlink":"http://userpr.ir","class":"product-nav-link"}} {}
+0 1554707964873 1124 156 mousemove /html/body/div[2]/div[2]/div/div/p/span[2] {"SPAN":{}} {}
+0 1554707964939 1091 160 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707965107 1088 160 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707965173 1087 160 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707965230 1084 158 mousemove /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707965334 1083 158 click /html/body/div[2]/div[2]/div/div/p/span[2]/a {"A":{"data-productnavlink":"http://userpr.ir/product_category/mobile/","class":"product-nav-link"}} {}
+0 1554707966127 0 0 unload / {} {}

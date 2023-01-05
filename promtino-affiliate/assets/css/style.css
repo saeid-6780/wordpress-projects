@@ -1,0 +1,19 @@
+.affiliate-features-not-set{border: 2px solid red;border-radius: 5px;padding: 10px;box-shadow: 2px 2px 4px rgba(0,0,0,0.5);text-align: center;}
+.progress-bar .outer-therm{margin:5px 0;}
+.btn-primary.btn-lg.btn-block{border:2px solid #F6A21E;color: #F6A21E;transition: background-color 0.25s ease-out, color 0.25s ease-out;width: 100%;margin-top: 3%;}
+.btn-primary.btn-lg.btn-block:hover{background:#F6A21E;color: #fff;}
+#register-notif-modal .btn-primary.btn-lg.btn-block{background:#F6A21E;color: #fff;transition: box-shadow 0.3s ease-out}
+#register-notif-modal .btn-primary.btn-lg.btn-block:hover{box-shadow: 2px 2px 4px rgba(0,0,0,0.5)}
+.promotion-invite-to-signup{text-align: center;font-size: 14pt;margin-top: 10%;}
+.promotion-invite-to-signup a{color:#E55B13;transition: color 0.25s}
+.promotion-invite-to-signup a:hover{color:#F6A21E;}
+.affiliate-link-builder-section{display: none;}
+.affiliate-link-builder-section .custom-select{background: #ebebeb;}
+.input-group{display: flex;}
+.input-group .input-group-prepend{display: flex;cursor: pointer;}
+.input-group .input-group-prepend i{display: flex;align-items: center;padding: .375rem .75rem;margin-bottom: 0;font-size: 1rem;font-weight: 400;line-height: 1.5;color: #ffffff;text-align: center;white-space: nowrap;background-color: #e9ecef;border-top-left-radius: 4px;border-bottom-left-radius: 4px;background:#F6A21E;}
+.affiliate-link-builder-section .input-group .form-control{display: flex;margin-bottom: 0;border-top-left-radius: 0;border-bottom-left-radius: 0;background: #ebebeb;}
+.copy-clipboard-tooltip{position: relative;display: inline-block;}
+.copy-clipboard-tooltip .tooltiptext {visibility: hidden;width: 140px;background-color: #555;color: #fff;text-align: center;border-radius: 6px;padding: 5px;position: absolute;z-index: 1;bottom: 150%;left: 50%;margin-left: -12px;opacity: 0;transition: opacity 0.3s;font-size: 11pt;}
+.copy-clipboard-tooltip .tooltiptext::after {content: "";position: absolute;top: 100%;left: 10%;margin-left: -5px;border-width: 5px;border-style: solid;border-color: #555 transparent transparent transparent;}
+.copy-clipboard-tooltip:hover .tooltiptext {visibility: visible;opacity: 1;}

@@ -1,0 +1,127 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548738133851 1143 327 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548738133908 1382 385 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548738133974 1481 398 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548738134823 1493 401 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548738134876 1490 408 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548738134939 1476 416 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548738135021 1467 421 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548738136254 0 1 scroll / {} {}
+0 1548738136270 0 4 scroll / {} {}
+0 1548738136305 0 15 scroll / {} {}
+0 1548738136338 0 39 scroll / {} {}
+0 1548738136354 0 55 scroll / {} {}
+0 1548738136388 0 122 scroll / {} {}
+0 1548738136432 0 201 scroll / {} {}
+0 1548738136441 0 242 scroll / {} {}
+0 1548738136478 0 321 scroll / {} {}
+0 1548738136505 0 358 scroll / {} {}
+0 1548738136521 0 392 scroll / {} {}
+0 1548738136542 0 423 scroll / {} {}
+0 1548738136555 0 483 scroll / {} {}
+0 1548738136588 0 535 scroll / {} {}
+0 1548738136605 0 558 scroll / {} {}
+0 1548738136621 0 578 scroll / {} {}
+0 1548738136640 0 595 scroll / {} {}
+0 1548738136654 0 610 scroll / {} {}
+0 1548738136671 0 621 scroll / {} {}
+0 1548738136689 0 628 scroll / {} {}
+0 1548738136720 0 630 scroll / {} {}
+0 1548738141220 0 0 load / {} {}
+0 1548738141238 0 1 scroll / {} {}
+0 1548738142187 0 3 scroll / {} {}
+0 1548738142203 0 6 scroll / {} {}
+0 1548738142220 0 11 scroll / {} {}
+0 1548738142238 0 21 scroll / {} {}
+0 1548738142257 0 56 scroll / {} {}
+0 1548738142287 0 88 scroll / {} {}
+0 1548738142304 0 126 scroll / {} {}
+0 1548738142321 0 169 scroll / {} {}
+0 1548738142338 0 216 scroll / {} {}
+0 1548738142354 0 261 scroll / {} {}
+0 1548738142371 0 305 scroll / {} {}
+0 1548738142390 0 348 scroll / {} {}
+0 1548738142408 0 430 scroll / {} {}
+0 1548738142439 0 467 scroll / {} {}
+0 1548738142456 0 501 scroll / {} {}
+0 1548738142472 0 533 scroll / {} {}
+0 1548738142494 0 560 scroll / {} {}
+0 1548738142504 0 584 scroll / {} {}
+0 1548738142521 0 604 scroll / {} {}
+0 1548738142538 0 619 scroll / {} {}
+0 1548738142555 0 631 scroll / {} {}
+0 1548738142606 974 1171 mousemove //*[@id='product-109-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1548738142670 851 1204 mousemove //*[@id='product-113-grid-info'] {"DIV":{"id":"product-113-grid-info","class":"women"}} {}
+0 1548738142720 800 1212 mousemove //*[@id='product-113-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738142787 796 1211 mousemove //*[@id='product-113-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738142887 0 632 scroll / {} {}
+0 1548738142904 0 640 scroll / {} {}
+0 1548738142920 0 664 scroll / {} {}
+0 1548738142938 0 700 scroll / {} {}
+0 1548738142954 0 752 scroll / {} {}
+0 1548738142970 0 805 scroll / {} {}
+0 1548738142987 0 859 scroll / {} {}
+0 1548738143003 0 910 scroll / {} {}
+0 1548738143021 0 959 scroll / {} {}
+0 1548738143037 0 1003 scroll / {} {}
+0 1548738143053 0 1043 scroll / {} {}
+0 1548738143075 0 1076 scroll / {} {}
+0 1548738143090 0 1103 scroll / {} {}
+0 1548738143106 0 1123 scroll / {} {}
+0 1548738143122 0 1133 scroll / {} {}
+0 1548738143137 0 1135 scroll / {} {}
+0 1548738143188 802 1701 mousemove //*[@id='product-101-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1548738143254 806 1696 mousemove //*[@id='product-101-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1548738143337 0 1136 scroll / {} {}
+0 1548738143354 0 1139 scroll / {} {}
+0 1548738143370 0 1147 scroll / {} {}
+0 1548738143387 0 1170 scroll / {} {}
+0 1548738143403 0 1207 scroll / {} {}
+0 1548738143421 0 1256 scroll / {} {}
+0 1548738143437 0 1310 scroll / {} {}
+0 1548738143454 0 1369 scroll / {} {}
+0 1548738143470 0 1429 scroll / {} {}
+0 1548738143487 0 1486 scroll / {} {}
+0 1548738143503 0 1539 scroll / {} {}
+0 1548738143520 0 1588 scroll / {} {}
+0 1548738143537 0 1633 scroll / {} {}
+0 1548738143554 0 1672 scroll / {} {}
+0 1548738143570 0 1706 scroll / {} {}
+0 1548738143587 0 1733 scroll / {} {}
+0 1548738143604 0 1753 scroll / {} {}
+0 1548738143621 0 1763 scroll / {} {}
+0 1548738143638 0 1765 scroll / {} {}
+0 1548738143699 822 2318 mousemove //*[@id='product-89-grid-info'] {"DIV":{"id":"product-89-grid-info","class":"women"}} {}
+0 1548738143769 826 2315 mousemove //*[@id='product-89-grid-info'] {"DIV":{"id":"product-89-grid-info","class":"women"}} {}
+0 1548738143887 0 1766 scroll / {} {}
+0 1548738143906 0 1779 scroll / {} {}
+0 1548738143920 0 1795 scroll / {} {}
+0 1548738143954 0 1826 scroll / {} {}
+0 1548738143970 0 1866 scroll / {} {}
+0 1548738143987 0 1916 scroll / {} {}
+0 1548738144004 0 1968 scroll / {} {}
+0 1548738144021 0 2018 scroll / {} {}
+0 1548738144037 0 2067 scroll / {} {}
+0 1548738144054 0 2112 scroll / {} {}
+0 1548738144071 0 2152 scroll / {} {}
+0 1548738144087 0 2188 scroll / {} {}
+0 1548738144104 0 2219 scroll / {} {}
+0 1548738144120 0 2243 scroll / {} {}
+0 1548738144137 0 2260 scroll / {} {}
+0 1548738144154 0 2268 scroll / {} {}
+0 1548738144171 0 2269 scroll / {} {}
+0 1548738145004 828 2819 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548738145071 846 2880 mousemove //*[@id='product-57-grid-info'] {"DIV":{"id":"product-57-grid-info","class":"women"}} {}
+0 1548738145121 842 2915 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145187 833 2936 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145238 830 2942 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145304 826 2945 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145354 824 2945 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145404 818 2943 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145488 812 2938 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145554 811 2935 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145620 809 2933 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145720 809 2932 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738145820 809 2931 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738148260 811 2930 click //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548738149877 0 0 unload / {} {}

@@ -1,0 +1,249 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1552685128154 0 0 load / {} {}
+0 1552685128190 0 0 scroll / {} {}
+0 1552685128721 655 268 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552685128777 654 268 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552685128896 646 270 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552685128957 634 266 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552685129018 549 222 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1552685129078 434 169 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1552685129138 335 141 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1552685129197 263 109 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685129257 206 79 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685129318 190 69 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1552685129377 170 64 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1552685129437 154 65 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1552685129496 136 75 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685129556 129 77 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685129616 114 77 mousemove //*[@id='basket-view-button']/span {"SPAN":{"class":"badge badge-warning total_item_num"}} {}
+0 1552685129676 100 77 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685129736 97 79 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685129855 94 81 mousemove //*[@id='basket-view-button']/i {"I":{"class":"fa fa-cart-arrow-down"}} {}
+0 1552685129911 94 82 mousemove //*[@id='basket-view-button']/i {"I":{"class":"fa fa-cart-arrow-down"}} {}
+0 1552685130423 95 82 mousemove //*[@id='basket-view-button']/i {"I":{"class":"fa fa-cart-arrow-down"}} {}
+0 1552685130476 112 113 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685130536 154 185 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1552685130597 164 196 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685130656 165 202 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685130716 167 206 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685130777 173 214 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685132073 254 442 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1552685132472 253 442 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1552685132544 250 442 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685132615 246 442 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685135865 68 107 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685136085 67 107 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685136147 81 153 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1552685136206 102 232 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685136266 128 323 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685136326 141 366 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685142891 194 310 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1552685142950 141 80 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685143413 253 96 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opening","style":"display: block;"}} {}
+0 1552685143500 372 336 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685160179 434 380 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685160232 346 244 mousemove //*[@id='product-rater-modal']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1552685160291 306 174 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685160351 277 131 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685160411 266 119 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685160471 259 114 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685160614 258 114 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685160671 266 137 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685160731 276 182 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685160792 327 249 mousemove //*[@id='product-rater-modal']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1552685160852 453 343 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685161456 166 231 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685161516 83 94 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685161576 71 44 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685161637 72 21 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685161696 73 14 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685161756 79 4 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685164744 928 2 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685164808 904 17 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685164868 868 30 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685164929 858 33 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685164998 859 33 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685165049 881 33 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685165109 927 33 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685165166 931 34 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685165238 934 34 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685165290 944 36 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685165351 964 40 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685165411 979 40 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685165511 983 40 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685165702 981 40 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685165982 977 40 click //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685166086 887 39 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-closing","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685166174 576 39 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-closing","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685166234 405 39 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-closing","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1552685166295 277 39 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-closing","style":"display: block;"}} {}
+0 1552685166368 150 39 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1552685166436 116 34 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://localhost:8080/mousetrc\\registration","class":"site-guide btn btn-info"}} {}
+0 1552685166495 113 34 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://localhost:8080/mousetrc\\registration","class":"site-guide btn btn-info"}} {}
+0 1552685166555 105 47 mousemove /html/body/div[2]/div[1]/div[1]/div[2]/a[2] {"A":{"href":"http://localhost:8080/mousetrc\\registration","class":"site-guide btn btn-info"}} {}
+0 1552685166616 100 76 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685166675 102 85 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685166775 103 89 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685167089 103 90 click //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685167623 103 91 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685167678 104 92 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685167738 107 94 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685167798 112 96 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685167858 121 100 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685167919 132 108 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685167979 150 121 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685168039 156 153 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685168100 140 218 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685168159 104 287 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685168220 71 326 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685168280 28 361 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685177574 109 323 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685177634 97 358 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685181759 240 384 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685181809 240 364 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685181869 247 345 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685181930 248 340 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685182030 250 336 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685182086 214 377 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685185383 295 257 mousemove /html/body/div[6]/div {"DIV":{"class":"remodal basket-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"basket-modal","data-remodal-options":"closeOnOutsideClick: true","tabindex":"-1"}} {}
+0 1552685185444 287 285 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685185503 263 341 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685185563 246 382 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685231167 112 330 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685231227 67 144 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685231287 35 21 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248319 999 2 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248374 997 8 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248429 996 13 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248489 995 23 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248549 995 32 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248610 997 41 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248669 998 50 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248729 996 62 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248789 992 67 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685248850 985 71 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685248911 980 72 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685248971 978 72 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685249031 975 72 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685249603 975 72 click //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685249975 967 73 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685250034 926 84 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250095 846 102 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250154 806 111 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250214 774 119 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250274 747 125 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250334 704 129 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250407 675 129 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250476 653 131 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250535 633 131 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250595 625 131 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250655 615 131 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250717 606 128 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685250778 599 124 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685251998 598 123 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685252582 597 123 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685252641 576 119 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685252701 500 101 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685252761 432 81 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685252822 322 75 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685252880 251 75 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685252940 219 82 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685253000 176 102 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685253060 146 108 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685253120 116 113 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685253180 102 110 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685253254 97 107 mousemove //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685253508 97 107 click //*[@id='basket-view-button'] {"BUTTON":{"id":"basket-view-button","class":"view-cart","data-remodal-target":"basket-modal"}} {}
+0 1552685253668 97 106 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opening","style":"display: block;"}} {}
+0 1552685253728 94 106 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opening","style":"display: block;"}} {}
+0 1552685253808 92 108 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opening","style":"display: block;"}} {}
+0 1552685253869 91 113 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685253930 105 117 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685253989 143 117 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254049 173 117 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254150 175 117 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254209 175 132 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254280 178 140 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254350 182 140 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254410 194 143 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254473 220 158 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254531 249 173 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254592 269 179 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254672 274 180 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254732 283 186 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685254793 290 187 mousemove /html/body/div[6]/div {"DIV":{"class":"remodal basket-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"basket-modal","data-remodal-options":"closeOnOutsideClick: true","tabindex":"-1"}} {}
+0 1552685254853 303 186 mousemove //*[@id='basket-row-product-77']/td[4]/i {"I":{"class":"fa fa-close"}} {}
+0 1552685254973 305 185 mousemove //*[@id='basket-row-product-77']/td[4]/i {"I":{"class":"fa fa-close"}} {}
+0 1552685255033 309 185 mousemove //*[@id='basket-row-product-77']/td[4]/i {"I":{"class":"fa fa-close"}} {}
+0 1552685255403 309 185 click //*[@id='basket-row-product-77']/td[4]/i {"I":{"class":"fa fa-close"}} {}
+0 1552685256102 308 184 mousemove //*[@id='basket-table-header']/tr/th[4] {"TH":{}} {}
+0 1552685256158 307 184 mousemove //*[@id='basket-table-header']/tr/th[4] {"TH":{}} {}
+0 1552685256216 304 181 mousemove //*[@id='basket-table-header']/tr/th[4] {"TH":{}} {}
+0 1552685256297 303 178 mousemove //*[@id='basket-table-header']/tr/th[4] {"TH":{}} {}
+0 1552685256358 295 180 mousemove /html/body/div[6]/div {"DIV":{"class":"remodal basket-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"basket-modal","data-remodal-options":"closeOnOutsideClick: true","tabindex":"-1"}} {}
+0 1552685256438 289 183 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685256498 291 173 mousemove /html/body/div[6]/div {"DIV":{"class":"remodal basket-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"basket-modal","data-remodal-options":"closeOnOutsideClick: true","tabindex":"-1"}} {}
+0 1552685257583 290 167 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685257642 279 168 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685257702 269 169 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685257822 268 169 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685257882 287 164 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685257983 306 159 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685258043 519 159 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685258104 917 159 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685258164 1022 159 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685258278 1023 159 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685258345 1019 164 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1552685258405 980 169 mousemove /html/body/div[6]/div/button {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685258485 976 171 mousemove /html/body/div[6]/div/button {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685258585 973 176 mousemove /html/body/div[6]/div/button {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685259291 973 176 click /html/body/div[6]/div/button {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685259469 970 176 mousemove /html/body/div[6]/div/button {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685259529 955 175 mousemove /html/body/div[6]/div/button {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1552685259590 922 163 mousemove /html/body/div[6] {"DIV":{"class":"remodal-wrapper remodal-is-closing","style":"display: block;"}} {}
+0 1552685259651 843 144 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1552685259710 759 126 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685259769 642 101 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685259830 516 67 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}
+0 1552685259891 448 45 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1552685259945 398 17 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1552685351879 1028 1 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685351942 1040 30 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685352041 1044 37 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685352101 1040 43 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685352302 1036 44 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685352361 1029 46 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685352422 1021 50 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685352482 995 60 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1552685352542 959 76 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685352602 929 88 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685352662 883 102 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685352722 866 107 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685352782 858 110 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685352842 853 111 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685352901 848 113 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685352961 842 114 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685353022 838 115 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685353081 832 115 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685353181 825 115 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685353241 821 117 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685353301 817 120 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685353614 816 120 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685353682 849 195 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1552685353733 941 379 mousemove //*[@id='product-slider']/div/ul/font[1] {"FONT":{"size":"1"}} {}
+0 1552685365653 1098 381 mousemove //*[@id='product-slider']/div/ul/font[1]/table/tbody/tr[10]/td[5] {"TD":{"title":"C:\\wamp64\\www\\mousetrc\\wp-includes\\template.php","bgcolor":"#eeeeec"}} {}
+0 1552685365713 1189 259 mousemove //*[@id='product-slider'] {"DIV":{"id":"product-slider","class":"flexslider"}} {}
+0 1552685365773 1233 180 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1552685365833 1269 119 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1552685365893 1279 97 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1552685365952 1279 78 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1552685366012 1279 66 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1552685366232 1277 64 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1552685366292 1267 69 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1552685366352 1261 69 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1552685366413 1251 69 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1552685366473 1241 63 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1552685366533 1234 56 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1552685366594 1223 28 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1552685366645 1212 2 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1552686294414 0 0 unload / {} {}

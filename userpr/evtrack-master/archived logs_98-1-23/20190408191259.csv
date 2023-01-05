@@ -1,0 +1,339 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554734550778 0 0 load / {} {}
+0 1554734550800 0 1 scroll / {} {}
+0 1554734550978 912 35 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1554734551049 884 216 mousemove //*[@id='slider-id-0f0']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1554734551106 884 245 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734551172 887 270 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734551222 887 280 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734551273 887 296 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734551339 888 298 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734551406 888 301 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734551456 887 306 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.15457px; left: 5.47118e-14px;"}} {}
+0 1554734551489 0 3 scroll / {} {}
+0 1554734551505 0 6 scroll / {} {}
+0 1554734551522 0 11 scroll / {} {}
+0 1554734551539 0 15 scroll / {} {}
+0 1554734551556 0 21 scroll / {} {}
+0 1554734551572 0 27 scroll / {} {}
+0 1554734551591 0 33 scroll / {} {}
+0 1554734551607 0 39 scroll / {} {}
+0 1554734551623 0 46 scroll / {} {}
+0 1554734551641 0 52 scroll / {} {}
+0 1554734551657 0 58 scroll / {} {}
+0 1554734551680 0 64 scroll / {} {}
+0 1554734551691 0 70 scroll / {} {}
+0 1554734551708 0 76 scroll / {} {}
+0 1554734551726 0 81 scroll / {} {}
+0 1554734551742 0 85 scroll / {} {}
+0 1554734551759 0 90 scroll / {} {}
+0 1554734551773 0 93 scroll / {} {}
+0 1554734551789 0 97 scroll / {} {}
+0 1554734551806 0 99 scroll / {} {}
+0 1554734551823 0 101 scroll / {} {}
+0 1554734551840 0 102 scroll / {} {}
+0 1554734551858 0 103 scroll / {} {}
+0 1554734551927 817 281 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734551990 1100 238 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 927.325px;"}} {}
+0 1554734552356 1110 236 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 977.716px;"}} {}
+0 1554734552406 1108 234 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 977.716px;"}} {}
+0 1554734552490 1106 232 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 977.716px;"}} {}
+0 1554734552574 1104 232 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 977.716px;"}} {}
+0 1554734552624 1098 236 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 977.325px;"}} {}
+0 1554734552674 982 298 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 920.325px;"}} {}
+0 1554734552726 694 450 mousemove //*[@id='product-introduction']/p/span {"SPAN":{}} {}
+0 1554734552776 406 597 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1554734552841 140 729 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734553678 220 544 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734553743 254 484 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734553794 458 241 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734554262 737 114 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734554327 405 226 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1554734554377 196 320 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734554427 113 357 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734561525 112 359 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734561708 112 360 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734561776 112 363 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734561826 118 374 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734561877 127 386 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734561943 128 389 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734561993 128 391 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734562043 132 398 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734562093 136 414 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734562143 146 435 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734562427 149 438 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734563512 150 438 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734563563 153 438 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734563629 206 453 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734563681 330 442 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1554734563731 393 422 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734563796 402 417 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734563846 426 396 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1554734563897 466 365 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734563947 486 354 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734563997 495 354 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734564063 518 363 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734564214 516 365 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734564264 479 370 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734564314 431 374 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1554734564365 353 385 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1554734564431 263 400 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564481 250 400 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564531 249 400 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564699 245 403 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564749 231 412 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564806 225 416 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564866 217 422 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564916 204 433 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734564966 181 455 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734565000 0 104 scroll / {} {}
+0 1554734565016 0 107 scroll / {} {}
+0 1554734565033 0 111 scroll / {} {}
+0 1554734565050 0 116 scroll / {} {}
+0 1554734565066 0 121 scroll / {} {}
+0 1554734565083 0 127 scroll / {} {}
+0 1554734565100 0 133 scroll / {} {}
+0 1554734565116 0 139 scroll / {} {}
+0 1554734565133 0 146 scroll / {} {}
+0 1554734565149 0 152 scroll / {} {}
+0 1554734565167 0 158 scroll / {} {}
+0 1554734565183 0 164 scroll / {} {}
+0 1554734565199 0 170 scroll / {} {}
+0 1554734565216 0 176 scroll / {} {}
+0 1554734565233 0 181 scroll / {} {}
+0 1554734565249 0 186 scroll / {} {}
+0 1554734565266 0 190 scroll / {} {}
+0 1554734565283 0 194 scroll / {} {}
+0 1554734565300 0 198 scroll / {} {}
+0 1554734565317 0 200 scroll / {} {}
+0 1554734565333 0 203 scroll / {} {}
+0 1554734565350 0 207 scroll / {} {}
+0 1554734565367 0 212 scroll / {} {}
+0 1554734565384 0 217 scroll / {} {}
+0 1554734565400 0 223 scroll / {} {}
+0 1554734565417 0 229 scroll / {} {}
+0 1554734565434 0 236 scroll / {} {}
+0 1554734565450 0 242 scroll / {} {}
+0 1554734565467 0 248 scroll / {} {}
+0 1554734565483 0 254 scroll / {} {}
+0 1554734565500 0 261 scroll / {} {}
+0 1554734565517 0 266 scroll / {} {}
+0 1554734565534 0 272 scroll / {} {}
+0 1554734565550 0 277 scroll / {} {}
+0 1554734565567 0 282 scroll / {} {}
+0 1554734565583 0 287 scroll / {} {}
+0 1554734565600 0 291 scroll / {} {}
+0 1554734565618 0 295 scroll / {} {}
+0 1554734565634 0 298 scroll / {} {}
+0 1554734565650 0 301 scroll / {} {}
+0 1554734565667 0 304 scroll / {} {}
+0 1554734565684 0 305 scroll / {} {}
+0 1554734565701 0 306 scroll / {} {}
+0 1554734565717 0 307 scroll / {} {}
+0 1554734565984 161 676 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734566035 167 668 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734566085 171 663 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734566135 178 654 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734566385 183 649 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734566552 181 650 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734568873 180 651 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734568924 173 656 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570109 170 658 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570193 172 656 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570243 178 653 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570293 207 654 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570343 251 664 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570393 275 672 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570448 314 685 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734570510 338 694 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734570560 400 720 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570611 422 731 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570677 429 739 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570727 431 745 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570777 446 763 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570828 483 792 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734570878 612 853 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554734570945 929 865 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554734570995 1102 831 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554734571047 1188 803 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-83_f00.jpg","draggable":"false","class":"flex-active"}} {}
+0 1554734571111 1290 767 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571195 1290 766 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571362 1291 764 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571412 1300 749 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571463 1321 730 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571528 1335 719 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571579 1340 711 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571629 1348 679 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571679 1348 633 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571729 1337 603 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571780 1325 580 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571830 1320 566 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571880 1319 556 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571930 1331 541 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734571982 1365 507 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554734572047 1365 482 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554734572098 1365 476 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554734572148 1365 471 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554734572198 1363 469 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554734572665 0 305 scroll / {} {}
+0 1554734572699 0 289 scroll / {} {}
+0 1554734572714 0 277 scroll / {} {}
+0 1554734572732 0 265 scroll / {} {}
+0 1554734572749 0 253 scroll / {} {}
+0 1554734572766 0 237 scroll / {} {}
+0 1554734572782 0 225 scroll / {} {}
+0 1554734572799 0 209 scroll / {} {}
+0 1554734572815 0 205 scroll / {} {}
+0 1554734572832 0 193 scroll / {} {}
+0 1554734572849 0 189 scroll / {} {}
+0 1554734572865 0 184 scroll / {} {}
+0 1554734572882 0 176 scroll / {} {}
+0 1554734572899 0 172 scroll / {} {}
+0 1554734572916 0 168 scroll / {} {}
+0 1554734572932 0 164 scroll / {} {}
+0 1554734572949 0 160 scroll / {} {}
+0 1554734572966 0 156 scroll / {} {}
+0 1554734572982 0 148 scroll / {} {}
+0 1554734572999 0 144 scroll / {} {}
+0 1554734573032 0 140 scroll / {} {}
+0 1554734573049 0 136 scroll / {} {}
+0 1554734573115 0 132 scroll / {} {}
+0 1554734573149 0 128 scroll / {} {}
+0 1554734573182 0 120 scroll / {} {}
+0 1554734573550 0 116 scroll / {} {}
+0 1554734573566 0 96 scroll / {} {}
+0 1554734573583 0 68 scroll / {} {}
+0 1554734573600 0 48 scroll / {} {}
+0 1554734573617 0 36 scroll / {} {}
+0 1554734573633 0 28 scroll / {} {}
+0 1554734573651 0 20 scroll / {} {}
+0 1554734573684 0 8 scroll / {} {}
+0 1554734573699 0 0 scroll / {} {}
+0 1554734574083 1359 65 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554734574134 1270 104 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554734574185 1027 187 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1554734574235 793 255 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1554734574288 575 314 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1554734694878 499 334 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1554734694944 504 331 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1554734694995 508 329 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1554734695311 509 329 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1554734695362 515 328 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1554734695414 532 323 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1554734700989 542 322 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1554734701073 542 325 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1554734702108 544 325 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1554734702158 567 325 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.41818181818182","data-productid":"150","class":"starbox small  autoupdate"}} {}
+0 1554734702209 721 325 mousemove //*[@id='product-rater']/div[2]/p {"P":{"class":"average-rate-description"}} {}
+0 1554734702260 926 321 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 220.403px; left: 842.067px;"}} {}
+0 1554734702325 977 326 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 222.403px; left: 851.325px;"}} {}
+0 1554734702393 984 334 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 228.403px; left: 855.325px;"}} {}
+0 1554734702443 992 348 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 240.403px; left: 864.325px;"}} {}
+0 1554734702509 1004 374 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 265.403px; left: 876.325px;"}} {}
+0 1554734702560 1004 380 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 273.403px; left: 879.325px;"}} {}
+0 1554734702610 1004 389 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 284.403px; left: 879.325px;"}} {}
+0 1554734703060 1009 393 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 289.403px; left: 880.325px;"}} {}
+0 1554734703111 1030 405 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 299.403px; left: 898.325px;"}} {}
+0 1554734703177 1041 414 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 310.403px; left: 915.325px;"}} {}
+0 1554734703294 1041 415 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 311.403px; left: 916.325px;"}} {}
+0 1554734703544 1044 411 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 312.403px; left: 916.325px;"}} {}
+0 1554734703595 1098 322 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 254.403px; left: 953.325px;"}} {}
+0 1554734703645 1111 296 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 979.716px;"}} {}
+0 1554734703728 1112 293 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 979.716px;"}} {}
+0 1554734703845 1112 297 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.283px; left: 979.716px;"}} {}
+0 1554734703896 1113 344 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 229.403px; left: 979.716px;"}} {}
+0 1554734703946 1110 419 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 282.403px; left: 979.716px;"}} {}
+0 1554734703996 1110 491 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 378.403px; left: 979.716px;"}} {}
+0 1554734704046 1110 506 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 400.403px; left: 979.716px;"}} {}
+0 1554734704096 1108 522 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 414.403px; left: 979.716px;"}} {}
+0 1554734704146 1107 527 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 421.403px; left: 979.716px;"}} {}
+0 1554734704149 0 2 scroll / {} {}
+0 1554734704162 0 7 scroll / {} {}
+0 1554734704180 0 22 scroll / {} {}
+0 1554734704196 0 48 scroll / {} {}
+0 1554734704213 0 81 scroll / {} {}
+0 1554734704230 0 117 scroll / {} {}
+0 1554734704256 0 153 scroll / {} {}
+0 1554734704267 0 188 scroll / {} {}
+0 1554734704300 0 249 scroll / {} {}
+0 1554734704314 0 272 scroll / {} {}
+0 1554734704331 0 290 scroll / {} {}
+0 1554734704347 0 302 scroll / {} {}
+0 1554734704366 0 306 scroll / {} {}
+0 1554734704430 685 670 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734704480 606 677 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734704546 502 703 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734704596 491 707 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734704646 489 711 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734704831 487 713 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734704881 479 732 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734704931 474 749 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734704981 473 755 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734705031 473 759 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734705282 478 758 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734705350 561 705 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734705417 691 611 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734705550 714 596 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734705833 714 597 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734705850 715 597 click //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734705950 716 597 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734706066 718 595 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734706151 719 595 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734706603 722 596 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734706668 684 597 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734706768 680 600 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734707135 679 600 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734707185 666 604 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734707236 636 612 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1554734707685 631 613 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1554734707887 631 614 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1554734708204 631 615 mousemove //*[@id='add-to-basket'] {"DIV":{"id":"add-to-basket","class":"women"}} {}
+0 1554734708254 623 629 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734708304 617 636 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734708354 610 644 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734708405 596 655 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1554734708471 585 662 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734708521 575 668 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734708571 567 672 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734708621 565 673 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734708671 561 676 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734708721 558 679 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734708771 553 687 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734708821 552 688 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734709205 552 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734709385 551 685 click /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734710358 559 686 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3] {"DIV":{"class":"social-icon product-colors"}} {}
+0 1554734710408 645 730 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734710458 801 759 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734710509 896 754 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1554734710559 912 748 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1554734710742 915 747 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1554734711945 914 747 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1554734712296 912 745 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1554734712346 864 705 mousemove //*[@id='product-slider']/ol/li[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","class":"","draggable":"false"}} {}
+0 1554734712396 815 673 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554734712448 781 655 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1554734712513 761 649 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1554734712563 743 641 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1554734712613 719 622 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734712663 713 614 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734712797 711 612 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734712847 710 610 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734712898 708 607 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734713098 707 606 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734714213 707 606 click //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734720896 707 607 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734720963 706 611 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734721030 706 614 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734721113 706 615 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734721164 706 625 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734721231 709 635 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734722917 711 633 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734723018 713 631 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734723134 715 628 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554734723185 724 614 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734723418 726 611 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734723719 726 608 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734723785 728 606 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734723886 728 605 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554734727326 0 0 unload / {} {}

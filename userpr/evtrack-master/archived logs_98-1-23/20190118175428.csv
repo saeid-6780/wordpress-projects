@@ -1,0 +1,58 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1547821465641 0 0 load / {} {}
+0 1547821465648 0 0 scroll / {} {}
+0 1547821465817 579 501 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821465929 579 502 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821465948 580 502 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821465969 580 504 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821465981 0 0 scroll / {} {}
+0 1547821465986 580 509 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821465995 0 0 scroll / {} {}
+0 1547821466020 580 521 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821466020 0 0 scroll / {} {}
+0 1547821466031 0 0 scroll / {} {}
+0 1547821466043 580 587 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1547821466048 0 0 scroll / {} {}
+0 1547821466065 0 0 scroll / {} {}
+0 1547821466088 0 0 scroll / {} {}
+0 1547821466107 0 0 scroll / {} {}
+0 1547821466122 0 0 scroll / {} {}
+0 1547821466131 0 0 scroll / {} {}
+0 1547821466146 0 0 scroll / {} {}
+0 1547821466163 0 0 scroll / {} {}
+0 1547821466586 581 1010 mousemove //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821466650 638 1005 mousemove //*[@id='product-154-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Clear-View-Standing-Flip-Cover-For-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821466706 704 993 mousemove //*[@id='product-154'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-154","data-product-id":"154"}} {}
+0 1547821466756 754 978 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821466811 793 967 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821466902 788 988 mousemove //*[@id='product-150-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821466955 735 1156 mousemove //*[@id='product-150']/div {"DIV":{"class":"grid-arr"}} {}
+0 1547821467021 725 1181 mousemove //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1547821467099 722 1182 mousewheel //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1547821467114 722 1182 mousewheel //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1547821467128 0 0 scroll / {} {}
+0 1547821467137 722 1185 mousewheel //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1547821467145 0 0 scroll / {} {}
+0 1547821467161 722 1196 mousewheel //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1547821467163 0 0 scroll / {} {}
+0 1547821467178 0 0 scroll / {} {}
+0 1547821467183 722 1259 mousewheel //*[@id='product-150'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-150","data-product-id":"150"}} {}
+0 1547821467196 0 0 scroll / {} {}
+0 1547821467216 0 0 scroll / {} {}
+0 1547821467229 0 0 scroll / {} {}
+0 1547821467244 0 0 scroll / {} {}
+0 1547821467263 0 0 scroll / {} {}
+0 1547821467278 0 0 scroll / {} {}
+0 1547821467294 0 0 scroll / {} {}
+0 1547821467347 720 1682 mousemove //*[@id='product-138'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-138","data-product-id":"138"}} {}
+0 1547821467400 720 1681 mousemove //*[@id='product-138'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-138","data-product-id":"138"}} {}
+0 1547821467461 724 1662 mousemove //*[@id='product-138'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-138","data-product-id":"138"}} {}
+0 1547821467515 754 1608 mousemove //*[@id='product-138']/div {"DIV":{"class":"grid-arr"}} {}
+0 1547821467567 788 1558 mousemove //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1547821467617 820 1526 mousemove //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1547821467668 842 1508 mousemove //*[@id='product-138-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-sa9505c-Cover-For-Samsung-Note-83.jpg","class":"img-responsive","alt":""}} {}
+0 1547821467933 839 1504 mousemove //*[@id='product-138-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Chakaame-95001c-Cover-For-Samsung-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821468001 720 1512 mousemove //*[@id='product-138'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-138","data-product-id":"138"}} {}
+0 1547821468065 578 1512 mousemove //*[@id='product-142-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-82.jpg","class":"img-responsive","alt":""}} {}
+0 1547821469274 563 1512 click //*[@id='product-142-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Protective-Standing-Cover-For-Samsung-Galaxy-Note-81.jpg","class":"img-responsive","alt":""}} {}
+0 1547821470312 0 0 unload / {} {}

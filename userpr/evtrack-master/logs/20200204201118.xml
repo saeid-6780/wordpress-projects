@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <ip>::1</ip>
+ <date>Tue, 04 Feb 2020 20:11:18 +0000</date>
+ <url>http://localhost:8080/mousetrc/analysis/</url>
+ <ua>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36</ua>
+ <screen>1280x720</screen>
+ <window>1280x309</window>
+ <document>1263x9816</document>
+ <task>evtrack</task>
+</data>

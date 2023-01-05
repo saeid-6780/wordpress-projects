@@ -1,0 +1,76 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554707891257 0 0 load / {} {}
+0 1554707891311 769 502 mousemove /html/body/div[4]/div {"DIV":{"class":"remodal basket-modal remodal-is-initialized remodal-is-opening","data-remodal-id":"basket-modal","data-remodal-options":"closeOnOutsideClick: true","tabindex":"-1"}} {}
+0 1554707891326 0 0 scroll / {} {}
+0 1554707891388 614 331 mousemove //*[@id='basket-row-product-162']/td[2] {"TD":{}} {}
+0 1554707891453 181 235 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opening","style":"display: block;"}} {}
+0 1554707891503 99 240 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opening","style":"display: block;"}} {}
+0 1554707891804 91 245 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1554707891866 126 246 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1554707891916 202 246 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1554707891968 378 308 mousemove //*[@id='basket-row-product-162']/td[4] {"TD":{}} {}
+0 1554707892035 572 414 mousemove //*[@id='basket-total-price']/td[2] {"TD":{}} {}
+0 1554707892100 602 413 mousemove //*[@id='basket-total-price']/td[2] {"TD":{}} {}
+0 1554707892305 605 403 mousemove //*[@id='basket-row-product-97']/td[2] {"TD":{}} {}
+0 1554707892371 837 255 mousemove //*[@id='basket-table-header']/tr/th[2] {"TH":{}} {}
+0 1554707892434 956 225 mousemove /html/body/div[4]/div/h2 {"H2":{}} {}
+0 1554707892485 963 222 mousemove /html/body/div[4]/div/h2 {"H2":{}} {}
+0 1554707892535 969 220 mousemove /html/body/div[4]/div/h2 {"H2":{}} {}
+0 1554707892585 979 219 mousemove /html/body/div[4]/div/h2 {"H2":{}} {}
+0 1554707892636 997 209 mousemove //*[@id='basket-full-allarm']/p {"P":{}} {}
+0 1554707892686 1013 181 mousemove //*[@id='basket-full-allarm']/p {"P":{}} {}
+0 1554707892737 1016 173 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1554707892787 1017 172 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1554707892887 1017 171 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1554707892969 1017 168 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1554707893019 1017 164 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1554707893075 1017 160 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1554707893163 1017 159 click //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1554707893641 1018 159 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707893705 1254 149 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1554707893816 1365 149 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707894029 1365 147 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707894091 1365 119 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707894141 1365 101 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1554707894257 0 0 scroll / {} {}
+0 1554707894274 0 0 scroll / {} {}
+0 1554707894291 0 0 scroll / {} {}
+0 1554707894308 0 0 scroll / {} {}
+0 1554707894328 0 0 scroll / {} {}
+0 1554707894344 0 0 scroll / {} {}
+0 1554707894379 0 0 scroll / {} {}
+0 1554707894392 0 0 scroll / {} {}
+0 1554707894419 0 0 scroll / {} {}
+0 1554707894434 0 0 scroll / {} {}
+0 1554707894449 0 0 scroll / {} {}
+0 1554707894461 0 0 scroll / {} {}
+0 1554707894478 0 0 scroll / {} {}
+0 1554707894494 0 0 scroll / {} {}
+0 1554707894510 0 0 scroll / {} {}
+0 1554707894528 0 0 scroll / {} {}
+0 1554707894544 0 0 scroll / {} {}
+0 1554707894560 0 0 scroll / {} {}
+0 1554707894578 0 0 scroll / {} {}
+0 1554707894614 0 0 scroll / {} {}
+0 1554707894991 0 0 scroll / {} {}
+0 1554707895011 0 0 scroll / {} {}
+0 1554707895028 0 0 scroll / {} {}
+0 1554707895044 0 0 scroll / {} {}
+0 1554707895061 0 0 scroll / {} {}
+0 1554707895078 0 0 scroll / {} {}
+0 1554707895094 0 0 scroll / {} {}
+0 1554707895118 0 0 scroll / {} {}
+0 1554707895179 1319 1075 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1554707895229 1066 1160 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707895295 986 1188 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707895504 981 1187 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1554707895563 719 1067 mousemove //*[@id='product-69-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/"}} {}
+0 1554707895613 664 1050 mousemove //*[@id='product-69-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/"}} {}
+0 1554707895665 656 1050 mousemove //*[@id='product-69-grid-info']/h6 {"H6":{}} {}
+0 1554707895804 657 1050 mousemove //*[@id='product-69-grid-info']/h6 {"H6":{}} {}
+0 1554707895865 685 1050 mousemove //*[@id='product-69-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/"}} {}
+0 1554707895915 719 1052 mousemove //*[@id='product-69-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/"}} {}
+0 1554707895965 723 1055 mousemove //*[@id='product-69-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/"}} {}
+0 1554707896032 724 1056 mousemove //*[@id='product-69-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/"}} {}
+0 1554707896159 724 1057 click //*[@id='product-69-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/"}} {}
+0 1554707897089 0 0 unload / {} {}

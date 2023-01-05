@@ -1,0 +1,34 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548418202469 0 0 load / {} {}
+0 1548418205767 890 423 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418205791 890 423 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418206544 852 417 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418206551 852 417 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418207266 847 425 mousemove /html/body/div[3]/div[2]/div[1] {"DIV":{"class":"hustle-modal-close","aria-hidden":"true"}} {}
+0 1548418207275 847 425 click /html/body/div[3]/div[2]/div[1] {"DIV":{"class":"hustle-modal-close","aria-hidden":"true"}} {}
+0 1548418207870 837 456 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548418207879 837 456 click /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548418208338 856 470 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548418208348 856 470 click /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548418209978 878 435 mousemove /html/body/div[3]/div[2]/div[1] {"DIV":{"class":"hustle-modal-close","aria-hidden":"true"}} {}
+0 1548418209988 878 435 click /html/body/div[3]/div[2]/div[1] {"DIV":{"class":"hustle-modal-close","aria-hidden":"true"}} {}
+0 1548418210562 872 439 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548418210578 872 439 click /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548418211094 863 425 mousemove /html/body/div[3]/div[2]/div[1] {"DIV":{"class":"hustle-modal-close","aria-hidden":"true"}} {}
+0 1548418211110 863 425 click /html/body/div[3]/div[2]/div[1] {"DIV":{"class":"hustle-modal-close","aria-hidden":"true"}} {}
+0 1548418211606 848 395 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418211617 848 395 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418212108 860 393 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418212115 860 393 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418216611 826 447 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548418216619 826 447 click /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548418217829 880 422 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418217836 880 422 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548418218640 881 439 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548418218648 881 439 click /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548418225992 886 433 mousemove /html/body/div[3]/div[2]/div[1]/svg {"svg":{"width":"150","height":"150","viewBox":"0 0 150 150","xmlns":"http://www.w3.org/2000/svg","preserveAspectRatio":"none","class":"hustle-icon hustle-i_close"}} {}
+0 1548418229902 701 981 mousemove //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1548418229927 701 981 click //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1548418230258 685 860 mousemove //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1548418230265 685 860 click //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1548418230919 0 0 unload / {} {}

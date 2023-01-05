@@ -1,0 +1,27 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551472366766 0 0 load / {} {}
+0 1551472367876 436 6 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472367939 526 75 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472367981 561 102 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472368020 0 0 scroll / {} {}
+0 1551472368026 568 114 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472368039 0 0 scroll / {} {}
+0 1551472368060 0 0 scroll / {} {}
+0 1551472368080 569 157 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472368086 0 0 scroll / {} {}
+0 1551472368099 0 0 scroll / {} {}
+0 1551472368120 0 0 scroll / {} {}
+0 1551472368130 569 214 mousewheel //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472368160 0 0 scroll / {} {}
+0 1551472368180 0 0 scroll / {} {}
+0 1551472368200 0 0 scroll / {} {}
+0 1551472368221 0 0 scroll / {} {}
+0 1551472368241 0 0 scroll / {} {}
+0 1551472368261 0 0 scroll / {} {}
+0 1551472368281 0 0 scroll / {} {}
+0 1551472368301 0 0 scroll / {} {}
+0 1551472368321 0 0 scroll / {} {}
+0 1551472368341 0 0 scroll / {} {}
+0 1551472368400 545 459 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472368460 525 424 mousemove //*[@id='smtTrackingLayer'] {"OBJECT":{"type":"application/x-shockwave-flash","scalemode":"noscale","data":"http://userpr.ir/smt2/core/swf/tracking.swf?1551472394","width":"1280","height":"1656","id":"smtTrackingLayer","style":"visibility: visible; z-index: 1000002;"}} {}
+0 1551472369444 0 0 unload / {} {}

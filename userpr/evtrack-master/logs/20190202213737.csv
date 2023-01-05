@@ -1,0 +1,33 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1549143428652 0 0 load / {} {}
+0 1549143431828 155 0 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143431899 160 2 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143431967 162 3 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143432042 164 7 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143432123 168 10 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143432188 172 13 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143432243 173 14 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143432308 179 18 mousemove /html/body/div[2]/div/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549143432367 182 19 mousemove /html/body/div[2]/div/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549143432430 186 22 mousemove /html/body/div[2]/div/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549143432489 197 28 mousemove /html/body/div[2]/div/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549143432550 207 33 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143432670 214 35 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143432790 218 37 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143433219 218 36 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143433269 212 30 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143433330 203 24 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143433533 201 21 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143433593 272 70 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143433653 529 300 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143433713 667 508 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143455308 584 519 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143455371 425 285 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143455431 285 125 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549143455491 250 88 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549143455551 223 69 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143455612 200 58 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143455672 193 45 mousemove /html/body/div[2]/div/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549143455732 187 31 mousemove /html/body/div[2]/div/div[1]/div[2]/a[1] {"A":{"data-remodal-target":"guide-modal","class":"site-guide btn btn-info"}} {}
+0 1549143455792 164 9 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1549143457557 0 0 unload / {} {}

@@ -1,0 +1,24 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1549532575964 0 0 load / {} {}
+0 1549532579468 709 8 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549532579528 712 44 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549532579579 695 107 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549532579629 681 140 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549532579679 678 167 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549532579935 685 186 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1549532579997 689 239 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1549532580064 694 274 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1549532580131 695 278 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1549532580198 697 285 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1549532580249 699 291 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1549532580740 699 292 click //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1549532581320 696 292 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1549532581384 570 215 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1549532581450 437 82 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549532581734 423 73 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549532581786 392 76 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549532581852 318 34 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549532581902 307 19 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549532581952 312 2 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1549532599100 250 164 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1549532599398 0 0 unload / {} {}

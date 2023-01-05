@@ -1,0 +1,18 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1581106030834 0 0 load / {} {}
+0 1581106031372 403 546 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106031428 403 546 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106031444 403 546 click //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106031609 403 545 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106031670 426 477 mousemove //*[@id='select-cat']/div/div[5] {"DIV":{"class":"clearfix"}} {}
+0 1581106031729 433 316 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1581106031789 426 273 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1581106031869 429 275 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1581106031929 437 277 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1581106031990 449 307 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1581106032051 481 424 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1581106032111 511 538 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106032171 520 599 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106033218 374 515 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106033334 374 517 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://localhost:8080/mousetrc/wp-content/themes/mytheme\\assets\\images\\mobile.jpg"}} {}
+0 1581106033393 0 0 unload / {} {}

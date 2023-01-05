@@ -1,0 +1,843 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551383744996 1549 600 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745018 1549 600 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745901 1549 600 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745905 0 0 scroll / {} {}
+0 1551383745910 1549 610 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745916 1549 623 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745918 0 0 scroll / {} {}
+0 1551383745922 1549 636 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745929 1549 649 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745935 0 0 scroll / {} {}
+0 1551383745936 1549 664 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745944 1549 679 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745952 1549 696 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745952 0 0 scroll / {} {}
+0 1551383745959 1549 713 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745966 1549 731 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745968 0 0 scroll / {} {}
+0 1551383745975 1549 748 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745981 1549 765 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745985 0 0 scroll / {} {}
+0 1551383745990 1549 778 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383745996 1549 789 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746002 0 0 scroll / {} {}
+0 1551383746004 1549 799 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746011 1549 810 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746018 0 0 scroll / {} {}
+0 1551383746020 1549 821 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746026 1549 827 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746034 1549 836 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746035 0 0 scroll / {} {}
+0 1551383746041 1549 847 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746049 1549 855 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746052 0 0 scroll / {} {}
+0 1551383746060 1549 864 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746064 1549 873 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746069 0 0 scroll / {} {}
+0 1551383746073 1549 883 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746079 1549 888 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746086 0 0 scroll / {} {}
+0 1551383746089 1549 896 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746094 1549 903 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746102 0 0 scroll / {} {}
+0 1551383746105 1549 907 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746117 1549 916 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746119 0 0 scroll / {} {}
+0 1551383746147 1549 918 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383746147 0 0 scroll / {} {}
+0 1551383746414 0 0 load / {} {}
+0 1551383746472 0 0 scroll / {} {}
+0 1551383747197 1549 601 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1551383747201 0 0 scroll / {} {}
+0 1551383748443 1532 596 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383748501 1289 491 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383748566 939 329 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383748834 896 299 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1551383748884 628 185 mousemove //*[@id='main-banner']/div/h1 {"H1":{}} {}
+0 1551383748934 392 97 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383749207 380 91 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383749266 302 69 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1551383749316 271 64 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1551383749366 262 64 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1551383749416 246 64 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1551383749466 230 69 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1551383749516 201 92 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383749566 161 100 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383749632 118 92 mousemove //*[@id='basket-view-button']/i {"I":{"class":"fa fa-cart-arrow-down"}} {}
+0 1551383749724 116 90 mousemove //*[@id='basket-view-button']/i {"I":{"class":"fa fa-cart-arrow-down"}} {}
+0 1551383749837 116 90 click //*[@id='basket-view-button']/i {"I":{"class":"fa fa-cart-arrow-down"}} {}
+0 1551383751036 127 90 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1551383751097 345 144 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1551383751147 533 292 mousemove /html/body/div[4] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1551383751198 622 417 mousemove //*[@id='basket-table-header']/tr/th[4] {"TH":{}} {}
+0 1551383751472 617 430 mousemove /html/body/div[4]/div {"DIV":{"class":"remodal basket-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"basket-modal","data-remodal-options":"closeOnOutsideClick: true","tabindex":"-1"}} {}
+0 1551383751531 691 463 mousemove //*[@id='basket-row-product-85']/td[4] {"TD":{}} {}
+0 1551383751597 739 491 mousemove //*[@id='basket-row-product-85']/td[4] {"TD":{}} {}
+0 1551383751647 741 503 mousemove //*[@id='basket-row-product-85']/td[3] {"TD":{}} {}
+0 1551383751764 741 508 mousemove //*[@id='basket-total-price']/td[3] {"TD":{}} {}
+0 1551383751814 741 513 mousemove //*[@id='basket-total-price']/td[3] {"TD":{}} {}
+0 1551383751880 747 524 mousemove //*[@id='basket-total-price']/td[3] {"TD":{}} {}
+0 1551383751930 747 529 mousemove //*[@id='basket-total-price']/td[3] {"TD":{}} {}
+0 1551383752252 746 529 mousemove //*[@id='basket-total-price']/td[3] {"TD":{}} {}
+0 1551383752313 715 528 mousemove //*[@id='basket-total-price']/td[4] {"TD":{"class":"price-val"}} {}
+0 1551383752363 690 528 mousemove //*[@id='basket-total-price']/td[4] {"TD":{"class":"price-val"}} {}
+0 1551383752413 671 528 mousemove //*[@id='basket-total-price']/td[4] {"TD":{"class":"price-val"}} {}
+0 1551383752476 662 531 mousemove //*[@id='basket-total-price']/td[4] {"TD":{"class":"price-val"}} {}
+0 1551383752529 661 538 mousemove //*[@id='basket-total-price']/td[4] {"TD":{"class":"price-val"}} {}
+0 1551383752579 669 544 mousemove //*[@id='basket-total-price']/td[4] {"TD":{"class":"price-val"}} {}
+0 1551383752629 675 549 mousemove //*[@id='basket-total-price']/td[4] {"TD":{"class":"price-val"}} {}
+0 1551383752680 690 561 mousemove /html/body/div[4]/div {"DIV":{"class":"remodal basket-modal remodal-is-initialized remodal-is-opened","data-remodal-id":"basket-modal","data-remodal-options":"closeOnOutsideClick: true","tabindex":"-1"}} {}
+0 1551383752747 774 544 mousemove //*[@id='basket-total-price']/td[3] {"TD":{}} {}
+0 1551383752814 912 494 mousemove //*[@id='basket-row-product-85']/td[2] {"TD":{}} {}
+0 1551383752880 1081 457 mousemove //*[@id='basket-table-header']/tr/th[2] {"TH":{}} {}
+0 1551383752946 1165 438 mousemove //*[@id='basket-table-header']/tr/th[2] {"TH":{}} {}
+0 1551383753293 1180 399 mousemove /html/body/div[4]/div/h2 {"H2":{}} {}
+0 1551383753346 1180 406 mousemove /html/body/div[4]/div/h2 {"H2":{}} {}
+0 1551383753412 1185 427 mousemove //*[@id='basket-table-header']/tr/th[2] {"TH":{}} {}
+0 1551383753462 1212 419 mousemove //*[@id='basket-table-header']/tr/th[2] {"TH":{}} {}
+0 1551383753512 1263 391 mousemove /html/body/div[4]/div/h2 {"H2":{}} {}
+0 1551383753564 1295 367 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1551383753762 1303 362 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1551383753812 1302 371 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1551383753879 1295 376 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1551383754075 1291 376 click //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1551383754362 1284 381 mousemove //*[@id='basket-close-button'] {"BUTTON":{"id":"basket-close-button","data-remodal-action":"close","class":"remodal-close"}} {}
+0 1551383754413 1185 414 mousemove //*[@id='basket-table-header']/tr/th[2] {"TH":{}} {}
+0 1551383754478 1029 429 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754528 947 448 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754780 947 448 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754786 947 471 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754794 947 497 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754795 0 0 scroll / {} {}
+0 1551383754802 947 519 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754809 947 551 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754812 0 0 scroll / {} {}
+0 1551383754818 947 581 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754826 947 624 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754828 0 0 scroll / {} {}
+0 1551383754833 947 669 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754839 947 691 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754845 0 0 scroll / {} {}
+0 1551383754851 947 716 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754856 947 755 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754861 0 0 scroll / {} {}
+0 1551383754865 947 809 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754871 947 843 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754877 947 880 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754879 0 0 scroll / {} {}
+0 1551383754887 947 899 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754895 947 929 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754896 0 0 scroll / {} {}
+0 1551383754902 947 966 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754907 947 1011 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754911 0 0 scroll / {} {}
+0 1551383754914 947 1045 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754921 947 1069 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754927 0 0 scroll / {} {}
+0 1551383754928 947 1088 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754936 947 1112 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754944 947 1134 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754944 0 0 scroll / {} {}
+0 1551383754951 947 1159 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754958 947 1196 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754961 0 0 scroll / {} {}
+0 1551383754966 947 1215 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754973 947 1250 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754977 0 0 scroll / {} {}
+0 1551383754981 947 1265 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754988 947 1284 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383754994 0 0 scroll / {} {}
+0 1551383754997 947 1299 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755003 947 1321 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755011 0 0 scroll / {} {}
+0 1551383755012 947 1342 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755018 947 1372 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755026 947 1398 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755027 0 0 scroll / {} {}
+0 1551383755034 947 1428 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755041 947 1445 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755044 0 0 scroll / {} {}
+0 1551383755049 947 1463 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755056 947 1482 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755061 0 0 scroll / {} {}
+0 1551383755064 947 1495 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755071 947 1508 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755077 0 0 scroll / {} {}
+0 1551383755079 947 1527 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755086 947 1544 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755094 947 1566 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755094 0 0 scroll / {} {}
+0 1551383755101 947 1585 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755108 947 1600 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755111 0 0 scroll / {} {}
+0 1551383755117 947 1613 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755124 947 1620 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755127 0 0 scroll / {} {}
+0 1551383755133 947 1626 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755139 947 1632 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383755144 0 0 scroll / {} {}
+0 1551383755680 947 1635 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755686 947 1678 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755693 0 0 scroll / {} {}
+0 1551383755696 947 1738 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755701 947 1794 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755709 947 1824 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755710 0 0 scroll / {} {}
+0 1551383755720 947 1899 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755724 947 1972 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755727 0 0 scroll / {} {}
+0 1551383755733 947 2026 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755739 947 2103 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755744 0 0 scroll / {} {}
+0 1551383755748 947 2176 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755755 947 2232 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755761 0 0 scroll / {} {}
+0 1551383755764 947 2316 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755772 947 2385 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755778 947 2452 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755779 0 0 scroll / {} {}
+0 1551383755784 947 2531 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755792 947 2583 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755794 0 0 scroll / {} {}
+0 1551383755802 947 2637 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755807 947 2712 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755810 0 0 scroll / {} {}
+0 1551383755818 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755822 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755829 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755836 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755844 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755851 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755859 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755866 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755874 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755884 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755891 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755896 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755904 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755911 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755919 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755926 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755934 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755941 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755949 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383755956 947 2724 mousewheel //*[@id='product-97-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-note-8-sm-n950fd-dual-sim-64gb-mobile-phone/"}} {}
+0 1551383757000 947 2724 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757006 947 2685 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757009 0 0 scroll / {} {}
+0 1551383757017 947 2642 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757021 947 2603 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757025 0 0 scroll / {} {}
+0 1551383757030 947 2551 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757036 947 2498 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757042 0 0 scroll / {} {}
+0 1551383757050 947 2455 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757052 947 2407 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757059 947 2358 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757059 0 0 scroll / {} {}
+0 1551383757066 947 2291 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757073 947 2246 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757075 0 0 scroll / {} {}
+0 1551383757081 947 2199 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757088 947 2119 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757092 0 0 scroll / {} {}
+0 1551383757096 947 2050 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757103 947 1990 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757108 0 0 scroll / {} {}
+0 1551383757111 947 1891 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757118 947 1827 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757125 0 0 scroll / {} {}
+0 1551383757126 947 1728 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757133 947 1648 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757141 947 1560 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757142 0 0 scroll / {} {}
+0 1551383757148 947 1474 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757156 947 1408 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757158 0 0 scroll / {} {}
+0 1551383757163 947 1322 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757171 947 1266 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757175 0 0 scroll / {} {}
+0 1551383757178 947 1223 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757186 947 1162 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757192 0 0 scroll / {} {}
+0 1551383757193 947 1113 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757201 947 1087 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757209 0 0 scroll / {} {}
+0 1551383757213 947 1051 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757221 947 1014 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757225 947 971 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757226 0 0 scroll / {} {}
+0 1551383757234 947 939 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757239 947 911 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757242 0 0 scroll / {} {}
+0 1551383757248 947 881 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757254 947 846 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757259 0 0 scroll / {} {}
+0 1551383757262 947 823 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757269 947 801 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757276 0 0 scroll / {} {}
+0 1551383757280 947 786 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757284 947 771 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757292 947 769 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757293 0 0 scroll / {} {}
+0 1551383757501 947 767 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757502 0 0 scroll / {} {}
+0 1551383757509 947 698 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757516 947 644 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757524 947 554 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757525 0 0 scroll / {} {}
+0 1551383757534 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757539 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757546 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757554 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757562 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757569 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757576 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757584 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757591 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757598 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757606 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757614 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757621 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757629 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757636 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757643 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757651 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757658 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757666 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383757673 947 445 mousewheel //*[@id='product-9']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383758417 952 445 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383758474 1031 442 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383758524 1119 464 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551383758575 1199 512 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1551383758625 1243 549 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758927 1258 568 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758934 1258 572 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758940 0 0 scroll / {} {}
+0 1551383758943 1258 580 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758949 1258 589 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758956 1258 602 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758958 0 0 scroll / {} {}
+0 1551383758965 1258 617 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758971 1258 632 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758974 0 0 scroll / {} {}
+0 1551383758979 1258 649 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758986 1258 662 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383758990 0 0 scroll / {} {}
+0 1551383758996 1258 673 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759001 1258 686 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759007 0 0 scroll / {} {}
+0 1551383759008 1258 694 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759016 1258 699 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759024 1258 705 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759024 0 0 scroll / {} {}
+0 1551383759030 1258 709 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759038 1258 714 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759040 0 0 scroll / {} {}
+0 1551383759046 1258 718 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759053 1258 722 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759057 0 0 scroll / {} {}
+0 1551383759061 1258 722 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759073 0 0 scroll / {} {}
+0 1551383759076 1258 724 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383759090 0 0 scroll / {} {}
+0 1551383759294 1270 727 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383759357 1355 725 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383759407 1399 728 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383759457 1409 728 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383759511 1414 728 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383759590 1417 725 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383759640 1428 716 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383759766 1430 716 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383760291 1429 716 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383760356 1400 721 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383760407 1254 739 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383760473 1094 765 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1551383760757 1057 763 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1551383760822 839 755 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1551383760872 644 785 mousemove //*[@id='product-117'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-117","data-product-id":"117"}} {}
+0 1551383760927 570 791 mousemove //*[@id='product-117-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1551383761526 555 777 mousemove //*[@id='product-117-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-Y7-Prime-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383761591 487 746 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1551383761644 457 727 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383761709 441 702 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383761774 442 699 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383761941 443 700 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383761992 442 702 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383762044 441 705 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383762128 441 705 click //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383762692 439 708 mousemove //*[@id='home2-tab']/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/menu1.png"}} {}
+0 1551383762755 427 723 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383762811 423 725 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383762947 419 725 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383763005 449 721 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383763071 483 722 mousemove //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763221 485 722 mousemove //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763408 485 722 click //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763937 485 722 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763944 485 848 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763951 485 883 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763953 0 0 scroll / {} {}
+0 1551383763961 485 930 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763966 485 990 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763970 0 0 scroll / {} {}
+0 1551383763977 485 1033 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763982 485 1068 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383763986 0 0 scroll / {} {}
+0 1551383763992 485 1117 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764002 485 1167 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764006 485 1210 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764009 0 0 scroll / {} {}
+0 1551383764023 485 1242 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764028 485 1298 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764035 485 1345 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764042 485 1375 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764048 0 0 scroll / {} {}
+0 1551383764050 485 1418 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764054 0 0 scroll / {} {}
+0 1551383764057 485 1438 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764063 485 1463 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764069 0 0 scroll / {} {}
+0 1551383764071 485 1494 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764078 485 1532 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764086 485 1580 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764086 0 0 scroll / {} {}
+0 1551383764093 485 1605 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764101 485 1640 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764102 0 0 scroll / {} {}
+0 1551383764108 485 1659 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764116 485 1696 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764119 0 0 scroll / {} {}
+0 1551383764123 485 1728 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764131 485 1777 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764136 0 0 scroll / {} {}
+0 1551383764139 485 1803 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764146 485 1827 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764152 0 0 scroll / {} {}
+0 1551383764154 485 1848 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764161 485 1868 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764168 485 1891 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764169 0 0 scroll / {} {}
+0 1551383764176 485 1919 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764183 485 1947 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764186 0 0 scroll / {} {}
+0 1551383764193 485 1969 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764199 485 1986 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764202 0 0 scroll / {} {}
+0 1551383764206 485 1995 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764214 485 2003 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764219 0 0 scroll / {} {}
+0 1551383764223 485 2010 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764229 485 2014 mousewheel //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383764236 0 0 scroll / {} {}
+0 1551383765085 485 2016 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383765102 0 0 scroll / {} {}
+0 1551383766276 485 2018 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766284 485 2018 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766291 485 2005 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766298 485 1969 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766300 0 0 scroll / {} {}
+0 1551383766306 485 1930 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766314 485 1900 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766318 0 0 scroll / {} {}
+0 1551383766322 485 1859 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766328 485 1810 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766334 0 0 scroll / {} {}
+0 1551383766336 485 1745 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766343 485 1689 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766351 0 0 scroll / {} {}
+0 1551383766353 485 1635 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766358 485 1577 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766365 485 1517 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766367 0 0 scroll / {} {}
+0 1551383766374 485 1451 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766380 485 1397 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766384 0 0 scroll / {} {}
+0 1551383766389 485 1337 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766395 485 1266 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766401 0 0 scroll / {} {}
+0 1551383766403 485 1214 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766410 485 1160 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766417 0 0 scroll / {} {}
+0 1551383766419 485 1096 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766425 485 1040 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766433 485 1008 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766434 0 0 scroll / {} {}
+0 1551383766441 485 950 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766448 485 891 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766451 0 0 scroll / {} {}
+0 1551383766456 485 838 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766463 485 810 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766467 0 0 scroll / {} {}
+0 1551383766471 485 752 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766478 485 692 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766484 0 0 scroll / {} {}
+0 1551383766486 485 640 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766493 485 606 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766501 0 0 scroll / {} {}
+0 1551383766503 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766508 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766516 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766523 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766530 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766538 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766546 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766553 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766560 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766568 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766576 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766583 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766591 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383766598 485 563 mousewheel //*[@id='product-109-list-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1551383767100 480 568 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1551383767152 466 619 mousemove //*[@id='select-item-header'] {"SPAN":{"id":"select-item-header","class":"active total","style":"display:block;"}} {}
+0 1551383767202 460 671 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383767253 458 688 mousemove //*[@id='select_grid_style_tab'] {"LI":{"id":"select_grid_style_tab","role":"presentation","class":""}} {}
+0 1551383767434 454 698 mousemove //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383767579 454 698 click //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383767976 454 698 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383767988 454 781 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383767993 454 807 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768001 454 846 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768008 454 895 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768016 454 930 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768017 0 0 scroll / {} {}
+0 1551383768026 454 960 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768031 454 981 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768036 0 0 scroll / {} {}
+0 1551383768041 454 1018 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768050 454 1052 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768054 0 0 scroll / {} {}
+0 1551383768059 454 1104 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768061 454 1130 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768070 454 1158 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768076 454 1183 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768083 0 0 scroll / {} {}
+0 1551383768086 454 1218 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768092 454 1261 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768098 454 1300 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768099 0 0 scroll / {} {}
+0 1551383768106 454 1336 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768113 454 1358 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768116 0 0 scroll / {} {}
+0 1551383768121 454 1390 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768128 454 1424 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768132 0 0 scroll / {} {}
+0 1551383768137 454 1476 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768143 454 1508 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768149 0 0 scroll / {} {}
+0 1551383768151 454 1543 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768158 454 1568 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768166 454 1607 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768166 0 0 scroll / {} {}
+0 1551383768173 454 1656 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768180 454 1697 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768182 0 0 scroll / {} {}
+0 1551383768188 454 1732 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768195 454 1758 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768199 0 0 scroll / {} {}
+0 1551383768204 454 1805 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768210 454 1854 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768216 0 0 scroll / {} {}
+0 1551383768219 454 1899 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768225 454 1925 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768232 0 0 scroll / {} {}
+0 1551383768234 454 1958 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768242 454 1983 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768248 454 2026 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768249 0 0 scroll / {} {}
+0 1551383768256 454 2054 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768263 454 2084 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768266 0 0 scroll / {} {}
+0 1551383768271 454 2106 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768282 0 0 scroll / {} {}
+0 1551383768625 454 2112 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768631 454 2157 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768634 0 0 scroll / {} {}
+0 1551383768639 454 2216 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768646 454 2263 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768649 0 0 scroll / {} {}
+0 1551383768654 454 2332 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768662 454 2407 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768666 0 0 scroll / {} {}
+0 1551383768671 454 2469 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768678 454 2551 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768682 0 0 scroll / {} {}
+0 1551383768687 454 2622 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768693 454 2680 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768699 454 2760 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768701 0 0 scroll / {} {}
+0 1551383768707 454 2815 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768714 454 2848 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768715 0 0 scroll / {} {}
+0 1551383768722 454 2919 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768729 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768732 0 0 scroll / {} {}
+0 1551383768740 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768745 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768752 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768758 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768768 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768774 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768781 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768788 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768796 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768804 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768811 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768819 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768826 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768834 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768841 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768848 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768856 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768863 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768871 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768878 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768886 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768894 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768901 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768908 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383768917 454 2977 mousewheel //*[@id='home2-tab'] {"A":{"href":"#home2","id":"home2-tab","role":"tab","data-toggle":"tab","aria-controls":"home","aria-expanded":"true"}} {}
+0 1551383771083 454 2977 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771091 454 2899 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771096 0 0 scroll / {} {}
+0 1551383771098 454 2800 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771105 454 2718 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771113 0 0 scroll / {} {}
+0 1551383771114 454 2643 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771120 454 2562 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771128 454 2510 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771129 0 0 scroll / {} {}
+0 1551383771136 454 2452 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771143 454 2392 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771146 0 0 scroll / {} {}
+0 1551383771150 454 2351 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771158 454 2316 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771163 0 0 scroll / {} {}
+0 1551383771165 454 2280 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771173 454 2278 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771179 0 0 scroll / {} {}
+0 1551383771346 454 2248 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771347 0 0 scroll / {} {}
+0 1551383771355 454 2162 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771361 454 2056 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771363 0 0 scroll / {} {}
+0 1551383771370 454 1921 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771376 454 1785 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771380 0 0 scroll / {} {}
+0 1551383771383 454 1646 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771391 454 1519 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771396 0 0 scroll / {} {}
+0 1551383771398 454 1390 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771406 454 1250 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771413 0 0 scroll / {} {}
+0 1551383771414 454 1132 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771420 454 1007 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771428 454 886 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771429 0 0 scroll / {} {}
+0 1551383771435 454 764 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771443 454 698 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771446 0 0 scroll / {} {}
+0 1551383771450 454 698 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771458 454 698 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771465 454 698 mousewheel //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1551383771858 469 691 mousemove //*[@id='profile2-tab'] {"A":{"href":"#profile2","role":"tab","id":"profile2-tab","data-toggle":"tab","aria-controls":"profile"}} {}
+0 1551383771913 707 732 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1551383771966 1023 830 mousemove //*[@id='product-109-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1551383772018 1114 856 mousemove //*[@id='product-109-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1551383772270 1160 839 mousemove //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1551383772332 1265 757 mousemove //*[@id='category-4'] {"LI":{"id":"category-4","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-2","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383772384 1321 720 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383772450 1378 702 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383772535 1384 709 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383772598 1404 727 mousemove //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: rgb(245, 245, 245);"}} {}
+0 1551383772804 1412 727 click //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775058 1412 727 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775059 0 0 scroll / {} {}
+0 1551383775066 1412 791 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775073 1412 832 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775076 0 0 scroll / {} {}
+0 1551383775081 1412 875 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775088 1412 946 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775093 0 0 scroll / {} {}
+0 1551383775096 1412 1008 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775104 1412 1036 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775110 0 0 scroll / {} {}
+0 1551383775111 1412 1088 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775118 1412 1146 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775126 1412 1189 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775127 0 0 scroll / {} {}
+0 1551383775134 1412 1206 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775141 1412 1223 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775143 0 0 scroll / {} {}
+0 1551383775148 1412 1236 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775156 1412 1247 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775160 0 0 scroll / {} {}
+0 1551383775163 1412 1251 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775171 1412 1253 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775176 0 0 scroll / {} {}
+0 1551383775329 1412 1255 mousewheel //*[@id='category-3'] {"LI":{"id":"category-3","class":"resp-tab-item hor_1 resp-tab-active","aria-controls":"hor_1_tab_item-1","role":"tab","style":"background-color: white; border-color: rgb(193, 193, 193);"}} {}
+0 1551383775330 0 0 scroll / {} {}
+0 1551383775802 1405 1258 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551383775860 1259 1213 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1551383775910 1149 1164 mousemove //*[@id='product-69']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383775976 1117 1137 mousemove //*[@id='product-69-grid-info']/h6 {"H6":{}} {}
+0 1551383776724 1111 1142 mousemove //*[@id='product-69-grid-info']/h6 {"H6":{}} {}
+0 1551383776775 1054 1177 mousemove //*[@id='product-69-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1551383776825 1014 1184 mousemove //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777062 1006 1185 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777069 1006 1219 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777074 0 0 scroll / {} {}
+0 1551383777076 1006 1277 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777083 1006 1352 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777091 1006 1421 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777092 0 0 scroll / {} {}
+0 1551383777099 1006 1509 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777106 1006 1604 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777108 0 0 scroll / {} {}
+0 1551383777114 1006 1701 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777121 1006 1797 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777124 0 0 scroll / {} {}
+0 1551383777131 1006 1905 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777136 1006 2008 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777141 0 0 scroll / {} {}
+0 1551383777143 1006 2129 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777152 1006 2217 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777159 0 0 scroll / {} {}
+0 1551383777163 1006 2337 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777168 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777174 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777174 0 0 scroll / {} {}
+0 1551383777181 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777189 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777196 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777203 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777211 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777218 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777226 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383777233 1006 2372 mousewheel //*[@id='product-69-grid-info'] {"DIV":{"id":"product-69-grid-info","class":"women"}} {}
+0 1551383779170 1006 2372 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779173 0 0 scroll / {} {}
+0 1551383779177 1006 2333 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779185 1006 2303 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779191 0 0 scroll / {} {}
+0 1551383779193 1006 2268 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779201 1006 2245 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779208 1006 2208 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779208 0 0 scroll / {} {}
+0 1551383779215 1006 2178 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779221 1006 2133 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779223 0 0 scroll / {} {}
+0 1551383779229 1006 2101 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779236 1006 2075 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779239 0 0 scroll / {} {}
+0 1551383779244 1006 2049 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779251 1006 2019 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779256 0 0 scroll / {} {}
+0 1551383779259 1006 1995 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779266 1006 1963 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779273 0 0 scroll / {} {}
+0 1551383779274 1006 1939 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779281 1006 1911 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779289 1006 1890 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779289 0 0 scroll / {} {}
+0 1551383779296 1006 1858 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779304 1006 1840 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779306 0 0 scroll / {} {}
+0 1551383779311 1006 1815 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779319 1006 1791 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779323 0 0 scroll / {} {}
+0 1551383779329 1006 1767 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779334 1006 1746 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779341 0 0 scroll / {} {}
+0 1551383779344 1006 1724 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779350 1006 1711 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779356 0 0 scroll / {} {}
+0 1551383779357 1006 1681 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779364 1006 1662 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779371 1006 1645 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779372 0 0 scroll / {} {}
+0 1551383779379 1006 1632 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779386 1006 1619 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779389 0 0 scroll / {} {}
+0 1551383779394 1006 1608 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779401 1006 1597 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779406 0 0 scroll / {} {}
+0 1551383779409 1006 1587 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779416 1006 1578 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779422 0 0 scroll / {} {}
+0 1551383779424 1006 1569 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779431 1006 1563 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779439 1006 1554 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779439 0 0 scroll / {} {}
+0 1551383779446 1006 1550 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779454 1006 1544 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779456 0 0 scroll / {} {}
+0 1551383779461 1006 1539 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779469 1006 1535 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779472 0 0 scroll / {} {}
+0 1551383779476 1006 1531 mousewheel //*[@id='product-15-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1551383779489 0 0 scroll / {} {}
+0 1551383780347 1009 1513 mousemove //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780405 1034 1405 mousemove //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780610 1058 1361 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780617 1058 1339 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780622 0 0 scroll / {} {}
+0 1551383780625 1058 1315 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780632 1058 1290 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780639 0 0 scroll / {} {}
+0 1551383780642 1058 1264 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780647 1058 1238 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780656 1058 1221 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780656 0 0 scroll / {} {}
+0 1551383780663 1058 1204 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780669 1058 1182 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780672 0 0 scroll / {} {}
+0 1551383780677 1058 1165 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780684 1058 1152 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780688 0 0 scroll / {} {}
+0 1551383780692 1058 1135 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780699 1058 1113 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780705 0 0 scroll / {} {}
+0 1551383780707 1058 1100 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780714 1058 1077 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780722 1058 1064 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780722 0 0 scroll / {} {}
+0 1551383780729 1058 1042 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780736 1058 1029 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780738 0 0 scroll / {} {}
+0 1551383780744 1058 1017 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780751 1058 999 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780755 0 0 scroll / {} {}
+0 1551383780759 1058 986 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780766 1058 967 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780772 0 0 scroll / {} {}
+0 1551383780776 1058 950 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780783 1058 933 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780789 0 0 scroll / {} {}
+0 1551383780792 1058 913 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780798 1058 896 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780805 1058 879 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780806 0 0 scroll / {} {}
+0 1551383780812 1058 857 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780820 1058 836 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780822 0 0 scroll / {} {}
+0 1551383780828 1058 823 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780835 1058 799 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780839 0 0 scroll / {} {}
+0 1551383780843 1058 793 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780850 1058 776 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780856 0 0 scroll / {} {}
+0 1551383780859 1058 771 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780864 1058 769 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1551383780872 0 0 scroll / {} {}
+0 1551383781589 1061 765 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1551383781639 1083 756 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1551383781689 1103 771 mousemove //*[@id='product-69']/div {"DIV":{"class":"grid-arr"}} {}
+0 1551383781739 1105 824 mousemove //*[@id='product-69-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1551383781789 1088 875 mousemove //*[@id='product-69-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1551383781839 1068 907 mousemove //*[@id='product-69-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1551383781922 1057 920 mousemove //*[@id='product-69-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1551383782042 1057 920 click //*[@id='product-69-grid-img']/a {"A":{"href":"http://userpr.ir/product/remax-proda-e5-5000mah-power-bank/","class":"new-gri"}} {}
+0 1551383782967 0 0 unload / {} {}

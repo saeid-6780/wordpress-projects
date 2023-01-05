@@ -1,0 +1,35 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551450851310 0 0 load / {} {}
+0 1551450853462 0 0 scroll / {} {}
+0 1551450854067 527 20 mousemove /html/body/div[2]/div[1]/div/div[1] {"DIV":{"class":"logo"}} {}
+0 1551450854127 603 69 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1551450854186 626 102 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1551450854187 625 101 mousewheel /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1551450854206 0 0 scroll / {} {}
+0 1551450854226 629 120 mousewheel /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1551450854227 0 0 scroll / {} {}
+0 1551450854246 0 0 scroll / {} {}
+0 1551450854269 629 160 mousewheel /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1551450854269 0 0 scroll / {} {}
+0 1551450854307 0 0 scroll / {} {}
+0 1551450854328 0 0 scroll / {} {}
+0 1551450854347 0 0 scroll / {} {}
+0 1551450854367 0 0 scroll / {} {}
+0 1551450854387 0 0 scroll / {} {}
+0 1551450854408 0 0 scroll / {} {}
+0 1551450854427 0 0 scroll / {} {}
+0 1551450854943 630 417 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1551450855207 630 419 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1551450855250 629 422 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1551450855270 628 429 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1551450855270 0 0 scroll / {} {}
+0 1551450855311 0 0 scroll / {} {}
+0 1551450855331 0 0 scroll / {} {}
+0 1551450855351 0 0 scroll / {} {}
+0 1551450855372 0 0 scroll / {} {}
+0 1551450855392 0 0 scroll / {} {}
+0 1551450855411 0 0 scroll / {} {}
+0 1551450855431 0 0 scroll / {} {}
+0 1551450855492 498 553 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[4] {"DIV":{"class":"star star-3"}} {}
+0 1551450855543 400 503 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.68","data-productid":"146","class":"starbox small  autoupdate"}} {}
+0 1551450858955 0 0 unload / {} {}

@@ -1,0 +1,17 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1555184527227 0 0 load / {} {}
+0 1555184531441 607 604 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184531508 756 325 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577336 289 15 mousemove /html/body/div[2]/div/div[1] {"DIV":{"class":"container"}} {}
+0 1555184577392 435 244 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577453 509 391 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577513 555 482 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577573 569 516 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577633 573 531 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577693 576 541 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577753 606 569 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577813 626 579 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184577873 635 594 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184602551 608 605 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184602602 765 372 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1555184602662 962 50 mousemove /html/body/div[2]/div/div[1]/div[1]/a/span {"SPAN":{}} {}

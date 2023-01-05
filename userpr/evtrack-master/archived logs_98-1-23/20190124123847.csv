@@ -1,0 +1,594 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548320891451 617 369 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891510 638 372 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891625 634 379 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891633 0 0 load / {} {}
+0 1548320891648 633 383 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891649 0 0 scroll / {} {}
+0 1548320891673 632 397 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891673 0 0 scroll / {} {}
+0 1548320891695 632 409 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891695 0 0 scroll / {} {}
+0 1548320891709 632 432 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891710 0 0 scroll / {} {}
+0 1548320891725 0 0 scroll / {} {}
+0 1548320891740 0 0 scroll / {} {}
+0 1548320891757 632 576 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320891757 0 0 scroll / {} {}
+0 1548320891773 0 0 scroll / {} {}
+0 1548320891790 0 0 scroll / {} {}
+0 1548320891807 0 0 scroll / {} {}
+0 1548320891823 0 0 scroll / {} {}
+0 1548320891840 0 0 scroll / {} {}
+0 1548320891857 0 0 scroll / {} {}
+0 1548320891873 0 0 scroll / {} {}
+0 1548320891891 0 0 scroll / {} {}
+0 1548320892007 632 884 mousemove //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548320892024 631 886 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892024 0 0 scroll / {} {}
+0 1548320892040 0 0 scroll / {} {}
+0 1548320892057 631 900 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892057 0 0 scroll / {} {}
+0 1548320892073 631 914 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892073 0 0 scroll / {} {}
+0 1548320892093 631 942 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892093 0 0 scroll / {} {}
+0 1548320892107 0 0 scroll / {} {}
+0 1548320892124 631 1085 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892124 0 0 scroll / {} {}
+0 1548320892141 0 0 scroll / {} {}
+0 1548320892157 0 0 scroll / {} {}
+0 1548320892174 0 0 scroll / {} {}
+0 1548320892190 0 0 scroll / {} {}
+0 1548320892210 0 0 scroll / {} {}
+0 1548320892224 0 0 scroll / {} {}
+0 1548320892401 631 1487 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892401 0 0 scroll / {} {}
+0 1548320892409 0 0 scroll / {} {}
+0 1548320892425 0 0 scroll / {} {}
+0 1548320892442 631 1511 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892442 0 0 scroll / {} {}
+0 1548320892457 631 1527 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892457 0 0 scroll / {} {}
+0 1548320892475 631 1552 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892475 0 0 scroll / {} {}
+0 1548320892491 631 1591 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892492 0 0 scroll / {} {}
+0 1548320892508 0 0 scroll / {} {}
+0 1548320892524 631 1716 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892524 0 0 scroll / {} {}
+0 1548320892541 0 0 scroll / {} {}
+0 1548320892558 0 0 scroll / {} {}
+0 1548320892576 0 0 scroll / {} {}
+0 1548320892592 0 0 scroll / {} {}
+0 1548320892614 0 0 scroll / {} {}
+0 1548320892625 0 0 scroll / {} {}
+0 1548320892646 0 0 scroll / {} {}
+0 1548320892814 630 2087 mousemove //*[@id='product-89'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-89","data-product-id":"89"}} {}
+0 1548320892814 630 2087 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892814 0 0 scroll / {} {}
+0 1548320892825 0 0 scroll / {} {}
+0 1548320892844 630 2100 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892844 0 0 scroll / {} {}
+0 1548320892859 630 2114 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892859 0 0 scroll / {} {}
+0 1548320892878 630 2139 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892879 0 0 scroll / {} {}
+0 1548320892893 630 2184 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320892894 0 0 scroll / {} {}
+0 1548320892926 0 0 scroll / {} {}
+0 1548320892944 0 0 scroll / {} {}
+0 1548320892959 0 0 scroll / {} {}
+0 1548320892975 0 0 scroll / {} {}
+0 1548320892992 0 0 scroll / {} {}
+0 1548320893201 631 2590 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893201 0 0 scroll / {} {}
+0 1548320893209 0 0 scroll / {} {}
+0 1548320893226 631 2602 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893226 0 0 scroll / {} {}
+0 1548320893243 631 2614 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893243 0 0 scroll / {} {}
+0 1548320893277 631 2680 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893277 0 0 scroll / {} {}
+0 1548320893294 0 0 scroll / {} {}
+0 1548320893310 0 0 scroll / {} {}
+0 1548320893327 0 0 scroll / {} {}
+0 1548320893344 0 0 scroll / {} {}
+0 1548320893360 0 0 scroll / {} {}
+0 1548320893378 0 0 scroll / {} {}
+0 1548320893537 631 2954 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893577 631 2954 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893593 631 2954 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893611 631 2954 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893627 631 2954 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320893697 632 2954 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548320893749 644 2956 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548320893812 718 3005 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320893862 718 3023 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320894057 718 3022 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320894120 718 3022 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320894178 667 3049 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320894229 583 3099 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320894280 515 3133 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320894393 498 3138 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320894449 493 3137 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320894513 485 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320894563 479 3125 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320894614 474 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320894684 457 3122 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320894763 449 3121 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320894813 446 3121 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320894865 443 3120 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320895265 441 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320895322 442 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320895388 446 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320895450 454 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320895516 460 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320895672 464 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320895753 465 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320896137 468 3117 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320896283 468 3117 click /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320896285 0 0 scroll / {} {}
+0 1548320896705 469 552 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320896769 480 555 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320896820 490 562 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548320897089 491 562 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548320897153 491 549 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897203 491 528 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897254 477 496 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1548320897321 475 476 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897425 476 474 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897438 0 0 scroll / {} {}
+0 1548320897453 476 481 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897453 0 0 scroll / {} {}
+0 1548320897469 476 492 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897470 0 0 scroll / {} {}
+0 1548320897486 476 518 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897486 0 0 scroll / {} {}
+0 1548320897502 476 574 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897502 0 0 scroll / {} {}
+0 1548320897539 0 0 scroll / {} {}
+0 1548320897554 476 926 mousewheel /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320897554 0 0 scroll / {} {}
+0 1548320897571 0 0 scroll / {} {}
+0 1548320897587 0 0 scroll / {} {}
+0 1548320897605 0 0 scroll / {} {}
+0 1548320897622 0 0 scroll / {} {}
+0 1548320897637 0 0 scroll / {} {}
+0 1548320897687 525 1167 mousemove //*[@id='product-113-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1548320897740 871 1162 mousemove //*[@id='product-109']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548320897805 1353 1162 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320897888 1365 1163 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320897938 1365 1169 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320897988 1365 1179 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320898038 1365 1183 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320898222 0 0 scroll / {} {}
+0 1548320898241 0 0 scroll / {} {}
+0 1548320898255 0 0 scroll / {} {}
+0 1548320898272 0 0 scroll / {} {}
+0 1548320898290 0 0 scroll / {} {}
+0 1548320898311 0 0 scroll / {} {}
+0 1548320898322 0 0 scroll / {} {}
+0 1548320898340 0 0 scroll / {} {}
+0 1548320898355 0 0 scroll / {} {}
+0 1548320898373 0 0 scroll / {} {}
+0 1548320898423 1365 1732 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320898473 1365 1739 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320898574 0 0 scroll / {} {}
+0 1548320898590 0 0 scroll / {} {}
+0 1548320898607 0 0 scroll / {} {}
+0 1548320898624 0 0 scroll / {} {}
+0 1548320898643 0 0 scroll / {} {}
+0 1548320898657 0 0 scroll / {} {}
+0 1548320898674 0 0 scroll / {} {}
+0 1548320898690 0 0 scroll / {} {}
+0 1548320898741 1365 2299 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320898793 1365 2305 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320898823 0 0 scroll / {} {}
+0 1548320898841 0 0 scroll / {} {}
+0 1548320898857 0 0 scroll / {} {}
+0 1548320898875 0 0 scroll / {} {}
+0 1548320898894 0 0 scroll / {} {}
+0 1548320898908 0 0 scroll / {} {}
+0 1548320898924 0 0 scroll / {} {}
+0 1548320898941 0 0 scroll / {} {}
+0 1548320898959 0 0 scroll / {} {}
+0 1548320899024 1365 2881 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320899075 1365 2888 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320899107 0 0 scroll / {} {}
+0 1548320899124 0 0 scroll / {} {}
+0 1548320899158 0 0 scroll / {} {}
+0 1548320899240 1365 2919 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320899409 0 0 scroll / {} {}
+0 1548320899425 0 0 scroll / {} {}
+0 1548320899441 0 0 scroll / {} {}
+0 1548320899458 0 0 scroll / {} {}
+0 1548320899475 0 0 scroll / {} {}
+0 1548320899492 0 0 scroll / {} {}
+0 1548320899508 0 0 scroll / {} {}
+0 1548320899526 0 0 scroll / {} {}
+0 1548320899543 0 0 scroll / {} {}
+0 1548320899593 1365 3131 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320899643 1364 3131 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320899693 1295 3118 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320899743 1117 3089 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320899810 815 3071 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320899867 717 3072 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320899927 699 3078 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320899977 678 3082 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320900043 624 3092 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320900094 566 3106 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320900161 531 3110 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320900211 509 3113 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320900294 504 3113 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320900344 503 3114 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320900395 494 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320900445 490 3120 mousemove /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320900587 490 3120 click /html/body/div[2]/div[4]/div/div[1]/p/a {"A":{"href":"#"}} {}
+0 1548320900588 0 0 scroll / {} {}
+0 1548320900897 491 577 mousemove //*[@id='parentVerticalTab']/form/div {"DIV":{"class":"resp-tabs-container hor_1 product-agileinfon-grid1","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548320900962 569 548 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320901013 890 465 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548320901065 1339 402 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320901121 1365 395 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901180 1365 379 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901246 1365 330 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901297 1365 311 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901347 1365 284 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901397 1365 248 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901447 1365 217 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901498 1365 162 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901564 1365 140 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901649 1365 136 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901714 1365 130 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901765 1365 122 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901816 1365 119 mousemove /html {"HTML":{"lang":"en","class":"gr__userpr_ir"}} {}
+0 1548320901897 0 0 scroll / {} {}
+0 1548320901914 0 0 scroll / {} {}
+0 1548320901932 0 0 scroll / {} {}
+0 1548320901948 0 0 scroll / {} {}
+0 1548320901965 0 0 scroll / {} {}
+0 1548320901981 0 0 scroll / {} {}
+0 1548320901999 0 0 scroll / {} {}
+0 1548320902016 0 0 scroll / {} {}
+0 1548320902032 0 0 scroll / {} {}
+0 1548320902049 0 0 scroll / {} {}
+0 1548320902065 0 0 scroll / {} {}
+0 1548320902082 0 0 scroll / {} {}
+0 1548320902099 0 0 scroll / {} {}
+0 1548320902116 0 0 scroll / {} {}
+0 1548320902132 0 0 scroll / {} {}
+0 1548320902149 0 0 scroll / {} {}
+0 1548320902166 0 0 scroll / {} {}
+0 1548320902182 0 0 scroll / {} {}
+0 1548320902198 0 0 scroll / {} {}
+0 1548320902217 0 0 scroll / {} {}
+0 1548320902232 0 0 scroll / {} {}
+0 1548320902249 0 0 scroll / {} {}
+0 1548320902266 0 0 scroll / {} {}
+0 1548320902283 0 0 scroll / {} {}
+0 1548320902299 0 0 scroll / {} {}
+0 1548320902316 0 0 scroll / {} {}
+0 1548320902333 0 0 scroll / {} {}
+0 1548320902349 0 0 scroll / {} {}
+0 1548320902366 0 0 scroll / {} {}
+0 1548320902383 0 0 scroll / {} {}
+0 1548320902400 0 0 scroll / {} {}
+0 1548320902417 0 0 scroll / {} {}
+0 1548320902436 0 0 scroll / {} {}
+0 1548320902450 0 0 scroll / {} {}
+0 1548320902466 0 0 scroll / {} {}
+0 1548320902483 0 0 scroll / {} {}
+0 1548320902500 0 0 scroll / {} {}
+0 1548320902516 0 0 scroll / {} {}
+0 1548320902533 0 0 scroll / {} {}
+0 1548320902857 1304 3190 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320902918 1110 3184 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320902968 773 3181 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320903018 412 3182 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320903068 302 3180 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320903121 284 3180 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320903184 257 3177 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320903235 197 3171 mousemove /html/body/div[2]/div[4]/div/div[2] {"DIV":{"class":"copy-left"}} {}
+0 1548320903301 173 3165 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903351 170 3160 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903404 166 3151 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903469 165 3147 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903537 163 3138 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903635 162 3131 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903685 162 3130 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903735 187 3125 mousemove /html/body/div[2]/div[4]/div/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/ui.png","alt":""}} {}
+0 1548320903786 326 3108 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320903837 454 3097 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320903887 576 3097 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320903937 652 3097 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320903987 715 3096 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320904037 774 3098 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320904087 819 3107 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320904154 842 3114 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320904204 848 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320904254 861 3121 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320904409 858 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320904505 783 3063 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320904555 856 3062 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1548320904622 1013 3080 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320904688 1106 3099 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320904739 1152 3116 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320904790 1183 3138 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320904841 1211 3151 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320904906 1203 3148 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320905065 1184 3146 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320905122 1184 3133 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548320905173 1201 3112 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320905259 1212 3103 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320905337 1211 3103 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320905424 1207 3102 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320905491 1202 3110 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320905542 1189 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320905672 1187 3125 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320905779 1186 3125 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320905841 1171 3125 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320905892 1154 3125 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320905942 1150 3125 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320905993 1141 3125 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906059 1127 3126 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906109 1117 3126 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906160 1110 3127 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906227 1096 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906297 1082 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906359 1074 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906410 1063 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906460 1056 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906527 1048 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906577 1039 3127 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906627 1033 3127 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906677 1028 3126 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906727 1017 3124 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906777 1004 3122 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906827 994 3121 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906878 985 3120 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906928 972 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320906978 952 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907028 933 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907078 915 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907128 900 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907179 880 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907245 879 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907266 878 3118 click /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907656 879 3118 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907720 880 3117 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907817 882 3117 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907883 873 3120 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320907947 830 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908138 825 3129 click /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908193 826 3129 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908248 849 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908312 911 3128 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908363 948 3126 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908417 969 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908481 988 3120 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908547 997 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908663 996 3119 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908715 975 3120 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908765 951 3120 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908818 923 3121 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908885 887 3121 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908949 857 3122 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320908999 818 3122 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909050 798 3122 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909100 776 3122 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909150 759 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909201 735 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909251 721 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909317 715 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909361 711 3123 click /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909449 709 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909501 697 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909551 687 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909817 683 3124 click /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909874 687 3124 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320909969 690 3124 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910032 693 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910102 700 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910153 719 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910203 732 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910269 774 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910319 807 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910340 819 3123 click /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910404 844 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910454 865 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910520 895 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910592 893 3123 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910654 823 3127 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910720 732 3127 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910770 689 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910820 669 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910850 666 3130 click /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910904 657 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320910954 653 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320911137 652 3130 click /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320911216 651 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320911288 648 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320911442 652 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320911504 657 3130 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1548320911555 645 3106 mousemove /html/body/div[2]/div[4]/div/div[1] {"DIV":{"class":"copy-right"}} {}
+0 1548320911605 625 3055 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320911657 555 2957 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548320911708 532 2933 mousemove //*[@id='product-57']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548320911878 526 2928 mousemove //*[@id='product-57-grid-info']/a {"A":{"onclick":"add_to_basket(this)","data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1548320911945 526 2935 mousemove //*[@id='product-57']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548320912008 552 2989 mousemove //*[@id='parentVerticalTab']/form/div/div[1] {"DIV":{"class":"resp-tab-content-active resp-tab-content hor_1","aria-labelledby":"hor_1_tab_item-0","style":"border-color: rgb(193, 193, 193);"}} {}
+0 1548320912058 566 3015 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320912109 566 3015 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320912125 0 0 scroll / {} {}
+0 1548320912142 566 3003 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320912142 0 0 scroll / {} {}
+0 1548320912158 566 2988 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320912159 0 0 scroll / {} {}
+0 1548320912175 0 0 scroll / {} {}
+0 1548320912191 0 0 scroll / {} {}
+0 1548320912208 566 2884 mousewheel /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548320912208 0 0 scroll / {} {}
+0 1548320912225 0 0 scroll / {} {}
+0 1548320912241 0 0 scroll / {} {}
+0 1548320912258 0 0 scroll / {} {}
+0 1548320912275 0 0 scroll / {} {}
+0 1548320912291 0 0 scroll / {} {}
+0 1548320912307 0 0 scroll / {} {}
+0 1548320912324 0 0 scroll / {} {}
+0 1548320912344 0 0 scroll / {} {}
+0 1548320912359 0 0 scroll / {} {}
+0 1548320912426 564 2620 mousemove //*[@id='product-57-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548320912476 558 2619 mousemove //*[@id='product-57-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548320912559 549 2615 mousemove //*[@id='product-57-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548320912610 538 2598 mousemove //*[@id='product-57-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548320912777 534 2593 mousemove //*[@id='product-57-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548320912943 533 2592 mousemove //*[@id='product-57-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548320912993 533 2591 mousemove //*[@id='product-57-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548320913045 534 2591 mousemove //*[@id='product-57-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548320913409 535 2591 mousewheel //*[@id='product-57-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548320913411 0 0 scroll / {} {}
+0 1548320913427 535 2597 mousewheel //*[@id='product-57-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548320913427 0 0 scroll / {} {}
+0 1548320913444 0 0 scroll / {} {}
+0 1548320913460 535 2621 mousewheel //*[@id='product-57-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Apple-iPhone-8-Plus-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548320913460 0 0 scroll / {} {}
+0 1548320913477 0 0 scroll / {} {}
+0 1548320913494 0 0 scroll / {} {}
+0 1548320913512 0 0 scroll / {} {}
+0 1548320913527 0 0 scroll / {} {}
+0 1548320913549 0 0 scroll / {} {}
+0 1548320913561 0 0 scroll / {} {}
+0 1548320913580 0 0 scroll / {} {}
+0 1548320913595 0 0 scroll / {} {}
+0 1548320913612 0 0 scroll / {} {}
+0 1548320913777 535 2889 mousemove //*[@id='product-57-grid-info'] {"DIV":{"id":"product-57-grid-info","class":"women"}} {}
+0 1548320913829 533 2863 mousemove //*[@id='product-57-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1548320913883 522 2818 mousemove //*[@id='product-57-grid-info'] {"DIV":{"id":"product-57-grid-info","class":"women"}} {}
+0 1548320913947 513 2803 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320914113 522 2806 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320914163 528 2808 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320914214 501 2798 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320914280 367 2777 mousemove //*[@id='product-81'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-81","data-product-id":"81"}} {}
+0 1548320914330 358 2775 mousemove //*[@id='product-81']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548320914446 356 2775 mousemove //*[@id='product-81-grid-info']/h6 {"H6":{}} {}
+0 1548320914496 336 2770 mousemove //*[@id='product-81-grid-info']/h6 {"H6":{}} {}
+0 1548320914546 294 2765 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320914597 253 2765 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320914776 224 2766 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320914830 222 2766 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320914960 222 2766 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915014 243 2766 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915064 289 2769 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915114 318 2775 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915209 318 2776 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915265 302 2777 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915331 260 2777 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915386 231 2777 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915465 212 2778 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915515 204 2783 mousemove //*[@id='product-81-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-64gb-mobile-phone/"}} {}
+0 1548320915565 201 2799 mousemove //*[@id='product-81-grid-info']/h6 {"H6":{}} {}
+0 1548320915618 202 2821 mousemove //*[@id='product-81-grid-info']/div {"DIV":{"class":"progress"}} {}
+0 1548320915682 222 2857 mousemove //*[@id='product-81-grid-info'] {"DIV":{"id":"product-81-grid-info","class":"women"}} {}
+0 1548320915832 227 2864 mousemove //*[@id='product-81-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1548320915888 229 2864 mousemove //*[@id='product-81-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1548320915950 233 2864 mousemove //*[@id='product-81-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1548320916015 277 2861 mousemove //*[@id='product-81-grid-info']/p/em {"EM":{"class":"item_price"}} {}
+0 1548320916066 393 2845 mousemove //*[@id='product-57']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548320916116 487 2838 mousemove //*[@id='product-57-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1548320916167 513 2832 mousemove //*[@id='product-57-grid-info']/div/div/p {"P":{"class":"prog-text text-shadow"}} {}
+0 1548320916234 521 2810 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916300 536 2780 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916350 546 2757 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916400 548 2745 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916450 544 2738 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916500 509 2736 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916560 473 2736 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916617 471 2736 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916667 492 2743 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916717 567 2753 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916767 581 2755 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916834 582 2758 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916887 563 2766 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320916950 506 2770 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917001 485 2770 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917067 462 2770 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917117 453 2770 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917167 441 2771 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917280 436 2772 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917334 480 2772 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917385 551 2772 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917443 574 2772 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917501 589 2775 mousemove //*[@id='product-57-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-8-plus-64gb-mobile-phone/"}} {}
+0 1548320917552 604 2776 mousemove //*[@id='product-57-grid-info']/h6 {"H6":{}} {}
+0 1548320917602 644 2780 mousemove //*[@id='product-9'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-9","data-product-id":"9"}} {}
+0 1548320917652 687 2780 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320917702 726 2780 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320917752 766 2780 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320917802 791 2780 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918065 795 2779 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918136 800 2772 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918187 797 2764 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918253 723 2757 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918303 691 2757 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918354 676 2761 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918416 673 2764 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918470 699 2765 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918520 786 2765 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918571 806 2765 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918634 807 2767 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918687 792 2769 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918835 793 2768 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918888 793 2766 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320918940 774 2764 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919005 735 2764 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919071 705 2764 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919122 700 2766 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919216 698 2770 mousemove //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919368 698 2771 mousewheel //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919371 0 0 scroll / {} {}
+0 1548320919388 0 0 scroll / {} {}
+0 1548320919411 698 2756 mousewheel //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919411 0 0 scroll / {} {}
+0 1548320919426 0 0 scroll / {} {}
+0 1548320919442 698 2727 mousewheel //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919443 0 0 scroll / {} {}
+0 1548320919460 0 0 scroll / {} {}
+0 1548320919475 0 0 scroll / {} {}
+0 1548320919492 698 2642 mousewheel //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919494 0 0 scroll / {} {}
+0 1548320919510 0 0 scroll / {} {}
+0 1548320919527 698 2557 mousewheel //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919527 0 0 scroll / {} {}
+0 1548320919544 0 0 scroll / {} {}
+0 1548320919560 0 0 scroll / {} {}
+0 1548320919576 0 0 scroll / {} {}
+0 1548320919593 0 0 scroll / {} {}
+0 1548320919610 0 0 scroll / {} {}
+0 1548320919627 0 0 scroll / {} {}
+0 1548320919644 698 2286 mousewheel //*[@id='product-9-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/samsung-galaxy-a5-2017-mobile/"}} {}
+0 1548320919644 0 0 scroll / {} {}
+0 1548320919661 0 0 scroll / {} {}
+0 1548320919676 0 0 scroll / {} {}
+0 1548320919694 0 0 scroll / {} {}
+0 1548320919710 0 0 scroll / {} {}
+0 1548320919727 0 0 scroll / {} {}
+0 1548320919743 0 0 scroll / {} {}
+0 1548320919760 0 0 scroll / {} {}
+0 1548320919778 0 0 scroll / {} {}
+0 1548320919794 0 0 scroll / {} {}
+0 1548320919811 0 0 scroll / {} {}
+0 1548320919827 0 0 scroll / {} {}
+0 1548320920212 698 2178 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920262 728 2181 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920312 782 2199 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920362 772 2201 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920584 763 2202 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920648 759 2202 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920712 723 2202 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920763 698 2202 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920832 697 2202 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920896 724 2205 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920946 776 2214 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320920996 790 2218 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}
+0 1548320921064 790 2220 mousemove //*[@id='product-85-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/apple-iphone-x-256gb-mobile-phone/"}} {}

@@ -1,0 +1,758 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548320213923 0 0 load / {} {}
+0 1548320216396 1259 1 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548320216687 1341 27 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320216737 1365 67 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320216787 1365 94 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320216852 1365 119 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320217619 1362 122 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320217669 1272 127 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320217720 1023 149 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548320217786 948 159 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548320217852 934 161 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1548320217904 930 185 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h2 {"H2":{"class":"hustle-modal-subtitle"}} {}
+0 1548320217970 931 213 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218037 957 238 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218184 958 239 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218236 929 239 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218286 901 240 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218336 874 243 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218386 853 245 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218436 833 247 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218486 805 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218836 801 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320218887 778 253 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1]/span[2] {"SPAN":{"class":"red-text"}} {}
+0 1548320218952 747 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1]/span[2] {"SPAN":{"class":"red-text"}} {}
+0 1548320219003 736 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219054 718 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219104 705 248 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219170 668 245 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219220 656 245 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219286 623 244 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219336 615 244 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219664 609 247 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219720 587 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219770 550 252 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219820 531 252 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219886 514 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320219936 502 249 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220002 485 248 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220053 472 248 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220103 452 248 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220153 426 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220203 405 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220300 400 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220353 478 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220403 684 256 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320220453 894 264 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320220520 1012 282 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320220570 1020 282 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320220620 1021 282 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320220672 1024 282 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320220724 1021 277 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320220786 1021 266 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320220891 1019 263 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320220953 1002 259 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1]/span[1] {"SPAN":{"class":"red-text"}} {}
+0 1548320221020 974 249 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221071 960 243 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221136 946 240 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221186 939 240 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221253 930 243 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221319 914 247 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221370 901 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221437 888 253 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221487 883 256 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221537 875 259 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221602 870 261 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320221653 865 262 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320221720 856 265 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320221770 850 265 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320221853 845 265 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320222106 844 265 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320222170 838 266 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320222221 815 266 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320222287 790 262 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320222352 767 258 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1]/span[2] {"SPAN":{"class":"red-text"}} {}
+0 1548320222402 750 256 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1]/span[2] {"SPAN":{"class":"red-text"}} {}
+0 1548320222452 727 253 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320222503 708 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320222599 668 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320222654 654 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320222948 651 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320223002 632 255 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320223053 592 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320223119 534 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320223169 507 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320223227 506 249 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1548320223286 612 270 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320223336 816 319 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320223387 956 357 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320223437 988 358 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320223510 997 359 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320223569 991 349 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320223619 1003 336 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320223670 1006 329 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320223753 1005 326 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320223803 986 324 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320223853 971 321 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320223904 948 313 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320223969 931 308 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224019 923 306 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224070 911 304 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224137 881 304 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224203 865 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224270 841 310 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224335 808 310 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224386 789 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224672 783 309 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224736 768 317 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224787 729 316 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224853 704 312 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224903 685 310 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320224953 674 309 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225019 652 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225070 632 305 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225136 597 304 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225186 583 303 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225252 560 302 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225302 541 300 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225354 517 300 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225420 484 301 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225470 460 306 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225792 458 306 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225853 435 306 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225903 422 303 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320225954 411 302 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226004 397 302 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226070 390 302 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226136 383 301 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226317 383 301 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226370 427 303 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226437 576 308 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226503 768 317 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320226554 887 329 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320226619 931 333 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320226670 942 335 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320226736 944 336 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320226828 944 337 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320226886 923 345 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320226936 888 347 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320226987 849 337 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320227053 786 337 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320227104 735 336 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320227171 618 333 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320227237 505 325 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320227304 465 314 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320227371 458 308 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320227436 424 305 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320227487 386 303 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1548320227554 349 298 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320227653 340 297 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320227704 336 297 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320227855 333 296 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320229837 324 380 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320229893 325 378 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320229952 329 374 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320230004 363 368 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320230070 605 298 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320230120 683 278 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320230172 719 276 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320230236 736 274 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320230286 742 272 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320230338 745 270 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320230403 765 262 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320230453 789 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320230504 828 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320230567 838 253 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320230621 835 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320230688 792 255 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320230738 743 253 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320230803 719 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231140 709 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231204 684 251 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231270 661 246 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231320 641 243 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231370 611 240 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231420 579 238 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231486 554 236 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231538 542 236 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231604 522 237 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231658 502 237 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231720 483 237 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231770 468 239 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231820 453 241 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231870 434 244 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231920 418 246 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320231986 399 246 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232036 379 247 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232087 371 246 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232137 369 245 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232188 386 245 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232254 489 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232319 738 250 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232370 907 254 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232437 988 258 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232487 1023 263 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[3] {"P":{}} {}
+0 1548320232537 1031 264 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320232587 1037 264 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320232704 1037 266 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320232754 991 268 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320232805 934 268 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320232870 891 268 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320232921 878 269 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320232985 878 270 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320233036 934 281 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320233086 990 302 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320233136 1038 316 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320233187 1055 318 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320233306 1056 319 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320233369 1033 320 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320233419 1009 318 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320233471 979 317 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320233536 948 314 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320233586 936 314 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320233637 913 314 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320233687 905 314 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235024 892 309 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235087 882 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235138 858 301 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320235203 840 303 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235254 820 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235320 779 308 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235370 744 310 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235421 706 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235764 705 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235822 690 310 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235887 670 310 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235937 653 309 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320235987 633 305 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320236054 621 302 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320236105 611 301 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320236169 597 301 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320236221 590 301 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4]/span {"SPAN":{"class":"red-text"}} {}
+0 1548320236287 578 302 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320236353 565 304 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320236403 545 304 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320236454 516 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320236521 481 311 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320237676 480 311 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320237736 452 319 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320237787 401 328 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320237837 371 327 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320237904 357 325 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320237971 351 325 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320238021 346 324 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320238091 344 323 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320238155 341 323 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320238221 339 323 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320238283 338 323 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320238336 333 323 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320238437 332 324 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320239288 326 383 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320239355 327 380 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320239427 331 378 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320239487 383 380 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320239554 697 377 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320239620 935 381 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320239670 1000 383 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240118 999 382 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240171 995 369 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240237 989 363 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240287 988 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240337 984 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240450 981 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240514 976 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240571 968 362 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240637 948 362 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240687 936 363 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240737 928 364 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320240787 911 363 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241182 901 363 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241237 893 365 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241304 871 364 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241354 859 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241404 843 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241454 819 360 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241504 798 359 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241556 771 359 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241620 731 359 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320241670 706 359 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242079 695 359 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242137 689 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242188 673 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242253 644 360 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242304 619 360 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242354 597 360 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242404 571 361 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320242454 553 358 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320295308 325 432 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320296965 324 433 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320297037 323 433 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320297140 321 431 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320297205 321 429 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320297717 321 427 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320297973 321 425 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320298024 331 415 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320298074 335 410 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320298645 335 409 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320298813 337 407 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320298873 341 403 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320298923 349 394 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320298973 361 394 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320302117 363 394 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320302174 371 394 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320302240 428 366 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320302291 510 299 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320302342 615 212 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320302407 623 217 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320302457 668 292 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320302507 770 394 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320302557 848 450 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320302837 862 448 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320302909 873 456 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320302974 864 499 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320303073 856 526 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320303124 850 527 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320303191 807 510 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320303256 793 504 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320303306 784 502 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320303356 759 498 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320303407 744 498 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320303458 723 504 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320303509 685 518 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320303892 455 529 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320303958 425 516 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320304023 421 489 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304074 438 470 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304124 452 465 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304191 475 464 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304258 497 480 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304324 504 487 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304374 504 489 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304460 504 495 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304877 504 497 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320304949 503 498 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320305076 502 498 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320305149 501 498 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320306988 501 500 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320307205 502 500 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320307260 508 500 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320307323 511 495 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320308005 511 497 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320308057 505 500 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320308221 503 500 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320308407 503 501 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320308533 504 503 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320309429 504 512 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320309493 504 509 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320309669 504 502 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320309876 504 508 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320309988 506 509 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320310068 511 514 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320310349 512 514 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320310429 511 518 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320310548 510 519 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320310613 509 519 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320310725 508 520 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320310797 507 522 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320311085 505 519 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320311548 502 514 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320311773 498 509 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320311824 498 508 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320312700 499 506 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320312757 535 491 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320312809 561 462 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320312874 1056 427 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320312924 1224 463 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320312991 1354 579 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320313044 1361 582 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320313108 1323 578 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320313174 1199 594 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320313224 1146 580 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320313274 1076 546 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320313324 1064 527 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320313374 1029 510 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320313440 1019 500 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320313491 1007 502 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320314293 994 473 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320314580 993 473 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320314641 980 494 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320314692 949 540 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320314757 943 533 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320314828 941 527 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320314890 938 525 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320314943 893 513 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320315021 842 503 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320315074 827 512 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320315124 811 517 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320315221 811 516 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320315275 827 506 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320315349 858 492 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320315407 907 492 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320315469 920 492 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320315523 711 486 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320315575 275 435 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320315641 145 430 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320315708 99 409 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320315774 104 394 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320315824 220 393 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320315875 287 383 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320315925 293 380 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320315979 297 379 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320316041 316 377 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320316091 344 367 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320316142 348 367 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320316203 354 370 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320316259 352 373 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320316349 352 374 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320316413 351 376 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320316474 344 397 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320316524 329 407 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320316574 328 410 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320316624 311 420 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320316684 309 421 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320316741 293 421 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320316869 284 421 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320317412 283 454 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320317476 283 453 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320317542 359 421 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320317608 762 437 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320317658 898 466 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320317708 897 468 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320317758 889 464 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320317900 888 464 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320317957 868 434 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320318007 844 409 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320318057 810 333 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320318108 799 306 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320318158 798 305 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320318224 794 300 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320318275 788 300 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320318508 787 306 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320318868 787 307 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320319252 787 309 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320319309 798 333 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320320180 799 336 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320320308 799 337 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320320452 799 338 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320323220 799 340 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320323276 799 341 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320325053 799 343 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320325108 896 368 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320325158 949 372 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320325225 955 369 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320325276 966 338 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320325341 990 382 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320325392 1015 442 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320325442 1021 457 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320325492 1016 463 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325543 991 475 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325609 959 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325659 934 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325724 910 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325774 896 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325824 885 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325876 866 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325926 849 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320325992 826 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320326042 815 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320326093 803 482 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320326158 798 485 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320326209 756 504 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320326548 738 503 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320326642 716 525 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320326692 704 520 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320326758 686 517 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320326808 664 517 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320326859 654 516 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320326925 632 513 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320326975 613 508 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327025 590 503 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327075 577 499 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327142 561 494 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327192 552 494 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327258 532 494 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327308 519 493 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327359 507 492 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327425 493 491 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327476 483 489 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327543 468 484 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327608 450 480 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327658 443 480 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327709 434 480 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327775 423 480 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327825 403 484 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327876 389 486 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320327942 380 488 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320328012 379 490 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320328076 526 506 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320328142 793 506 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320328192 936 511 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320328259 1039 516 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320328325 1064 522 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320328741 1068 523 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320328792 1030 536 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320328842 1021 537 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320328892 996 538 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320328959 972 532 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320329025 937 518 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329092 934 516 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329142 933 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329309 932 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329374 920 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329424 911 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329474 903 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329524 897 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329575 890 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329642 885 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329692 876 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329757 869 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329812 863 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329875 859 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329932 851 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320329993 841 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330043 828 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330108 812 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330158 805 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330209 797 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330259 790 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330316 783 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330376 771 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330426 765 515 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330492 751 513 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330542 741 513 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330592 732 513 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330658 711 513 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330724 697 513 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330774 680 511 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320330825 665 508 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320330877 641 504 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320330941 603 497 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320330992 569 486 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320331042 518 467 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[8] {"P":{}} {}
+0 1548320331092 451 429 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320331142 388 364 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320331209 333 277 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320331259 309 220 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320331343 254 117 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320331393 252 91 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320331491 251 83 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320331542 259 78 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320331592 294 96 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548320331642 301 110 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320331692 301 124 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320331743 300 129 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320331813 297 133 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320331964 295 133 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320331992 292 133 mousewheel /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320332020 289 134 mousewheel /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320332126 285 137 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320332177 264 152 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332243 190 197 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332309 159 225 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332453 147 238 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332454 147 238 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332494 147 239 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332621 148 239 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332676 186 234 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332726 220 231 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332788 231 228 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320332860 231 227 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333164 232 227 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333172 232 227 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333501 233 227 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333558 245 237 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333609 330 323 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320333726 588 512 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320333776 725 491 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[7] {"P":{}} {}
+0 1548320333827 1006 414 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320333910 1109 362 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333910 1109 362 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333924 1109 362 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333948 1110 362 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320333965 1107 362 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334026 1099 361 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334084 1096 358 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334148 1096 350 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334293 1096 349 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334316 1096 349 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334376 1102 355 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334443 1125 326 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334493 1125 314 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320334543 937 303 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320334594 865 303 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1548320334661 768 323 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320334661 768 323 mousewheel /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320334693 732 360 mousewheel /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320334711 721 369 mousewheel /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320334717 714 373 mousewheel /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320334725 712 374 mousewheel /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320334777 689 369 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div {"DIV":{"class":"hustle-modal-message"}} {}
+0 1548320334842 642 368 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320334943 643 368 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[6] {"P":{}} {}
+0 1548320335009 937 296 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1548320335060 1316 177 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335116 1326 174 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335164 1328 174 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335172 1328 174 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335188 1328 174 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335220 1328 174 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335260 1328 174 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335325 1243 195 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335360 1157 218 mousewheel /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335435 1102 247 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335493 1104 257 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335558 1110 274 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335609 1108 295 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335676 1108 298 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335861 1111 298 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335863 1111 298 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335925 1120 247 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320335977 1120 184 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320336027 1092 136 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320336116 1069 122 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320336175 1065 112 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1548320336226 1065 100 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548320336276 1071 91 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1548320336381 1075 85 mousemove /html/body/div[3]/div[2]/div[1]/svg/path {"path":{"d":"M91.667 75L150 16.667 133.333 0 75 58.333 16.667 0 0 16.667 58.333 75 0 133.333 16.667 150 75 91.667 133.333 150 150 133.333 91.667 75z","fill-rule":"evenodd"}} {}
+0 1548320336710 1075 88 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320336760 1077 108 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320336810 1080 120 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320336876 1081 130 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320336926 1082 154 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320336977 1083 170 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320337027 1083 174 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320337176 1083 179 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320337227 1087 184 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320337277 1127 185 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320337327 1210 183 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320337377 1290 178 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1548320337428 1365 176 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1548320337493 1365 136 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1548320337594 1365 127 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1548320337644 1365 124 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1548320337709 1362 124 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1548320337760 1334 136 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320337973 1332 137 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548320338025 1362 137 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1548320338236 0 0 scroll / {} {}
+0 1548320338244 0 0 scroll / {} {}
+0 1548320338259 0 0 scroll / {} {}
+0 1548320338275 0 0 scroll / {} {}
+0 1548320338292 0 0 scroll / {} {}
+0 1548320338310 0 0 scroll / {} {}
+0 1548320338326 0 0 scroll / {} {}
+0 1548320338342 0 0 scroll / {} {}
+0 1548320338360 0 0 scroll / {} {}
+0 1548320338377 0 0 scroll / {} {}
+0 1548320338393 0 0 scroll / {} {}
+0 1548320338409 0 0 scroll / {} {}
+0 1548320338427 0 0 scroll / {} {}
+0 1548320338444 0 0 scroll / {} {}
+0 1548320338460 0 0 scroll / {} {}
+0 1548320338716 0 0 scroll / {} {}
+0 1548320338743 0 0 scroll / {} {}
+0 1548320338759 0 0 scroll / {} {}
+0 1548320338776 0 0 scroll / {} {}
+0 1548320338828 0 0 scroll / {} {}
+0 1548320338860 0 0 scroll / {} {}
+0 1548320338876 0 0 scroll / {} {}
+0 1548320338892 0 0 scroll / {} {}
+0 1548320338988 0 0 scroll / {} {}
+0 1548320339011 0 0 scroll / {} {}
+0 1548320339025 0 0 scroll / {} {}
+0 1548320339043 0 0 scroll / {} {}
+0 1548320339060 0 0 scroll / {} {}
+0 1548320339076 0 0 scroll / {} {}
+0 1548320339092 0 0 scroll / {} {}
+0 1548320339110 0 0 scroll / {} {}
+0 1548320339126 0 0 scroll / {} {}
+0 1548320339160 0 0 scroll / {} {}
+0 1548320339176 0 0 scroll / {} {}
+0 1548320339192 0 0 scroll / {} {}
+0 1548320339210 0 0 scroll / {} {}
+0 1548320339226 0 0 scroll / {} {}
+0 1548320339243 0 0 scroll / {} {}
+0 1548320339259 0 0 scroll / {} {}
+0 1548320339299 0 0 scroll / {} {}
+0 1548320339308 0 0 scroll / {} {}
+0 1548320339342 0 0 scroll / {} {}
+0 1548320339375 0 0 scroll / {} {}
+0 1548320339410 0 0 scroll / {} {}
+0 1548320339442 0 0 scroll / {} {}
+0 1548320339459 0 0 scroll / {} {}
+0 1548320339476 0 0 scroll / {} {}
+0 1548320339493 0 0 scroll / {} {}
+0 1548320339510 0 0 scroll / {} {}
+0 1548320339526 0 0 scroll / {} {}
+0 1548320339543 0 0 scroll / {} {}
+0 1548320339559 0 0 scroll / {} {}
+0 1548320339577 0 0 scroll / {} {}
+0 1548320339594 0 0 scroll / {} {}
+0 1548320339610 0 0 scroll / {} {}
+0 1548320339626 0 0 scroll / {} {}
+0 1548320339643 0 0 scroll / {} {}
+0 1548320339676 0 0 scroll / {} {}
+0 1548320339764 0 0 scroll / {} {}
+0 1548320340012 0 0 scroll / {} {}
+0 1548320340027 0 0 scroll / {} {}
+0 1548320340043 0 0 scroll / {} {}
+0 1548320340060 0 0 scroll / {} {}
+0 1548320340075 0 0 scroll / {} {}
+0 1548320340093 0 0 scroll / {} {}
+0 1548320340109 0 0 scroll / {} {}
+0 1548320340127 0 0 scroll / {} {}
+0 1548320340143 0 0 scroll / {} {}
+0 1548320340160 0 0 scroll / {} {}
+0 1548320340178 0 0 scroll / {} {}
+0 1548320340252 0 0 scroll / {} {}
+0 1548320340260 0 0 scroll / {} {}
+0 1548320340276 0 0 scroll / {} {}
+0 1548320340293 0 0 scroll / {} {}
+0 1548320340309 0 0 scroll / {} {}
+0 1548320340326 0 0 scroll / {} {}
+0 1548320340359 0 0 scroll / {} {}
+0 1548320340392 0 0 scroll / {} {}
+0 1548320340409 0 0 scroll / {} {}
+0 1548320340426 0 0 scroll / {} {}
+0 1548320340443 0 0 scroll / {} {}
+0 1548320340619 0 0 scroll / {} {}
+0 1548320340642 0 0 scroll / {} {}
+0 1548320340684 0 0 scroll / {} {}
+0 1548320340932 0 0 scroll / {} {}
+0 1548320340959 0 0 scroll / {} {}
+0 1548320340976 0 0 scroll / {} {}
+0 1548320341010 0 0 scroll / {} {}
+0 1548320341042 0 0 scroll / {} {}
+0 1548320341156 0 0 scroll / {} {}
+0 1548320341180 0 0 scroll / {} {}
+0 1548320341276 0 0 scroll / {} {}
+0 1548320341292 0 0 scroll / {} {}
+0 1548320341310 0 0 scroll / {} {}
+0 1548320341326 0 0 scroll / {} {}
+0 1548320341343 0 0 scroll / {} {}
+0 1548320341380 0 0 scroll / {} {}
+0 1548320341393 0 0 scroll / {} {}
+0 1548320341564 1360 1129 mousemove /html {"HTML":{"lang":"en","class":""}} {}
+0 1548320341629 1333 1139 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1548320341694 1219 1143 mousemove //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1548320341779 690 1234 mousemove //*[@id='select-cat']/div/div[4]/a {"A":{"href":"http://userpr.ir/product_category/handsfree/"}} {}
+0 1548320341845 480 1254 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1548320341911 420 1248 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1548320341961 392 1233 mousemove //*[@id='select-cat']/div/div[3]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/phone-pouch-cover.png"}} {}
+0 1548320342029 323 1188 mousemove //*[@id='select-cat']/div/div[3]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/phone-pouch-cover.png"}} {}
+0 1548320342094 303 1114 mousemove //*[@id='select-cat']/div/div[3]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/phone-pouch-cover.png"}} {}
+0 1548320342144 306 1091 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320342195 313 1076 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320342261 363 1045 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320342328 367 1045 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320342378 404 1059 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320342646 416 1066 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320342732 416 1066 click //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320343013 416 1067 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320343076 376 1067 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320343126 310 1055 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1548320343177 204 1043 mousemove //*[@id='select-cat']/div/div[3]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/phone-pouch-cover.png"}} {}
+0 1548320343228 84 1042 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1548320343278 15 1042 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1548320344548 0 0 unload / {} {}

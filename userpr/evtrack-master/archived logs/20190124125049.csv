@@ -1,0 +1,181 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548321621090 0 0 load / {} {}
+0 1548321667010 0 0 scroll / {} {}
+0 1548321667213 211 615 mousemove //*[@id='select-item-header'] {"SPAN":{"id":"select-item-header","class":"active total","style":"display:block;"}} {}
+0 1548321667266 405 529 mousemove /html/body/div[2]/div[3]/div {"DIV":{"class":"container"}} {}
+0 1548321667317 591 438 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667367 712 381 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667417 835 329 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667467 870 309 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667550 873 306 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548321667600 876 305 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548321667692 877 305 mousemove //*[@id='main-banner']/div {"DIV":{"class":"container"}} {}
+0 1548321667756 874 309 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667908 873 309 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667936 873 313 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667948 873 314 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667963 873 316 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667969 0 0 scroll / {} {}
+0 1548321667979 873 322 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321667985 0 0 scroll / {} {}
+0 1548321668000 0 0 scroll / {} {}
+0 1548321668003 873 373 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321668017 0 0 scroll / {} {}
+0 1548321668036 873 428 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321668036 0 0 scroll / {} {}
+0 1548321668051 0 0 scroll / {} {}
+0 1548321668068 0 0 scroll / {} {}
+0 1548321668084 0 0 scroll / {} {}
+0 1548321668101 0 0 scroll / {} {}
+0 1548321668118 0 0 scroll / {} {}
+0 1548321668134 0 0 scroll / {} {}
+0 1548321668152 0 0 scroll / {} {}
+0 1548321668168 0 0 scroll / {} {}
+0 1548321668300 873 916 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321668315 873 916 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321668319 0 0 scroll / {} {}
+0 1548321668331 873 918 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321668336 0 0 scroll / {} {}
+0 1548321668352 0 0 scroll / {} {}
+0 1548321668369 0 0 scroll / {} {}
+0 1548321668380 873 971 mousewheel //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548321668386 0 0 scroll / {} {}
+0 1548321668402 0 0 scroll / {} {}
+0 1548321668422 0 0 scroll / {} {}
+0 1548321668435 0 0 scroll / {} {}
+0 1548321668453 0 0 scroll / {} {}
+0 1548321668469 0 0 scroll / {} {}
+0 1548321668486 0 0 scroll / {} {}
+0 1548321668503 0 0 scroll / {} {}
+0 1548321668520 0 0 scroll / {} {}
+0 1548321668536 0 0 scroll / {} {}
+0 1548321668956 872 1318 mousemove //*[@id='home3'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home3","aria-labelledby":"home-tab"}} {}
+0 1548321669021 858 1327 mousemove //*[@id='home3'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home3","aria-labelledby":"home-tab"}} {}
+0 1548321669072 847 1337 mousemove //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321669122 840 1348 mousemove //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321669139 840 1348 mousewheel //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321669171 0 0 scroll / {} {}
+0 1548321669189 0 0 scroll / {} {}
+0 1548321669204 0 0 scroll / {} {}
+0 1548321669220 0 0 scroll / {} {}
+0 1548321669238 0 0 scroll / {} {}
+0 1548321669254 0 0 scroll / {} {}
+0 1548321669272 0 0 scroll / {} {}
+0 1548321669289 0 0 scroll / {} {}
+0 1548321669307 0 0 scroll / {} {}
+0 1548321669322 0 0 scroll / {} {}
+0 1548321669339 0 0 scroll / {} {}
+0 1548321669356 0 0 scroll / {} {}
+0 1548321669428 838 1444 mousewheel //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321669455 0 0 scroll / {} {}
+0 1548321669467 838 1447 mousewheel //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321669472 0 0 scroll / {} {}
+0 1548321669483 838 1453 mousewheel //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321669488 0 0 scroll / {} {}
+0 1548321669505 0 0 scroll / {} {}
+0 1548321669515 838 1482 mousewheel //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321669522 0 0 scroll / {} {}
+0 1548321669538 0 0 scroll / {} {}
+0 1548321669555 0 0 scroll / {} {}
+0 1548321669572 0 0 scroll / {} {}
+0 1548321669589 0 0 scroll / {} {}
+0 1548321669604 0 0 scroll / {} {}
+0 1548321669622 0 0 scroll / {} {}
+0 1548321669639 0 0 scroll / {} {}
+0 1548321669655 0 0 scroll / {} {}
+0 1548321669807 838 1843 mousemove //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321669857 833 1834 mousemove //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321669907 817 1814 mousemove //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321669957 805 1801 mousemove //*[@id='product-53-grid-info']/p {"P":{}} {}
+0 1548321670008 791 1785 mousemove //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321670074 783 1780 mousemove //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321670124 780 1779 mousemove //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321670425 779 1779 mousewheel //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321670451 779 1779 mousewheel //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321670457 0 0 scroll / {} {}
+0 1548321670476 0 0 scroll / {} {}
+0 1548321670491 0 0 scroll / {} {}
+0 1548321670507 777 1751 mousewheel //*[@id='product-53-grid-info'] {"DIV":{"id":"product-53-grid-info","class":"women"}} {}
+0 1548321670508 0 0 scroll / {} {}
+0 1548321670523 0 0 scroll / {} {}
+0 1548321670541 0 0 scroll / {} {}
+0 1548321670558 0 0 scroll / {} {}
+0 1548321670573 0 0 scroll / {} {}
+0 1548321670591 0 0 scroll / {} {}
+0 1548321670608 0 0 scroll / {} {}
+0 1548321670624 0 0 scroll / {} {}
+0 1548321670641 0 0 scroll / {} {}
+0 1548321670658 0 0 scroll / {} {}
+0 1548321670675 0 0 scroll / {} {}
+0 1548321670976 776 1481 mousemove //*[@id='product-53-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671026 776 1484 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671036 775 1486 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671042 0 0 scroll / {} {}
+0 1548321671060 0 0 scroll / {} {}
+0 1548321671068 775 1496 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671075 0 0 scroll / {} {}
+0 1548321671092 0 0 scroll / {} {}
+0 1548321671109 0 0 scroll / {} {}
+0 1548321671126 0 0 scroll / {} {}
+0 1548321671142 0 0 scroll / {} {}
+0 1548321671147 775 1657 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671158 0 0 scroll / {} {}
+0 1548321671176 0 0 scroll / {} {}
+0 1548321671192 0 0 scroll / {} {}
+0 1548321671209 0 0 scroll / {} {}
+0 1548321671226 0 0 scroll / {} {}
+0 1548321671243 0 0 scroll / {} {}
+0 1548321671258 0 0 scroll / {} {}
+0 1548321671276 0 0 scroll / {} {}
+0 1548321671293 0 0 scroll / {} {}
+0 1548321671309 0 0 scroll / {} {}
+0 1548321671326 0 0 scroll / {} {}
+0 1548321671413 774 1889 mousemove //*[@id='home3'] {"DIV":{"role":"tabpanel","class":"tab-pane fade in active","id":"home3","aria-labelledby":"home-tab"}} {}
+0 1548321671416 774 1889 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671443 0 0 scroll / {} {}
+0 1548321671451 773 1893 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671460 0 0 scroll / {} {}
+0 1548321671479 0 0 scroll / {} {}
+0 1548321671493 0 0 scroll / {} {}
+0 1548321671510 0 0 scroll / {} {}
+0 1548321671527 0 0 scroll / {} {}
+0 1548321671543 0 0 scroll / {} {}
+0 1548321671560 0 0 scroll / {} {}
+0 1548321671577 0 0 scroll / {} {}
+0 1548321671593 0 0 scroll / {} {}
+0 1548321671610 0 0 scroll / {} {}
+0 1548321671627 0 0 scroll / {} {}
+0 1548321671643 0 0 scroll / {} {}
+0 1548321671819 773 2092 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671843 773 2092 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671844 0 0 scroll / {} {}
+0 1548321671861 0 0 scroll / {} {}
+0 1548321671877 0 0 scroll / {} {}
+0 1548321671894 0 0 scroll / {} {}
+0 1548321671907 773 2133 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321671911 0 0 scroll / {} {}
+0 1548321671928 0 0 scroll / {} {}
+0 1548321671945 0 0 scroll / {} {}
+0 1548321671960 0 0 scroll / {} {}
+0 1548321671978 0 0 scroll / {} {}
+0 1548321671995 0 0 scroll / {} {}
+0 1548321672012 773 2266 mousewheel //*[@id='product-53-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/04/anker-a1371-powercore-plus-20100mah-power-bank3.jpg","class":"img-responsive","alt":""}} {}
+0 1548321672012 0 0 scroll / {} {}
+0 1548321672027 0 0 scroll / {} {}
+0 1548321672044 0 0 scroll / {} {}
+0 1548321672060 0 0 scroll / {} {}
+0 1548321672078 0 0 scroll / {} {}
+0 1548321672111 0 0 scroll / {} {}
+0 1548321672268 773 2294 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321672329 773 2291 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321672379 780 2280 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321672429 799 2252 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321672607 801 2249 click //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321673020 801 2250 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321673083 800 2252 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321673148 778 2263 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321673198 711 2273 mousemove //*[@id='product-15-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/promate-aidbar-5-5200mah-power-bank/"}} {}
+0 1548321673248 561 2289 mousemove //*[@id='product-45-grid-info']/h6 {"H6":{}} {}
+0 1548321673298 517 2290 mousemove //*[@id='product-45-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/xiaomi-mi-5000mah-power-bank/"}} {}
+0 1548321673435 516 2290 mousemove //*[@id='product-45-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/xiaomi-mi-5000mah-power-bank/"}} {}
+0 1548321673544 0 0 unload / {} {}

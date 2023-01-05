@@ -1,0 +1,6 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548829600508 0 0 load / {} {}
+0 1548829602851 364 3 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548829602907 353 2 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548829602965 348 1 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1548829609532 0 0 unload / {} {}

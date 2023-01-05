@@ -1,0 +1,45 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1553414388020 0 0 load / {} {}
+0 1553591573328 0 0 scroll / {} {}
+0 1553591574433 580 10 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1553591574492 576 219 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1553591574552 612 405 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1553591574613 618 474 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1553591574671 629 499 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1553591574732 652 518 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1] {"DIV":{"class":"color-quality"}} {}
+0 1553591574795 705 547 mousemove //*[@id='set-basket-quantity']/div/div[1] {"DIV":{"class":"entry value-minus1"}} {}
+0 1553591574853 769 591 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1553591575588 814 602 mousemove //*[@id='slider-id-0f0']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1553609871877 707 36 mousemove /html/body/div[4]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1553609871940 914 235 mousemove //*[@id='slider-id-0f0']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1553609871996 1041 421 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 256.403px; left: 899.325px;"}} {}
+0 1553609872056 1049 474 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 363.403px; left: 923.325px;"}} {}
+0 1553609872116 1020 506 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 390.403px; left: 912.325px;"}} {}
+0 1553609872176 999 524 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 417.403px; left: 879.325px;"}} {}
+0 1553609872236 980 548 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 434.403px; left: 866.325px;"}} {}
+0 1553609872297 942 574 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 465.403px; left: 829.325px;"}} {}
+0 1553609872357 914 587 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 799.063px;"}} {}
+0 1553609872442 912 587 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 799.063px;"}} {}
+0 1553609872497 907 593 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 799.063px;"}} {}
+0 1553609873238 801 609 mousemove //*[@id='slider-id-0f0']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Nillkin-Defender-2-Cover-For-Samsung-Galaxy-Note-81_0f0.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1553609873302 676 362 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1553609926060 1111 2 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1553609926162 61 285 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1553609926231 31 286 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1553609926291 39 284 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1553609926351 52 274 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1553610067497 665 106 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1553610067555 942 173 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1553610067645 1239 224 mousemove /html/body/div[4]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1553610067740 1279 225 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1553610067801 1279 212 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1553610067861 1265 125 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1553610067921 1258 98 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1553610067981 1279 88 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1553610068102 1279 87 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1553610068162 1261 78 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1553610068222 1247 73 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1553610068282 1148 45 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1553610068341 1039 20 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1553610068402 980 4 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
+0 1553634621511 0 0 unload / {} {}

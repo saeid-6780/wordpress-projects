@@ -1,0 +1,126 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1554744616840 984 473 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744616894 996 478 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744616944 1031 487 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617010 1056 481 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617251 1057 481 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617310 1079 470 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617382 1148 444 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617442 1178 424 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617808 1182 412 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617858 1212 350 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744617909 1262 285 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554744617975 1299 239 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554744618243 1305 215 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1554744618308 1355 147 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744618358 1365 125 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744618408 1365 120 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744618654 1365 118 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744618724 1365 111 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744618774 1365 106 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744619417 0 0 scroll / {} {}
+0 1554744619439 0 0 scroll / {} {}
+0 1554744619460 0 0 scroll / {} {}
+0 1554744619473 0 0 scroll / {} {}
+0 1554744619489 0 0 scroll / {} {}
+0 1554744619505 0 0 scroll / {} {}
+0 1554744619522 0 0 scroll / {} {}
+0 1554744619540 0 0 scroll / {} {}
+0 1554744619557 0 0 scroll / {} {}
+0 1554744619572 0 0 scroll / {} {}
+0 1554744619589 0 0 scroll / {} {}
+0 1554744619607 0 0 scroll / {} {}
+0 1554744619623 0 0 scroll / {} {}
+0 1554744619640 0 0 scroll / {} {}
+0 1554744619673 0 0 scroll / {} {}
+0 1554744619718 0 0 scroll / {} {}
+0 1554744619744 0 0 scroll / {} {}
+0 1554744620069 0 0 scroll / {} {}
+0 1554744620088 0 0 scroll / {} {}
+0 1554744620105 0 0 scroll / {} {}
+0 1554744620121 0 0 scroll / {} {}
+0 1554744620139 0 0 scroll / {} {}
+0 1554744620155 0 0 scroll / {} {}
+0 1554744620172 0 0 scroll / {} {}
+0 1554744620189 0 0 scroll / {} {}
+0 1554744620205 0 0 scroll / {} {}
+0 1554744620224 0 0 scroll / {} {}
+0 1554744620850 0 0 load / {} {}
+0 1554744620894 0 0 scroll / {} {}
+0 1554744620960 1211 304 mousemove //*[@id='slider-id-b1c2d6']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-4_b1c2d6.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1554744621011 1002 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 201.403px; left: 977.712px;"}} {}
+0 1554744621070 935 374 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 278.403px; left: 840.063px;"}} {}
+0 1554744621376 931 378 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 271.403px; left: 840.063px;"}} {}
+0 1554744621436 887 402 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-4_b1c2d6.jpg","style":"position: absolute; width: 744.975px; height: 744.975px; top: -179.8px; left: 5.47118e-14px;"}} {}
+0 1554744621486 838 418 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-4_b1c2d6.jpg","style":"position: absolute; width: 744.975px; height: 744.975px; top: -214.45px; left: 5.47118e-14px;"}} {}
+0 1554744621537 830 420 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744621594 828 422 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744621678 833 426 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744621738 871 449 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-4_b1c2d6.jpg","style":"position: absolute; width: 744.975px; height: 744.975px; top: -270.275px; left: 5.47118e-14px;"}} {}
+0 1554744621788 927 472 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 364.403px; left: 840.063px;"}} {}
+0 1554744621852 948 470 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 369.403px; left: 840.063px;"}} {}
+0 1554744622138 948 450 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 348.403px; left: 840.063px;"}} {}
+0 1554744622201 955 409 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 328.403px; left: 840.063px;"}} {}
+0 1554744622252 956 370 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 286.403px; left: 840.063px;"}} {}
+0 1554744622302 956 339 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 242.403px; left: 840.063px;"}} {}
+0 1554744622368 960 324 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 224.403px; left: 840.063px;"}} {}
+0 1554744622488 962 322 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 219.403px; left: 840.063px;"}} {}
+0 1554744622552 977 322 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 219.403px; left: 842.325px;"}} {}
+0 1554744622617 1132 315 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 219.403px; left: 964.325px;"}} {}
+0 1554744622924 1161 305 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 202.403px; left: 977.712px;"}} {}
+0 1554744622984 1193 277 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 977.712px;"}} {}
+0 1554744623052 1351 178 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744623118 1365 147 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744623168 1365 139 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744623334 0 0 scroll / {} {}
+0 1554744623351 0 0 scroll / {} {}
+0 1554744623366 0 0 scroll / {} {}
+0 1554744623384 0 0 scroll / {} {}
+0 1554744623399 0 0 scroll / {} {}
+0 1554744623416 0 0 scroll / {} {}
+0 1554744623433 0 0 scroll / {} {}
+0 1554744623449 0 0 scroll / {} {}
+0 1554744623466 0 0 scroll / {} {}
+0 1554744623483 0 0 scroll / {} {}
+0 1554744624067 1365 595 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744624146 1359 603 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1554744624199 1079 777 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Samsung-Galaxy-A5-2017-Dual-SIM-Mobile-Phone-5_c7bba3.jpg","draggable":"false"}} {}
+0 1554744624252 822 922 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1554744624520 784 935 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554744624583 751 923 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744624649 715 902 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744624699 708 895 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1554744624749 700 886 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form {"FORM":{"class":"basket-quantity-form","action":"","method":"post"}} {}
+0 1554744624818 689 877 mousemove //*[@id='set-basket-quantity']/div/div[3] {"DIV":{"class":"entry value-plus1 active"}} {}
+0 1554744624869 682 871 mousemove //*[@id='set-basket-quantity']/div/div[3] {"DIV":{"class":"entry value-plus1 active"}} {}
+0 1554744625174 680 871 mousemove //*[@id='set-basket-quantity']/div/div[3] {"DIV":{"class":"entry value-plus1 active"}} {}
+0 1554744625232 684 898 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744625282 692 934 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744625396 693 944 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554744625463 694 944 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554744625547 697 942 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554744625614 704 934 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744625681 708 930 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744625748 713 930 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744625813 720 932 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744625867 727 964 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1554744625928 729 1001 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #c7bba3;"}} {}
+0 1554744626013 728 1002 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #c7bba3;"}} {}
+0 1554744626063 718 1002 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #c7bba3;"}} {}
+0 1554744626130 711 1001 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2]/i {"I":{"class":"icon","style":"background-color: #c7bba3;"}} {}
+0 1554744626213 708 1001 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[2] {"A":{"class":"product-color","data-color":"c7bba3"}} {}
+0 1554744626263 702 1001 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3] {"A":{"class":"product-color","data-color":"f1cbc8"}} {}
+0 1554744626330 691 998 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f1cbc8;"}} {}
+0 1554744626382 686 985 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/div[3]/a[3]/i {"I":{"class":"icon","style":"background-color: #f1cbc8;"}} {}
+0 1554744626446 685 963 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1554744626496 691 954 mousemove //*[@id='product-colors-title'] {"H5":{"id":"product-colors-title"}} {}
+0 1554744626546 701 946 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554744626614 709 941 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554744626678 713 937 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1554744626762 716 934 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744626845 719 932 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744626911 722 927 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744626961 724 925 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744627012 729 918 mousemove //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744627162 729 918 click //*[@id='add-to-basket']/a {"A":{"data-text":"Add To Cart","class":"my-cart-b item_add"}} {}
+0 1554744628121 0 0 unload / {} {}

@@ -1,0 +1,17 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1550398045057 0 0 load / {} {}
+0 1550398047399 121 7 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1550398047463 323 161 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1550398047522 514 315 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1550398047582 667 476 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398047643 715 537 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398047702 724 549 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398047762 728 557 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398047822 754 580 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398047922 759 583 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398047982 762 587 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398048042 775 604 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1550398088995 456 404 mousemove /html/body/div[2]/div[2]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1550398089053 297 146 mousemove /html/body/div[2]/pre[1] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
+0 1550398089110 206 7 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1550398091078 0 0 unload / {} {}

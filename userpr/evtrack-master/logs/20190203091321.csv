@@ -1,0 +1,95 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1549185176723 0 0 scroll / {} {}
+0 1549185184153 0 0 load / {} {}
+0 1549185184246 608 31543 mousemove /html/body/div[2]/font[195]/table/tbody/tr[6]/td[3] {"TD":{"bgcolor":"#eeeeec","align":"right"}} {}
+0 1549185184297 603 31533 mousemove /html/body/div[2]/font[195]/table/tbody/tr[6]/td[3] {"TD":{"bgcolor":"#eeeeec","align":"right"}} {}
+0 1549185184354 603 31522 mousemove /html/body/div[2]/font[195]/table/tbody/tr[5]/td[3] {"TD":{"bgcolor":"#eeeeec","align":"right"}} {}
+0 1549185184427 604 31515 mousemove /html/body/div[2]/font[195]/table/tbody/tr[4]/td[3] {"TD":{"bgcolor":"#eeeeec","align":"right"}} {}
+0 1549185184495 604 31507 mousemove /html/body/div[2]/font[195]/table/tbody/tr[4]/td[3] {"TD":{"bgcolor":"#eeeeec","align":"right"}} {}
+0 1549185184550 599 31494 mousemove /html/body/div[2]/font[195]/table/tbody/tr[3]/th[3] {"TH":{"align":"left","bgcolor":"#eeeeec"}} {}
+0 1549185184610 551 31444 mousemove /html/body/div[2]/font[195]/table/tbody/tr[1]/th/span {"SPAN":{"style":"background-color: #cc0000; color: #fce94f; font-size: x-large;"}} {}
+0 1549185184675 525 31428 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549185184725 513 31421 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549185184796 511 31418 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549185184856 511 31416 mousemove /html/body/div[2]/font[194] {"FONT":{"size":"1"}} {}
+0 1549185184914 512 31411 mousemove /html/body/div[2]/font[194] {"FONT":{"size":"1"}} {}
+0 1549185184914 512 31411 mousewheel /html/body/div[2]/font[194] {"FONT":{"size":"1"}} {}
+0 1549185184935 512 31405 mousewheel /html/body/div[2]/font[194] {"FONT":{"size":"1"}} {}
+0 1549185184936 0 0 scroll / {} {}
+0 1549185184949 0 0 scroll / {} {}
+0 1549185184969 0 0 scroll / {} {}
+0 1549185184998 512 31319 mousewheel /html/body/div[2]/font[194] {"FONT":{"size":"1"}} {}
+0 1549185184998 0 0 scroll / {} {}
+0 1549185185017 0 0 scroll / {} {}
+0 1549185185039 0 0 scroll / {} {}
+0 1549185185054 0 0 scroll / {} {}
+0 1549185185074 0 0 scroll / {} {}
+0 1549185185094 0 0 scroll / {} {}
+0 1549185185119 0 0 scroll / {} {}
+0 1549185185135 0 0 scroll / {} {}
+0 1549185185154 0 0 scroll / {} {}
+0 1549185185213 1279 31161 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185185273 1279 31139 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185185367 1278 31139 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185185438 864 30944 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549185185497 83 30827 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185185548 0 30826 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185185620 0 30824 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185188229 119 30818 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185188372 121 30822 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185188981 123 30824 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185189032 133 30825 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185189092 224 30844 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185189154 488 30902 mousemove /html/body/div[2]/font[191] {"FONT":{"size":"1"}} {}
+0 1549185189212 1082 30954 mousemove /html/body/div[2] {"DIV":{"class":"userpr-content"}} {}
+0 1549185189267 1279 31012 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185189327 1279 31084 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185189388 1279 31090 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185189447 1263 31122 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185189514 1256 31172 mousemove /html/body/div[2]/font[193]/table/tbody/tr[3]/th[5] {"TH":{"align":"left","bgcolor":"#eeeeec"}} {}
+0 1549185189573 1256 31207 mousemove /html/body/div[2]/font[193]/table/tbody/tr[5]/td[5] {"TD":{"title":"C:\\wamp64\\www\\mousetrc\\index.php","bgcolor":"#eeeeec"}} {}
+0 1549185189692 1256 31212 mousemove /html/body/div[2]/font[193]/table/tbody/tr[6]/td[5] {"TD":{"title":"C:\\wamp64\\www\\mousetrc\\wp-blog-header.php","bgcolor":"#eeeeec"}} {}
+0 1549185189755 1262 31221 mousemove /html/body/div[2]/font[193]/table {"TABLE":{"class":"xdebug-error xe-warning","dir":"ltr","border":"1","cellspacing":"0","cellpadding":"1"}} {}
+0 1549185189822 1265 31227 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185189983 1266 31227 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185190054 1269 31231 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185190111 1270 31232 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185190159 0 0 scroll / {} {}
+0 1549185190191 0 0 scroll / {} {}
+0 1549185190212 0 0 scroll / {} {}
+0 1549185190239 0 0 scroll / {} {}
+0 1549185190270 0 0 scroll / {} {}
+0 1549185190298 0 0 scroll / {} {}
+0 1549185190324 0 0 scroll / {} {}
+0 1549185190351 0 0 scroll / {} {}
+0 1549185190398 0 0 scroll / {} {}
+0 1549185190458 0 0 scroll / {} {}
+0 1549185190515 0 0 scroll / {} {}
+0 1549185190563 0 0 scroll / {} {}
+0 1549185190594 0 0 scroll / {} {}
+0 1549185190618 0 0 scroll / {} {}
+0 1549185190640 0 0 scroll / {} {}
+0 1549185190656 0 0 scroll / {} {}
+0 1549185190674 0 0 scroll / {} {}
+0 1549185190693 0 0 scroll / {} {}
+0 1549185190712 0 0 scroll / {} {}
+0 1549185190733 0 0 scroll / {} {}
+0 1549185190753 0 0 scroll / {} {}
+0 1549185190773 0 0 scroll / {} {}
+0 1549185190794 0 0 scroll / {} {}
+0 1549185190812 0 0 scroll / {} {}
+0 1549185190835 0 0 scroll / {} {}
+0 1549185190854 0 0 scroll / {} {}
+0 1549185190895 0 0 scroll / {} {}
+0 1549185191376 1272 11 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185191437 1271 8 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185191543 1270 8 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185191596 1263 8 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1549185191654 1258 7 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549185191710 1256 7 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549185191790 1252 7 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549185191903 1249 7 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549185196382 1248 7 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549185197927 1247 7 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549185201502 1246 7 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1549185204102 0 0 unload / {} {}

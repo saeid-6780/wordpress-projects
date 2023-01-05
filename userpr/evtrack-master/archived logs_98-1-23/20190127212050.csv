@@ -1,0 +1,78 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548611434520 0 0 scroll / {} {}
+0 1548611434529 0 0 load / {} {}
+0 1548611434536 0 0 scroll / {} {}
+0 1548611435276 108 5 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548611435334 213 58 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548611435667 245 74 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1548611435726 461 59 mousemove /html/body/div[2]/div[1]/div[1] {"DIV":{"class":"container"}} {}
+0 1548611435778 566 164 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1548611435838 570 231 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1548611435897 568 243 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1548611436304 568 256 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1548611436366 614 279 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611436421 626 299 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611436471 626 307 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611436523 623 310 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611436582 618 310 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611436644 614 310 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611436743 614 309 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611436814 615 308 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611437177 616 306 click //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1548611437177 0 0 scroll / {} {}
+0 1548611437300 616 865 click //*[@id='product-113']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548611437655 616 865 mousemove //*[@id='product-113']/div {"DIV":{"class":"grid-arr"}} {}
+0 1548611443901 633 870 mousemove //*[@id='product-109'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-109","data-product-id":"109"}} {}
+0 1548611443959 804 932 mousemove //*[@id='product-109-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611444009 842 961 mousemove //*[@id='product-109-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611444302 852 963 mousemove //*[@id='product-109-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Huawei-P-Smart-FIG-LA1-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611444353 1029 911 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548611444403 1165 879 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548611444705 1181 869 mousemove //*[@id='parentVerticalTab']/ul {"UL":{"class":"resp-tabs-list hor_1","style":"margin-top: 3px;"}} {}
+0 1548611444755 1333 784 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611445961 0 0 scroll / {} {}
+0 1548611445996 0 0 scroll / {} {}
+0 1548611446017 0 0 scroll / {} {}
+0 1548611446036 0 0 scroll / {} {}
+0 1548611446056 0 0 scroll / {} {}
+0 1548611446076 0 0 scroll / {} {}
+0 1548611446096 0 0 scroll / {} {}
+0 1548611446116 0 0 scroll / {} {}
+0 1548611446136 0 0 scroll / {} {}
+0 1548611446156 0 0 scroll / {} {}
+0 1548611446176 0 0 scroll / {} {}
+0 1548611446196 0 0 scroll / {} {}
+0 1548611446216 0 0 scroll / {} {}
+0 1548611446236 0 0 scroll / {} {}
+0 1548611446256 0 0 scroll / {} {}
+0 1548611446276 0 0 scroll / {} {}
+0 1548611446296 0 0 scroll / {} {}
+0 1548611446335 0 0 scroll / {} {}
+0 1548611446366 0 0 scroll / {} {}
+0 1548611446377 0 0 scroll / {} {}
+0 1548611446405 0 0 scroll / {} {}
+0 1548611446818 1348 1562 mousemove /html/body/div[2]/div[3] {"DIV":{"class":"categories-section main-grid-border"}} {}
+0 1548611446881 1236 1552 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611446944 1222 1554 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611447006 1223 1555 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611447068 1219 1556 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611447131 1202 1556 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611447193 1175 1554 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611447677 1154 1556 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611447739 982 1547 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611448238 904 1548 mousemove //*[@id='parentVerticalTab']/div {"DIV":{"class":"clearfix fasdfasdfasdfas"}} {}
+0 1548611448301 770 1516 mousemove //*[@id='product-97-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611448361 671 1490 mousemove //*[@id='product-97-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611448561 664 1490 mousemove //*[@id='product-97-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611448923 655 1493 mousemove //*[@id='product-97-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Samsung-Galaxy-Note-8-SM-N950FD-Dual-SIM-64GB-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611448973 601 1512 mousemove //*[@id='product-101-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449032 536 1521 mousemove //*[@id='product-101-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449083 502 1524 mousemove //*[@id='product-101-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449133 486 1524 mousemove //*[@id='product-101-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449193 479 1522 mousemove //*[@id='product-101-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449253 477 1518 mousemove //*[@id='product-101-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449313 477 1514 mousemove //*[@id='product-101-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone2.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449364 481 1510 mousemove //*[@id='product-101-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449820 486 1505 click //*[@id='product-101-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611449945 486 1505 click //*[@id='product-101-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Nokia-2-Dual-SIM-Mobile-Phone1.jpg","class":"img-responsive","alt":""}} {}
+0 1548611450445 0 0 unload / {} {}

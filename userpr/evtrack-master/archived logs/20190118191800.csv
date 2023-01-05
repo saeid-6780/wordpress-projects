@@ -1,0 +1,273 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1547826453526 751 15 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547826453576 752 11 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://userpr.ir"}} {}
+0 1547826453886 0 0 load / {} {}
+0 1547826453901 0 0 scroll / {} {}
+0 1547826454020 638 8 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1547826454078 620 83 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826454128 612 140 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826454178 611 190 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1547826454243 611 242 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1547826454294 612 254 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1547826454344 613 254 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1547826454784 612 255 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1547826454845 557 280 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1547826454912 180 362 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826454984 0 361 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826455056 0 345 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826455110 21 344 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826455161 143 339 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826455227 442 394 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1547826455277 612 464 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1547826455328 808 546 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826455378 894 582 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset1.jpg","style":"position: absolute; width: 744.975px; height: 931.7px; top: -512.825px; left: 5.47118e-14px;"}} {}
+0 1547826455445 1107 655 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 951.325px;"}} {}
+0 1547826455641 1365 657 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826455696 1365 627 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826455760 1365 612 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826455810 1365 598 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826455861 1365 567 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826455911 1365 531 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826455977 1365 515 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826456027 1365 511 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826456079 1365 507 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826456112 1365 506 mousewheel /html {"HTML":{"lang":"en"}} {}
+0 1547826456143 0 0 scroll / {} {}
+0 1547826456162 0 0 scroll / {} {}
+0 1547826456167 1365 516 mousewheel /html {"HTML":{"lang":"en"}} {}
+0 1547826456177 0 0 scroll / {} {}
+0 1547826456195 0 0 scroll / {} {}
+0 1547826456211 0 0 scroll / {} {}
+0 1547826456228 0 0 scroll / {} {}
+0 1547826456245 0 0 scroll / {} {}
+0 1547826456261 0 0 scroll / {} {}
+0 1547826456278 0 0 scroll / {} {}
+0 1547826456280 1365 644 mousewheel /html {"HTML":{"lang":"en"}} {}
+0 1547826456293 0 0 scroll / {} {}
+0 1547826456310 0 0 scroll / {} {}
+0 1547826456327 0 0 scroll / {} {}
+0 1547826456345 0 0 scroll / {} {}
+0 1547826456360 0 0 scroll / {} {}
+0 1547826456376 0 0 scroll / {} {}
+0 1547826456394 0 0 scroll / {} {}
+0 1547826456412 0 0 scroll / {} {}
+0 1547826456427 0 0 scroll / {} {}
+0 1547826456443 0 0 scroll / {} {}
+0 1547826456461 0 0 scroll / {} {}
+0 1547826456479 0 0 scroll / {} {}
+0 1547826456567 1364 803 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826456824 1363 803 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826456876 1360 803 mousemove /html {"HTML":{"lang":"en"}} {}
+0 1547826456928 1335 801 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826456995 1236 781 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1547826457045 1155 767 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset3.jpg","draggable":"false"}} {}
+0 1547826457110 1113 760 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset3.jpg","draggable":"false"}} {}
+0 1547826457279 1112 759 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset3.jpg","draggable":"false"}} {}
+0 1547826457345 1112 758 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset3.jpg","draggable":"false"}} {}
+0 1547826457410 1109 753 mousemove //*[@id='product-slider']/ol/li[3]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset3.jpg","draggable":"false"}} {}
+0 1547826457463 1093 743 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826457528 1058 728 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826457578 1036 715 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826457644 1022 708 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826457711 1017 705 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826457811 1016 703 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826458244 1016 702 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826458379 1017 702 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826458444 1018 701 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826458495 1019 701 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false"}} {}
+0 1547826458594 1019 701 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1547826458662 1021 700 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1547826458828 1022 698 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1547826459162 1022 697 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1547826459295 1024 697 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1547826459360 1039 686 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","draggable":"false","class":"flex-active"}} {}
+0 1547826459415 1046 643 mousemove //*[@id='slider-id-']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/QCY-Q26-Pro-Bluetooth-Headset2.jpg","data-imagezoom":"true","class":"img-responsive","draggable":"false"}} {}
+0 1547826459495 1062 568 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 928.325px;"}} {}
+0 1547826459545 1077 521 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 428.403px; left: 947.325px;"}} {}
+0 1547826459610 1092 467 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 374.403px; left: 965.325px;"}} {}
+0 1547826459661 1093 441 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 343.403px; left: 967.325px;"}} {}
+0 1547826460048 1094 440 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 336.403px; left: 969.325px;"}} {}
+0 1547826460112 1046 513 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 376.403px; left: 944.325px;"}} {}
+0 1547826460176 917 612 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 478.805px; left: 842.325px;"}} {}
+0 1547826460229 725 696 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826460294 472 775 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826460344 198 857 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1547826460394 77 889 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826460459 36 916 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826460509 37 927 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826460559 54 941 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826460609 75 951 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1547826460682 303 954 mousemove //*[@id='product-description']/div[2] {"DIV":{"class":"clearfix"}} {}
+0 1547826460744 480 893 mousemove //*[@id='product-description']/h3 {"H3":{"style":"direction: rtl !important;","class":"tittle1"}} {}
+0 1547826460811 498 810 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826460877 517 740 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826460984 540 722 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826461043 537 739 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826461094 524 774 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826463784 520 785 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826465600 520 784 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826467088 520 782 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826467142 522 778 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826467199 522 776 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826467720 523 773 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826467758 523 773 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826467777 0 0 scroll / {} {}
+0 1547826467794 0 0 scroll / {} {}
+0 1547826467809 0 0 scroll / {} {}
+0 1547826467827 0 0 scroll / {} {}
+0 1547826467844 523 817 mousewheel /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1547826467844 0 0 scroll / {} {}
+0 1547826467860 0 0 scroll / {} {}
+0 1547826467877 0 0 scroll / {} {}
+0 1547826467894 0 0 scroll / {} {}
+0 1547826467909 0 0 scroll / {} {}
+0 1547826467927 0 0 scroll / {} {}
+0 1547826467944 0 0 scroll / {} {}
+0 1547826467960 0 0 scroll / {} {}
+0 1547826467992 0 0 scroll / {} {}
+0 1547826468010 0 0 scroll / {} {}
+0 1547826468208 525 973 mousemove //*[@id='product-description']/div[2] {"DIV":{"class":"clearfix"}} {}
+0 1547826468649 525 973 mousewheel //*[@id='product-description']/div[2] {"DIV":{"class":"clearfix"}} {}
+0 1547826468660 0 0 scroll / {} {}
+0 1547826468677 0 0 scroll / {} {}
+0 1547826468692 0 0 scroll / {} {}
+0 1547826468711 0 0 scroll / {} {}
+0 1547826468727 525 1010 mousewheel //*[@id='product-description']/div[2] {"DIV":{"class":"clearfix"}} {}
+0 1547826468727 0 0 scroll / {} {}
+0 1547826468742 0 0 scroll / {} {}
+0 1547826468758 0 0 scroll / {} {}
+0 1547826468777 525 1068 mousewheel //*[@id='product-description']/div[2] {"DIV":{"class":"clearfix"}} {}
+0 1547826468777 0 0 scroll / {} {}
+0 1547826468792 0 0 scroll / {} {}
+0 1547826468808 0 0 scroll / {} {}
+0 1547826468827 0 0 scroll / {} {}
+0 1547826468842 0 0 scroll / {} {}
+0 1547826468861 0 0 scroll / {} {}
+0 1547826468877 0 0 scroll / {} {}
+0 1547826468891 0 0 scroll / {} {}
+0 1547826468909 0 0 scroll / {} {}
+0 1547826468926 0 0 scroll / {} {}
+0 1547826468943 0 0 scroll / {} {}
+0 1547826469592 526 1273 mousemove //*[@id='myTabContent1'] {"DIV":{"id":"myTabContent1"}} {}
+0 1547826469643 571 1249 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826469713 678 1196 mousemove //*[@id='product-attributes_section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1547826469777 751 1154 mousemove //*[@id='product-attributes_section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1547826469828 760 1147 mousemove //*[@id='product-attributes_section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1547826469878 762 1141 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1547826469977 770 1123 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1547826470027 772 1121 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1547826470077 783 1110 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1547826470129 800 1094 mousemove //*[@id='product-describtion-section']/div[1]/h3 {"H3":{"class":"mb-0"}} {}
+0 1547826470195 817 1078 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826470245 840 1061 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826470295 855 1051 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826470395 858 1049 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826470496 858 1049 click //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826472152 859 1049 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826472240 859 1050 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826472293 861 1057 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826472358 873 1076 mousemove //*[@id='product_description_button'] {"BUTTON":{"id":"product_description_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_description","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826472411 873 1106 mousemove //*[@id='product_description']/p {"P":{}} {}
+0 1547826472462 884 1136 mousemove //*[@id='product_description']/p {"P":{}} {}
+0 1547826472531 960 1277 mousemove //*[@id='product-content'] {"DIV":{"id":"product-content","class":"descr"}} {}
+0 1547826472581 1019 1378 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826472644 1051 1429 mousemove //*[@id='myTabContent1'] {"DIV":{"id":"myTabContent1"}} {}
+0 1547826472728 1055 1434 mousemove //*[@id='myTabContent1'] {"DIV":{"id":"myTabContent1"}} {}
+0 1547826472778 1048 1420 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826472828 1016 1359 mousemove //*[@id='myTabContent'] {"DIV":{"id":"myTabContent"}} {}
+0 1547826472878 1009 1330 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826472928 1005 1323 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826472993 1000 1316 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block collapsed showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826473169 998 1312 click //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826473330 997 1310 mousemove //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826473512 997 1310 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826473526 0 0 scroll / {} {}
+0 1547826473544 997 1326 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826473545 0 0 scroll / {} {}
+0 1547826473561 0 0 scroll / {} {}
+0 1547826473576 0 0 scroll / {} {}
+0 1547826473593 997 1385 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826473594 0 0 scroll / {} {}
+0 1547826473612 0 0 scroll / {} {}
+0 1547826473627 0 0 scroll / {} {}
+0 1547826473643 0 0 scroll / {} {}
+0 1547826473660 0 0 scroll / {} {}
+0 1547826473676 0 0 scroll / {} {}
+0 1547826473693 0 0 scroll / {} {}
+0 1547826473711 0 0 scroll / {} {}
+0 1547826473726 0 0 scroll / {} {}
+0 1547826473743 0 0 scroll / {} {}
+0 1547826473760 0 0 scroll / {} {}
+0 1547826473828 997 1607 mousemove //*[@id='product_attributes']/h4[3] {"H4":{}} {}
+0 1547826473961 997 1606 mousemove //*[@id='product_attributes'] {"DIV":{"id":"product_attributes","class":"card-body collapse in","style":"height: auto;"}} {}
+0 1547826474043 997 1607 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474044 0 0 scroll / {} {}
+0 1547826474060 997 1612 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474061 0 0 scroll / {} {}
+0 1547826474077 0 0 scroll / {} {}
+0 1547826474092 997 1638 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474093 0 0 scroll / {} {}
+0 1547826474112 997 1664 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474112 0 0 scroll / {} {}
+0 1547826474127 997 1704 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474127 0 0 scroll / {} {}
+0 1547826474143 0 0 scroll / {} {}
+0 1547826474160 0 0 scroll / {} {}
+0 1547826474175 0 0 scroll / {} {}
+0 1547826474193 0 0 scroll / {} {}
+0 1547826474210 0 0 scroll / {} {}
+0 1547826474225 0 0 scroll / {} {}
+0 1547826474243 0 0 scroll / {} {}
+0 1547826474432 997 2103 mousemove //*[@id='product_attributes']/div[10]/div[1] {"DIV":{"class":"right"}} {}
+0 1547826474544 997 2104 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474544 0 0 scroll / {} {}
+0 1547826474560 0 0 scroll / {} {}
+0 1547826474577 0 0 scroll / {} {}
+0 1547826474593 997 2127 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474594 0 0 scroll / {} {}
+0 1547826474609 0 0 scroll / {} {}
+0 1547826474625 997 2160 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474625 0 0 scroll / {} {}
+0 1547826474642 0 0 scroll / {} {}
+0 1547826474660 997 2216 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474660 0 0 scroll / {} {}
+0 1547826474677 0 0 scroll / {} {}
+0 1547826474693 0 0 scroll / {} {}
+0 1547826474710 997 2343 mousewheel //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1547826474710 0 0 scroll / {} {}
+0 1547826474726 0 0 scroll / {} {}
+0 1547826474741 0 0 scroll / {} {}
+0 1547826474760 0 0 scroll / {} {}
+0 1547826474776 0 0 scroll / {} {}
+0 1547826474791 0 0 scroll / {} {}
+0 1547826474810 0 0 scroll / {} {}
+0 1547826474826 0 0 scroll / {} {}
+0 1547826474842 0 0 scroll / {} {}
+0 1547826474860 0 0 scroll / {} {}
+0 1547826475032 997 2601 mousemove //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826475400 997 2601 mousewheel //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826475408 0 0 scroll / {} {}
+0 1547826475425 0 0 scroll / {} {}
+0 1547826475443 997 2615 mousewheel //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826475443 0 0 scroll / {} {}
+0 1547826475458 997 2628 mousewheel //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826475459 0 0 scroll / {} {}
+0 1547826475475 0 0 scroll / {} {}
+0 1547826475493 997 2678 mousewheel //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826475494 0 0 scroll / {} {}
+0 1547826475509 997 2718 mousewheel //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826475509 0 0 scroll / {} {}
+0 1547826475526 0 0 scroll / {} {}
+0 1547826475544 0 0 scroll / {} {}
+0 1547826475559 997 2922 mousewheel //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826475560 0 0 scroll / {} {}
+0 1547826475610 0 0 scroll / {} {}
+0 1547826475626 0 0 scroll / {} {}
+0 1547826475644 0 0 scroll / {} {}
+0 1547826475662 0 0 scroll / {} {}
+0 1547826475676 0 0 scroll / {} {}
+0 1547826475694 0 0 scroll / {} {}
+0 1547826475744 984 3143 mousemove //*[@id='commentform']/p[5] {"P":{"class":"form-submit"}} {}
+0 1547826475810 879 2913 mousemove //*[@id='commentform']/ul {"UL":{"class":"filter-top col-sm-4"}} {}
+0 1547826475876 665 2718 mousemove //*[@id='comment'] {"TEXTAREA":{"id":"comment","name":"comment","cols":"45","rows":"8","maxlength":"65525","required":"required"}} {}
+0 1547826477583 0 0 unload / {} {}

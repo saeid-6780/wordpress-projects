@@ -1,0 +1,132 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1551364257649 365 16 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1551364258016 445 132 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551364258084 552 315 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551364259176 0 0 load / {} {}
+0 1551364259234 605 312 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364259297 632 297 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364259363 644 286 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364259414 647 282 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364259480 651 279 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364259547 675 277 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364259613 729 307 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364259663 754 327 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551364260678 0 1 scroll / {} {}
+0 1551364260694 0 12 scroll / {} {}
+0 1551364260728 0 45 scroll / {} {}
+0 1551364260760 0 65 scroll / {} {}
+0 1551364260777 0 85 scroll / {} {}
+0 1551364260793 0 104 scroll / {} {}
+0 1551364260812 0 138 scroll / {} {}
+0 1551364260827 0 151 scroll / {} {}
+0 1551364260862 0 168 scroll / {} {}
+0 1551364260894 0 171 scroll / {} {}
+0 1551364261210 769 519 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1551364261261 830 594 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1551364261328 892 682 mousemove //*[@id='select-cat']/div/div[2]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1551364261646 0 176 scroll / {} {}
+0 1551364261661 0 176 scroll / {} {}
+0 1551364262628 904 687 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[5] {"P":{}} {}
+0 1551364262678 936 602 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[4] {"P":{}} {}
+0 1551364262730 963 496 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[2] {"P":{}} {}
+0 1551364262795 977 414 mousemove /html/body/div[3]/div[2]/div[2]/div/section/div/p[1] {"P":{}} {}
+0 1551364262845 980 380 mousemove /html/body/div[3]/div[2]/div[2]/div/header {"HEADER":{}} {}
+0 1551364263095 984 373 mousemove /html/body/div[3]/div[2]/div[2]/div/header {"HEADER":{}} {}
+0 1551364263146 1004 334 mousemove /html/body/div[3]/div[2]/div[2]/div/header/h1 {"H1":{"class":"hustle-modal-title"}} {}
+0 1551364263197 1016 306 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1551364263262 1018 299 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1551364263333 1018 299 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1551364263406 1018 298 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1551364263456 1018 297 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1551364263521 1021 294 mousemove /html/body/div[3]/div[2]/div[2]/div {"DIV":{"class":"hustle-modal-content"}} {}
+0 1551364263572 1022 293 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364263638 1025 289 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364264148 1025 289 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364264199 1027 288 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364264264 1028 288 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364264316 1028 287 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364264383 1029 285 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364264525 1029 285 click /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364264955 1030 284 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
+0 1551364265021 1033 274 mousemove /html/body/div[3]/div[2]/div[1]/svg/path {"path":{"d":"M91.667 75L150 16.667 133.333 0 75 58.333 16.667 0 0 16.667 58.333 75 0 133.333 16.667 150 75 91.667 133.333 150 150 133.333 91.667 75z","fill-rule":"evenodd"}} {}
+0 1551364265371 1034 288 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1551364265421 1093 424 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1551364265471 1169 576 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1551364266021 1169 582 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1551364266071 1186 647 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1551364266122 1205 714 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
+0 1551364266429 0 177 scroll / {} {}
+0 1551364266445 0 181 scroll / {} {}
+0 1551364266462 0 192 scroll / {} {}
+0 1551364266495 0 213 scroll / {} {}
+0 1551364266511 0 242 scroll / {} {}
+0 1551364266528 0 281 scroll / {} {}
+0 1551364266545 0 324 scroll / {} {}
+0 1551364266561 0 373 scroll / {} {}
+0 1551364266580 0 464 scroll / {} {}
+0 1551364266595 0 504 scroll / {} {}
+0 1551364266628 0 576 scroll / {} {}
+0 1551364266661 0 633 scroll / {} {}
+0 1551364266679 0 653 scroll / {} {}
+0 1551364266711 0 677 scroll / {} {}
+0 1551364266728 0 678 scroll / {} {}
+0 1551364268008 1195 1214 mousemove //*[@id='select-cat'] {"DIV":{"class":"main-categories","id":"select-cat"}} {}
+0 1551364268074 1003 1103 mousemove //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1551364268124 889 1077 mousemove //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1551364269734 830 1099 mousemove //*[@id='select-cat']/div/div[4]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/handsfree.jpg"}} {}
+0 1551364269791 657 1248 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1551364269851 527 1351 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364270369 509 1361 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1551364270435 494 1348 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364270502 461 1327 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364270568 448 1322 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364271501 448 1322 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364271552 449 1320 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364271602 449 1320 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364271850 472 1319 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364271901 540 1323 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364271968 615 1325 mousemove /html/body/div[2]/div[4]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1551364272424 643 1311 mousemove /html/body/div[2]/div[4]/div/div[1]/p {"P":{}} {}
+0 1551364272487 634 1246 mousemove /html/body/div[2]/div[4] {"DIV":{"class":"copy-section"}} {}
+0 1551364272554 619 1191 mousemove //*[@id='select-cat']/div/div[3] {"DIV":{"class":"col-sm-6 focus-grid"}} {}
+0 1551364272606 614 1155 mousemove //*[@id='select-cat']/div/div[3]/a {"A":{"href":"http://userpr.ir/product_category/phone-pouch-cover/"}} {}
+0 1551364272669 617 1133 mousemove //*[@id='select-cat']/div/div[3] {"DIV":{"class":"col-sm-6 focus-grid"}} {}
+0 1551364272719 622 1122 mousemove //*[@id='select-cat']/div/div[3] {"DIV":{"class":"col-sm-6 focus-grid"}} {}
+0 1551364272770 630 1108 mousemove //*[@id='select-cat']/div/div[4] {"DIV":{"class":"col-sm-6 focus-grid"}} {}
+0 1551364272836 639 1089 mousemove //*[@id='select-cat']/div/div[4] {"DIV":{"class":"col-sm-6 focus-grid"}} {}
+0 1551364274582 0 676 scroll / {} {}
+0 1551364274598 0 621 scroll / {} {}
+0 1551364274615 0 554 scroll / {} {}
+0 1551364274633 0 483 scroll / {} {}
+0 1551364274649 0 407 scroll / {} {}
+0 1551364274665 0 337 scroll / {} {}
+0 1551364274682 0 267 scroll / {} {}
+0 1551364274715 0 149 scroll / {} {}
+0 1551364274732 0 101 scroll / {} {}
+0 1551364274749 0 59 scroll / {} {}
+0 1551364274766 0 29 scroll / {} {}
+0 1551364274783 0 8 scroll / {} {}
+0 1551364274800 0 0 scroll / {} {}
+0 1551364275281 639 395 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551364275332 639 351 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551364275382 638 320 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1551364275432 637 308 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364275482 636 304 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364275532 634 299 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364275582 634 298 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364275633 634 297 mousemove //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364276521 634 294 click //*[@id='select-cat-button'] {"A":{"id":"select-cat-button","href":"#select-cat"}} {}
+0 1551364276535 0 421 scroll / {} {}
+0 1551364277232 641 714 mousemove //*[@id='select-cat']/div/div[2] {"DIV":{"class":"col-sm-6 focus-grid"}} {}
+0 1551364277282 708 700 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1551364277332 745 688 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1551364277382 755 684 mousemove //*[@id='select-cat']/div/div[2]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1551364277432 652 654 mousemove //*[@id='select-cat']/div/div[2]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/power-bank.jpg"}} {}
+0 1551364277482 383 616 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1551364277548 293 627 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1551364277783 296 633 mousemove //*[@id='select-cat']/div/div[1]/a/div/img {"IMG":{"class":"focus-img","src":"http://userpr.ir/wp-content/themes/mytheme/assets/images/mobile.jpg"}} {}
+0 1551364277849 314 656 mousemove //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1551364277899 318 660 mousemove //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1551364278449 318 660 mousemove //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1551364278624 318 660 click //*[@id='select-cat']/div/div[1]/a/div/h4 {"H4":{"class":"clrchg"}} {}
+0 1551364279215 0 0 unload / {} {}

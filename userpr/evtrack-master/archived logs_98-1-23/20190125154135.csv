@@ -1,0 +1,415 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1548418266474 0 0 load / {} {}
+0 1548418277033 0 0 scroll / {} {}
+0 1548418277611 1023 15 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548418277680 987 85 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418277732 964 105 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418277810 932 42 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548418290251 1028 50 mousemove /html/body/div[5] {"DIV":{"class":"remodal-wrapper remodal-is-opened","style":"display: block;"}} {}
+0 1548418290326 961 231 mousemove //*[@id='rating-modal-warning']/p {"P":{}} {}
+0 1548418290425 952 242 mousemove //*[@id='rating-modal-warning']/p {"P":{}} {}
+0 1548418290500 949 240 mousemove //*[@id='rating-modal-warning']/p {"P":{}} {}
+0 1548418290574 946 241 mousemove //*[@id='rating-modal-warning']/p {"P":{}} {}
+0 1548418290624 943 249 mousemove //*[@id='rating-modal-warning']/p {"P":{}} {}
+0 1548418290726 950 227 mousemove //*[@id='rating-modal-warning']/p {"P":{}} {}
+0 1548418290800 990 195 mousemove //*[@id='rating-modal-warning']/h4 {"H4":{}} {}
+0 1548418290851 1007 185 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418290927 1021 165 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291099 1021 162 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291187 1020 163 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291263 1020 165 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291334 1019 166 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291409 1019 166 click //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291552 1018 167 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291605 1016 172 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291655 1010 186 mousemove //*[@id='rating-modal-warning']/button[1] {"BUTTON":{"data-remodal-action":"close","class":"remodal-close"}} {}
+0 1548418291708 1006 197 mousemove //*[@id='rating-modal-warning'] {"DIV":{"id":"rating-modal-warning","class":"remodal rating-modal remodal-is-initialized remodal-is-closing","data-remodal-id":"rate-modal","tabindex":"-1"}} {}
+0 1548418291809 1001 205 mousemove //*[@id='slider-id-41cfdb']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-81_41cfdb.jpg","data-imagezoom":"true","class":"img-responsive"}} {}
+0 1548418291878 989 218 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 870.325px;"}} {}
+0 1548418291928 978 235 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 860.325px;"}} {}
+0 1548418292002 972 241 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 200px; left: 849.325px;"}} {}
+0 1548418292451 0 0 scroll / {} {}
+0 1548418292476 0 0 scroll / {} {}
+0 1548418292501 0 0 scroll / {} {}
+0 1548418292525 0 0 scroll / {} {}
+0 1548418292551 0 0 scroll / {} {}
+0 1548418292577 0 0 scroll / {} {}
+0 1548418292654 0 0 scroll / {} {}
+0 1548418292678 0 0 scroll / {} {}
+0 1548418292703 0 0 scroll / {} {}
+0 1548418292726 0 0 scroll / {} {}
+0 1548418292753 0 0 scroll / {} {}
+0 1548418292777 0 0 scroll / {} {}
+0 1548418292802 0 0 scroll / {} {}
+0 1548418292827 0 0 scroll / {} {}
+0 1548418292853 0 0 scroll / {} {}
+0 1548418292877 0 0 scroll / {} {}
+0 1548418292903 0 0 scroll / {} {}
+0 1548418293052 0 0 scroll / {} {}
+0 1548418293078 0 0 scroll / {} {}
+0 1548418293101 0 0 scroll / {} {}
+0 1548418293127 0 0 scroll / {} {}
+0 1548418293152 0 0 scroll / {} {}
+0 1548418293178 0 0 scroll / {} {}
+0 1548418293370 972 566 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 418.403px; left: 972px;"}} {}
+0 1548418293434 998 626 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 858.325px;"}} {}
+0 1548418293504 1017 644 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 884.325px;"}} {}
+0 1548418293578 1022 650 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 896.325px;"}} {}
+0 1548418293629 1022 654 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 897.325px;"}} {}
+0 1548418293703 1016 669 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 894.325px;"}} {}
+0 1548418293756 1008 693 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":""}} {}
+0 1548418293828 1008 712 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":""}} {}
+0 1548418293879 1018 723 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":""}} {}
+0 1548418293931 1022 724 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":""}} {}
+0 1548418294005 1026 725 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":""}} {}
+0 1548418294187 1026 726 click //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":"flex-active"}} {}
+0 1548418294532 1024 722 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":"flex-active"}} {}
+0 1548418294607 1007 654 mousemove //*[@id='product-slider']/ol/li[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","class":"flex-active"}} {}
+0 1548418294679 1004 628 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 879.325px;"}} {}
+0 1548418294731 1000 616 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 877.325px;"}} {}
+0 1548418294782 999 609 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 874.325px;"}} {}
+0 1548418294854 998 603 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 873.325px;"}} {}
+0 1548418294906 998 597 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 873.325px;"}} {}
+0 1548418295105 998 595 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 873.325px;"}} {}
+0 1548418295157 997 594 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 873.325px;"}} {}
+0 1548418295232 994 588 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 870.325px;"}} {}
+0 1548418295306 993 570 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 472.403px; left: 868.325px;"}} {}
+0 1548418295356 993 568 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 466.403px; left: 868.325px;"}} {}
+0 1548418295756 0 0 scroll / {} {}
+0 1548418295780 0 0 scroll / {} {}
+0 1548418295807 0 0 scroll / {} {}
+0 1548418295831 0 0 scroll / {} {}
+0 1548418295857 0 0 scroll / {} {}
+0 1548418295882 0 0 scroll / {} {}
+0 1548418295956 0 0 scroll / {} {}
+0 1548418295982 0 0 scroll / {} {}
+0 1548418296008 0 0 scroll / {} {}
+0 1548418296033 0 0 scroll / {} {}
+0 1548418296058 0 0 scroll / {} {}
+0 1548418296081 0 0 scroll / {} {}
+0 1548418296107 0 0 scroll / {} {}
+0 1548418296231 991 449 mousemove //*[@id='slider-id-498cc1']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","data-imagezoom":"true","class":"img-responsive"}} {}
+0 1548418296284 919 484 mousemove /html/body/div[2] {"DIV":{"class":"imagezoom-view","style":"position: absolute; left: 443.063px; top: 200px; width: 480px; height: 395px; background: rgb(255, 255, 255); z-index: 2147483647; overflow: hidden; border: none;"}} {}
+0 1548418296361 785 482 mousemove /html/body/div[4]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548418296431 724 438 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 345.403px; left: 592.712px;"}} {}
+0 1548418296734 720 436 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 331.403px; left: 592.712px;"}} {}
+0 1548418296808 699 453 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 344.403px; left: 584.325px;"}} {}
+0 1548418296884 657 462 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 356.403px; left: 542.325px;"}} {}
+0 1548418296958 634 504 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 379.403px; left: 517.325px;"}} {}
+0 1548418297009 630 526 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 414.403px; left: 506.325px;"}} {}
+0 1548418297353 624 533 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 431.403px; left: 502.325px;"}} {}
+0 1548418297409 597 492 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 410.403px; left: 481.325px;"}} {}
+0 1548418297460 580 436 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 359.403px; left: 460.325px;"}} {}
+0 1548418297534 592 373 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 291.403px; left: 460.325px;"}} {}
+0 1548418297584 601 357 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 258.403px; left: 473.325px;"}} {}
+0 1548418297634 609 350 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 250.403px; left: 481.325px;"}} {}
+0 1548418297684 611 349 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 246.403px; left: 485.325px;"}} {}
+0 1548418297734 618 349 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 246.403px; left: 488.325px;"}} {}
+0 1548418297784 630 355 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 247.403px; left: 496.325px;"}} {}
+0 1548418297834 640 368 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 258.403px; left: 511.325px;"}} {}
+0 1548418297885 644 385 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 274.403px; left: 518.325px;"}} {}
+0 1548418297959 655 429 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 318.403px; left: 527.325px;"}} {}
+0 1548418298011 663 450 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 337.403px; left: 535.325px;"}} {}
+0 1548418298085 679 477 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 368.403px; left: 549.325px;"}} {}
+0 1548418298135 691 499 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 384.403px; left: 560.325px;"}} {}
+0 1548418298210 707 539 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 423.403px; left: 578.325px;"}} {}
+0 1548418298260 707 555 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 448.403px; left: 583.325px;"}} {}
+0 1548418298314 703 559 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 455.403px; left: 580.325px;"}} {}
+0 1548418298984 0 0 scroll / {} {}
+0 1548418299010 0 0 scroll / {} {}
+0 1548418299035 0 0 scroll / {} {}
+0 1548418299060 0 0 scroll / {} {}
+0 1548418299086 0 0 scroll / {} {}
+0 1548418299113 0 0 scroll / {} {}
+0 1548418299702 697 600 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 456.403px; left: 578.325px;"}} {}
+0 1548418299761 658 598 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 547.325px;"}} {}
+0 1548418299814 603 537 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 472.403px; left: 508.325px;"}} {}
+0 1548418299864 555 476 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 392.403px; left: 453.063px;"}} {}
+0 1548418299946 534 446 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-view","style":"position: absolute; left: 54.0625px; top: 200px; width: 480px; height: 395px; background: rgb(255, 255, 255); z-index: 2147483647; overflow: hidden; border: none;"}} {}
+0 1548418300087 534 445 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-view","style":"position: absolute; left: 54.0625px; top: 200px; width: 480px; height: 395px; background: rgb(255, 255, 255); z-index: 2147483647; overflow: hidden; border: none;"}} {}
+0 1548418300139 535 449 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418300213 536 452 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418300291 536 451 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418300363 540 435 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418300414 546 431 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418300464 551 431 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418300533 552 430 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418300588 549 429 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418300639 541 432 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418300713 535 434 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418300764 528 434 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-83_bb3443.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -252.95px; left: 5.47118e-14px;"}} {}
+0 1548418301019 526 435 mousemove /html/body/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-83_bb3443.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -254.875px; left: 5.47118e-14px;"}} {}
+0 1548418301089 539 431 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301139 542 431 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301189 544 430 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301304 544 430 click //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301602 544 431 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301665 543 432 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301716 544 434 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301767 590 443 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418301817 699 457 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418301890 772 482 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548418301942 787 487 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548418302106 786 488 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1] {"DIV":{"class":"color-quality"}} {}
+0 1548418302166 793 513 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418302217 819 562 mousemove /html/body/div[3]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418302268 844 606 mousemove //*[@id='slider-id-498cc1']/div/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","data-imagezoom":"true","class":"img-responsive"}} {}
+0 1548418302340 872 635 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 842.063px;"}} {}
+0 1548418302668 0 0 scroll / {} {}
+0 1548418302691 0 0 scroll / {} {}
+0 1548418302716 0 0 scroll / {} {}
+0 1548418302743 0 0 scroll / {} {}
+0 1548418302768 0 0 scroll / {} {}
+0 1548418302791 0 0 scroll / {} {}
+0 1548418302891 0 0 scroll / {} {}
+0 1548418302916 0 0 scroll / {} {}
+0 1548418302941 0 0 scroll / {} {}
+0 1548418302966 0 0 scroll / {} {}
+0 1548418302993 0 0 scroll / {} {}
+0 1548418303017 0 0 scroll / {} {}
+0 1548418303043 0 0 scroll / {} {}
+0 1548418303066 0 0 scroll / {} {}
+0 1548418303092 0 0 scroll / {} {}
+0 1548418303117 0 0 scroll / {} {}
+0 1548418303143 0 0 scroll / {} {}
+0 1548418303168 0 0 scroll / {} {}
+0 1548418303192 0 0 scroll / {} {}
+0 1548418303217 0 0 scroll / {} {}
+0 1548418303243 0 0 scroll / {} {}
+0 1548418303269 0 0 scroll / {} {}
+0 1548418304190 872 1115 click //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548418304646 0 0 scroll / {} {}
+0 1548418304670 0 0 scroll / {} {}
+0 1548418304696 0 0 scroll / {} {}
+0 1548418304720 0 0 scroll / {} {}
+0 1548418304745 0 0 scroll / {} {}
+0 1548418304769 0 0 scroll / {} {}
+0 1548418304869 0 0 scroll / {} {}
+0 1548418304894 0 0 scroll / {} {}
+0 1548418304920 0 0 scroll / {} {}
+0 1548418304944 0 0 scroll / {} {}
+0 1548418304970 0 0 scroll / {} {}
+0 1548418304995 0 0 scroll / {} {}
+0 1548418305020 0 0 scroll / {} {}
+0 1548418305045 0 0 scroll / {} {}
+0 1548418305070 0 0 scroll / {} {}
+0 1548418305096 0 0 scroll / {} {}
+0 1548418305120 0 0 scroll / {} {}
+0 1548418305596 0 0 scroll / {} {}
+0 1548418305622 0 0 scroll / {} {}
+0 1548418305648 0 0 scroll / {} {}
+0 1548418305672 0 0 scroll / {} {}
+0 1548418305698 0 0 scroll / {} {}
+0 1548418305721 0 0 scroll / {} {}
+0 1548418305821 0 0 scroll / {} {}
+0 1548418305848 0 0 scroll / {} {}
+0 1548418305872 0 0 scroll / {} {}
+0 1548418305897 0 0 scroll / {} {}
+0 1548418305921 0 0 scroll / {} {}
+0 1548418305947 0 0 scroll / {} {}
+0 1548418305972 0 0 scroll / {} {}
+0 1548418305997 0 0 scroll / {} {}
+0 1548418311471 0 0 scroll / {} {}
+0 1548418311496 0 0 scroll / {} {}
+0 1548418311531 0 0 scroll / {} {}
+0 1548418311555 0 0 scroll / {} {}
+0 1548418311581 0 0 scroll / {} {}
+0 1548418311605 0 0 scroll / {} {}
+0 1548418312630 0 0 scroll / {} {}
+0 1548418312655 0 0 scroll / {} {}
+0 1548418312680 0 0 scroll / {} {}
+0 1548418312705 0 0 scroll / {} {}
+0 1548418312732 0 0 scroll / {} {}
+0 1548418312756 0 0 scroll / {} {}
+0 1548418312858 0 0 scroll / {} {}
+0 1548418312883 0 0 scroll / {} {}
+0 1548418312907 0 0 scroll / {} {}
+0 1548418312931 0 0 scroll / {} {}
+0 1548418312958 0 0 scroll / {} {}
+0 1548418312982 0 0 scroll / {} {}
+0 1548418313007 0 0 scroll / {} {}
+0 1548418313032 0 0 scroll / {} {}
+0 1548418313058 0 0 scroll / {} {}
+0 1548418313533 0 0 scroll / {} {}
+0 1548418313556 0 0 scroll / {} {}
+0 1548418313608 0 0 scroll / {} {}
+0 1548418313632 0 0 scroll / {} {}
+0 1548418313658 0 0 scroll / {} {}
+0 1548418313983 0 0 scroll / {} {}
+0 1548418314007 0 0 scroll / {} {}
+0 1548418314034 0 0 scroll / {} {}
+0 1548418314058 0 0 scroll / {} {}
+0 1548418314083 0 0 scroll / {} {}
+0 1548418314109 0 0 scroll / {} {}
+0 1548418314185 0 0 scroll / {} {}
+0 1548418314208 0 0 scroll / {} {}
+0 1548418314235 0 0 scroll / {} {}
+0 1548418314260 0 0 scroll / {} {}
+0 1548418314284 0 0 scroll / {} {}
+0 1548418314309 0 0 scroll / {} {}
+0 1548418314335 0 0 scroll / {} {}
+0 1548418314361 0 0 scroll / {} {}
+0 1548418314385 0 0 scroll / {} {}
+0 1548418314409 0 0 scroll / {} {}
+0 1548418314435 0 0 scroll / {} {}
+0 1548418314460 0 0 scroll / {} {}
+0 1548418314484 0 0 scroll / {} {}
+0 1548418314508 0 0 scroll / {} {}
+0 1548418314534 0 0 scroll / {} {}
+0 1548418314559 0 0 scroll / {} {}
+0 1548418314584 0 0 scroll / {} {}
+0 1548418314610 0 0 scroll / {} {}
+0 1548418314634 0 0 scroll / {} {}
+0 1548418314659 0 0 scroll / {} {}
+0 1548418314685 0 0 scroll / {} {}
+0 1548418314709 0 0 scroll / {} {}
+0 1548418314735 0 0 scroll / {} {}
+0 1548418315508 872 1115 click //*[@id='product_attributes_button'] {"BUTTON":{"id":"product_attributes_button","class":"btn btn-info btn-block showing-list collapsed","data-toggle":"collapse","data-target":"#product_attributes","aria-expanded":"true","aria-controls":"collapseOne"}} {}
+0 1548418316512 0 0 scroll / {} {}
+0 1548418316536 0 0 scroll / {} {}
+0 1548418316562 0 0 scroll / {} {}
+0 1548418316587 0 0 scroll / {} {}
+0 1548418316611 0 0 scroll / {} {}
+0 1548418316637 0 0 scroll / {} {}
+0 1548418316713 0 0 scroll / {} {}
+0 1548418316737 0 0 scroll / {} {}
+0 1548418316763 0 0 scroll / {} {}
+0 1548418316789 0 0 scroll / {} {}
+0 1548418316814 0 0 scroll / {} {}
+0 1548418316838 0 0 scroll / {} {}
+0 1548418316863 0 0 scroll / {} {}
+0 1548418316887 0 0 scroll / {} {}
+0 1548418316914 0 0 scroll / {} {}
+0 1548418316938 0 0 scroll / {} {}
+0 1548418316962 0 0 scroll / {} {}
+0 1548418316988 0 0 scroll / {} {}
+0 1548418317014 0 0 scroll / {} {}
+0 1548418317037 0 0 scroll / {} {}
+0 1548418317063 0 0 scroll / {} {}
+0 1548418317088 0 0 scroll / {} {}
+0 1548418317114 0 0 scroll / {} {}
+0 1548418317589 878 584 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-83_bb3443.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -540.55px; left: 5.47118e-14px;"}} {}
+0 1548418317639 918 519 mousemove /html/body/div[4]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-83_bb3443.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -485.875px; left: 5.47118e-14px;"}} {}
+0 1548418317690 972 463 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 377.403px; left: 842.063px;"}} {}
+0 1548418317764 1007 425 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 326.403px; left: 879.325px;"}} {}
+0 1548418317876 1009 421 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 319.403px; left: 884.325px;"}} {}
+0 1548418318003 1010 421 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 318.403px; left: 884.325px;"}} {}
+0 1548418318063 1031 465 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 327.403px; left: 889.325px;"}} {}
+0 1548418318115 1064 545 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 403.403px; left: 924.325px;"}} {}
+0 1548418318189 1086 624 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 959.325px;"}} {}
+0 1548418318240 1086 637 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 961.325px;"}} {}
+0 1548418318314 1080 635 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 959.325px;"}} {}
+0 1548418318366 1073 630 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 952.325px;"}} {}
+0 1548418318439 1042 613 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 932.325px;"}} {}
+0 1548418318491 990 543 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 480.805px; left: 902.325px;"}} {}
+0 1548418318565 958 327 mousemove /html/body/div[1] {"DIV":{"class":"imagezoom-cursor","style":"position: absolute; width: 249.351px; height: 205.195px; background-color: rgb(255, 255, 255); z-index: 2147483647; opacity: 0.5; cursor: crosshair; top: 307.403px; left: 842.063px;"}} {}
+0 1548418318965 0 0 scroll / {} {}
+0 1548418318991 0 0 scroll / {} {}
+0 1548418319015 0 0 scroll / {} {}
+0 1548418319041 0 0 scroll / {} {}
+0 1548418319066 0 0 scroll / {} {}
+0 1548418319092 0 0 scroll / {} {}
+0 1548418319166 0 0 scroll / {} {}
+0 1548418319190 0 0 scroll / {} {}
+0 1548418319216 0 0 scroll / {} {}
+0 1548418319241 0 0 scroll / {} {}
+0 1548418319266 0 0 scroll / {} {}
+0 1548418319291 0 0 scroll / {} {}
+0 1548418319316 0 0 scroll / {} {}
+0 1548418319342 0 0 scroll / {} {}
+0 1548418319368 0 0 scroll / {} {}
+0 1548418319494 957 131 mousemove /html/body/div[5]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418319567 908 184 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418319617 803 202 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418319667 709 177 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418319717 648 125 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418320078 643 113 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418320142 584 133 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418320192 452 178 mousemove /html/body/div[2]/div[2]/div/div {"DIV":{"class":"container"}} {}
+0 1548418320266 322 236 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418320317 307 250 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548418320582 307 252 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1] {"DIV":{"class":"col-md-10 single-grid"}} {}
+0 1548418320641 315 310 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.7","data-productid":"146","class":"starbox small  autoupdate"}} {}
+0 1548418320692 330 401 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418320742 337 449 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418320816 338 479 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548418320882 340 479 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548418320982 340 478 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548418321041 333 469 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/form/div[1]/h6 {"H6":{}} {}
+0 1548418321093 325 458 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418321166 325 455 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418321217 324 452 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418321280 324 450 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418321342 322 443 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418321392 321 439 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418321463 319 437 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418321589 320 435 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418321642 341 432 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418321716 421 420 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418321766 480 419 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418321817 508 423 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418321891 526 434 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418322191 529 433 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418322241 563 422 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418322291 627 419 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418322342 658 419 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418322416 664 420 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418322467 665 424 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418322542 672 433 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418322592 680 439 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418322667 684 417 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418322717 667 356 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418322767 646 306 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418322817 632 281 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418322871 626 273 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418322949 626 272 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418323006 625 272 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418323211 625 273 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418323271 628 279 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418323323 629 282 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418323374 629 284 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418323426 629 286 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418324722 629 287 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418325070 630 287 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418325137 632 287 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418325197 633 287 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418325879 633 288 click //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418326101 632 282 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[3] {"DIV":{"class":"star star-2"}} {}
+0 1548418326152 679 202 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1548418337637 999 2 mousemove /html/body/div[2]/div[1]/div[1]/div[1]/a/span {"SPAN":{}} {}
+0 1548418337694 892 165 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1548418337744 849 231 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418337794 844 242 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418338243 0 0 scroll / {} {}
+0 1548418338270 0 0 scroll / {} {}
+0 1548418338294 0 0 scroll / {} {}
+0 1548418338320 0 0 scroll / {} {}
+0 1548418338344 0 0 scroll / {} {}
+0 1548418338370 0 0 scroll / {} {}
+0 1548418338703 842 282 mousemove /html/body/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2019/01/Silicone-Cover-For-Samsung-Galaxy-Note-82_498cc1.jpg","style":"position: absolute; width: 748.825px; height: 935.55px; top: -2.73559e-14px; left: 5.47118e-14px;"}} {}
+0 1548418338768 792 329 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[3] {"DIV":{"class":"clearfix"}} {}
+0 1548418338821 748 348 mousemove //*[@id='product-rater']/div[2] {"DIV":{"class":"rate-description"}} {}
+0 1548418338894 721 331 mousemove //*[@id='product-rater']/div[2]/p[1] {"P":{"class":"average-rate-description"}} {}
+0 1548418338944 714 320 mousemove //*[@id='product-rater']/div[1] {"DIV":{"data-start-value":"0.7","data-productid":"146","class":"starbox small  autoupdate"}} {}
+0 1548418338994 713 316 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418339045 716 311 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418339095 735 297 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418339145 742 291 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418339245 734 289 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418339296 723 292 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418339370 708 295 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418339420 702 295 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418339470 701 296 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418339681 700 296 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418339952 700 298 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[2] {"DIV":{"class":"star star-1"}} {}
+0 1548418340020 683 372 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2] {"DIV":{"class":"single-right simpleCart_shelfItem"}} {}
+0 1548418340071 657 454 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418340146 653 470 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418340961 653 469 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418341020 653 467 mousemove //*[@id='product-introduction']/p {"P":{"style":"direction: rtl;"}} {}
+0 1548418341071 673 422 mousemove //*[@id='product-price'] {"P":{"id":"product-price","class":"price item_price"}} {}
+0 1548418341122 762 302 mousemove //*[@id='product-rater']/div[1]/div/div/div[3]/div[1] {"DIV":{"class":"star star-0"}} {}
+0 1548418341197 956 129 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418341418 953 127 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418341472 947 90 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1548418367175 0 0 unload / {} {}

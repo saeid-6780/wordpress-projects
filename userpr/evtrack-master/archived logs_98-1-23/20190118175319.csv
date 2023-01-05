@@ -1,0 +1,60 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1547821371930 0 0 load / {} {}
+0 1547821400298 0 0 scroll / {} {}
+0 1547821400953 712 9 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1547821401021 712 102 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821401084 720 181 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
+0 1547821401136 730 241 mousemove //*[@id='main-banner']/div/p {"P":{}} {}
+0 1547821401191 736 279 mousemove //*[@id='select-item-button'] {"A":{"id":"select-item-button","href":"#parentVerticalTab"}} {}
+0 1547821401252 744 346 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821401305 743 436 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
+0 1547821401369 717 518 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1547821401422 698 522 mousemove //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1547821401488 677 532 mousewheel //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1547821401503 0 0 scroll / {} {}
+0 1547821401519 676 541 mousewheel //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1547821401520 0 0 scroll / {} {}
+0 1547821401536 0 0 scroll / {} {}
+0 1547821401556 676 580 mousewheel //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1547821401556 0 0 scroll / {} {}
+0 1547821401575 0 0 scroll / {} {}
+0 1547821401588 676 663 mousewheel //*[@id='item_select_page_header'] {"H2":{"id":"item_select_page_header","class":"head"}} {}
+0 1547821401588 0 0 scroll / {} {}
+0 1547821401638 0 0 scroll / {} {}
+0 1547821401655 0 0 scroll / {} {}
+0 1547821401783 675 931 mousemove //*[@id='product-73-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821401785 0 0 scroll / {} {}
+0 1547821401855 675 928 mousemove //*[@id='product-73-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402023 675 927 mousemove //*[@id='product-73-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402205 675 927 mousewheel //*[@id='product-73-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402220 0 0 scroll / {} {}
+0 1547821402234 0 0 scroll / {} {}
+0 1547821402252 675 942 mousewheel //*[@id='product-73-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402253 0 0 scroll / {} {}
+0 1547821402270 0 0 scroll / {} {}
+0 1547821402285 0 0 scroll / {} {}
+0 1547821402303 0 0 scroll / {} {}
+0 1547821402318 0 0 scroll / {} {}
+0 1547821402337 0 0 scroll / {} {}
+0 1547821402352 0 0 scroll / {} {}
+0 1547821402369 0 0 scroll / {} {}
+0 1547821402386 0 0 scroll / {} {}
+0 1547821402403 0 0 scroll / {} {}
+0 1547821402457 675 1126 mousemove //*[@id='product-73-grid-info']/h6/a {"A":{"href":"http://userpr.ir/product/anker-a1277-powercore-26800mah-power-bank/"}} {}
+0 1547821402507 692 1106 mousemove //*[@id='product-73-grid-info']/h6 {"H6":{}} {}
+0 1547821402572 725 1070 mousemove //*[@id='product-69'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-69","data-product-id":"69"}} {}
+0 1547821402622 752 1026 mousemove //*[@id='product-69-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402676 765 991 mousemove //*[@id='product-69-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402740 768 981 mousemove //*[@id='product-69-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Remax-Mini-White-2600mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402808 716 978 mousemove //*[@id='product-69'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-69","data-product-id":"69"}} {}
+0 1547821402875 629 978 mousemove //*[@id='product-73-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821402941 616 978 mousemove //*[@id='product-73-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821404018 614 978 mousemove //*[@id='product-73-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Anker-A1277-PowerCore-26800mAh-Power-Bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821404075 455 994 mousemove //*[@id='product-77'] {"DIV":{"class":"col-md-4 product-tab-grid simpleCart_shelfItem product-info-list","id":"product-77","data-product-id":"77"}} {}
+0 1547821404204 376 996 mousemove //*[@id='product-77-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Xiaomi-Mi-Power-Bank-2-20000mAh-Power-Bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821404254 367 993 mousemove //*[@id='product-77-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Xiaomi-Mi-Power-Bank-2-20000mAh-Power-Bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821404304 348 993 mousemove //*[@id='product-77-grid-img']/a/div[2]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Xiaomi-Mi-Power-Bank-2-20000mAh-Power-Bank1.jpg","class":"img-responsive","alt":""}} {}
+0 1547821404987 348 993 click //*[@id='product-77-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Xiaomi-Mi-Power-Bank-2-20000mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821405522 348 990 mousemove //*[@id='product-77-grid-img']/a/div[1]/img {"IMG":{"src":"http://userpr.ir/wp-content/uploads/2018/05/Xiaomi-Mi-Power-Bank-2-20000mAh-Power-Bank2.jpg","class":"img-responsive","alt":""}} {}
+0 1547821405586 448 766 mousemove //*[@id='myTab1'] {"UL":{"id":"myTab1","class":"nav1 nav1-tabs left-tab","role":"tablist"}} {}
+0 1547821405731 0 0 unload / {} {}

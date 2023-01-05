@@ -1,0 +1,21 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1546851949916 0 0 load / {} {}
+0 1546851949922 0 0 scroll / {} {}
+0 1546851951526 486 150 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1546851951581 480 147 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1546851951638 481 144 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1546851951697 485 150 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1546851951749 479 171 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1546851951815 418 189 mousemove /html/body/div[2]/div[2]/div/div/div[1]/div[1]/div/div[2]/h4 {"H4":{}} {}
+0 1546851951866 349 149 mousemove /html/body/div[2]/div[2]/div/div/p {"P":{"class":"product-nav"}} {}
+0 1546851951931 289 78 mousemove /html/body/div[2]/div[2]/div {"DIV":{"class":"single-wl3"}} {}
+0 1546851951982 269 58 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1546851952048 243 55 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1546851952098 210 57 mousemove /html/body/div[2]/div[1]/div {"DIV":{"class":"container"}} {}
+0 1546851952148 157 54 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1546851952198 109 43 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1546851952248 66 33 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1546851952298 39 16 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1546851952349 28 10 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1546851952648 26 9 mousemove /html/body/div[2]/div[1] {"DIV":{"class":"header remodal-bg remodal-is-closed"}} {}
+0 1546851953529 0 0 unload / {} {}

@@ -1,0 +1,5 @@
+cursor timestamp xpos ypos event xpath attrs extras
+0 1552981200925 0 0 load / {} {}
+0 1553008596137 0 0 scroll / {} {}
+0 1553010672397 1060 3341483 mousemove /html/body/div[2]/div[2] {"DIV":{"class":"copy-section"}} {}
+0 1553010672495 0 0 unload / {} {}
