@@ -1,6 +1,0 @@
-cursor timestamp xpos ypos event xpath attrs extras
-0 1548407260034 0 0 load / {} {}
-0 1548407260036 0 0 scroll / {} {}
-0 1548407269122 329 892 mousemove //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
-0 1548407269129 329 892 click //*[@id='select-cat']/div/div[3]/a/div/h4 {"H4":{"class":"clrchg"}} {}
-0 1548407270263 0 0 unload / {} {}

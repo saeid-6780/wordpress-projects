@@ -1,4 +1,0 @@
-cursor timestamp xpos ypos event xpath attrs extras
-0 1555184251222 0 0 load / {} {}
-0 1555184283001 653 552 mousemove /html {"HTML":{"lang":"en"}} {}
-0 1555184283098 845 25 mousemove /html/body/div[2]/div/div[1]/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}

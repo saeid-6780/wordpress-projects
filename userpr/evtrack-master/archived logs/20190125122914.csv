@@ -1,4 +1,0 @@
-cursor timestamp xpos ypos event xpath attrs extras
-0 1548406725225 0 0 load / {} {}
-0 1548406729092 355 523 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
-0 1548406729131 355 523 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}

@@ -1,4 +1,0 @@
-0 1548796984839 643 558 mousemove //*[@id='select-cat']/div/div[2] {"DIV":{"class":"col-sm-6 focus-grid"}} {}
-0 1548796984893 756 332 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
-0 1548796984954 910 27 mousemove /html/body/div[2]/div[1]/div/div[1]/a {"A":{"href":"http://localhost:8080/mousetrc"}} {}
-0 1548797457126 0 0 unload / {} {}

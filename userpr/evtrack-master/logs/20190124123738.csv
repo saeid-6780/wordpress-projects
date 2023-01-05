@@ -1,9 +1,0 @@
-cursor timestamp xpos ypos event xpath attrs extras
-0 1548320859520 696 226 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
-0 1548320859585 696 225 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
-0 1548320859641 703 219 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
-0 1548320859691 750 175 mousemove //*[@id='main-banner']/div/h1/span {"SPAN":{"class":"segment-heading"}} {}
-0 1548320859741 818 87 mousemove //*[@id='main-banner'] {"DIV":{"id":"main-banner","class":"main-banner banner text-center"}} {}
-0 1548320859791 869 25 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
-0 1548320859843 878 15 mousemove /html/body/div[2]/div[1]/div/div[1]/a/span {"SPAN":{}} {}
-0 1548320859852 0 0 unload / {} {}

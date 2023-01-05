@@ -1,6 +1,0 @@
-cursor timestamp xpos ypos event xpath attrs extras
-0 1548408931126 0 0 load / {} {}
-0 1548408940733 329 422 mousemove /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
-0 1548408940755 329 422 click /html/body/div[3]/div[1] {"DIV":{"class":"wph-modal-mask wpmudev-modal-mask "}} {}
-0 1548408942055 875 559 mousemove /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}
-0 1548408942059 875 559 click /html/body/div[3]/div[2] {"DIV":{"class":"hustle-modal hustle-modal-simple hustle-animated hustle-animate-bounceInDown"}} {}

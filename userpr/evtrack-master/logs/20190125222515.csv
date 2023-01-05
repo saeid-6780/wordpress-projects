@@ -1,4 +1,0 @@
-cursor timestamp xpos ypos event xpath attrs extras
-0 1548442498760 0 0 load / {} {}
-0 1548442514212 0 0 scroll / {} {}
-0 1548442514506 0 0 unload / {} {}

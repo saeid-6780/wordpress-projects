@@ -1,6 +1,0 @@
-cursor timestamp xpos ypos event xpath attrs extras
-
-0 1562531825478 0 0 load / {} {}
-0 1562534813687 0 0 scroll / {} {}
-0 1562534813994 1006 325 mousemove /html/body/div[2]/pre[3] {"PRE":{"class":"xdebug-var-dump","dir":"ltr"}} {}
-0 1562534814860 0 0 unload / {} {}
